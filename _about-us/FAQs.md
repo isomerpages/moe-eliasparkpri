@@ -6,7 +6,7 @@ description: ""
 ### FAQ
 
 **Where can I find the contact details of the school vendors (eg. school bus service, school uniform, etc.**  
-You can find the school vendors' contact details [here](https://eliasparkpri.moe.edu.sg/for-parents/school-vendors).  
+You can find the school vendors' contact details [here](https://staging.d3975mj8dcgb9n.amplifyapp.com/for-parents/school-vendors/).  
   
 
 **What are the school hours, recess and lunch times for the different levels?**
