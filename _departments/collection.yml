@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Tamil.md
       - Aesthetics.md
       - Physical Education.md
       - CCA/Overview.md
