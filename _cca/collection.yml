@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Chinese Orchestra (ECHO).md
       - Choir.md
       - Debating and Public Speaking.md
       - Environmental Science.md
