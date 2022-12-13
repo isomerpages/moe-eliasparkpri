@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Art and Crafts.md
       - Scouts.md
       - Chinese Orchestra (ECHO).md
       - Choir.md
