@@ -2,4 +2,5 @@ collections:
   cca:
     output: true
     order:
+      - Infocomm Technology (Computing).md
       - Food and Consumer Education.md
