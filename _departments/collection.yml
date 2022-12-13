@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CCA/.keep
       - PAL/Overview.md
       - PAL/PAL (P1 and P2).md
       - PAL/We Are Olympians!.md
