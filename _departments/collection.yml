@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - CCE/Cyber Wellness Programmes.md
       - CCE/Sh@pe Alive!.md
       - CCE/.keep
