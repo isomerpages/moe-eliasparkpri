@@ -27,35 +27,35 @@ description: ""
 | Level Head (Science)  | [Mrs Stephanie Ser](mailto:go_pei_ling@moe.edu.sg)  |
 | Subject Head (Malay Language) | [Mdm Suhaida Bte Saptu](mailto:suhaida_saptu@moe.edu.sg) |
 | Subject Head (Discipline/ Student Leadership) | [Mdm Iza Mariah Bte Idris](mailto:iza_mariah_idris@moe.edu.sg) |
-| Subject Head (Student Well-being) | Mdm Esther Kwee |
-| Subject Head (PE) | Dr Ang Swee Chong  |
-| Year Head (Lower Primary)  | Mdm Jamila Adal |
-| Year Head (Middle Primary)   | Mdm Marilyn Goh  |
-| Year Head (Upper Primary) | Mrs Irene Say |
-| Senior Teacher (Chinese Language) | Mdm Tan Whai Sze |
-| Senior Teacher (Science) | Mrs Anastacia Foo |
-| Administration Manager  | Mdm Chong Ching Ching |
-| Administration Manager | Mdm Tan Sze Wei   |
-| Operations Manager | Mr Ricky Conceicao |
+| Subject Head (Student Well-being) | [Mdm Esther Kwee](mailto:kwee_wan_juan_esther@moe.edu.sg) |
+| Subject Head (PE) | [Dr Ang Swee Chong](mailto:ang_swee_chong@moe.edu.sg)  |
+| Year Head (Lower Primary)  | [Mdm Jamila Adal](mailto:jamila_adal@moe.edu.sg) |
+| Year Head (Middle Primary)   | [Mdm Marilyn Goh](mailto:marilyn_goh_jing_ling@moe.edu.sg)  |
+| Year Head (Upper Primary) | [Mrs Irene Say](mailto:lee_siew_hui@moe.edu.sg) |
+| Senior Teacher (Chinese Language) | [Mdm Tan Whai Sze](mailto:tan_whai_sze@moe.edu.sg) |
+| Senior Teacher (Science) | [Mrs Anastacia Foo](mailto:yeo_peck_hoon_anastacia@moe.edu.sg) |
+| Administration Manager  | [Mdm Chong Ching Ching](mailto:chong_ching_ching@schools.gov.sg) |
+| Administration Manager | [Mdm Tan Sze Wei](mailto:tan_sze_wei@moe.edu.sg)   |
+| Operations Manager | [Mr Ricky Conceicao](mailto:rudolph_conceicao@moe.edu.sg) |
 
 #### Form Teachers
 
 |  |  |
 |---|---|
-| 1 Endeavour | Ms Ong Hui Hui<br>Ms Tan Koon Bin  |
-| 1 Love | Mr Alif Zulhilmi Bin Zakaria <br>Mdm Tan Whai Sze  |
-| 1 Integrity | Mdm Siti Zubeidah Binte Kadir<br>Mr Kanan S/O Perumal |
-| 1 Adaptability | Mdm Habibah Bte Husein Shah<br>Ms Woon Qing<br> |
-| 1 Service | Ms Gil Tan <br>Ms Joreen Lee |
-| 1 Perseverance | Mrs Carlin Tee <br>Mdm Iza Mariah Bte Idris |
-| 2 Endeavour | Mdm Valerie Jean De Souza<br>Mrs Anne Quah <br>Ms Que Yi |
-| 2 Love | Ms Tan Qian Ni<br>Mr Chen Yixiang |
-| 2 Integrity | Mdm Siti Nur Aisyah<br>Mdm Sri NoriehanMs Chai Chew Yee |
-| 2 Adaptability | Ms Eleanor Wong<br>Mrs Low-Chua Yiru<br>Mdm Sarina Salleh |
-| 2 Service | Mr Lokman Hakim Bin Yunos<br>Mdm Jessie Wong<br>Mdm Aini Bte Hussien |
-| 2 Perseverance | Mr Sean Lim<br>Ms Chan Jia En |
-| 3 Endeavour  | Ms Bernadette Long<br>Mdm Chin Poh Lin |
-| 3 Love | Mrs Angela Lee<br>Mdm Xi Donglei <br>Ms Michelle Lim Qian Wen  |
+| 1 Endeavour | [Ms Ong Hui Hui](mailto:ong_hui_hui_a@moe.edu.sg)<br>[Ms Tan Koon Bin](mailto:tan_koon_bin@moe.edu.sg)  |
+| 1 Love | [Mr Alif Zulhilmi Bin Zakaria](mailto:alif_zulhilmi_zakaria@moe.edu.sg) <br>[Mdm Tan Whai Sze](mailto:tan_whai_sze@moe.edu.sg)  |
+| 1 Integrity | [Mdm Siti Zubeidah Binte Kadir](mailto:siti_zubeidah_kadir@moe.edu.sg)<br>[Mr Kanan S/O Perumal](mailto:kanan_perumal@moe.edu.sg) |
+| 1 Adaptability | [Mdm Habibah Bte Husein Shah](mailto:habibah_husein_shah@moe.edu.sg)<br>[Ms Woon Qing](mailto:woon_qing@moe.edu.sg)<br> |
+| 1 Service | [Ms Gil Tan](mailto:tan_siew_hwa@moe.edu.sg) <br>[Ms Joreen Lee](mailto:lee_jun_may@moe.edu.sg) |
+| 1 Perseverance | [Mrs Carlin Tee](mailto:carlin_mulyati@moe.edu.sg) <br>[Mdm Iza Mariah Bte Idris](mailto:iza_mariah_idris@moe.edu.sg) |
+| 2 Endeavour | [Mdm Valerie Jean De Souza](mailto:de_souza_valerie_jean@moe.edu.sg)<br>[Mrs Anne Quah](mailto:toh_anne@moe.edu.sg) <br>[Ms Que Yi](mailto:que_yi@moe.edu.sg) |
+| 2 Love | [Ms Tan Qian Ni](mailto:tan_qian_ni@moe.edu.sg)<br>[Mr Chen Yixiang](mailto:chen_yixiang@moe.edu.sg) |
+| 2 Integrity | [Mdm Siti Nur Aisyah](mailto:siti_nur_aisyah@moe.edu.sg)<br>[Mdm Sri Noriehan](mailto:sri_noriehan_kamis@moe.edu.sg)<Br>[Ms Chai Chew Yee](mailto:chai_chew_yee@moe.edu.sg) |
+| 2 Adaptability | [Ms Eleanor Wong](mailto:wong_yun_ru_eleanor@moe.edu.sg)<br>[Mrs Low-Chua Yiru](mailto:chua_yiru@moe.edu.sg)<br>[Mdm Sarina Salleh](mailto:sarina_salleh@moe.edu.sg) |
+| 2 Service | [Mr Lokman Hakim Bin Yunos](mailto:lokman_hakim_b_yunos@moe.edu.sg)<br>[Mdm Jessie Wong](mailto:wong_hui_guan@moe.edu.sg)<br>[Mdm Aini Bte Hussien](mailto:aini_hussien@moe.edu.sg) |
+| 2 Perseverance | [Mr Sean Lim](mailto:lim_meng_wee_sean@moe.edu.sg)<br>[Ms Chan Jia En](mailto:chan_jia_en@moe.edu.sg) |
+| 3 Endeavour  | [Ms Bernadette Long](mailto:long_yuan_chin_bernadette@moe.edu.sg)<br>[Mdm Chin Poh Lin](mailto:chin_poh_lin@moe.edu.sg) |
+| 3 Love | [Mrs Angela Lee](mailto:Ang_Bee_Ngoh@moe.edu.sg)<br>[Mdm Xi Donglei](mailto:xi_donglei@moe.edu.sg) <br>[Ms Michelle Lim Qian Wen](mailto:michelle_lim_qian_wen@moe.edu.sg)  |
 | 3 Integrity | Mdm Sophia Ng<br>Mdm Fu Ye |
 | 3 Adaptability | Mr Tee Yu Xun<br>Ms Lydia Dawn Amla D/O Sasidharen<br>Ms Nurul Hilmah Binte Mohamad Nor |
 | 3 Service | Mrs Tan Hui Fong<br>Ms Kavitha d/o Kalimuthu |
