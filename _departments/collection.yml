@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - PAL/PAL (P1 and P2).md
       - PAL/We Are Olympians!.md
       - PAL/Outdoor Explorer 1.md
       - PAL/Creative Cultural Dance.md
