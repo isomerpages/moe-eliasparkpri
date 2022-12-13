@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - PAL/Digistory.md
       - PAL/.keep
       - CCE/Overview.md
       - CCE/Character Development.md
