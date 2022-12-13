@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Overview.md
       - Address and Contact Numbers.md
       - Our School Rules.md
       - Principal's Message.md
