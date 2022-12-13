@@ -2,4 +2,5 @@ collections:
   departments:
     output: true
     order:
+      - CCE/Sh@pe Alive!.md
       - CCE/.keep
