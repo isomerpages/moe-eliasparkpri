@@ -50,3 +50,7 @@ As an Eliasian,
 |---|---|
 | Boys<br><br>• School badge on the pocket<br>• Hair must be short, neat and evenly cut<br>• Sloped and short at the back<br>• Short sideburns<br>• No fanciful hairstyles<br>• Must be clean-shaven at all times; no facial hair is allowed. | Girls<br>• School badge on the left<br>• Shoulder length hair must be neatly tied up<br>• Only plain black or navy blue hair accessories can be used<br>• Only a pair of small plain earrings/studs can be worn |
 
+
+| <img src="/images/rules3.png" style="width:74%"> |<img src="/images/rules4.png" style="width:80%"> |
+|---|---|
+| Boys<br><br>• T-Shirt must not be tucked in<br>• Name tag on the left |  |
