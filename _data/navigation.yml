@@ -1,6 +1,12 @@
 logo: /images/epps.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    collection: about-us
+  - title: Signature Programmes
+    collection: signature-programmes
+  - title: Departments
+    collection: departments
+  - title: For Parents
+    url: /for-parents
+  - title: Achievements
+    collection: achievements
