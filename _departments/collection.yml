@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - PAL/.keep
       - CCE/Overview.md
       - CCE/Character Development.md
       - CCE/Citizenship Education.md
