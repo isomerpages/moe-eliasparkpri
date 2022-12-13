@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - PAL/Master of the Arts.md
       - PAL/Let's Find Nemo!.md
       - PAL/Outdoor Explorer 2.md
       - PAL/Creative Drama.md
