@@ -42,3 +42,24 @@ Bonding Day Sporty Time, Programme for Active Learning (Sports & Games and Outdo
   
 
 ###### PE Syllabus
+
+<img src="/images/pe1.png" style="width:60%">
+
+##### Physical Health & Fitness
+
+Physical Health and Fitness Programme stimulates students’ interest in physical activity as meaningful connections between health concepts and practical applications are made through experiential learning. Some of the activities organised include:
+
+*   Health & Safety Talks
+*   Assembly Programmes 
+*   Dental Talks (P1, P3 and P5) 
+*   Central Narcotics Bureau Anti-drugs Programme
+*   NKF Programmes
+*   SEP Programmes
+
+##### PE Grading
+
+<img src="/images/pe2.png" style="width:60%">
+
+##### Healthy Plate & Healthy Snacks 
+
+Eliasians are encouraged to make an effort to live a healthy life through daily healthy meals and healthy snacks. Eating a healthy plate and having healthy snacks is a good habit that we as teachers and parents need to instil in our children. At EPPS, students have a snack time from 11.50 pm – 12.00 pm where they are encouraged to eat healthy snacks. Recommended snacks include fruits, vegetables, nuts & raisins, wholemeal bread, wholemeal biscuits, cereals, plain water etc. During recess, teachers on duty will award PBS stamps to students who eat their fruits and vegetables. PBS stamps can be used to redeem prizes.
