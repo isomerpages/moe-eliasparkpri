@@ -8,7 +8,7 @@ third_nav_title: PAL
 
 |  |  |
 |---|---|
-| Name of PAL CCA: | Master of the Arts |
+| Name of PAL: | Master of the Arts |
 | Level: | Primary 1 |
 | Objective(s):<br> | • Understand colours and create a self-portrait to express different moods.<br>• Create plasticine sculptures to express their fondest memory.<br>• Create different types of origami artwork.<br>• Design festive cards using recycled materials.  |
 |  |  |
