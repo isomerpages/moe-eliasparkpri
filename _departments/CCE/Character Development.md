@@ -4,7 +4,7 @@ permalink: /departments/CCE/character-development/
 description: ""
 third_nav_title: CCE
 ---
-### Character Development
+### Character Development NOT DONE YET
  
 
 ##### CCE Lessons
