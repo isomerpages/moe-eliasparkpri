@@ -8,7 +8,7 @@ third_nav_title: PAL
 
 |  |  |
 |---|---|
-| Name of PAL CCA: | Creative Cultural Dance |
+| Name of PAL: | Creative Cultural Dance |
 | Level: | Primary 1 |
 | Objective(s):<br> | • Learn about basic Chinese, Indian and Malay dance techniques.<br>• Create a fusion dance using the different techniques. |
 |  |  |
