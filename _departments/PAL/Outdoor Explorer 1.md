@@ -8,7 +8,7 @@ third_nav_title: PAL
 
 |  |  |
 |---|---|
-| Name of PAL CCA: | Outdoor Explorer 1 |
+| Name of PAL: | Outdoor Explorer 1 |
 | Level: | Primary 1 |
 | Objective(s):<br> | • Learn to participate actively in group activities. <br>• Understand the appropriate behaviours and safety measures to take note of in an outdoor environment. <br>• Grow and take care of their own plant. <br>• Explore and understand the neighbourhood around the school.  |
 |  |  |
