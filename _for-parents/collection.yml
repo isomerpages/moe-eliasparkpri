@@ -2,4 +2,5 @@ collections:
   for-parents:
     output: true
     order:
+      - Assessments.md
       - Access Arrangement.md
