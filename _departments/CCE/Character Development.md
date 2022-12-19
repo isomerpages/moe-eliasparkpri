@@ -68,14 +68,28 @@ Implementation of the _Character In Action @ EPPS_ is tiered at 2 levels to op
 
   
 
-### Level 1: Broad-Based Development (School-wide)
+#### Level 1: Broad-Based Development (School-wide)
 
 At Level 1, the Character In Action @ EPPS reaches out to every single Eliasian through two key components of experiential learning, namely the Singapore Heritage @ Elias Park (SH@PE) Alive! experience and the Every Eliasian a Leader (EEL).  
 
   
 
-#### SH@PE Alive! Experience
+##### SH@PE Alive! Experience
 
 The SH@PE Alive! learning trail aims to stimulate thinking, evoke feelings and provide hands-on practices, so as to engage the head, heart and hands of every individual going on the SH@PE Alive trail. At SH@PE Alive!, students will discover Singapore's humble beginnings and how our nation has grown to what it is today. They will be able to gain insights to our rich heritage, have a feel of our customs and traditions, be connected to the way of life of yesteryears, and appreciate the different cultures that make up Singapore. This is where the various NE messages come alive.  
 
-##### Activities at SH@PE Alive! 
+##### Activities at SH@PE Alive!
+
+<img src="/images/cce2.png" style="width:60%">
+
+##### Every Eliasian a Leader (EEL)
+
+Working alongside the SH@PE Alive! experience to support the holistic development of Eliasians’ character is the EEL. EEL offers Eliasians different leadership positions to bring out the leader in every child - one with the right values, mindsets and skills to excel in the field he/she chooses to pursue as a future leader of Singapore. With the vast opportunities offered by EEL, every Eliasian can be a leader. The Student Leaders in EPPS include two groups, first being the Core Leaders (e.g. Prefects and Main CCA Leaders) and, second being the Situational Leaders (e.g. Class/ NE/ Go-Green Monitors).  
+
+  
+
+#### Level 2: Extension and Student Leadership (Scoped Target Group)
+
+At Level 2, the _Character In Action @ EPPS_ extends its reach to Eliasians who have been assessed and identified by teachers to have the added passion in NE and the leadership competencies and/or potential to educate, impact and influence their peers and others in the community on the values of R3ICH and how to live out these values as a nation. These Eliasians who are called **SH@PE Guides** form a special group of student leaders in EPPS.
+
+<img src="/images/cce3.png" style="width:60%">
