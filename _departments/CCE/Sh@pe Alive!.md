@@ -20,4 +20,11 @@ SH@PE Gallery reflects the school's commitment and emphasis in providing an exci
 
 ##### Learning Centres at SH@PE Alive!
 
- 
+
+<img src="/images/cce19.png" style="width:70%">
+
+<img src="/images/cce20.png" style="width:70%">
+
+<figure><img src="/images/cce17.png" style="width:75%"><figcaption> Students will be able to understand that back in the 1820s, among the earliest immigrants to arrive in Singapore were the Samsui women, coolies and fishermen who performed menial jobs and engaged in hard labour with little pay.</figcaption></figure>
+
+<figure><img src="/images/cce18.png" style="width:75%"><figcaption> The kopitiam was usually owned by the Chinese. Students will be able to see and experience sitting at the round tables with marble tops and ornate chairs which depict the kopitiam theme of the past.</figcaption></figure>
