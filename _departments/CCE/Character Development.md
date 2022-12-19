@@ -93,3 +93,28 @@ Working alongside the SH@PE Alive! experience to support the holistic developmen
 At Level 2, the _Character In Action @ EPPS_ extends its reach to Eliasians who have been assessed and identified by teachers to have the added passion in NE and the leadership competencies and/or potential to educate, impact and influence their peers and others in the community on the values of R3ICH and how to live out these values as a nation. These Eliasians who are called **SH@PE Guides** form a special group of student leaders in EPPS.
 
 <img src="/images/cce3.png" style="width:60%">
+
+<ul class="jekyllcodex\_accordion">  
+<li>    
+<input type="checkbox" id="accordion1">    
+<label for="accordion1">TITLE HERE</label>    
+<div>        
+<p> TEXT</p>    </div></li>  
+<li>    
+<input type="checkbox" id="accordion2">    
+<label for="accordion2">TITLE</label>    
+	
+<div>      
+<p>TEXT</p>    
+	
+</div>
+</li>
+<li>    
+	
+<input type="checkbox" id="accordion3">    
+<label for="accordion3">TITLE</label>    
+<div>      
+<p>TEXT</p>     
+</div>
+</li>
+</ul>
