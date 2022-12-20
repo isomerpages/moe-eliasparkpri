@@ -39,8 +39,7 @@ Established in 2003, Elias Orchestra has been a very vibrant musical group with 
 
 *   Annual EPPS Chinese New Year Celebrations
 *   Annual EPPS National Day Celebrations
-*   Annual EPPS Prize-Giving Ceremony  
-    
+*   Annual EPPS Prize-Giving Ceremony    
 *   Pasir Ris West Lunar New Year Celebrations @ RC Pasir Ris Zone 12
 *   Pasir Ris West National Day Observance Ceremony
 
