@@ -3,53 +3,18 @@ title: Accordion
 permalink: /permalink/
 description: ""
 ---
-<ul class="jekyllcodex_accordion">
+### Announcements
 
-<li>
+**Useful Links for Students**
 
-<input type="checkbox" id="accordion1">
+To access useful links for students, please go to 'For Parents'.
 
-<label for="accordion1">text</label>
+* * *
 
-<div>
+**[Home-based Learning/ SLS Helpline](https://staging.d3975mj8dcgb9n.amplifyapp.com/for-parents/hbl/)**
 
-<p> 
-			text
-</p>
+For more information, please click on the link or go to 'For Parents'.
 
-</div>
+* * *
 
-</li>
-<li>
-
-<input type="checkbox" id="accordion2">
-
-<label for="accordion2">text</label>
-
-<div>
-
-<p> 
-			text
-</p>
-
-</div>
-
-</li>
-	
-<li>
-
-<input type="checkbox" id="accordion3">
-
-<label for="accordion3">Nanyang Technological University</label>
-
-<div>
-
-<p> 
-tr
-</p>
-
-
-</div>
-</li>
-  
-</ul>
+**[Information on Primary School Transfer Service for Change of Address](https://staging.d3975mj8dcgb9n.amplifyapp.com/for-parents/forms/)**
