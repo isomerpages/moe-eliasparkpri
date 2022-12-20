@@ -29,19 +29,40 @@ For access arrangement, please click [here](https://staging.d3975mj8dcgb9n.ampl
 
 #### Class Time-table
 
-
+Please click [here](https://staging.d3975mj8dcgb9n.amplifyapp.com/for-parents/class-timetable/) to find out what the abbreviations are for the subjects shown in your child's time-table.
 
 #### Direct School Admission (DSA)
 
+Please click [here](https://www.moe.gov.sg/secondary/dsa) for more information on Direct School Admission (DSA).
 
+#### Edusave Awards
+
+Selection Criteria   
+[Primary\_(English).pdf](/files/ea1.pdf)
+[Primary\_(Chinese).pdf](/files/ea2.pdf) 
+[Primary\_(Malay).pdf](/files/ea3.pdf)   
+[Primary\_(Tamil).pdf](/files/ea4.pdf)     
+  
+For more information, please visit [https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards](https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards)
 
 #### Edusave Character Award (ECHA)
 
-
+To be updated.
 
 #### Financial Assistance Scheme
 
+For more information regarding Financial Assistance Schemes, please click [here](https://www.moe.gov.sg/financial-matters/financial-assistance).   
+  
+For the Straits Times School Pocket Money Fund, please approach the General Office for information.   
+  
+Application Form for MOE Financial Assistance Scheme (MOE FAS):  
+[NEW-MOE FAS Application Form Oct 2022.pdf](/files/fas.pdf)
 
+<u>NEU PC Plus Programme</u>  
+NEU PC Plus Programme offers low-income households with student or person with disabilities the opportunity to own a brand new computer at an affordable price. Parents can find out more in detail and apply online through [https://www.imda.gov.sg/neupc](https://www.imda.gov.sg/neupc). Parents can call the following numbers to find out more: NPP hotline number 6684 8858 or IMDA contact number 6377 3800.
+
+<u>Home Access Programme</u>
+Home Access programme provides 2 years of subsidised broadband to low-income households. Parents can find out more in details and apply online through [www.digitalaccess.gov.sg](http://www.digitalaccess.gov.sg/).
 
 #### Gifted Education Programme
 
