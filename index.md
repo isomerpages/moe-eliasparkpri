@@ -8,11 +8,9 @@ notification: ""
 sections:
   - hero:
       background: /images/banner.gif
-      key_highlights:
-        - title: Announcements
-          description: ""
-          url: /announcements
-        - title: Calendar of Events
-          description: ""
-          url: /calendar/
+      dropdown:
+        title: Announcements
+        options:
+          - title: Announcements
+            url: /announcements/
 ---
