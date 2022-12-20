@@ -98,31 +98,34 @@ To view the list of awardees of the Model Student Character Award (MSCA) 2021, p
 
 #### Online Library Catalogue
 
-
+Please click [here](https://schoolibrary.moe.edu.sg/eliasparkpri) to access the catalogue.
 
 #### P1 Orientation
 
-
+[P1 Orientation 2023.pdf](/files/P1%20Orientation%202023.pdf)
 
 #### Primary 1 Phase 1 Registration
 
-
+To be updated
 
 #### Parents Support Group
 
-
+Please click [here](https://sites.google.com/moe.edu.sg/eppspsg/home) to find out more about our school's Parents Support Group (PSG).
 
 #### Parent Kit
 
-
+[Parent Kit - Starting School Right Jan 2020.pdf](/files/Parent%20Kit%20-%20Starting%20School%20Right%20Jan%202020.pdf)
 
 #### Prelims & PSLE Matters
 
+For PSLE matters such as the 2022 PSLE Examination timetable, paper formats, approved calculator/dictionary lists, please click [here](https://www.seab.gov.sg/home/examinations/psle).  
+For the new PSLE Scoring, please click [here](https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html).
 
+[2022 PSLE Results Release.pdf](/files/2022%20PSLE%20Results%20Release.pdf)
 
 #### Pupil Forms 
 
-
+Please click [here](https://eliasparkpri-moe-edu-sg-admin.cwp.sg/for-parents/forms) to download the forms.
 
 #### Pupil Insurance
 
