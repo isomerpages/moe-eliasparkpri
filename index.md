@@ -8,9 +8,4 @@ notification: ""
 sections:
   - hero:
       background: /images/banner.gif
-      dropdown:
-        title: Announcements
-        options:
-          - title: Announcements
-            url: /announcements/
 ---
