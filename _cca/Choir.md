@@ -3,40 +3,37 @@ title: Choir
 permalink: /cca/choir/
 description: ""
 ---
-### Chinese Orchestra (ECHO)
+### Choir
 
-#### Teachers-in-charge
+#### Teacher(s)-in-charge
 
-[Mdm Xi Donglei](mailto:xi_donglei@moe.edu.sg)  
-Ms Eleanor Wong  
-Mr Kanan S/O Perumal  
-Ms Que Yi  
-Ms Ong Hui Hui  
-Mdm Jessie Wong  
+[Mrs Josie Teo](mailto:hsieh_josie@moe.edu.sg)  
+Mdm Wu Xun  
+Ms Woon Qing  
   
 
 #### Gender
 
-Boys & Girls
+Boys &amp; Girls
+
+  
 
 #### Schedule
 
-Please refer to the schedule sent by the CCA teachers  
-  
-Established in 2003, Elias Orchestra has been a very vibrant musical group with active involvement at national and international levels. In 2013, **E**lias **CH**inese **O**rchestra is officially named as **ECHO**. As in the Chinese Idiom story, where wonderful music can reverberate in the place for three days, we hope for the same achievement for our ECHO.  
-  
+Every Wednesday&nbsp;  
+Timing: Please refer to the schedule sent by the CCA teachers  
 
-#### Objectives:
+#### Objectives
 
-*   Promote racial harmony
-*   Inculcate an understanding of the Chinese culture and develop musicianship and appreciation in orchestra members
-
-  
+*   Develop a passion and joy for singing both individually and as an ensemble.
+*   Use Solfège and sightreading to guide pitching.
+*   Sing a wide repertoire of songs from various genres.
 
 #### Programmes/ Events
 
+  
 *   Annual EPPS Chinese New Year Celebrations
 *   Annual EPPS National Day Celebrations
-*   Annual EPPS Prize-Giving Ceremony    
-*   Pasir Ris West Lunar New Year Celebrations @ RC Pasir Ris Zone 12
-*   Pasir Ris West National Day Observance Ceremony
+*   Learning Journey to Singapore International Choral Festival
+
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQHG4yjS-SabDxJSXaVEklkMNrYwMbTqVvyYsY1qv8JuYYMw92FTXtx065IAR8KpFX_v0ghzo0SrG3p/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
