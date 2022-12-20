@@ -83,12 +83,12 @@ Applicants are to submit their application via [LOA Formsg link](https://form.
 
 #### Meet-The-Parents' Sessions
 
-[P2\_2022 Parents Briefing.pdf](https://eliasparkpri-moe-edu-sg-admin.cwp.sg/qql/slot/u504/For%20Parents/MTP%20Sessions/2022/P2_2022%20Parents%20Briefing.pdf)  
-[P3 and 4\_2022 Parents Briefing.pdf](https://eliasparkpri-moe-edu-sg-admin.cwp.sg/qql/slot/u504/For%20Parents/MTP%20Sessions/2022/P3%20and%204_2022%20Parents%20Briefing.pdf)  
+[P2\_2022 Parents Briefing.pdf](/files/mtp1.pdf)     
+[P3 and 4\_2022 Parents Briefing.pdf](/files/mtp2.pdf)   
 [P5 and 6\_2022 Parents Briefing.pdf](https://eliasparkpri-moe-edu-sg-admin.cwp.sg/qql/slot/u504/For%20Parents/MTP%20Sessions/2022/P5%20and%206_2022%20Parents%20Briefing.pdf)  Re-upload this <br>
-[P2 Classroom Slides.pdf](https://eliasparkpri-moe-edu-sg-admin.cwp.sg/qql/slot/u504/For%20Parents/MTP%20Sessions/2022/P2%20Classroom%20Slides.pdf)  
-[P3 Classroom Slides.pdf](https://eliasparkpri-moe-edu-sg-admin.cwp.sg/qql/slot/u504/For%20Parents/MTP%20Sessions/2022/P3%20Classroom%20Slides.pdf)  
-[P4 Classroom Slides.pdf](https://eliasparkpri-moe-edu-sg-admin.cwp.sg/qql/slot/u504/For%20Parents/MTP%20Sessions/2022/P4%20Classroom%20Slides.pdf)  
+[P2 Classroom Slides.pdf](/files/mtp3.pdf)   
+[P3 Classroom Slides.pdf](/files/mtp4.pdf)  
+[P4 Classroom Slides.pdf](/files/mtp5.pdf)  
 [P5 Classroom Slides.pdf](https://eliasparkpri-moe-edu-sg-admin.cwp.sg/qql/slot/u504/For%20Parents/MTP%20Sessions/2022/P5%20Classroom%20Slides.pdf)   Please re-upload this.<br>
 [P6 Classroom Slides.pdf](https://eliasparkpri-moe-edu-sg-admin.cwp.sg/qql/slot/u504/For%20Parents/MTP%20Sessions/2022/P6%20Classroom%20Slides.pdf)Please re-upload this.
 
