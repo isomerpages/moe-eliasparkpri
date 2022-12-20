@@ -163,18 +163,23 @@ Parent Partnership 
 
 #### Subject-based Banding
 
-
+For more information, please visit [https://www.moe.gov.sg/primary/curriculum/subject-based-banding](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)
 
 #### Safety & Security Matters
 
-
+[Safety and Security.pdf](/files/Safety%20and%20Security.pdf)
 
 #### School Vendors
 
-
+Please click [here](https://staging.d3975mj8dcgb9n.amplifyapp.com/for-parents/school-vendors/) for more information.
 
 #### Sexuality Education
 
-
+Please click [here](https://staging.d3975mj8dcgb9n.amplifyapp.com/others/sexuality-education/) for more information.
 
 #### Useful Links for Students
+
+[Koobits](https://member.koobits.com/)  <br>
+ [MySkillsFuture Primary](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)   <br>
+ [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)  <br>
+ [Student iCON](https://workspace.google.com/dashboard)
