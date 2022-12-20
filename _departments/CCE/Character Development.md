@@ -101,7 +101,9 @@ At Level 2, the _Character In Action @ EPPS_ extends its reach to Eliasians wh
 <div>        
 	
 <p> 
-<img src="/images/msca1.png" style="width:70%">
+<b>Semester 1</b><br>	
+<img src="/images/msca1.png" style="width:70%"><br>
+<b>Semester 3</b><br>		
 <img src="/images/msca2.png" style="width:70%">	
 </p>    
 </div>
