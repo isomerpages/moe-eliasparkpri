@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Newsletter.md
       - Home based Learning.md
       - Class Timetable.md
       - Assessments.md
