@@ -2,9 +2,9 @@ collections:
   for-parents:
     output: true
     order:
-      - School Vendors.md
-      - Newsletter.md
-      - Home based Learning.md
-      - Class Timetable.md
       - Assessments.md
       - Access Arrangement.md
+      - Class Timetable.md
+      - Home based Learning.md
+      - Newsletter.md
+      - School Vendors.md
