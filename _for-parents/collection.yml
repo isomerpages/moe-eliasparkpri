@@ -2,10 +2,10 @@ collections:
   for-parents:
     output: true
     order:
-      - Forms.md
       - Assessments.md
       - Access Arrangement.md
       - Class Timetable.md
       - Home based Learning.md
+      - Forms.md
       - Newsletter.md
       - School Vendors.md
