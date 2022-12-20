@@ -66,23 +66,31 @@ Home Access programme provides 2 years of subsidised broadband to low-income hou
 
 #### Gifted Education Programme
 
-
+[Gifted Education Programme Identification Exercise 2022.pdf](/files/gep.pdf)
 
 #### Home-based Learning / SLS Helpline
 
-
+Please click [here](https://staging.d3975mj8dcgb9n.amplifyapp.com/for-parents/hbl/) to access more information.
 
 #### Home-School Newsletters
 
-
+Please click [here](https://staging.d3975mj8dcgb9n.amplifyapp.com/for-parents/newsletter/) to download the newsletters.
 
 #### Leave of Absence (LOA)
 
-
+Singaporeans who are planning to go overseas for work or related concerns may reserve places for their children in their current school under the Leave of Absence (LOA) Scheme. Upon their return to Singapore the children can be readmitted directly to their schools.  
+Applicants are to submit their application via [LOA Formsg link](https://form.gov.sg/#!/60bd8dad79dded0011f07645) and the LOA fees to the school.
 
 #### Meet-The-Parents' Sessions
 
-
+[P2\_2022 Parents Briefing.pdf](https://eliasparkpri-moe-edu-sg-admin.cwp.sg/qql/slot/u504/For%20Parents/MTP%20Sessions/2022/P2_2022%20Parents%20Briefing.pdf)  
+[P3 and 4\_2022 Parents Briefing.pdf](https://eliasparkpri-moe-edu-sg-admin.cwp.sg/qql/slot/u504/For%20Parents/MTP%20Sessions/2022/P3%20and%204_2022%20Parents%20Briefing.pdf)  
+[P5 and 6\_2022 Parents Briefing.pdf](https://eliasparkpri-moe-edu-sg-admin.cwp.sg/qql/slot/u504/For%20Parents/MTP%20Sessions/2022/P5%20and%206_2022%20Parents%20Briefing.pdf)  Re-upload this <br>
+[P2 Classroom Slides.pdf](https://eliasparkpri-moe-edu-sg-admin.cwp.sg/qql/slot/u504/For%20Parents/MTP%20Sessions/2022/P2%20Classroom%20Slides.pdf)  
+[P3 Classroom Slides.pdf](https://eliasparkpri-moe-edu-sg-admin.cwp.sg/qql/slot/u504/For%20Parents/MTP%20Sessions/2022/P3%20Classroom%20Slides.pdf)  
+[P4 Classroom Slides.pdf](https://eliasparkpri-moe-edu-sg-admin.cwp.sg/qql/slot/u504/For%20Parents/MTP%20Sessions/2022/P4%20Classroom%20Slides.pdf)  
+[P5 Classroom Slides.pdf](https://eliasparkpri-moe-edu-sg-admin.cwp.sg/qql/slot/u504/For%20Parents/MTP%20Sessions/2022/P5%20Classroom%20Slides.pdf)   Please re-upload this.<br>
+[P6 Classroom Slides.pdf](https://eliasparkpri-moe-edu-sg-admin.cwp.sg/qql/slot/u504/For%20Parents/MTP%20Sessions/2022/P6%20Classroom%20Slides.pdf)Please re-upload this.
 
 #### Model Student Character Award (MSCA)
 
