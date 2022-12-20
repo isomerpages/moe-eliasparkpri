@@ -100,7 +100,10 @@ At Level 2, the _Character In Action @ EPPS_ extends its reach to Eliasians wh
 <label for="accordion1">Model Student Character Award (2021)</label>    
 <div>        
 	
-<p> TEXT</p>    
+<p> 
+<img src="/images/msca1.png" style="width:70%">
+<img src="/images/msca2.png" style="width:70%">	
+</p>    
 </div>
 </li>  
 <li>    
