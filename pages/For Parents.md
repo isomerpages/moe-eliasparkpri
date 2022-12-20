@@ -125,15 +125,41 @@ For the new PSLE Scoring, please click [here](https://www.moe.gov.sg/microsites
 
 #### Pupil Forms 
 
-Please click [here](https://eliasparkpri-moe-edu-sg-admin.cwp.sg/for-parents/forms) to download the forms.
+Please click [here](https://staging.d3975mj8dcgb9n.amplifyapp.com/for-parents/forms/) to download the forms.
 
 #### Pupil Insurance
 
+For more information regarding Pupil Insurance, please refer to the attachment:
 
+[Insurance Claim.pdf](/files/Insurance%20Claim.pdf)
+
+To make a claim, click [here](https://studentgpa.incomegroupins.com.sg/#/).
 
 #### Resources for Parents
 
-
+Schoolbag.sg  
+Please click [here](https://www.schoolbag.sg/) to access Schoolbag.sg.  
+Resource Kit - Transitioning Back to School [Parent Kit - Transitioning Back to School.pdf](/files/pk1.pdf)  
+  
+Resource Kit - School Holiday Edition  
+[Resource Kit - School Holiday Edition.pdf](/files/pk2.pdf) 
+  
+Updates on PSLE Scoring & S1 Posting from 2021  
+[PSLE 2021 Briefing Slides for Parents.pdf](/files/pk3.pdf) 
+  
+Primary One-related Resources   
+• An overview of the primary education: Click [here](https://www.moe.gov.sg/education/primary/).   
+• Choosing the "right" primary school: Click [here](https://schoolbag.sg/story/choosing-the-right-primary-school-for-your-child?utm_source=newsletter&utm_medium=email&utm_campaign=2015#.VZYRMtKqqkr). •  How should I choose a suitable primary school for my child?: Click [here](https://schoolbag.sg/story/how-should-i-choose-a-suitable-primary-school-for-my-child?utm_source=newsletter&utm_medium=email&utm_campaign=2015#.VZYRM9Kqqkq).   
+• Factors to consider when choosing a primary school:  Click [here](https://www.youtube.com/watch?v=bGS1QGwsaxA&feature=player_embedded) to watch the video.   
+• Preparing your child for Primary One: Click  [here](https://www.youtube.com/watch?feature=player_embedded&v=l0EnKuLTHpQ) to watch the video.   
+  
+Are Values Taught or Caught?   
+Click [here](https://schoolbag.sg/story/are-values-taught-or-caught#.VN_MzNM_vXQ.mailto) to watch the video.   
+  
+Parent Partnership   
+• How Parents Can Support Their Children In The Learning of Malay Language in Primary Schools: Click [here](https://www.schoolbag.sg/story/how-parents-can-support-their-children-in-the-learning-of-malay-language-in-primary-schools?utm_source=newsletter&utm_medium=email&utm_campaign=2016#.VwR8gyB97IU).   
+•  How Parents Can Support Their Children In The Learning of Chinese Language in Primary Schools: Click [here](https://www.schoolbag.sg/story/support-the-learning-of-chinese-language-in-pri-sch?utm_source=newsletter&utm_medium=email&utm_campaign=2016#.VwR59iB97IU). •  Guide for Parents on Setting Parental Controls: Click [here](https://www.schoolbag.sg/story/guide-for-parents-on-setting-parental-controls?utm_source=newsletter&utm_medium=email&utm_campaign=2016#.VwR6ISB97IU).   
+•  Supporting Children With Dyslexia: Click [here](https://www.schoolbag.sg/story/supporting-children-with-dyslexia?utm_source=newsletter&utm_medium=email&utm_campaign=2016#.VyienXF97IV).
 
 #### Subject-based Banding
 
