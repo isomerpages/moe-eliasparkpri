@@ -2,5 +2,6 @@ collections:
   for-parents:
     output: true
     order:
+      - Class Timetable.md
       - Assessments.md
       - Access Arrangement.md
