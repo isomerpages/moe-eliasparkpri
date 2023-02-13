@@ -35,4 +35,4 @@ The task to bridge the gap between the promise of our ideals to help every chi
 I am confident that a generation from now, we will recall fondly that we may be of different creed, race and religion but united in a common purpose through good times and bad times that shaped our children’s future and in nurturing the best sons and daughters for our community and for Singapore.
 
 Mdm Chua Pei Pei  
-Principal Elias Park Primary School
+Principal <br>Elias Park Primary School
