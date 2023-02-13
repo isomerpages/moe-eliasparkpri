@@ -41,6 +41,8 @@ Leveraging the STELLAR texts, every unit involves the students reading for enjoy
 
 <figure><img src="/images/eng2.png" style="width:65%"><figcaption> Learning to write about our experiences in class and outdoors!</figcaption></figure>
 
+In alignment with our department vision and mission, we have put in place a variety of programmes to bring this vision and mission to fruition.
+
 <img src="/images/eng3.png" style="width:60%">
 
 <figure><img src="/images/eng4.png" style="width:65%"><figcaption>Making reading a part of our daily activities</figcaption></figure>
