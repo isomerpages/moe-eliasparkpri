@@ -3,7 +3,7 @@ title: Email Addresses
 permalink: /about-us/email-addresses/
 description: ""
 ---
-### Email Addresses
+### Email Addresses (2023)
 
 
 | School Leaders |  |
@@ -22,20 +22,18 @@ description: ""
 | Head of Department (MTL) | [Mdm Li Huan](mailto:li_huan@moe.edu.sg) |
 | Head of Department (ICT) | [Mdm Aini Hussien](mailto:aini_hussien@moe.edu.sg) |
 | Head of Department (CCE) | [Mdm Poon Yin Ching](mailto:poon_yin_ching@moe.edu.sg) |
-| Head of Department (Aesthetics/ CCA)  | [Ms Chai Chew Yee](mailto:chai_chew_yee@moe.edu.sg) |
-| Level Head (Mathematics) | [Mdm Janet Heng](mailto:heng_ee_hong@moe.edu.sg) |
+| Head of Department (Aesthetics & CCA)  | [Ms Chai Chew Yee](mailto:chai_chew_yee@moe.edu.sg) |
+| Level Head (Mathematics) | [Mrs Huan Sook Peng](mailto:woong_sook_peng@moe.edu.sg) |
 | Level Head (Science)  | [Mrs Stephanie Ser](mailto:go_pei_ling@moe.edu.sg)  |
 | Subject Head (Malay Language) | [Mdm Suhaida Bte Saptu](mailto:suhaida_saptu@moe.edu.sg) |
-| Subject Head (Discipline/ Student Leadership) | [Mdm Iza Mariah Bte Idris](mailto:iza_mariah_idris@moe.edu.sg) |
-| Subject Head (Student Well-being) | [Mdm Esther Kwee](mailto:kwee_wan_juan_esther@moe.edu.sg) |
-| Subject Head (PE) | [Dr Ang Swee Chong](mailto:ang_swee_chong@moe.edu.sg)  |
+| Subject Head (Discipline & Student Leadership) | [Mdm Iza Mariah Bte Idris](mailto:iza_mariah_idris@moe.edu.sg) |
 | Year Head (Lower Primary)  | [Mdm Jamila Adal](mailto:jamila_adal@moe.edu.sg) |
 | Year Head (Middle Primary)   | [Mdm Marilyn Goh](mailto:marilyn_goh_jing_ling@moe.edu.sg)  |
 | Year Head (Upper Primary) | [Mrs Irene Say](mailto:lee_siew_hui@moe.edu.sg) |
-| Senior Teacher (Chinese Language) | [Mdm Tan Whai Sze](mailto:tan_whai_sze@moe.edu.sg) |
-| Senior Teacher (Science) | [Mrs Anastacia Foo](mailto:yeo_peck_hoon_anastacia@moe.edu.sg) |
+| Lead Teacher (Science) |[Mrs Anastacia Foo](mailto:yeo_peck_hoon_anastacia@moe.edu.sg) |
+| Senior Teacher (English Language)  | [Mr Liu Zhiming](mailto:liu_zhiming@moe.edu.sg)  |
 | Administration Manager  | [Mdm Chong Ching Ching](mailto:chong_ching_ching@schools.gov.sg) |
-| Administration Manager | [Mdm Tan Sze Wei](mailto:tan_sze_wei@moe.edu.sg)   |
+| Administration Manager | [Mdm Tan Sze Wei](mailto:tan_sze_wei@moe.edu.sg)  |
 | Operations Manager | [Mr Ricky Conceicao](mailto:rudolph_conceicao@moe.edu.sg) |
 
 #### Form Teachers
