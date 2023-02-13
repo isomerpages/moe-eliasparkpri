@@ -63,7 +63,7 @@ _Abstract representation_ \- a student is now capable of representing problems 
 Mathematics Journals are platforms for students to communicate the reasons behind their thinking based on selected given concepts. This would allow their thinking to be made more visible through the appropriate use of mathematical language and reflect on their responses, thus promoting metacognition in our students.*   **F.A.S.T Progamme (****Primary** **1 to 3)**   
     F.A.S.T (Fluency, Accuracy, Speed in a given Time) is a programme that aims to improve students’ proficiency in performing calculations involving the 4 operations. The mastery in this area would help to reduce their cognitive load so as to allow students to focus on problem-solving matters.
 
-*   Mathematical Olympiad Competition  
+*   **Mathematical Olympiad Competition** 
     Selected Eliasians who possess great aptitude for mathematics are identified to participate in Mathematical Olympiad competitions namely the Singapore Mathematical Olympiad for Primary Schools (SMOPS) and National Mathematical Olympiad of Singapore (NMOS).
 
 *   Improve Confidence and Achievement in Numeracy (ICAN)  
