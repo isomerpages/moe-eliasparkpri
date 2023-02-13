@@ -75,21 +75,23 @@ description: ""
 
 |  |  |
 |---|---|
-| **Subject teacher(s)** | [Mdm Sim Lee Sang](mailto:sim_lee_sang@moe.edu.sg) |
-|   | [Mdm Chong Yong Shing](mailto:chong_yong_shing@moe.edu.sg) |
-|   | [Mrs Tjan Hiok Hoon](mailto:tjan_hiok_hoon@moe.edu.sg) |
+| **Subject teacher(s)** | [Ms Noraini Abdullah](mailto:noraini_abdullah_hee@moe.edu.sg) |
+|   | [Mdm Nur Sobah Bte Mahmood Bamadhj](mailto:nur_sobah_mahmood_bamadhaj@moe.edu.sg) |
 |   | [Mdm Sera Wee](mailto:wee_siew_hong@moe.edu.sg) |
+|   | [Mdm Sim Lee Sang](mailto:sim_lee_sang@moe.edu.sg) |
+|   | [Mrs Tjan Hiok Hoon](mailto:tjan_hiok_hoon@moe.edu.sg) |
+|   | [Mrs Victor Sarosi](mailto:victor_sarosi@moe.edu.sg) |
 | **Chinese Language teachers** | [Mdm Li Huan](mailto:li_huan@moe.edu.sg)  |
 |   | [Mdm Tan Whai Sze](mailto:tan_whai_sze@moe.edu.sg) |
 |   | [Ms Chai Chew Yee](mailto:chai_chew_yee@moe.edu.sg) |
 |   | [Mdm Chin Poh Lin](mailto:chin_poh_lin@moe.edu.sg) |
 |   | [Mdm Esther Kwee](mailto:kwee_wan_juan_esther@moe.edu.sg) |
-|   | [Mdm Fu Ye](mailto:fu_ye@moe.edu.sg) |
-|   | [Mdm Huang Yuping](mailto:huang_yuping@moe.edu.sg) |
 |   | [Mr Lim Kian Chye](mailto:lim_kian_chye@moe.edu.sg) |
 |   | [Mdm Mah Huimin](mailto:mah_huimin@moe.edu.sg) |
-|   |[Ms Michelle Lim Qian Wen](mailto:michelle_lim_qian_wen@moe.edu.sg)  |
+|   | [Ms Michelle Lim](mailto:michelle_lim_qian_wen@moe.edu.sg) |
 |   | [Ms Que Yi](mailto:que_yi@moe.edu.sg) |
+|   |[Ms Tan Koon Bin](mailto:tan_koon_bin@moe.edu.sg)  |
+|   | [Mdm Wu Xun](mailto:wu_xun@moe.edu.sg) |
 |   | [Ms Tan Koon Bin](mailto:tan_koon_bin@moe.edu.sg) |
 |   | [Mdm Wu Xun](mailto:wu_xun@moe.edu.sg) |
 |   | [Ms Wong Sheau Mun](mailto:wong_sheau_mun@moe.edu.sg)  |
@@ -101,11 +103,11 @@ description: ""
 |   | [Ms Siti Aisyah Bte Yacob](mailto:siti_aisyah_yacob@moe.edu.sg) |
 | **Tamil Language teachers** | [Mr Kanan S/O Perumal](mailto:kanan_perumal@moe.edu.sg) |
 |   | [Ms Kavitha d/o Kalimuthu](mailto:Kavitha_Kalimuthu@moe.edu.sg) |
-|   | [Mdm Periasamy Thavamani](mailto:Periasamy_Thavamani@moe.edu.sg) |
+|   | |
 | **Learning Support (English)** | [Mrs Anne Quah](mailto:toh_anne@moe.edu.sg) |
 | **Learning Support (Mathematics)** | [Mdm Iza Mariah Bte Idris](mailto:iza_mariah_idris@moe.edu.sg) |
 | **Special Educational Needs (SEN) Officer** | [Mdm Mastura M. Hashim](mailto:mastura_mohd_hashim@moe.edu.sg) |
 |   | [Mdm Vasanthi Rengaraju](mailto:rengaraju_vasanthi@moe.edu.sg) |
 |   | [Mdm Janice Ang](mailto:ang_chia_tee@moe.edu.sg) |
-|   | [Mdm Noor Raihan Md Rashid](mailto:noor_raihan_mohamed_rashid@moe.edu.sg)  |
+|   |   |
 | **School Counsellor** | [Mdm Amanda Lim](mailto:amanda_lim_le_wei@moe.edu.sg) |
