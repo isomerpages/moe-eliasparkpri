@@ -80,7 +80,7 @@ The P5 Tamil students had the Villupaatu Workshop, an ancient form of musical st
 
 Deepavali is celebrated each year to promote the understanding of Indian traditions and customs. The objective is to have a fun-filled Deepavali celebration for the students and to enrich them with traditional culture and values.
 
-<img src="/images/tam6.png" style="width:60%">
+<img src="/images/tam8.png" style="width:60%">
 
 *   External Competitions  
 
