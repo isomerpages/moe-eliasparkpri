@@ -10,6 +10,7 @@ description: ""
 [Mdm Siti Noorhuda](mailto:siti_noorhuda_mohd_bagusha@moe.edu.sg)  
 Ms Nurul Hilmah Binte Mohamad Nor  
 Mdm Jameyahti Bte Ab Malek  
+Ms Chloe Teo
   
 
 ##### Gender
@@ -34,7 +35,9 @@ Timing: Please refer to the schedule sent by the CCA teachers
 
 ##### Description
 
-The Art and Crafts Club allows students with a shared interest in art to gather and create art. Students will explore and experience different art forms. Activities include both individual and group projects that are usually not covered during Art lessons. Art &amp; Crafts Club students develop their creativity, self-expression and understand artistic concepts and ideas. Learning journeys will be organised to increase students’ awareness and appreciation for the Arts. Students will acquire art vocabulary to express their opinions or when talking about art. &nbsp;&nbsp;  
+The Art and Crafts Club allows students with a shared interest in art to gather and create art. Students will explore and experience different art forms. Activities include both individual and group projects that are usually not covered during Art lessons. 
+
+Art &amp; Crafts Club students develop their creativity, self-expression and understand artistic concepts and ideas. Learning journeys will be organised to increase students’ awareness and appreciation for the Arts. Students will acquire art vocabulary to express their opinions or when talking about art. &nbsp;&nbsp;  
 
 ##### Programmes/ Events
 
