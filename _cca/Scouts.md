@@ -93,6 +93,6 @@ Choose to make a difference in your own life and that of our next generation! Jo
 | • Dhia Syarafana Binte Mohamad Taufik (6S)<br>• Auni Syaurah Binte Mafrudy (6S)<br>• Nur Mishel Eiliyah Binte Mohammad Fadli (6L)<br>• Teo Kay Tong (6I)<br>• Chew Yan Yin (6I)<br>• Koh Jun En, Neilson (6I)<br>• Lam Theng Wen, Zackary (6I)<br>• Sun Jiahao (6A) |
 
 <img style="width:60%" src="/images/scouts2.png">
-Congratulations to our Akela recipients 2022
+<center>Congratulations to our Akela recipients 2022
 
-<center> <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQLX5shyMzEDiK1fTpQxQqsS1_rnY5Afel_C2g8H_uuTI-CXIgKnAF9cGY7UGb1d1WIK-0zY96qRD6b/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe> </center>
+ <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQLX5shyMzEDiK1fTpQxQqsS1_rnY5Afel_C2g8H_uuTI-CXIgKnAF9cGY7UGb1d1WIK-0zY96qRD6b/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe> </center>
