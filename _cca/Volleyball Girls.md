@@ -7,8 +7,7 @@ description: ""
 
 #### Teachers-in-charge
 
-[Mr Chen Yixiang](mailto:chen_yixiang@moe.edu.sg)  
-Ms Chan Jia En  
+[Mr Chen Yixiang](mailto:chen_yixiang@moe.edu.sg)  <br>
 Mrs Tan Hui Fong  
 &nbsp;&nbsp;  
 
