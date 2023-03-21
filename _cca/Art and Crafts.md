@@ -5,7 +5,7 @@ description: ""
 ---
 ### Art and Crafts
 
-##### Teachers-in-charge
+#### Teachers-in-charge
 
 [Mdm Siti Noorhuda](mailto:siti_noorhuda_mohd_bagusha@moe.edu.sg)  
 Ms Nurul Hilmah Binte Mohamad Nor  
