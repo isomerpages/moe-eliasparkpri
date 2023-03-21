@@ -7,13 +7,10 @@ description: ""
 
 ##### Teachers-in-charge
 
-[Mdm Nurliyana Bte Mahat](mailto:nurliyana_mahat@moe.edu.sg)  
-
-Ms Bernadette Long  
-
-Mr Tee Yu Xun
-
-Mrs Angela Lee&nbsp;
+[Mdm Nurliyana Bte Mahat](mailto:nurliyana_mahat@moe.edu.sg)  <br>
+Ms Bernadette Long  <br>
+Mrs Angela Lee<br>
+Mdm Valerie
 
   
 
