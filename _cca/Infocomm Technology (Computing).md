@@ -7,9 +7,9 @@ description: ""
 
 #### Teachers-in-charge
 
-[Mdm Nurni Bte Isnain](mailto:nurni_isnain@moe.edu.sg)&nbsp;  
-Ms Cheryl Han  
-Mdm Siti Zubeidah Binte Kadir
+[Ms Gil Tan](mailto:tan_siew_hwa@moe.edu.sg)  
+Mdm Nurni Bte Isnain Ms Cheryl Han  
+Mrs Alsree-Siti Nooraidah
 
 #### Gender
 
