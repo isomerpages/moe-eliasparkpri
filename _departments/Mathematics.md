@@ -78,7 +78,8 @@ Infused into the curriculum, Mathematical Investigative Task serves as a platfor
 *   **Mathematics Learning Log (Primary 1 to 6)**  
     Learning log serves as a platform for students to document what they have learnt throughout the lesson. It allows students to take responsible of their own learning, thus nurturing them to be self-directed learners. 
 		
+In alignment with our department vision and mission, we have put in place a variety of programmes to bring this vision and mission to fruition.		
+		
 <img src="/images/math3.png" style="width:60%">		
 
   
-In alignment with our department vision and mission, we have put in place a variety of programmes to bring this vision and mission to fruition.
