@@ -3,7 +3,6 @@ title: Email Addresses (2023)
 permalink: /about-us/email-addresses/
 description: ""
 ---
-
 ### Email Addresses (2023)
 
 
@@ -84,9 +83,9 @@ description: ""
 |   | [Mrs Victor Sarosi](mailto:victor_sarosi@moe.edu.sg) |
 | **Chinese Language teachers** | [Mdm Li Huan](mailto:li_huan@moe.edu.sg)  |
 |   | [Mdm Tan Whai Sze](mailto:tan_whai_sze@moe.edu.sg) |
-|   | [Ms Chai Chew Yee](mailto:chai_chew_yee@moe.edu.sg) |
 |   | [Mdm Chin Poh Lin](mailto:chin_poh_lin@moe.edu.sg) |
 |   | [Mdm Esther Kwee](mailto:kwee_wan_juan_esther@moe.edu.sg) |
+|   | [Mdm Fu Ye](mailto:fu_ye@moe.edu.sg) |
 |   | [Mr Lim Kian Chye](mailto:lim_kian_chye@moe.edu.sg) |
 |   | [Mdm Mah Huimin](mailto:mah_huimin@moe.edu.sg) |
 |   | [Ms Michelle Lim](mailto:michelle_lim_qian_wen@moe.edu.sg) |
