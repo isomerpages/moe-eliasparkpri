@@ -5,6 +5,36 @@ description: ""
 ---
 ### For Parents
 
+|  |  |
+|---|---|
+| Assessments | For School Examination Policy, Exam Schedule, Exam Scope of Topics and format of the examination papers, please click here for more information.<br><br>For access arrangement, please click here for more information. |
+| Booklists | [EPPS Booklist 2023 P1.pdf](/files/bl1.pdf)<br>[EPPS Booklist 2023 P2.pdf](/files/bl2.pdf)<br>[EPPS Booklist 2023 P3.pdf](/files/bl3.pdf)<br>[EPPS Booklist 2023 P3 Higher MT.pdf](/files/bl4.pdf)<br>[EPPS Booklist 2023 P4.pdf](/files/bl5.pdf)<br>[EPPS Booklist 2023 P4 Higher MT.pdf](/files/bl6.pdf)<br>[EPPS Booklist 2023 P5 Foundation.pdf](/files/bl7.pdf) <br>[EPPS Booklist 2023 P5 Standard.pdf](/files/bl8.pdf)<br>[EPPS Booklist 2023 P5 Higher MT.pdf](/files/bl9.pdf)<br>[EPPS Booklist 2023 P6 Foundation.pdf](/files/bl10.pdf)<br>[EPPS Booklist 2023 P6 Standard.pdf](/files/bl11.pdf)<br>[EPPS Booklist 2023 P6 Higher MT.pdf](/files/bl12.pdf) |
+| Class Time-table  | Please [here](https://staging.d3975mj8dcgb9n.amplifyapp.com/for-parents/class-timetable/) to find out what the abbreviations are for the subjects shown in your child's time-table. |
+| Direct School Admission (DSA)  | Please click [here](https://www.moe.gov.sg/secondary/dsa) for more information on Direct School Admission (DSA). |
+| Edusave Awards  | Selection Criteria <br>[Primary\_(English).pdf](/files/ea1.pdf)<br>[Primary\_(Chinese).pdf](/files/ea2.pdf)<br>[Primary\_(Malay).pdf](/files/ea3.pdf)  <br>[Primary\_(Tamil).pdf](/files/ea4.pdf)     <br><br>For more information, please visit https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards |
+| Edusave Character Award (ECHA)   | To be updated |
+| Financial Assistance Scheme  | For more information regarding Financial Assistance Schemes, please click [here](https://www.moe.gov.sg/financial-matters/financial-assistance). <br><br>For the Straits Times School Pocket Money Fund, please approach the General Office for information. <br><br>Application Form for MOE Financial Assistance Scheme (MOE FAS):<br>[NEW-MOE FAS Application Form Oct 2022.pdf](/files/fas.pdf)<br><br><br>NEU PC Plus Programme<br>NEU PC Plus Programme offers low-income households with student or person with disabilities the opportunity to own a brand new computer at an affordable price. Parents can find out more in detail and apply online through [https://www.imda.gov.sg/neupc](https://www.imda.gov.sg/neupc). Parents can call the following numbers to find out more: NPP hotline number 6684 8858 or IMDA contact number 6377 3800.<br>Home Access Programme<br>Home Access programme provides 2 years of subsidised broadband to low-income households. Parents can find out more in details and apply online through  [www.digitalaccess.gov.sg](http://www.digitalaccess.gov.sg/). |
+| Gifted Education Programme  | [Gifted Education Programme Identification Exercise 2022.pdf](/files/gep.pdf) |
+| Home-based Learning / SLS Helpline |  Please click [here](https://staging.d3975mj8dcgb9n.amplifyapp.com/for-parents/hbl/) to access more information. |
+| Home-School Newsletters | Please click [here](https://staging.d3975mj8dcgb9n.amplifyapp.com/for-parents/newsletter/) to download the newsletters. |
+| Leave of Absence (LOA) | Singaporeans who are planning to go overseas for work or related concerns may reserve places for their children in their current school under the Leave of Absence (LOA) Scheme. Upon their return to Singapore the children can be readmitted directly to their schools.<br>Applicants are to submit their application via [LOA Formsg link](https://form.gov.sg/#!/60bd8dad79dded0011f07645) and the LOA fees to the school.  |
+| Meet-The-Parents' Sessions <br> | P2 Parents Briefing 2023.pdf (please re-upload)<br>[P2 Classroom Slides 2023.pdf](/files/mtps1.pdf)<br>P3 and P4 Parents Briefing 2023.pdf (please re-upload)<br>[P3 Classroom Slides 2023.pdf](/files/mtps2.pdf)<br>[P4 Classroom Slides 2023.pdf](/files/mtps3.pdf)<br>P5 and P6 Parents Briefing 2023.pdf (please re-upload)<br>[P5 Classroom Slides 2023.pdf](/files/mtps4.pdf)<br>[P6 Classroom Slides 2023.pdf](/files/mtps5.pdf) |
+| Model Student Character Award (MSCA)  | To view the list of awardees of the Model Student Character Award (MSCA) 2021, please click here. |
+| Online Library Catalogue  | Please click here to access the catalogue. |
+| P1 Orientation   | P1 Orientation 2023.pdf |
+| Primary 1 Phase 1 Registration | To be updated |
+| Parents Support Group  | Please click here to find out more about our school's Parents Support Group (PSG).  |
+| Parent Kit  | Parent Kit - Starting School Right Jan 2020.pdf  |
+| Prelims & PSLE Matters  | For PSLE matters such as the 2023 PSLE Examination timetable, paper formats, approved calculator/dictionary lists, please click here.<br>For the new PSLE Scoring, please click here. |
+| Pupil Forms  | Please click here to download the forms. |
+| Pupil Insurance  | For more information regarding Pupil Insurance, please refer to the attachment: <br>INSURANCE CLAIMS.pdf<br>To make a claim, click here. |
+| Resources for Parents  | Schoolbag.sg<br>Please click here to access Schoolbag.sg.<br>Resource Kit - Transitioning Back to School <br>Parent Kit - Transitioning Back to School.pdf <br>Resource Kit - School Holiday Edition<br>Resource Kit - School Holiday Edition.pdf <br>Updates on PSLE Scoring & S1 Posting from 2021<br>PSLE 2021 Briefing Slides for Parents.pdf <br><br>Primary One-related Resources <br>• An overview of the primary education: Click here. <br>• Choosing the "right" primary school: Click here. <br>•  How should I choose a suitable primary school for my child?: Click here. <br>• Factors to consider when choosing a primary school:  Click here to watch the video. <br>• Preparing your child for Primary One: Click  here to watch the video. <br><br>Are Values Taught or Caught? <br>Click here to watch the video. <br><br>Parent Partnership <br>• How Parents Can Support Their Children In The Learning of Malay Language in Primary Schools: Click here. <br>•  How Parents Can Support Their Children In The Learning of Chinese Language in Primary Schools: Click here. <br>•  Guide for Parents on Setting Parental Controls: Click here. •  Supporting Children With Dyslexia: Click here.     |
+| Subject-based Banding  | For more information, please visit https://www.moe.gov.sg/primary/curriculum/subject-based-banding  |
+| Safety & Security Matters  | Safety and Security.pdf   |
+| School Vendors  |  Please click here for more information. |
+| Sexuality Education  |  Please click here for more information.   |
+| Useful Links for Students |  Koobits<br> MySkillsFuture Primary <br> Student Learning Space (SLS)<br> Student iCON |
+
 #### Assessments
 
 For School Examination Policy, Exam Schedule, Exam Scope of Topics and format of the examination papers, please click [here](https://staging.d3975mj8dcgb9n.amplifyapp.com/for-parents/assessments/) for more information.  
