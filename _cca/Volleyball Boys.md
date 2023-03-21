@@ -7,8 +7,9 @@ description: ""
 
 #### Teachers-in-Charge
 
-[Mdm Sofilia Bte Yahya](mailto:sofilia_yahya@moe.edu.sg)  
-Ms Tan Qian Ni  
+[Mdm Sofilia Bte Yahya](mailto:sofilia_yahya@moe.edu.sg)  <br>
+Ms Tan Qian Ni  <br>
+Ms Bernice Tan
 
   
 
