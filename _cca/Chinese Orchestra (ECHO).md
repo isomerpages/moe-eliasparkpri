@@ -5,14 +5,15 @@ description: ""
 ---
 ### Chinese Orchestra (ECHO)
 
-##### Teachers-in-charge
+#### Teachers-in-charge
 
 [Mdm Xi Donglei](mailto:xi_donglei@moe.edu.sg)  
 Ms Eleanor Wong  
+Ms Ong Hui Hui  
 Mr Kanan S/O Perumal  
 Ms Que Yi  
-Ms Ong Hui Hui  
 Mdm Jessie Wong  
+Ms Michelle Lim
   
 
 #### Gender
