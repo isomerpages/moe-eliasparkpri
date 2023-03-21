@@ -46,6 +46,7 @@ EPPS' CCE Programme adopts a 3-prong approach:  
     • Pastoral Care, Values Education, Social and Emotional Education, Discipline, Form Teacher  Guidance Period,  
       Form Teacher-Student Interaction Time, Awards such as Edusave Character Award (ECHA), Model Student  
       and Class Awards, etc. 
-*    Citizenship Education including • National Education, Social Studies, Values-in-Action, Community Outreach
+*    Citizenship Education including  <br>  
+    • National Education, Social Studies, Values-in-Action, Community Outreach
 *    Student Leadership Development including  
      • Opportunities to take on situational leadership and core leadership roles
