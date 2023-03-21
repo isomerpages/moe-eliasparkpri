@@ -9,9 +9,10 @@ description: ""
 
 [Mr Zhou Yuan](mailto:zhou_yuan@moe.edu.sg)  
 Mdm Fu Ye  
-Mr Jeremy Ker&nbsp;  
+Mr Jeremy Ker   
 Mr Alif Zulhilmi Bin Zakaria  
-  
+Mdm Chin Poh Lin
+
 ##### Gender  
 Boys &amp; Girls  
   
