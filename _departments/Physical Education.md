@@ -45,4 +45,8 @@ EPPS' PE Programme provides a range of movement experiences to develop students
 
 ##### Healthy Plate & Healthy Snacks 
 
-Eliasians are encouraged to make an effort to live a healthy life through daily healthy meals and healthy snacks. Eating a healthy plate and having healthy snacks is a good habit that we as teachers and parents need to instil in our children. At EPPS, students have a snack time from 11.50 pm – 12.00 pm where they are encouraged to eat healthy snacks. Recommended snacks include fruits, vegetables, nuts & raisins, wholemeal bread, wholemeal biscuits, cereals, plain water etc. During recess, teachers on duty will award PBS stamps to students who eat their fruits and vegetables. PBS stamps can be used to redeem prizes.
+Eliasians are encouraged to make an effort to live a healthy life through daily healthy meals and healthy snacks. Eating a healthy plate and having healthy snacks is a good habit that we as teachers and parents need to instill in our children. At EPPS, students have snack time every day, and they are encouraged to eat healthy snacks.   
+
+  
+
+Recommended snacks include fruits, vegetables, nuts, raisins, wholemeal bread, wholemeal biscuits and cereals. Students are also strongly encouraged to have their water bottles with them and make water their first choice of beverage.
