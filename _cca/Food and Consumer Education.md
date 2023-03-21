@@ -7,11 +7,9 @@ description: ""
 
 #### Teachers-in-charge
 
-[Mrs Baljeet Singh](mailto:baljeet_kaur_grewal@moe.edu.sg)  
-
-Mdm Sarina Salleh
-
-Mdm Valerie Jean De Souza
+[Mrs Baljeet Singh](mailto:baljeet_kaur_grewal@moe.edu.sg)  <br>
+Mdm Sarina Salleh<br>
+Ms Siddiqah
 
   
 
