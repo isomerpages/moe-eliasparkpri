@@ -5,7 +5,7 @@ description: ""
 ---
 ### Volleyball Boys
 
-#### Teachers-in-Charge
+#### Teachers-in-charge
 
 [Mdm Sofilia Bte Yahya](mailto:sofilia_yahya@moe.edu.sg)  <br>
 Ms Tan Qian Ni  <br>
