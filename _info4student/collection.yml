@@ -2,4 +2,4 @@ collections:
   info4student:
     output: true
     order:
-      - ForStudent.md
+      - 4student.md
