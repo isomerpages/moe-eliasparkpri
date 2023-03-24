@@ -14,5 +14,5 @@ sections:
           url: /announcements
         - title: Calendar of Events
           description: ""
-          url: /calendar/
+          url: https://eliasparkpri.moe.edu.sg/others/calendar
 ---
