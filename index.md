@@ -15,7 +15,7 @@ sections:
         - title: Calendar of Events
           description: ""
           url: https://eliasparkpri.moe.edu.sg/others/calendar
-        - title: For Student...
+        - title: Info for student...
           description: SLS, Student ICON & etc
           url: /ForStudent
 ---
