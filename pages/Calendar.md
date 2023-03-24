@@ -5,4 +5,4 @@ description: ""
 ---
 ### Calendar of Events
 
-Please insert calendar here.
+[Calendar](https://eliasparkpri.moe.edu.sg/others/calendar)
