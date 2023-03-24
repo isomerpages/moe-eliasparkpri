@@ -1,5 +1,4 @@
 collections:
   info4student:
     output: true
-    order:
-      - 4student.md
+    order: []
