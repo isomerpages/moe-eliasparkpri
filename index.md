@@ -15,8 +15,4 @@ sections:
         - title: Calendar of Events
           description: ""
           url: https://eliasparkpri.moe.edu.sg/others/calendar
-  - resources:
-      title: Middle title
-      subtitle: Large title
-      button: Button N1
 ---
