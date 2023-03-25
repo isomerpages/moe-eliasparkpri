@@ -3,11 +3,10 @@ title: For Student
 permalink: /link4/
 description: ""
 ---
-
-
-![](/images/Student%20Learning%20Space.png)
+![](/images/SLS%20RS%20480_02.png)
 ****[Student Learning Space](https://vle.learning.moe.edu.sg/login)****
 
 
-![](/images/icon2.png)
+![](/images/icon2_305.png)
 **[Student ICON Email](https://workspace.google.com/dashboard)**
+
