@@ -7,7 +7,7 @@ description: ""
 
 |  |  |
 |---|---|
-| Assessments | For School Examination Policy, Exam Schedule, Exam Scope of Topics and format of the examination papers, please click [here](/for-parents/assessments/) for more information.<br><br>For access arrangement, please click [here](/for-parents/acess-arrangement/) for more information. |
+| Assessments | For School Examination Policy, Exam Schedule, Exam Scope of Topics and format of the examination papers, please click [here](/for-parents/assessments/) for more information.<br><br>For access arrangement, please click [here](/for-parents/access-arrangement/) for more information. |
 | Booklists | [EPPS Booklist 2023 P1.pdf](/files/bl1.pdf)<br>[EPPS Booklist 2023 P2.pdf](/files/bl2.pdf)<br>[EPPS Booklist 2023 P3.pdf](/files/bl3.pdf)<br>[EPPS Booklist 2023 P3 Higher MT.pdf](/files/bl4.pdf)<br>[EPPS Booklist 2023 P4.pdf](/files/bl5.pdf)<br>[EPPS Booklist 2023 P4 Higher MT.pdf](/files/bl6.pdf)<br>[EPPS Booklist 2023 P5 Foundation.pdf](/files/bl7.pdf) <br>[EPPS Booklist 2023 P5 Standard.pdf](/files/bl8.pdf)<br>[EPPS Booklist 2023 P5 Higher MT.pdf](/files/bl9.pdf)<br>[EPPS Booklist 2023 P6 Foundation.pdf](/files/bl10.pdf)<br>[EPPS Booklist 2023 P6 Standard.pdf](/files/bl11.pdf)<br>[EPPS Booklist 2023 P6 Higher MT.pdf](/files/bl12.pdf) |
 | Class Time-table  | Please [here](https://staging.d3975mj8dcgb9n.amplifyapp.com/for-parents/class-timetable/) to find out what the abbreviations are for the subjects shown in your child's time-table. |
 | Direct School Admission (DSA)  | Please click [here](https://www.moe.gov.sg/secondary/dsa) for more information on Direct School Admission (DSA). |
