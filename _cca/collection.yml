@@ -1,0 +1,16 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Volleyball Girls.md
+      - Volleyball Boys.md
+      - Table Tennis.md
+      - Modern Dance.md
+      - Art and Crafts.md
+      - Scouts.md
+      - Chinese Orchestra (ECHO).md
+      - Choir.md
+      - Debating and Public Speaking.md
+      - Environmental Science.md
+      - Infocomm Technology (Computing).md
+      - Food and Consumer Education.md

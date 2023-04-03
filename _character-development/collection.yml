@@ -1,0 +1,7 @@
+collections:
+  character-development:
+    output: true
+    order:
+      - Model Student Character Award (2021).md
+      - Model Student Character Award (2020).md
+      - Model Student Character Award (2019).md
