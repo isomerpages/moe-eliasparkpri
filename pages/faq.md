@@ -6,7 +6,7 @@ permalink: /faq/
 
 1. **What is the dismissal time?**
 
-Students are dismissed at 1.30 p.m. daily.
+   Students are dismissed at 1.30 p.m. daily.
 
 2. **May I park my car in the school compound if I am attending a school event?**  
 Due to the limited number of parking lots, the school is not able to accommodate all visitors with vehicles. Parents attending mass briefings or events could park at one of the two multi-storey carparks at Blocks 500A or 521A just beside the school. 
