@@ -8,10 +8,7 @@ locations:
       - "11 "
       - Pasir Ris St. 52
       - Singapore 518866
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
+    operating_hours: []
     maps_link: ""
     title: General Office
 contacts:
