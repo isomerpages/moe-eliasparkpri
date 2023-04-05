@@ -5,9 +5,9 @@ permalink: /contact-us/
 agency_name: EPPS
 locations:
   - address:
-      - "11 "
-      - Pasir Ris St. 52
+      - 11 Pasir Ris St. 52
       - Singapore 518866
+      - ""
     operating_hours: []
     maps_link: https://goo.gl/maps/tk7dRwhcw1ZWGgDb6
     title: General Office
