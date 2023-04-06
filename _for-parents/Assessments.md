@@ -17,8 +17,7 @@ Please refer to the school planner
 
 #### Exam Schedule & Exam Scope of Topics
 
-[2022 EYE Exam Schedule.pdf](/files/a2.pdf) 
-[2022 EYE Exam Scope.pdf](/files/a3.pdf) 
+To be updated
   
 
 #### Paper Formats
