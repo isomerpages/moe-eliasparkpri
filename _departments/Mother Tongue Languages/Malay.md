@@ -27,18 +27,18 @@ To provide platforms for students to get to know and learn about the Malay langu
 
 ##### Programme Highlights
 
-*   Hari Raya Celebration Hari Raya Celebration is a joyous occasion celebrated by the whole school to promote understanding and appreciation amongst the students.
+*   Hari Raya Celebration&nbsp;Hari Raya Celebration is a joyous occasion celebrated by the whole school to promote understanding and appreciation amongst the students.
 
 <img src="/images/mal3.png" style="width:60%">
 
 
-*   Mother Tongue Language (MTL) Fortnight (Primary 1 - 6)  
+*   Mother Tongue Language (MTL) Fortnight  
 The intent of the MTL Fortnight is to nurture the joy of learning by creating a conducive environment and providing platforms for our students to use the mother tongue language. A variety of learning opportunities such as cultural lessons related to MTL language and culture will be conducted.
 
 <img src="/images/mal4.png" style="width:60%">
 
 *   Reading Programme  
-The reading programme hopes to inculcate the love of reading for Malay Language books in the different genres. Students are also encouraged to share the books that they have read with their peers through different platforms.
+The reading programme hopes to inculcate the love of reading for Malay Language books in the different&nbsp;genres. Students are also encouraged to share the books that they have read with their peers through different platforms.
 
 <img src="/images/mal5.png" style="width:60%">
 
