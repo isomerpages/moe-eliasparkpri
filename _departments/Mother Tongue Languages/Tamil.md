@@ -50,9 +50,6 @@ According to MOE curriculum, Tamil students are only introduced to the Tamil alp
     
 This programme is for students in Primary 4. Every day, students have to spend at least 10 minutes with their parents on activities that will expose the students to the Tamil Language. A wide range of interesting activities are assigned to students in SLS.
 
-<img src="/images/tam2.png" style="width:60%">
-
-
 
 *   Mother Tongue Language Fortnight  
 
