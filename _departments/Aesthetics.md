@@ -45,11 +45,11 @@ Check out our Virtual Art Exhibition online:&nbsp;[https://tinyurl.com/virtualhu
 #### Approach/ Framework
 
 To develop our Eliasians' interest and talent in the Arts and Music, we have 3 tiers framework to create diverse learning experiences in Art, Music, Drama and Dance. Our holistic approach also gives Eliasians the opportunities to express themselves and deepen their sense of pride in our multi-cultural heritage.
-Our Aesthetics Department comprises both the Art and Music Units, and the teams work closely together to design Aesthetics programmes in Elias Park Primary School.&nbsp;We aim to develop students’ interest and skills in Art and Music through the following stages:
-
-<img src="/images/aes1.png" style="width:60%">
 
 #### Programmes
+Our Aesthetics Department comprises both the Art and Music Units, and the teams work closely together to design Aesthetics programmes in Elias Park Primary School.&nbsp;We aim to develop students’ interest and skills in Art and Music through the following stages of programmes:
+
+<img src="/images/aes1.png" style="width:60%">
 
 We also adopt a whole school approach to nurture creative students with a passion for the arts in a values-based environment through the following:
 <img src="/images/aes2.png" style="width:60%">
