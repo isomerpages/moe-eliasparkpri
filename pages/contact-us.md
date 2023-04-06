@@ -15,6 +15,6 @@ contacts:
   - content:
       - phone: +65 6584 4393
       - email: epps@moe.edu.sg
-      - other: </i>www.epps.moe.edu.sg</i>
+      - other: ""
     title: General Enquiries & Feedback
 ---
