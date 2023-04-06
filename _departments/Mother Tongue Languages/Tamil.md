@@ -81,7 +81,7 @@ Deepavali is celebrated each year to promote the understanding of Indian traditi
 
 *   External Competitions  
 
-Our students will be taking part in various competitions organised by the Tamil Writers’ Association of Singapore.&nbsp;Students from P1 and P2 will take part in the Fancy Dress competition. P3 and P4 students will take part in the story-telling competition, while students from P5 and P6 will be taking part in the oratorical competition.
+Our students will be taking part in various competitions organised by the Telok Blangah CC. Students from P2 will take part in the Reading competition. P3 and P4 students will take part in the story-telling competition and essay-writing competition respectively. Students from P5 and P6 will be taking part in the oratorical competition.
 
 ##### Useful Link  
 [http://noolagam.com/](http://noolagam.com/)
