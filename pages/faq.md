@@ -15,5 +15,5 @@ Due to the limited number of parking lots, the school is not able to accommodat
 All visitors to the school (including parents and guardians) are to obtain a Visitor Pass at the Security Post. Thereafter, they are to proceed to the General Office where the school staff will assist them. The pass must be prominently worn at all times.  
 **4. What are the operating hours of school's General Office?**
 
-The operating hours of the General Office are from 7.00 a.m. to 5.30 p.m., Mondays to Fridays (during school term) and 7.00 a.m. to 4.30 p.m., Mondays to Fridays (during school holidays).  
-Parents/Guardians are not allowed to walk into the classrooms to look for teachers or their child/ward, unless prior arrangements have been made (eg during Meet-The-Parents session). 
+ The operating hours of the General Office are   from 7.00 a.m. to 5.30 p.m., Mondays to Fridays (during school term) and 7.00 a.m. to 4.30 p.m., Mondays to Fridays (during school holidays).  
+Parents/Guardians are not allowed to walk into the classrooms to look for teachers or their child/ward, unless prior arrangements have been made (eg during Meet-The-Parents session).
