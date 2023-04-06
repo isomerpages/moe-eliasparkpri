@@ -7,7 +7,7 @@ description: ""
 
 #### Expectations of Eliasians 
 
-##### a) School Rules
+##### (1) School Rules
 
 *   Students must attend the flag-raising and pledge-taking ceremony and stand at attention.
 *   Students who are Singapore Citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist over the heart.
@@ -18,7 +18,7 @@ Please refer to the school planner for the consequences/corrective strategies fo
 
   
 
-##### The 5 'I Wills'
+##### (2) School Creed
 
 As an Eliasian,
 
@@ -31,9 +31,9 @@ As an Eliasian,
 
   
 
-##### b) Reporting Time
+##### (3) Reporting Time
 
-*   Flag-raising ceremony will commence at 7.30 a.m. Therefore, all students must report to school by 7.25 am.
+*   Flag-raising ceremony will commence at&nbsp;7.30 a.m.&nbsp;Therefore, all students must report to school by&nbsp;7.25 am.
 
 
 #### Guidelines for Appearance of Eliasians

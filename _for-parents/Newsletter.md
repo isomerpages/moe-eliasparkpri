@@ -5,10 +5,8 @@ description: ""
 ---
 ### Newsletter
 
-[2022 EPPS Newsletter for Term 1.pdf](/files/nl1.pdf)
 
-[2022 EPPS Newsletter for Term 2.pdf](/files/nl2.pdf)
+[2023 EPPS Newsletter for Term 1.pdf](/files/23nlt1.pdf)
 
-[2022 EPPS Newsletter for Term 3.pdf](/files/nl3.pdf)
+[2023 EPPS Newsletter for Term 2.pdf](/files/23nlt2.pdf)
 
-[2022 EPPS Newsletter for Term 4.pdf](/files/nl4.pdf)
