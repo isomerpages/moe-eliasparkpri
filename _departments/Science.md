@@ -7,7 +7,7 @@ description: ""
 
 ##### Introduction  
 
-At Elias Park Primary School, the Science department believes in nurturing our Eliasians to be an inquirer. We provide different learning opportunities to encourage and challenge them to develop their sense of inquiry. A strong foundation in scientific knowledge and skills is also what the department aims to achieve for every child. Through the different programmes put in place, we aim to develop critical 21st Century skills such as the reasoning and analytical skills and the flexibility to learn new things.  
+At Elias Park Primary School, the Science department believes in nurturing our Eliasians to be an inquirer. We provide different learning opportunities to encourage and challenge them to develop their sense of inquiry. A strong foundation in scientific knowledge and skills is also what the department aims to achieve for every child. Through the different programmes put in place, we aim to develop critical 21st Century skills such as the reasoning and analytical skills and the flexibility to learn new things.&nbsp;&nbsp;
 
   
 
@@ -19,21 +19,21 @@ Every Eliasian with an inquiring mind for Science.
 
 ##### Mission
 
-To nurture Eliasians to have a lively curiosity in the Sciences.  
+To nurture Eliasians to have a lively&nbsp;curiosity&nbsp;in the Sciences.  
   
 
 ##### Twin Goals of Science Education*
 
 Our students are diverse, with different needs, interests and aptitudes for Science. Given the diversity of our students and the needs of Singapore, the twin goals of Science education are to:  
 1\. Enthuse and nurture all students to be scientifically literate, so that they are able to make informed decisions  
-    and take responsible actions in their daily lives; and  
+&nbsp; &nbsp; and take responsible actions in their daily lives; and  
 2\. Provide strong Science fundamentals for students to innovate and pursue STEM for future learning and work.
 
 ##### Learning Outcomes*
 
-*   Provide students with experiences which build on their interest in and stimulate their curiosity about their environment 
-*   Provide students with basic scientific terms and concepts to help them understand themselves and the world around them 
-*   Provide students with opportunities to develop skills, habits of mind and attitudes necessary for scientific inquiry 
+*   Provide students with experiences which build on their interest in and stimulate their curiosity about their environment&nbsp;
+*   Provide students with basic scientific terms and concepts to help them understand themselves and the world around them&nbsp;
+*   Provide students with opportunities to develop skills, habits of mind and attitudes necessary for scientific inquiry&nbsp;
 *   Prepare students towards using scientific knowledge and methods in making personal decisions
 *   Help students appreciate how science influences people and the environment
 
@@ -42,44 +42,44 @@ Our students are diverse, with different needs, interests and aptitudes for Scie
 
 ##### Approach/Framework
 
-EPPS' Science Programme adopts a 3-prong approach:  
+EPPS' Science Programme adopts a 3-prong approach: &nbsp;
 
 
 *   Science in daily life  
-Students will be able to see science in their daily life and thus able to apply the science concepts learnt in class to solve problems they encounter in school or at home. 
+Students will be able to see science in their daily life and thus able to apply the science concepts learnt in class to solve problems they encounter in school or at home.&nbsp;
 *   Science in society  
-    • Students have the opportunities to take part in projects such as Community in Bloom to care for the plants around them.  
+    •&nbsp;Students have the opportunities to take part in projects such as Community in Bloom to care for the plants around them.  
     • They will also have opportunities to present to the community on the school’s Butterfly Garden, Fernery and Herb Garden.
 *   Science and the environment  
     • Students have the opportunities to take on leadership roles to present to the public on the recycling efforts of the school such as food waste recycling.  
-    • Through Design Thinking strategy, students will also brainstorm for ways to solve authentic problems with  
-      science knowledge and skills.  
+    • Through&nbsp;Design Thinking strategy, students will also brainstorm for ways to solve authentic problems with  
+    &nbsp; science knowledge and skills.  
     
 
 #### Programmes
 
-###### Setting the Foundation
+#####  Setting the Foundation
 
-**Level: Primary 2**<Br>
+**Level: Primary 2**<br>
 Early Science Programme
 
 Tapping on the STELLAR unit, A Butterfly is Born, the Primary 2 students make a trip to Elias Park Primary School’s very own Butterfly Garden to see the life cycle of butterfly coming to life. Furthermore, each child will be able to put their observation and comparison skills to spot the and compare the visiting butterflies.
 
   
 
-In addition, P2 students will also be exposed to the topic, _Materials_. They will get to learn about the properties of the different recycled materials and using these materials to build a boat. They even get a chance to sail their boat in the Science pond!
+In addition, P2 students will also be exposed to the topic,&nbsp;_Materials_. They will get to learn about the properties of the different recycled materials and using these materials to build a boat. They even get a chance to sail their boat in the Science pond!
 
 ##### Strengthening the Foundation
 
 **Level: Primary 3** <br>
 Interdisciplinary Project Work (IPW)-cum-Compost Making and Food Waste Recycling Programme
 
-Tapping on the APBL platform, the P3 students will look into ways to solve the issue of overwhelming food waste generated by Singapore each year.  Students will be able to observe how the food waste collected after each recess is generated into plant fertilisers using 2 methods, the worm composter and the food waste recycler machine. At the end of this programme, students will have the chance to fertilise the plants in the school with the fertilisers they generated.
+Tapping on the APBL platform, the P3 students will look into ways to solve the issue of overwhelming&nbsp;food waste generated by Singapore each year.&nbsp; Students will be able to observe how the food waste collected after each recess is generated into plant fertilisers using 2 methods, the worm composter and the food waste recycler machine. At the end of this programme, students will have the chance to fertilise the plants in the school with the fertilisers they generated.
 
 <img src="/images/sci1.png" style="width:60%">
 
-**Levels: Primary 4 & 5**  
-<Br>Excellence 2000 (E2K) Science Programme
+**Levels: Primary 4 &amp; 5**  
+<br>Excellence 2000 (E2K) Science Programme
 
 Primary 4 and 5 students who demonstrate interest and ability in Science will be selected for the E2K programme. This programme engages students in scientific investigations involving advanced science concepts. It aims to engage students in scientific inquiry that will help them to develop the habits, attitudes and dispositions scientists possess as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.  
 
@@ -103,14 +103,14 @@ The Science department created a vibrant butterfly garden attracting a diverse s
 
 <img src="/images/sci3.png" style="width:60%">
 
-**Levels: Primary 3 & 5** <Br>   
+**Levels: Primary 3 &amp; 5** <br>&nbsp;  
 Hydroponics@EPPS  
 
 The newly constructed nutrient film technique (NFT) hydroponics system is our newest addition to our Science Garden. NFT is a hydroponic technique where in a very shallow stream of water containing all the dissolved nutrients required for plant growth is re-circulated past the bare roots of plants in a watertight gully. Besides introducing the importance of food sustainability (Ministry of Environment and Sustainability’s Green Plan 2030) in Singapore, this hydroponics system is also a learning centre for our P3 and P5 students on Plant System and IPW programme respectively.
 
 <img src="/images/sci4.png" style="width:60%">
 
-**Levels: Primary 5 & 6**<br>   
+**Levels: Primary 5 &amp; 6**<br>&nbsp;  
 Navitas Eliascus 
 
 The Navitas Eliascus is a project that harnesses solar and wind as renewable energy. It addresses our school’s needs of providing an experiment test-bed for habit of inquiry. Through the Navitas Eliascus, we are able to instil the five attributes of an Eliasian in students – Scholar, Sportsman, Artist, Citizen and Leader. Similarly, the project is able to cater to the students’ multiple intelligences and the different learning styles. Navitas Eliascus is a learning centre for the students of Elias Park Primary School and the community.
