@@ -21,7 +21,7 @@ description: ""
 | Meet-The-Parents' Sessions <br> |Primary 2 <br>[P2 Classroom Slides 2023.pdf](/files/mtps1.pdf)<br>Primary 3 &amp; 4<br>[P3 Classroom Slides 2023.pdf](/files/mtps2.pdf)<br>[P4 Classroom Slides 2023.pdf](/files/mtps3.pdf)<br>Primary 5 &amp; 6<br>[P5 Classroom Slides 2023.pdf](/files/mtps4.pdf)<br>[P6 Classroom Slides 2023.pdf](/files/mtps5.pdf) |
 |  |
 | Online Library Catalogue  | Please click [here](https://schoolibrary.moe.edu.sg/eliasparkpri) to access the catalogue. |
-| P1 Orientation   | [P1 Orientation 2023.pdf](/files/P1%20Orientation%202023.pdf) |
+| P1 Orientation   | To be updated |
 | Primary 1 Phase 1 Registration | To be updated |
 | Parents Support Group  | Please click here to find out more about our school's Parents Support Group (PSG).  |
 | Parent Kit  | [Parent Kit - Starting School Right Jan 2020.pdf](/files/Parent%20Kit%20-%20Starting%20School%20Right%20Jan%202020.pdf)  |
