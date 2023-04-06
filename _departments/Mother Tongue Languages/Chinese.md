@@ -8,12 +8,12 @@ third_nav_title: Mother Tongue Languages
 
 ##### Vision
 
-Effective communicator with a passion for learning Chinese language and culture.   
+Effective communicator with a passion for learning Chinese language and culture.&nbsp;  
   
 
 ##### Mission
 
-To develop students' interest in learning Chinese language and culture.   
+To develop students' interest in learning Chinese language and culture.&nbsp;  
   
 
 ##### Learning Outcomes
@@ -32,7 +32,7 @@ To develop students' interest in learning Chinese language and culture. 
 #### Programme Highlights
 
 *   Chinese New Year Celebration **（农历新年庆祝会）**  
-    Chinese New Year was celebrated on 20th January this year to promote the understanding of Chinese traditions and customs. With a better understanding of this festival, students are more aware of the Chinese culture and the values behind the customs and traditions.
+    Chinese New Year was celebrated on 31st January this year to promote the understanding of Chinese traditions and customs. With a better understanding of this festival, students are more aware of the Chinese culture and the values behind the customs and traditions.
 		
 <img src="/images/chinese1.png" style="width:60%">		
 
@@ -41,7 +41,7 @@ To develop students' interest in learning Chinese language and culture. 
 
 <img src="/images/chi3.png" style="width:60%">		
 
-*   Primary 2, 4, 5 and 6 Cultural Performances **(文化随意门)**
+*   Primary 4 and 5 Cultural Performances **(文化随意门)**
   
 As part of their Chinese cultural learning journey, Primary 4 and 5 students will watch a drama performance. The objective of the learning journey is to enhance students’ interest in the Chinese Language and culture.
 
@@ -49,6 +49,6 @@ As part of their Chinese cultural learning journey, Primary 4 and 5 students wil
 
 *   **Conversational Chinese and Malay Programme**
 
-The Conversational Chinese and Malay (CCM) Programme is for Primary 3 and 4 students. This is a platform for students to strengthen bonds with their friends of different races and to appreciate Chinese and Malay cultures and values. Through the CCM programme, students acquire basic proficiency in either Mandarin or Malay and are exposed to traditional cultures and norms of those communities through fun and engaging cultural activities.
+The Conversational Chinese and Malay (CCM) Programme is for Primary 3 and 4 students. This is a good platform for students to strengthen bonds with their friends of different races and to appreciate Chinese and Malay cultures and values. Through the CCM programme, students acquire basic proficiency in either Mandarin or Malay and are exposed to traditional cultures and norms of those communities through fun and engaging cultural activities.
 
 <img src="/images/chi5.png" style="width:60%">
