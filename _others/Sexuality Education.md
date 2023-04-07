@@ -50,7 +50,7 @@ b. Character and Citizenship Education&nbsp;(CCE)
 **At Elias Park Primary School, the following Sexuality Education lessons will be taught in&nbsp;2023:**
 
 **Primary 5**
-
+![Sexuality Education P5 2023](/images/p5%202023_sexuality%20education.PNG)
 
 
 **Primary 6**
