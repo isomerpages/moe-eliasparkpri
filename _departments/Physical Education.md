@@ -7,7 +7,7 @@ description: ""
 
 ##### Vision  
 
-Every Eliasian an Active and Physically Competent Individual  
+Every Eliasian an Active and Healthy Individual  
   
 
 ##### Mission
@@ -29,7 +29,7 @@ Empowering Eliasians with the skills, knowledge and attitudes to lead Active and
 
 ##### Approach/Framework
 
-EPPS' PE Programme provides a range of movement experiences to develop students’ overall development and to help all students develop a foundation for an active life. It adopts a 3-staged developmental approach:  
+EPPS' PE Programme&nbsp;provides a range of movement experiences to develop students’ overall development and to help all students develop a foundation for an active life. It&nbsp;adopts a 3-staged developmental approach:&nbsp;&nbsp;
 
 
 <img src="/images/peframework2023.png" style="width:60%">
@@ -43,9 +43,9 @@ EPPS' PE Programme provides a range of movement experiences to develop students
 
 <img src="/images/pe4.png" style="width:60%">
 
-##### Healthy Plate & Healthy Snacks 
+##### Healthy Plate &amp; Healthy Snacks&nbsp;
 
-Eliasians are encouraged to make an effort to live a healthy life through daily healthy meals and healthy snacks. Eating a healthy plate and having healthy snacks is a good habit that we as teachers and parents need to instill in our children. At EPPS, students have snack time every day, and they are encouraged to eat healthy snacks.   
+Eliasians are encouraged to make an effort to live a healthy life through daily healthy meals and healthy snacks. Eating a healthy plate and having healthy snacks is a good habit that we as teachers and parents need to instill in our children. At EPPS, students have snack time every day, and they are encouraged to eat healthy snacks.&nbsp;  
 
   
 

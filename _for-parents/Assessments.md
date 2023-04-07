@@ -11,14 +11,13 @@ Please refer to the school planner
 
 ##### School Examination Policy
 
- [2021 School Examination Policy.pdf](/files/a1.pdf) 
+[2023 School Weighted Assessment and Examination Policy](/files/2023%20school%20weighted%20assessment%20and%20examination%20policy.pdf) 
   
   
 
 #### Exam Schedule & Exam Scope of Topics
 
-[2022 EYE Exam Schedule.pdf](/files/a2.pdf) 
-[2022 EYE Exam Scope.pdf](/files/a3.pdf) 
+To be updated
   
 
 #### Paper Formats
@@ -63,4 +62,4 @@ Please refer to the school planner
 [P5 Tamil Language Assessment Format (Higher Tamil).pdf](/files/a16.pdf)    
 [P6 Tamil Language Assessment Format (Standard Tamil).pdf](/files/a17.pdf)   
 [P6 Tamil Language Assessment Format (Foundation).pdf](/files/a18.pdf) 
-[P6 Tamil Language Assessment Format (Higher Tamil).pdf](/files/a19.pdf) 
+[P6 Tamil Language Assessment Format (Higher Tamil).pdf](/files/a19.pdf)

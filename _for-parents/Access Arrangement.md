@@ -35,10 +35,10 @@ description: ""
 
 #### Contact personnel
 
-*   For Access Arrangements application for school examination, please kindly fill up the form and pass the form with the supporting documents to your child’s form teacher.
+* For Access Arrangements application for school examination, please kindly fill up the form and pass the form with the supporting documents to your child’s form teacher.
 
-    For Access Arrangements application for school examination, please contact Mdm Raihan at                     [noor\_raihan\_mohamed\_rashid@moe.edu.sg](mailto:noor_raihan_mohamed_rashid@moe.edu.sg)
+* For Access Arrangements application for school examination, please contact Mrs Carlin Tee at  [carlin_mulyati@moe.edu.sg](mailto:carlin_mulyati@moe.edu.sg)
 
-*   For Access Arrangements application for PSLE, please kindly inform your child’s form teacher and submit the supporting documents accordingly.
+* For Access Arrangements application for PSLE, please kindly inform your child’s form teacher and submit the supporting documents accordingly.
 
-    For PSLE Access Arrangements, please contact Mdm Vasanthi at [rengaraju\_vasanthi@moe.edu.sg](mailto:rengaraju_vasanthi@moe.edu.sg)
+* For PSLE Access Arrangements, please contact Mdm Siti Nur Aisyah at [siti_nur_aisyah@moe.edu.sg](mailto:siti_nur_aisyah@moe.edu.sg)
