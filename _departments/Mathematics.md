@@ -79,5 +79,3 @@ Selected Eliasians who possess great aptitude for mathematics are identified to 
     Learning log serves as a platform for students to document what they have learnt throughout the lesson. It allows students to take responsible of their own learning, thus nurturing them to be self-directed learners.&nbsp;
 		
 In alignment with our department vision and mission, we have put in place a variety of programmes to bring this vision and mission to fruition.		
-		
-<img src="/images/math3.png" style="width:60%">
