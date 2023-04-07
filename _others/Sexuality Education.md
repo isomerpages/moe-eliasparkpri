@@ -37,19 +37,17 @@ You may&nbsp;click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;f
 
 5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics on sexuality include:
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; a.&nbsp;Science
+a. Science
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; b.&nbsp;Form Teacher Guidance Period (FTGP)
+b. Character and Citizenship Education&nbsp;(CCE)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; c.&nbsp;Character and Citizenship Education&nbsp;(CCE)
+**Sexuality Education Lessons**
 
-**Sexuality Education**: “Curious Minds (2nd&nbsp;Edition)” (Primary 5 &amp; 6) Teaching &amp; Learning resource package
+6. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources. 
 
-6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years mark the onset of puberty.&nbsp; With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.
+7. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. 
 
-7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Primary 5 &amp; 6 Sexuality Education Teaching and Learning resource package, “Curious Minds (2nd&nbsp;Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping&nbsp;students navigate&nbsp;_changes_, build healthy&nbsp;_relationships_, especially online relationships, and exercise&nbsp;_safety_.&nbsp;
-
-**At Elias Park Primary School, the following Sexuality Education lessons will be taught in&nbsp;2022:**
+**At Elias Park Primary School, the following Sexuality Education lessons will be taught in&nbsp;2023:**
 
 **Primary 5**
 
