@@ -22,13 +22,13 @@ description: ""
 
 (a)	Love and respect yourself as you love and respect others;
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(ii)&nbsp;Build positive relationships based on love and respect (which are the foundation for strong families);
+(b)	Build positive relationships based on love and respect (which are the foundation for strong families);
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(iii)&nbsp;Make responsible decisions for yourself, your family and society; and&nbsp;
+(c)	Make responsible decisions for yourself, your family and society; and
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(iv)&nbsp;Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
+(d)	Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may&nbsp;click&nbsp;[here](https://www.moe.gov.sg/programmes/sexuality-education)&nbsp;for more information on MOE Sexuality Education.&nbsp;
+You may&nbsp;click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.&nbsp;
 
 #### Overview of Elias Park Primary&nbsp;School’s&nbsp;Sexuality Education Programme for 2022
 
