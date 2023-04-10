@@ -12,12 +12,15 @@ Please refer to the school planner
 ##### School Examination Policy
 
 [2023 School Weighted Assessment and Examination Policy](/files/2023%20school%20weighted%20assessment%20and%20examination%20policy.pdf) 
+[Assessment letter P4 30 March 2023](/files/assessment%20letter%20p4%2030%20march%202023.pdf)
+
   
   
 
-#### Exam Schedule & Exam Scope of Topics
+#### Schedule & Scope of Topics
 
-To be updated
+[Assessment letter P3 30 March 2023]()
+
   
 
 #### Paper Formats
