@@ -11,15 +11,16 @@ Please refer to the school planner
 
 ##### School Examination Policy
 
-[2023 School Weighted Assessment and Examination Policy](/files/2023%20school%20weighted%20assessment%20and%20examination%20policy.pdf) 
-[Assessment letter P4 30 March 2023](/files/assessment%20letter%20p4%2030%20march%202023.pdf)
+[2023 School Weighted Assessment and Examination Policy](/files/2023%20school%20weighted%20assessment%20and%20examination%20policy.pdf)&nbsp;
 
-  
-  
 
-#### Schedule & Scope of Topics
+
+#### Schedule &amp; Scope of Topics
 
 [Assessment letter P3 30 March 2023]()
+<br>[Assessment letter P4 30 March 2023](/files/assessment%20letter%20p4%2030%20march%202023.pdf)
+<br>[Assessment letter P5 30 March 2023](/files/assessment%20letter%20p5%2030%20march%202023.pdf)
+<br>[Assessment letter P6 30 March 2023](/files/assessment%20letter%20p6%2030%20march%202023.pdf)
 
   
 
@@ -33,7 +34,7 @@ Please refer to the school planner
 
 ##### Mathematics
 
-[P3 - P6 Mathematics Assessment Format.pdf](/files/a5.pdf)    
+[P3 - P6 Mathematics Assessment Format.pdf](/files/a5.pdf) &nbsp;  
 
 ##### Science
 
@@ -61,8 +62,8 @@ Please refer to the school planner
 [P3 Tamil Language Assessment Format.pdf](/files/a12.pdf) 
 [P4 Tamil Language Assessment Format.pdf](/files/a13.pdf) 
 [P5 Tamil Language Assessment Format (Standard Tamil).pdf](/files/a14.pdf) 
-[P5 Tamil Language Assessment Format (Foundation).pdf](/files/a15.pdf)    
-[P5 Tamil Language Assessment Format (Higher Tamil).pdf](/files/a16.pdf)    
+[P5 Tamil Language Assessment Format (Foundation).pdf](/files/a15.pdf) &nbsp;  
+[P5 Tamil Language Assessment Format (Higher Tamil).pdf](/files/a16.pdf) &nbsp;  
 [P6 Tamil Language Assessment Format (Standard Tamil).pdf](/files/a17.pdf)   
 [P6 Tamil Language Assessment Format (Foundation).pdf](/files/a18.pdf) 
 [P6 Tamil Language Assessment Format (Higher Tamil).pdf](/files/a19.pdf)
