@@ -61,6 +61,6 @@ Art &amp; Crafts Club students develop their creativity, self-expression and und
 
 [https://www.syf.gov.sg/art-exhibition/the-online-art-gallery-2021](https://www.syf.gov.sg/art-exhibition/the-online-art-gallery-2021)&nbsp;(SYF Online Art Gallery)
 
-[https://tinyurl.com/2p955j75](https://tinyurl.com/2p955j75)&nbsp;(SYF Art Exhibition E-catalogue)
+
 
 <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSVpmd1ikoMC3xRsk0tU7dMS0zM8USAwVdnWCISvRejAD1LLL_VX8qbKNB5xw75t7baBrOm15LTGn_z/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
