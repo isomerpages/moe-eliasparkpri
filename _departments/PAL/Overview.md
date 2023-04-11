@@ -37,5 +37,5 @@ List of modules:
 | Sports and Games | Outdoor Education | Visual Arts | Performing Arts |
 |:---:|:---:|:---:|:---:|
 | We Are Olympians!  | Outdoor Explorer 1 | Master of the Arts | Creative Cultural Dance |
-| Let's Find Nemo! | Outdoor Explorer 2 | Digistory | Creative Drama |
+| Let's Find Nemo! | Outdoor Explorer 2 | | Creative Drama |
 |  |  |  |  |
