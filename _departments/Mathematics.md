@@ -60,12 +60,13 @@ _Abstract representation_&nbsp;\- a student is now capable of representing probl
 ##### Programmes  
 
 *   **Mathematics Journal (Primary 1 to&nbsp; 6)**&nbsp;
-Mathematics Journals are platforms for students to communicate the reasons behind their thinking based on selected given concepts. This would allow their thinking to be made more visible through the appropriate use of mathematical language&nbsp;and reflect on their responses, thus promoting metacognition in our students.
+<br>Mathematics Journals are platforms for students to communicate the reasons behind their thinking based on selected given concepts. This would allow their thinking to be made more visible through the appropriate use of mathematical language.
+
 *   **F.A.S.T Progamme (Primary**&nbsp;**1 to 3)**&nbsp;  
     F.A.S.T (Fluency, Accuracy, Speed in a given Time) is a programme that aims to improve students’ proficiency in performing calculations involving the 4 operations. The mastery in this area would help to reduce their cognitive load so as to allow students to focus on problem-solving matters.
 
-*   **Mathematical Olympiad Competition**
-<br>Selected Eliasians who possess great aptitude for mathematics are identified to participate in Mathematical Olympiad competitions namely the Singapore Mathematical Olympiad for Primary Schools (SMOPS) and National Mathematical Olympiad of Singapore (NMOS).
+*   **Mathematical Olympiad Competitions (Primary 5 and 6)**
+<br>Eliasians who possess great aptitude for Mathematics are identified for this programme. Through the  training, they will acquire skills and techniques required to solve challenging problems and be exposed to the spirit of learning through participating in Mathematical Olympiad competitions such as the Singapore Mathematical Olympiad for Primary Schools (SMOPS) for Primary 6 and National Mathematical Olympiad of Singapore (NMOS) for Primary 5.
 
 *   **Improve Confidence and Achievement in Numeracy (ICAN)**  
     ICAN is targeted at improving the confidence and achievement of low progress learners in maths by levelling up the students in the learning of Mathematics using intervention strategies to tackle 4 key issues of learning gaps, language, motivation and memory.
