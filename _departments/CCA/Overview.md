@@ -57,15 +57,13 @@ The school will allocate each student with&nbsp;1&nbsp;CCA based on:
   
 
 *   Students will be selected for these opportunities based on:
-
-1\.  Commitment&nbsp;with regular&nbsp;attendance  <br>
+<br>1\.  Commitment&nbsp;with regular&nbsp;attendance  <br>
 2\.  Demonstration&nbsp;of good attitude and&nbsp;values <br>
 3\.  CCA Specific Skills/knowledge and competency level&nbsp;<br>
 4\.  Teachers’ / Instructors’ / Coaches’&nbsp;recommendation
 
 *   The school will also develop students’ values, 21st&nbsp;CC and leadership competencies through:
-
-1\.  CCA leaders' training <br>
+<br>1\.  CCA leaders' training <br>
 2\.  Mid and End Year Reflection Sessions <br>
 3\.  CCA Roadshow Showcase<br>
 4\.  CCA Appreciation
