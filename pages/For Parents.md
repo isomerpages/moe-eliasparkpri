@@ -19,11 +19,10 @@ description: ""
 | Home-School Newsletters | Please click [here](https://staging.d3975mj8dcgb9n.amplifyapp.com/for-parents/newsletter/) to download the newsletters. |
 | Leave of Absence (LOA) | Singaporeans who are planning to go overseas for work or related concerns may reserve places for their children in their current school under the Leave of Absence (LOA) Scheme. Upon their return to Singapore the children can be readmitted directly to their schools.<br>Applicants are to submit their application via [LOA Formsg link](https://form.gov.sg/#!/60bd8dad79dded0011f07645) and the LOA fees to the school.  |
 | Meet-The-Parents' Sessions <br> |Primary 2 <br>[P2 Classroom Slides 2023.pdf](/files/mtps1.pdf)<br>Primary 3 &amp; 4<br>[P3 Classroom Slides 2023.pdf](/files/mtps2.pdf)<br>[P4 Classroom Slides 2023.pdf](/files/mtps3.pdf)<br>Primary 5 &amp; 6<br>[P5 Classroom Slides 2023.pdf](/files/mtps4.pdf)<br>[P6 Classroom Slides 2023.pdf](/files/mtps5.pdf) |
-|  |
 | Online Library Catalogue  | Please click [here](https://schoolibrary.moe.edu.sg/eliasparkpri) to access the catalogue. |
 | P1 Orientation   | To be updated |
 | Primary 1 Phase 1 Registration | To be updated |
-| Parents Support Group  | Please click here to find out more about our school's Parents Support Group (PSG).  |
+| Parents Support Group  | Please click [here](https://sites.google.com/moe.edu.sg/eppspsg?usp=sharing) to find out more about our school's Parents Support Group (PSG).  |
 | Parent Kit  | [Parent Kit - Starting School Right Jan 2020.pdf](/files/Parent%20Kit%20-%20Starting%20School%20Right%20Jan%202020.pdf)  |
 | Prelims &amp; PSLE Matters  | For PSLE matters such as the 2023 PSLE Examination timetable, paper formats, approved calculator/dictionary lists, please click [here](https://www.seab.gov.sg/home/examinations/psle).<br>For the new PSLE Scoring, please click [here](https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html). |
 | Pupil Forms  | Please click &nbsp;[here](https://staging.d3975mj8dcgb9n.amplifyapp.com/for-parents/forms/) to download the forms. |
