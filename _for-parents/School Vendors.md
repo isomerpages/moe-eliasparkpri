@@ -14,7 +14,7 @@ description: ""
 | School Uniform, PE Attire &amp; Name Tag | Vendor | Yangtze Kiang Tailor |
 |   | Telephone | 6769 1260 / 6769 2053 |
 |   | Address | Blk 26, Teck Whye Lane, #01-180/182, Singapore 680026 |
-|   | Online Order | [website](www.yangtzekiang.com.sg/eshop)
+|   | Online Order | [website](https://www.yangtzekiang.com.sg/eshop/)
 |   | Opening Hours | Monday to Friday: 8.30 a.m. - 7.00 p.m. <br>Saturday: 8.30 a.m. - 4.30 p.m.<br>Closed on Sundays &amp; Public Holidays |
 | School Bookshop | Vendor | BL Marketing Pte Ltd |
 |   | Telephone | 6284 8785 |
