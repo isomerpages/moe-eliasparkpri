@@ -6,7 +6,7 @@ links:
     collection: signature-programmes
   - title: Departments
     collection: departments
-  - title: For Parents
-    url: /for-parents
   - title: Achievements
     collection: achievements
+  - title: For Parents
+    url: /for-parents
