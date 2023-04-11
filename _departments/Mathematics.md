@@ -65,8 +65,7 @@ Mathematics Journals are platforms for students to communicate the reasons behin
     F.A.S.T (Fluency, Accuracy, Speed in a given Time) is a programme that aims to improve students’ proficiency in performing calculations involving the 4 operations. The mastery in this area would help to reduce their cognitive load so as to allow students to focus on problem-solving matters.
 
 *   **Mathematical Olympiad Competition**
-
-Selected Eliasians who possess great aptitude for mathematics are identified to participate in Mathematical Olympiad competitions namely the Singapore Mathematical Olympiad for Primary Schools (SMOPS) and National Mathematical Olympiad of Singapore (NMOS).
+<br>Selected Eliasians who possess great aptitude for mathematics are identified to participate in Mathematical Olympiad competitions namely the Singapore Mathematical Olympiad for Primary Schools (SMOPS) and National Mathematical Olympiad of Singapore (NMOS).
 
 *   **Improve Confidence and Achievement in Numeracy (ICAN)**  
     ICAN is targeted at improving the confidence and achievement of low progress learners in maths by levelling up the students in the learning of Mathematics using intervention strategies to tackle 4 key issues of learning gaps, language, motivation and memory.
