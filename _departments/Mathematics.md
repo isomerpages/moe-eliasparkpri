@@ -74,7 +74,7 @@ _Abstract representation_&nbsp;\- a student is now capable of representing probl
 
 
 *   **Mathastic Monday**&nbsp;&nbsp;  
-    Eliasians start the week by recalling the concepts taught in the previous week. This is done via an online Math learning portal which also acts as an additional learning resource for students. Math teachers will dispatch assignments every Monday based on the integrated approach of interleaved and blocked practice so as to ensure the students’ proficiency level in the concepts do not decay over time.&nbsp;
+    Eliasians start the week by recalling the concepts taught in the previous week. This is done via an online Math learning portal which also acts as an additional learning resource for your child. Mathematics teachers will dispatch assignments every Monday based on the integrated approach of interleaved and blocked practice so as to ensure the students’ proficiency level in the concepts do not decay over time.&nbsp;
 *   **Mathematics Learning Log (Primary 3 to 6)**  
     Learning log serves as a platform for students to document what they have learnt throughout the lesson. It allows students to take responsible of their own learning, thus nurturing them to be self-directed learners.&nbsp;
 		
