@@ -22,7 +22,6 @@ The school hours are from 7.30 a.m. to 1.30 p.m. daily.&nbsp;Flag-raising ceremo
 |  P6 |  10.30 a.m. - 11.00 a.m. |   9.00 a.m. - 9.10 a.m. |
 
 **What is the dismissal time?**  
-
 Students are dismissed at 1.30 p.m. daily.
 
   
