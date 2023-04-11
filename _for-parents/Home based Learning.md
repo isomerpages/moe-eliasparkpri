@@ -9,13 +9,6 @@ description: ""
 
 [Parents Handbook for SLS.pdf](/files/hbl1.pdf)
 
-#### Parents' Role for Full Home-based Learning
-
-[Parents Role for Full Home Based Learning.pdf](/files/hbl2.pdf)
-
-
-
-
 
 #### Student Learning Space (SLS)
 [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)
