@@ -17,7 +17,7 @@ Please refer to the school planner
 
 #### Schedule &amp; Scope of Topics
 
-[Assessment letter P3 30 March 2023]()
+[Assessment Letter P3 30 March 2023](/files/assessment%20letter%20p3%2030%20march%202023.pdf)
 <br>[Assessment letter P4 30 March 2023](/files/assessment%20letter%20p4%2030%20march%202023.pdf)
 <br>[Assessment letter P5 30 March 2023](/files/assessment%20letter%20p5%2030%20march%202023.pdf)
 <br>[Assessment letter P6 30 March 2023](/files/assessment%20letter%20p6%2030%20march%202023.pdf)
