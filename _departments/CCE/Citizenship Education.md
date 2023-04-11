@@ -7,7 +7,7 @@ third_nav_title: CCE
 ### Citizenship Education
  
 
-**National Education (NE) / Social Studies (SS) Field-based Learning (FbL)**   
+##### National Education (NE) / Social Studies (SS) Field-based Learning (FbL)
 
 To bring learning beyond the classroom and to make SS come alive, FbL to various places are conducted for all levels. These FbL are multi-disciplinary and engage students in authentic settings.
 
@@ -17,15 +17,15 @@ As part of the school’s Social Studies curriculum, EPPS incorporates the explo
 
 ##### Positive Behaviour Support
 
-In EPPS, we adopt a positive and proactive approach to discipline to promote a safe and supportive environment for the students. PBS is both positive and proactive. Values are taught and caught, with PBS we can “catch” students doing good and  strengthening positive behaviour through reinforcement of the expected behaviours in a positive manner. By adopting a whole school PBS approach, we are able to put in place structures in class and create a common whole school language to ensure consistency for our students as we affirm them for their positive behaviour.
+In EPPS, we adopt a positive and proactive approach to discipline to promote a safe and supportive environment for the students. PBS is both positive and proactive. Values are taught and caught, with PBS we can “catch” students doing good and&nbsp; strengthening positive behaviour through reinforcement of the expected behaviours in a positive manner. By adopting a whole school PBS approach, we are able to put in place structures in class and create a common whole school language to ensure consistency for our students as we affirm them for their positive behaviour.
 
 <img src="/images/cce5.png" style="width:60%">
 
-##### Values-In-Action (VIA) 
+##### Values-In-Action (VIA)&nbsp;
 
 In EPPS, the VIA programme aims to provide experiences and opportunities to nurture in students the love and service to the community and raising environmental awareness. Students will demonstrate the core values of the school (ELIAS) and ownership over the programmes that are school-initiated and student-initiated. They will contribute actively to raise awareness and take actions to make a difference.
 
-EPPS adopts a 6-year spiral approach in our VIA programme to allow students to affect change and be active citizens. The focus expands from Home to School and finally to the Community and beyond. The programmes are pitched to the appropriate age. The approach is designed to complement one of the eight CCE Learning Outcomes of ‘Care for others and contribute actively to the progress of our community and nation’.  
+EPPS&nbsp;adopts a 6-year spiral approach in our VIA programme to allow students to affect change and be active citizens.&nbsp;The focus expands from Home to School and finally to the Community and beyond. The programmes are pitched to the appropriate age. The approach is designed to complement one of the eight CCE Learning Outcomes of ‘Care for others and contribute actively to the progress of our community and nation’.  
 
 Students and staff will be guided through these programmes through the 3R approach - Ready, Render and Reflect and the use of Design Thinking Process in their Interdisciplinary Project Work cum VIA.
 
@@ -35,17 +35,17 @@ Students and staff will be guided through these programmes through the 3R approa
 
 ##### Community Outreach
 
-EPPS actively engages the community through our annual outreach events. These are conducted during selected core NE days where the community partners the school to commemorate the events. 
+EPPS actively engages the community through our annual outreach events. These are conducted during selected core NE days where the community partners the school to commemorate the events.&nbsp;
 
   
 
 ##### Student Leadership Development
 
-EPPS adopts a holistic approach in nurturing the leadership potential of our students as evidenced in the Every Eliasian a Leader (EEL) approach to Student Leadership Development (SLD). EPPS Leadership framework evolves around the 3 steps of Develop, Demonstrate and Evaluate to instil the leadership traits in Eliasians. 
+EPPS adopts a holistic approach in nurturing the leadership potential of our students as evidenced in the Every Eliasian a Leader (EEL) approach to Student Leadership Development (SLD). EPPS Leadership framework evolves around the 3 steps of Develop, Demonstrate and Evaluate to instil the leadership traits in Eliasians.&nbsp;
 
   
 
-The development of the leadership traits will be based on The Five Practices of Exemplary Leadership® from Kouzes and Posner and the school desired outcomes of an Eliasian Leader. 
+The development of the leadership traits will be based on The Five Practices of Exemplary Leadership® from Kouzes and Posner and the school desired outcomes of an Eliasian Leader.&nbsp;
 
   
 
