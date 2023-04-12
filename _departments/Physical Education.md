@@ -14,7 +14,7 @@ Every Eliasian an Active and Healthy Individual
 
 Empowering Eliasians with the skills, knowledge and attitudes to lead Active and Healthy Lifestyle
 
-##### Learning Outcomes*
+##### Learning Outcomes
 
 *   Acquire a range of movement skills to participate in a variety of physical activities.
 *   Understand and apply movement concepts, principles and strategies in a range of physical activities.
