@@ -39,11 +39,11 @@ EPPS' PE Programme&nbsp;provides a range of movement experiences to develop stud
 
 <img src="/images/pe1.png" style="width:60%">
 
-##### Programme Highlights
+##### Programme Highlights 
+<br>**SwimSafer Programme**
+<img src="/images/swimsafer%20programme%202023.PNG" style="width:60%">
 
-<img src="/images/pe4.png" style="width:60%">
-
-<br> Primary 5 Camp
+<br> **Primary 5 Camp**
 <img src="/images/p5%20camp%202023.PNG" style="width:60%">
 
 ##### Healthy Plate &amp; Healthy Snacks&nbsp;
