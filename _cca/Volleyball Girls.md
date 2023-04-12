@@ -9,8 +9,6 @@ description: ""
 
 [Mr Chen Yixiang](mailto:chen_yixiang@moe.edu.sg)  <br>
 Mrs Tan Hui Fong  
-&nbsp;&nbsp;  
-
 #### Schedule
 
 Please refer to the schedule sent by the CCA teachers&nbsp;  

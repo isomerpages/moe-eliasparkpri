@@ -60,21 +60,21 @@ _Abstract representation_&nbsp;\- a student is now capable of representing probl
 ##### Programmes  
 
 *   **Mathematics Journal (Primary 1 to&nbsp; 6)**&nbsp;
-Mathematics Journals are platforms for students to communicate the reasons behind their thinking based on selected given concepts. This would allow their thinking to be made more visible through the appropriate use of mathematical language&nbsp;and reflect on their responses, thus promoting metacognition in our students.
+<br>Mathematics Journals are platforms for students to communicate the reasons behind their thinking based on selected given concepts. This would allow their thinking to be made more visible through the appropriate use of mathematical language.
+
 *   **F.A.S.T Progamme (Primary**&nbsp;**1 to 3)**&nbsp;  
     F.A.S.T (Fluency, Accuracy, Speed in a given Time) is a programme that aims to improve students’ proficiency in performing calculations involving the 4 operations. The mastery in this area would help to reduce their cognitive load so as to allow students to focus on problem-solving matters.
 
-*   **Mathematical Olympiad Competition**
-
-Selected Eliasians who possess great aptitude for mathematics are identified to participate in Mathematical Olympiad competitions namely the Singapore Mathematical Olympiad for Primary Schools (SMOPS) and National Mathematical Olympiad of Singapore (NMOS).
+*   **Mathematical Olympiad Competitions (Primary 5 and 6)**
+<br>Eliasians who possess great aptitude for Mathematics are identified for this programme. Through the  training, they will acquire skills and techniques required to solve challenging problems and be exposed to the spirit of learning through discovery. They will gain a sense of accomplishment through participating in Mathematical Olympiad competitions such as the Singapore Mathematical Olympiad for Primary Schools (SMOPS) for Primary 6 and National Mathematical Olympiad of Singapore (NMOS) for Primary 5.
 
 *   **Improve Confidence and Achievement in Numeracy (ICAN)**  
-    ICAN is targeted at improving the confidence and achievement of low progress learners in maths by levelling up the students in the learning of Mathematics using intervention strategies to tackle 4 key issues of learning gaps, language, motivation and memory.
+    ICAN is targeted at improving the confidence and achievement of low progress learners in Mathematics by levelling up the students in the learning of Mathematics using intervention strategies to tackle 4 key issues of learning gaps, language, motivation and memory.
 
 
 
 *   **Mathastic Monday**&nbsp;&nbsp;  
-    Eliasians start the week by recalling the concepts taught in the previous week. This is done via an online Math learning portal which also acts as an additional learning resource for students. Math teachers will dispatch assignments every Monday based on the integrated approach of interleaved and blocked practice so as to ensure the students’ proficiency level in the concepts do not decay over time.&nbsp;
+    Eliasians start the week by recalling the concepts taught in the previous week. This is done via an online Math learning portal which also acts as an additional learning resource for your child. Mathematics teachers will dispatch assignments every Monday based on the integrated approach of interleaved and blocked practice so as to ensure the students’ proficiency level in the concepts do not decay over time.&nbsp;
 *   **Mathematics Learning Log (Primary 3 to 6)**  
     Learning log serves as a platform for students to document what they have learnt throughout the lesson. It allows students to take responsible of their own learning, thus nurturing them to be self-directed learners.&nbsp;
 		

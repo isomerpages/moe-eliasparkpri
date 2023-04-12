@@ -9,20 +9,6 @@ description: ""
 
 [Parents Handbook for SLS.pdf](/files/hbl1.pdf)
 
-#### Parents' Role for Full Home-based Learning
-
-[Parents Role for Full Home Based Learning.pdf](/files/hbl2.pdf)
-
-#### HBL Plan
-
-[P1 HBL.pdf](/files/hbl3.pdf)
-[P2 HBL.pdf](/files/hbl4.pdf)
-[P3 HBL.pdf](/files/hbl5.pdf)
-[P4 HBL.pdf](/files/hbl6.pdf)
-[P5 HBL.pdf](/files/hbl7.pdf)
-[P6 HBL.pdf](/files/hbl8.pdf)
-
-Note: Refer to daily lesson plan sent via PG for detailed instructions.
 
 #### Student Learning Space (SLS)
 [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)

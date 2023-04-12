@@ -35,7 +35,7 @@ EPPS' PE Programme&nbsp;provides a range of movement experiences to develop stud
 <img src="/images/peframework2023.png" style="width:60%">
   
 
-###### PE Syllabus
+##### PE Syllabus
 
 <img src="/images/pe1.png" style="width:60%">
 

@@ -7,8 +7,8 @@ description: ""
 
 |  |  |  |
 |---|---|---|
-| School Dental Clinic | Telephone | 6581 7564 |
-|  | Opening Hours | The dental clinic is open on alternate weeks.<br><br>Tuesday &amp; Wednesday: 8.00 a.m. to 5.30 p.m.<br>Thursday: 8.00 a.m. to 5.00 p.m.<br>(Lunch Time: 1.00 p.m. to 2.00 p.m.)<br>Please call the General Office at 6584 4393 for more details. |
+| School Dental Clinic | Telephone | 8940 1873 <br> ( Call or message )|
+|  | Opening Hours | The dental clinic is open on alternate weeks.<br><br>8.00 a.m. to 5.00 p.m.<br>(Lunch Time: 1.00 p.m. to 2.00 p.m.) |
 | School Bus Service | Vendor | Mr Tony Wong |
 |   | Telephone | 87879555 |
 | School Uniform, PE Attire &amp; Name Tag | Vendor | Yangtze Kiang Tailor |

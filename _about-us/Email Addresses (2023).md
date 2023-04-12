@@ -36,9 +36,8 @@ description: ""
 | Administration Manager | [Mdm Tan Sze Wei](mailto:tan_sze_wei@moe.edu.sg)  |
 | Operations Manager | [Mr Ricky Conceicao](mailto:rudolph_conceicao@moe.edu.sg) |
 
-#### Form Teachers
 
-|  |  |
+| Form Teachers |  |
 |---|---|
 | 1 Endeavour | [Mdm Eleanor Wong](mailto:wong_yun_ru_eleanor@moe.edu.sg)<br>[Mdm Sofilia Bte Yahya](mailto:sofilia_yahya@moe.edu.sg)  |
 | 1 Love | [Ms Tan Qian Ni](mailto:tan_qian_ni@moe.edu.sg)<br>[Mdm Sarina Salleh](mailto:sarina_salleh@moe.edu.sg)  |
@@ -75,7 +74,7 @@ description: ""
 
 |  |  |
 |---|---|
-| **Subject teacher(s)** | [Ms Noraini Abdullah](mailto:noraini_abdullah_hee@moe.edu.sg) |
+| **Subject teachers** | [Ms Noraini Abdullah](mailto:noraini_abdullah_hee@moe.edu.sg) |
 |   | [Mdm Nur Sobah Bte Mahmood Bamadhj](mailto:nur_sobah_mahmood_bamadhaj@moe.edu.sg) |
 |   | [Mdm Sera Wee](mailto:wee_siew_hong@moe.edu.sg) |
 |   | [Mdm Sim Lee Sang](mailto:sim_lee_sang@moe.edu.sg) |

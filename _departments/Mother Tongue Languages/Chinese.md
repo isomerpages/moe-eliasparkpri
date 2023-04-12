@@ -42,13 +42,11 @@ To develop students' interest in learning Chinese language and culture.&nbsp;
 <img src="/images/chi3.png" style="width:60%">		
 
 *   Primary 4 and 5 Cultural Performances **(文化随意门)**
-  
-As part of their Chinese cultural learning journey, Primary 4 and 5 students will watch a drama performance. The objective of the learning journey is to enhance students’ interest in the Chinese Language and culture.
+  As part of their Chinese cultural learning journey, Primary 4 and 5 students will watch a drama performance. The objective of the learning journey is to enhance students’ interest in the Chinese Language and culture.
 
 <img src="/images/chi4.png" style="width:60%">
 
 *   **Conversational Chinese and Malay Programme**
-
-The Conversational Chinese and Malay (CCM) Programme is for Primary 3 and 4 students. This is a good platform for students to strengthen bonds with their friends of different races and to appreciate Chinese and Malay cultures and values. Through the CCM programme, students acquire basic proficiency in either Mandarin or Malay and are exposed to traditional cultures and norms of those communities through fun and engaging cultural activities.
+<br>The Conversational Chinese and Malay (CCM) Programme is for Primary 3 and 4 students. This is a good platform for students to strengthen bonds with their friends of different races and to appreciate Chinese and Malay cultures and values. Through the CCM programme, students acquire basic proficiency in either Mandarin or Malay and are exposed to traditional cultures and norms of those communities through fun and engaging cultural activities.
 
 <img src="/images/chi5.png" style="width:60%">
