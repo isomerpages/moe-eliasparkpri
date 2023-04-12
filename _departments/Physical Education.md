@@ -43,6 +43,9 @@ EPPS' PE Programme&nbsp;provides a range of movement experiences to develop stud
 
 <img src="/images/pe4.png" style="width:60%">
 
+<br> Primary 5 Camp
+<img src="/images/p5%20camp%202023.PNG" style="width:60%">
+
 ##### Healthy Plate &amp; Healthy Snacks&nbsp;
 
 Eliasians are encouraged to make an effort to live a healthy life through daily healthy meals and healthy snacks. Eating a healthy plate and having healthy snacks is a good habit that we as teachers and parents need to instill in our children. At EPPS, students have snack time every day, and they are encouraged to eat healthy snacks.&nbsp;  
