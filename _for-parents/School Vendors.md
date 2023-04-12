@@ -20,5 +20,5 @@ description: ""
 |   | Telephone | 6284 8785 |
 |   | Email <br>Online Order| sales@blmarketing.sg<br>[click here](https://blmarketing.sg)|
 |   | Opening Hours | Monday to Friday: 9.00 a.m. to 4.00 p.m. <br>Closed during School Holidays |
-| Edusmart Student Care Centre | Vendor | Ms Roziana (Centre Supervisor)<br>Mon - Fri from 11am - 6pm<br>[email](eliaspark_sccops@singaporeedusmart.edu.sg) [website](https://www.singaporeedusmart.com.sg) |
+| Edusmart Student Care Centre | Vendor | Ms Roziana (Centre Supervisor)<br>Mon - Fri from 11am - 6pm<br>eliaspark_sccops@singaporeedusmart.edu.sg<br>[website](https://www.singaporeedusmart.com.sg) |
 |   | Telephone | 8938 6188 |
