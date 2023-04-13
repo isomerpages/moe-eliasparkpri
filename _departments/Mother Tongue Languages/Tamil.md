@@ -59,8 +59,6 @@ This programme is for students in Primary 3 and Primary 4.&nbsp;&nbsp;MTSP cater
 
 <img src="/images/tam4.png" style="width:60%">
 
-*   Buddy Reading  
-Buddy Reading is conducted as a before school assembly programme. The objective of the programme is to instil the Elias core values of Love and Service in our students. It involves P5 students with better language abilities guiding the weaker students in oral. The time spent by the students will be considered as their VIA hours.&nbsp;
 		
 *   Cultural Activities  
 The P5 Tamil students had the Villupaatu Workshop, an ancient form of musical story-telling on 31st March and 1st April in conjunction with the Mother-Tongue Language Fortnight. During the workshop, students learnt about the origin of Villupaatu, the occasions this style of storytelling was used, how a villupattu is performed and how it is different from traditional storytelling methods. Thereafter, the students worked in groups to perform a villupaatu to their classmates confidently. This workshop helped the students improve their spoken, listening and reading skills.
