@@ -43,7 +43,7 @@ Tamil Department places great emphasis on reading. As we know, reading plays a v
 
 *   Read With Your Parent  
 According to MOE curriculum, Tamil students are only introduced to the Tamil alphabets in P1 and P2. &nbsp;In view of this, not all P1 and P2 students are able to read a book on their own. “Read with the Parent programme,” caters to the P1 and P2 students. In this programme, they are encouraged to read with the parents and record in a book. Students who have read the most number of books will be rewarded at the end of the year.&nbsp;
-<img src="/images/tamil_3.jpeg" style="width:60%">
+<img src="/images/tamil_3.jpeg" style="width:30%">
 
 *   10 Minutes of Mother Tongue (10 MM)
     <br>This programme is for students in Primary 4. Every day, students have to spend at least 10 minutes with their parents on activities that will expose the students to the Tamil Language. A wide range of interesting activities are assigned to students in SLS.
