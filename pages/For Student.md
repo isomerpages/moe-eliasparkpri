@@ -3,6 +3,7 @@ title: For Student
 permalink: /for-student/
 description: ""
 ---
+
 <img src="/images/koobits96x88.png" style="width:60%">
 
 [Koobits](https://member.koobits.com/)
@@ -16,4 +17,3 @@ description: ""
 <img src="/images/icon2_305.png" style="width:60%">
 
 **[Student ICON Email](https://workspace.google.com/dashboard)**
-
