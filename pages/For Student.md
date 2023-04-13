@@ -4,11 +4,11 @@ permalink: /for-student/
 description: ""
 ---
 ![](/images/msf001.jpg)
-[MySkillsFuture Primary](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
+ [MySkillsFuture Primary](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
 
 <img src="/images/koobits96x88.png" style="width:60%">
 
-[Koobits](https://member.koobits.com/)
+ [Koobits](https://member.koobits.com/)
 
 																										 
 
