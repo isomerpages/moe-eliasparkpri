@@ -39,11 +39,11 @@ Tamil Department aims to develop students into proficient language users who can
 *   Reading Programme  
 Tamil Department places great emphasis on reading. As we know, reading plays a vital role in language acquisition. In order to promote reading, Tamil students are encouraged to read more books and record in the reading log. They are required to write reviews and champion readers are identified and rewarded at the end of the year. Monthly issues of the Tamil Magazine called “Sutti Mayil” is also subscribed for P4 to P6 students.
 
-<img src="/images/tam1.png" style="width:20%">
+<img src="/images/tam1.png" style="width:50%">
 
 *   Read With Your Parent  
 According to MOE curriculum, Tamil students are only introduced to the Tamil alphabets in P1 and P2. &nbsp;In view of this, not all P1 and P2 students are able to read a book on their own. “Read with the Parent programme,” caters to the P1 and P2 students. In this programme, they are encouraged to read with the parents and record in a book. Students who have read the most number of books will be rewarded at the end of the year.&nbsp;
-<img src="/images/tamil_3.jpeg" style="width:60%">
+<img src="/images/tamil_3.jpeg" style="width:30%">
 
 *   10 Minutes of Mother Tongue (10 MM)
     <br>This programme is for students in Primary 4. Every day, students have to spend at least 10 minutes with their parents on activities that will expose the students to the Tamil Language. A wide range of interesting activities are assigned to students in SLS.
@@ -59,8 +59,6 @@ This programme is for students in Primary 3 and Primary 4.&nbsp;&nbsp;MTSP cater
 
 <img src="/images/tam4.png" style="width:60%">
 
-*   Buddy Reading  
-Buddy Reading is conducted as a before school assembly programme. The objective of the programme is to instil the Elias core values of Love and Service in our students. It involves P5 students with better language abilities guiding the weaker students in oral. The time spent by the students will be considered as their VIA hours.&nbsp;
 		
 *   Cultural Activities  
 The P5 Tamil students had the Villupaatu Workshop, an ancient form of musical story-telling on 31st March and 1st April in conjunction with the Mother-Tongue Language Fortnight. During the workshop, students learnt about the origin of Villupaatu, the occasions this style of storytelling was used, how a villupattu is performed and how it is different from traditional storytelling methods. Thereafter, the students worked in groups to perform a villupaatu to their classmates confidently. This workshop helped the students improve their spoken, listening and reading skills.
