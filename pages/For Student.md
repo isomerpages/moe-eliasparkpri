@@ -3,7 +3,8 @@ title: For Student
 permalink: /for-student/
 description: ""
 ---
-![](/images/msf001.jpg)
+<img src="/images/msf001.jpg" style="width:85%">
+
  [MySkillsFuture Primary](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
 
 <img src="/images/koobits96x88.png" style="width:60%">
