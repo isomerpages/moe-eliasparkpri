@@ -3,7 +3,7 @@ title: Physical Education
 permalink: /departments/physical-education/
 description: ""
 ---
-### Physical Education/Co-Curricular Activities/ PAL
+### Physical Education / Co-Curricular Activities / PAL
 
 ##### Vision  
 
