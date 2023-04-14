@@ -4,7 +4,7 @@ permalink: /departments/PAL/master-of-the-arts/
 description: ""
 third_nav_title: PAL
 ---
-### Master of the Arts
+<!--### Master of the Arts-->
 
 |  |  |
 |---|---|
