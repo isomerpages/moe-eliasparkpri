@@ -3,7 +3,7 @@ title: English
 permalink: /departments/english/
 description: ""
 ---
-### English
+<!--### English-->
 
 ##### Vision 
 
@@ -25,7 +25,7 @@ To provide English Language learning experiences that allow students to communic
 In order for Eliasians to learn and use language appropriately and meaningfully in a variety of contexts, we place great emphasis on the language learning experience.
 
   
-**S**trategies for **T**eaching **E**nglish **L**anguage **L**earning And **R**eading (STELLAR) is our main approach for the learning of the English Language and we provide the following in the learning experiences we plan and deliver leveraging STELLAR:  
+**S**trategies for&nbsp;**T**eaching&nbsp;**E**nglish&nbsp;**L**anguage&nbsp;**L**earning And&nbsp;**R**eading (STELLAR) is our main approach for the learning of the English Language and we provide the following in the learning experiences we plan and deliver leveraging STELLAR:  
 
 *   a focus on the enjoyment of the language even as students learn the metalanguage and the grammatical items associated with it;  
     
@@ -37,7 +37,7 @@ In order for Eliasians to learn and use language appropriately and meaningfully 
 
 <figure><img src="/images/eng1.png" style="width:65%"><figcaption> Interviewing our special speakers over Zoom</figcaption></figure>
 
-Leveraging the STELLAR texts, every unit involves the students reading for enjoyment and understanding, sharing their views and ideas in relation to what they have read (speaking), listening to the views shared by others and writing to express their thoughts and creativity. The Reading – Writing Connection is emphasised as Eliasians draw on what they read, both the ideas from stories as well as the language used to communicate those ideas, to produce texts of their own.
+Leveraging the STELLAR texts, every unit involves the students reading for enjoyment and understanding, sharing their views and ideas in relation to what they have read (speaking), listening to the views shared by others and writing to express their thoughts and creativity. The Reading – Writing&nbsp;Connection is emphasised as Eliasians draw on what they read, both the ideas from stories as well as the language used to communicate those ideas, to produce texts of their own.
 
 <figure><img src="/images/eng2.png" style="width:65%"><figcaption> Learning to write about our experiences in class and outdoors!</figcaption></figure>
 
