@@ -4,7 +4,7 @@ permalink: /departments/CCA/epps-ccas/
 description: ""
 third_nav_title: CCA
 ---
-### EPPS CCAs
+<!--### EPPS CCAs-->
 
 #### Primary 3-6
 
@@ -21,11 +21,11 @@ third_nav_title: CCA
 * [Chinese Orchestra (ECHO)](https://staging.d3975mj8dcgb9n.amplifyapp.com/cca/chinese-orchestra-echo/)
 * [Choir](https://staging.d3975mj8dcgb9n.amplifyapp.com/cca/choir/)
 
-**Citizen & Leader**
+**Citizen &amp; Leader**
 
 * [Scouts](https://staging.d3975mj8dcgb9n.amplifyapp.com/cca/scouts/)
 * [Debating and Public Speaking](https://staging.d3975mj8dcgb9n.amplifyapp.com/cca/debating-and-public-speaking/)
-* [Food & Consumer Education](https://staging.d3975mj8dcgb9n.amplifyapp.com/cca/food-and-consumer-education/)
+* [Food &amp; Consumer Education](https://staging.d3975mj8dcgb9n.amplifyapp.com/cca/food-and-consumer-education/)
 
 **Scholar**
 
