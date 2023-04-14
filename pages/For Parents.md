@@ -3,8 +3,6 @@ title: For Parents
 permalink: /for-parents/
 description: ""
 ---
-### For Parents
-
 |  |  |
 |---|---|
 | Assessments | For School Examination Policy, Exam Schedule, Exam Scope of Topics and format of the examination papers, please click [here](/for-parents/assessments/) for more information.<br><br>For access arrangement, please click [here](/for-parents/access-arrangement/) for more information. |
@@ -32,4 +30,4 @@ description: ""
 | Safety &amp; Security Matters  | [Safety and Security.pdf ](/files/Safety%20and%20Security1.pdf)  |
 | School Vendors  |  Please click [here](https://staging.d3975mj8dcgb9n.amplifyapp.com/for-parents/school-vendors/) for more information. |
 | Sexuality Education  |  Please click &nbsp;[here](https://staging.d3975mj8dcgb9n.amplifyapp.com/others/sexuality-education/) for more information. |
-| Useful Links for Students |  [Koobits](https://member.koobits.com/)<br> &nbsp;[MySkillsFuture Primary](https://www.myskillsfuture.gov.sg/content/student/en/primary.html) <br> &nbsp;[Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)<br> &nbsp;[Student iCON](https://workspace.google.com/dashboard) |
+| Useful Links for Students |   Please click [here](/for-student) for more information.  |
