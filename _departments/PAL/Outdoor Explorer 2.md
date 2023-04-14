@@ -4,7 +4,7 @@ permalink: /departments/PAL/outdoor-explorer-2/
 description: ""
 third_nav_title: PAL
 ---
-### Outdoor Explorer 2
+<!--### Outdoor Explorer 2-->
 
 |  |  |
 |---|---|
