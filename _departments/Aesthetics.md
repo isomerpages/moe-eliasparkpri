@@ -3,7 +3,7 @@ title: Aesthetics
 permalink: /departments/aesthetics/
 description: ""
 ---
-### Aesthetics
+<!--### Aesthetics-->
 
 ##### Vision  
 

@@ -3,16 +3,16 @@ title: Overview
 permalink: /about-us/overview/
 description: ""
 ---
-#### Overview
+<!--#### Overview-->
 
 #### EPPS in School Information Service (SIS)
 
-The SIS website serves as a one-stop portal for the public and stakeholders. Click [here](https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=elias-park-primary-school) to access quick information about us.  
+The SIS website serves as a one-stop portal for the public and stakeholders. Click&nbsp;[here](https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=elias-park-primary-school)&nbsp;to access quick information about us.  
   
 
 #### Our History
 
-<img src="/images/overview.png" style="width:243px;height:240px;margin-right:15px;" align = "left"> Elias Park Primary School is located at 11 Pasir Ris Street 52 and is the third primary school constructed in the suburban town of Pasir Ris. The school was part of the Public Works Department 4th Primary School Building Programme, built to meet the demand for primary education by children living in Pasir Ris areas.
+<img src="/images/overview.png" style="width:243px;height:240px;margin-right:15px;" align="left"> Elias Park Primary School is located at 11 Pasir Ris Street 52 and is the third primary school constructed in the suburban town of Pasir Ris. The school was part of the Public Works Department 4th Primary School Building Programme, built to meet the demand for primary education by children living in Pasir Ris areas.
 
   
 

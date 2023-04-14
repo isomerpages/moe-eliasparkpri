@@ -3,7 +3,7 @@ title: FAQs
 permalink: /about-us/faqs/
 description: ""
 ---
-### FAQ
+<!--### FAQ-->
 
 **Where can I find the contact details of the school vendors (eg. school bus service, school uniform, etc.**  
 You can find the school vendors' contact details&nbsp;[here](https://staging.d3975mj8dcgb9n.amplifyapp.com/for-parents/school-vendors/).  

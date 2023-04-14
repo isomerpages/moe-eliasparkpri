@@ -4,7 +4,7 @@ permalink: /departments/PAL/pal-p1-and-p2/
 description: ""
 third_nav_title: PAL
 ---
-### PAL (P1 &amp; P2)
+<!--### PAL (P1 &amp; P2)-->
 
 | Primary 1<br><br> | Primary 2<br><br> |
 |---|---|
