@@ -3,7 +3,7 @@ title: Our School Rules
 permalink: /about-us/our-school-rules/
 description: ""
 ---
-### Our School Rules
+<!--### Our School Rules-->
 
 #### Expectations of Eliasians 
 
