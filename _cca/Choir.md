@@ -15,14 +15,14 @@ Mrs Shelly Lee
 
 #### Gender
 
-Boys &amp; Girls
+* Boys &amp; Girls
 
   
 
 #### Schedule
 
-Every Wednesday&nbsp;  
-Timing: Please refer to the schedule sent by the CCA teachers  
+* Every Wednesday&nbsp;  
+* Timing: Please refer to the schedule sent by the CCA teachers  
 
 #### Objectives
 
