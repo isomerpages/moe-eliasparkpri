@@ -15,11 +15,11 @@ Ms Bernice Tan
 
 #### Schedule
 
-Please refer to the schedule sent by the CCA teachers  
+* Please refer to the schedule sent by the CCA teachers  
 
 #### Objective
 
-To instil teamwork, perseverance, resilience and spirit of sportsmanship in players.  
+* To instil teamwork, perseverance, resilience and spirit of sportsmanship in players.  
   
 
 #### Programmes/ Events  
