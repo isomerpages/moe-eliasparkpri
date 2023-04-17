@@ -4,7 +4,7 @@ permalink: /departments/CCE/cyber-wellness-programmes/
 description: ""
 third_nav_title: CCE
 ---
-### Cyber Wellness Programmes
+<!--- ### Cyber Wellness Programmes--->
  
 ##### Cyber Wellness
 
@@ -16,7 +16,7 @@ As part of our holistic education for the students, the school has been actively
 
 <img src="/images/cce8.png" style="width:60%">
 
-##### Cyber Wellness Week 
+##### Cyber Wellness Week&nbsp;
 
 Every semester, one week is dedicated to Cyber Wellness. Known as the Cyber Wellness Week, many activities such as online games and competitions are planned for the students.
 
