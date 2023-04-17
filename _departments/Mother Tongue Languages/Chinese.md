@@ -8,12 +8,12 @@ third_nav_title: Mother Tongue Languages
 
 ##### Vision
 
-Effective communicator with a passion for learning Chinese language and culture.&nbsp;  
+* Effective communicator with a passion for learning Chinese language and culture.&nbsp;  
   
 
 ##### Mission
 
-To develop students' interest in learning Chinese language and culture.&nbsp;  
+* To develop students' interest in learning Chinese language and culture.&nbsp;  
   
 
 ##### Learning Outcomes
