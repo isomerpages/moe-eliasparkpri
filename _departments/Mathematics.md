@@ -7,12 +7,12 @@ description: ""
 
 ##### Vision  
 
-Critical and creative thinkers who are independent and innovative problem-solvers in an ever-changing world.  
+* Critical and creative thinkers who are independent and innovative problem-solvers in an ever-changing world.  
   
 
 ##### Mission
 
-We seek to prepare our students for life by providing them with the essential Mathematical knowledge and developing their thinking skills.  
+* We seek to prepare our students for life by providing them with the essential Mathematical knowledge and developing their thinking skills.  
   
 
 ##### Learning Outcomes
