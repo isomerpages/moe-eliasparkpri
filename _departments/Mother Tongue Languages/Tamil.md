@@ -14,13 +14,13 @@ Our programme aims to develop students into proficient language users. In additi
 
 ##### Vision  
 
-A bilingual citizen who is able to communicate effectively in Mother Tongue in a&nbsp;multi-lingual, multi-cultural and global society.
+* A bilingual citizen who is able to communicate effectively in Mother Tongue in a&nbsp;multi-lingual, multi-cultural and global society.
 
   
 
 ##### Mission
 
-To enthuse Eliasians to learn and use Mother Tongue Languages.&nbsp;  
+* To enthuse Eliasians to learn and use Mother Tongue Languages.&nbsp;  
   
 
 ##### Learning Outcomes  
@@ -30,7 +30,7 @@ To enthuse Eliasians to learn and use Mother Tongue Languages.&nbsp;
 
 ##### Approach/ Framework
 
-Tamil Department aims to develop students into proficient language users who can communicate confidently in real life situations. They will also gain a better understanding of our rich cultural background. In addition to that, students will develop a love for the language. We reach out to our students through effective strategies for teaching and learning activities. Students are thought the relevant content with authentic learning activities. Holistic Assessment of the students are carried out.&nbsp;
+* Tamil Department aims to develop students into proficient language users who can communicate confidently in real life situations. They will also gain a better understanding of our rich cultural background. In addition to that, students will develop a love for the language. We reach out to our students through effective strategies for teaching and learning activities. Students are thought the relevant content with authentic learning activities. Holistic Assessment of the students are carried out.&nbsp;
 
   
 
