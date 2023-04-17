@@ -23,12 +23,12 @@ We warmly invite Eliasians’ family members and the community to continue to su
 
 ##### Vision
 
-Every Eliasian A Child with Strength of Character and A Contributing Citizen&nbsp;  
+* Every Eliasian A Child with Strength of Character and A Contributing Citizen&nbsp;  
   
 
 ##### Mission
 
-To nurture caring, respectful and responsible individuals with a strong sense of moral obligation towards self, family, school and the community.  
+* To nurture caring, respectful and responsible individuals with a strong sense of moral obligation towards self, family, school and the community.  
   
 Learning Outcomes of CCE 2021  
 
