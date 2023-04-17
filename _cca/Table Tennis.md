@@ -14,12 +14,12 @@ Mr Alif Zulhilmi Bin Zakaria
 Mdm Chin Poh Lin
 
 ##### Gender  
-Boys &amp; Girls  
+* Boys &amp; Girls  
   
 
 ##### Schedule
 
-Please refer to the schedule sent by the CCA teachers
+* Please refer to the schedule sent by the CCA teachers
 
 
 ##### Objectives of CCA
