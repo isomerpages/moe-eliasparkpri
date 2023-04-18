@@ -34,7 +34,7 @@ Our programme aims to develop students into proficient language users. In additi
 
   
 
-#### Programmes
+##### Programme Highlights
 
 *   Reading Programme  
 Tamil Department places great emphasis on reading. As we know, reading plays a vital role in language acquisition. In order to promote reading, Tamil students are encouraged to read more books and record in the reading log. They are required to write reviews and champion readers are identified and rewarded at the end of the year. Monthly issues of the Tamil Magazine called “Sutti Mayil” is also subscribed for P4 to P6 students.
