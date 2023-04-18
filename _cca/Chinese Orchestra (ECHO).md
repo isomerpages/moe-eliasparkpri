@@ -18,14 +18,15 @@ Ms Michelle Lim
 
 #### Gender
 
-Boys &amp; Girls
+* Boys &amp; Girls
 
   
 
 #### Schedule
 
-Please refer to the schedule sent by the CCA teachers  
-  
+* Please refer to the schedule sent by the CCA teachers  
+
+#### Description
 Established in 2003, Elias Orchestra has been a very vibrant musical group with active involvement at national and international levels. In 2013,&nbsp;**E**lias&nbsp;**CH**inese&nbsp;**O**rchestra is officially named as&nbsp;**ECHO**. As in the Chinese Idiom story, where wonderful music can reverberate in the place for three days, we hope for the same achievement for our ECHO.  
   
 

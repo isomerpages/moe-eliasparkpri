@@ -6,12 +6,10 @@ description: ""
 <!--### English-->
 
 ##### Vision 
-
-Confident communicators who love the English language  
+* Confident communicators who love the English language  
 
 ##### Mission
-
-To provide English Language learning experiences that allow students to communicate confidently and respectfully and grow their love for the language  
+* To provide English Language learning experiences that allow students to communicate confidently and respectfully and grow their love for the language  
 
 ##### Learning Outcomes
 
@@ -22,7 +20,7 @@ To provide English Language learning experiences that allow students to communic
 
 ##### Approach/Framework
 
-In order for Eliasians to learn and use language appropriately and meaningfully in a variety of contexts, we place great emphasis on the language learning experience.
+* In order for Eliasians to learn and use language appropriately and meaningfully in a variety of contexts, we place great emphasis on the language learning experience.
 
   
 **S**trategies for&nbsp;**T**eaching&nbsp;**E**nglish&nbsp;**L**anguage&nbsp;**L**earning And&nbsp;**R**eading (STELLAR) is our main approach for the learning of the English Language and we provide the following in the learning experiences we plan and deliver leveraging STELLAR:  

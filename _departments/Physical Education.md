@@ -7,12 +7,12 @@ description: ""
 
 ##### Vision  
 
-Every Eliasian an Active and Healthy Individual  
+* Every Eliasian an Active and Healthy Individual  
   
 
 ##### Mission
 
-Empowering Eliasians with the skills, knowledge and attitudes to lead Active and Healthy Lifestyle
+* Empowering Eliasians with the skills, knowledge and attitudes to lead Active and Healthy Lifestyle
 
 ##### Learning Outcomes
 

@@ -14,14 +14,12 @@ Mrs Alsree-Siti Nooraidah
 
 #### Gender
 
-Boys &amp; Girls
-
-  
+* Boys &amp; Girls
 
 #### Schedule
 
-Every Wednesday  
-Timing: Please refer to the schedule sent by the CCA teachers
+* Every Wednesday  
+* Timing: Please refer to the schedule sent by the CCA teachers
 
 #### Objectives 
 

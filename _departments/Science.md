@@ -13,13 +13,13 @@ At Elias Park Primary School, the Science department believes in nurturing our E
 
 ##### Vision
 
-Every Eliasian with an inquiring mind for Science.  
+* Every Eliasian with an inquiring mind for Science.  
 
   
 
 ##### Mission
 
-To nurture Eliasians to have a lively&nbsp;curiosity&nbsp;in the Sciences.  
+* To nurture Eliasians to have a lively&nbsp;curiosity&nbsp;in the Sciences.  
   
 
 ##### Twin Goals of Science Education*
@@ -43,7 +43,6 @@ Our students are diverse, with different needs, interests and aptitudes for Scie
 ##### Approach/Framework
 
 EPPS' Science Programme adopts a 3-prong approach: &nbsp;
-
 
 *   Science in daily life  
 Students will be able to see science in their daily life and thus able to apply the science concepts learnt in class to solve problems they encounter in school or at home.&nbsp;

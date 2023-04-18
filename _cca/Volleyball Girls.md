@@ -6,16 +6,13 @@ description: ""
 ### Volleyball Girls
 
 #### Teachers-in-charge
-
 [Mr Chen Yixiang](mailto:chen_yixiang@moe.edu.sg)  <br>
 Mrs Tan Hui Fong  
 #### Schedule
-
-Please refer to the schedule sent by the CCA teachers&nbsp;  
+* Please refer to the schedule sent by the CCA teachers&nbsp;  
 
 #### Objective
-
-To inculcate the values of team spirit, sportsmanship, loyalty and positive attitude in students.  
+* To inculcate the values of team spirit, sportsmanship, loyalty and positive attitude in students.  
   
 
 #### Programmes/ Events

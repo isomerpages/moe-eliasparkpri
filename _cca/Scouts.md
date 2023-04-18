@@ -17,12 +17,12 @@ Mdm Siti Zubeidah Binte Kadir
 
 #### Gender
 
-Boy &amp; Girls
+* Boy &amp; Girls
 
 #### Schedule
 
-Every Wednesday  
-Timing: Please refer to the schedule sent by the CCA teachers  
+* Every Wednesday  
+* Timing: Please refer to the schedule sent by the CCA teachers  
 
   
 

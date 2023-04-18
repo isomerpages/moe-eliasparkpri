@@ -9,26 +9,26 @@ description: ""
 
 [Ms Siti Aisyah Bte Yacob](mailto:siti_aisyah_yacob@moe.edu.sg)  
 Mrs Natascha Rodrigues  
-Mdm Siti Nur Aisyah   
+Mdm Siti Nur Aisyah&nbsp;  
 Ms Tan Koon Bin  
 Ms Lydia Dawn
   
 
 #### Gender
 
-Boys &amp; Girls
+* Boys &amp; Girls
 
   
 
 ### Schedule
 
-Please refer to the schedule sent by the CCA teachers  
+* Please refer to the schedule sent by the CCA teachers  
 
   
 
 ### Objective&nbsp;
 
-To develop the spirit of teamwork, perseverance and confidence in&nbsp;students.
+* To develop the spirit of teamwork, perseverance and confidence in&nbsp;students.
 
 ### Programmes/ Events
 

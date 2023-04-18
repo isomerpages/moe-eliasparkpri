@@ -8,11 +8,11 @@ third_nav_title: Mother Tongue Languages
 
 ##### Vision  
 
-A generation that appreciates the Malay language and culture.
+* A generation that appreciates the Malay language and culture.
 
 ##### Mission
 
-To provide platforms for students to get to know and learn about the Malay language and culture.
+* To provide platforms for students to get to know and learn about the Malay language and culture.
 
 ##### Learning Outcomes
 

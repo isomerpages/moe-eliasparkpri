@@ -15,14 +15,14 @@ Mdm Afiqah Liyana Binte Rahim
 
 #### Gender
 
-Boys &amp; Girls
+* Boys &amp; Girls
 
   
 
 ##### Schedule
 
-Every Wednesday&nbsp;&nbsp;  
-Timing: Please refer to the schedule sent by the CCA teachers  
+* Every Wednesday&nbsp;&nbsp;  
+* Timing: Please refer to the schedule sent by the CCA teachers  
 
 ##### Objectives
 

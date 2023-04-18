@@ -29,5 +29,6 @@ description: ""
 | Subject-based Banding  | For more information, please visit [https://www.moe.gov.sg/primary/curriculum/subject-based-banding](https://www.moe.gov.sg/primary/curriculum/subject-based-banding) |
 | Safety &amp; Security Matters  | [Safety and Security.pdf ](/files/Safety%20and%20Security1.pdf)  |
 | School Vendors  |  Please click [here](https://staging.d3975mj8dcgb9n.amplifyapp.com/for-parents/school-vendors/) for more information. |
-| Sexuality Education  |  Please click &nbsp;[here](https://staging.d3975mj8dcgb9n.amplifyapp.com/others/sexuality-education/) for more information. |
+| Sexuality Education  |  Please click &nbsp;[here](/others/sexuality-education/) for more information. |
 | Useful Links for Students |   Please click [here](/for-student) for more information.  |
+

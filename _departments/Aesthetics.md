@@ -7,13 +7,13 @@ description: ""
 
 ##### Vision  
 
-Growing the artist in every Eliasian.
+* Growing the artist in every Eliasian.
 
   
 
 ##### Mission
 
-Nurturing the Eliasian Artist by providing opportunities for&nbsp;exposure, experience and appreciation in arts.  
+* Nurturing the Eliasian Artist by providing opportunities for&nbsp;exposure, experience and appreciation in arts.  
 
   
 

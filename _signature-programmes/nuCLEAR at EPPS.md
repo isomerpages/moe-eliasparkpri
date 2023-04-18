@@ -5,7 +5,7 @@ description: ""
 ---
 <!--### nuCLEAR@EPPS-->
 
-**nu**rturing&nbsp;**C**itizen&nbsp;**L**eaders with&nbsp;**E**mpathy and&nbsp;**R**esilience at Elias Park Primary School  
+ **nu**rturing&nbsp;**C**itizen&nbsp;**L**eaders with&nbsp;**E**mpathy and&nbsp;**R**esilience at Elias Park Primary School  
 
 #### (nuCLEAR@EPPS) Applied Learning Programme (ALP)  
 
@@ -20,4 +20,5 @@ The team is led by Team nuCLEAR, comprising of School Leaders, HOD CCE, HOD, LH 
 <img src="/images/nu1.png" style="width:60%">
 <img src="/images/nu2.png" style="width:60%">
 <img src="/images/nu3.png" style="width:60%">
-<br><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/tFclvqO30mY" height="315" width="560"></iframe>
+<br>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/tFclvqO30mY" height="315" width="560"></iframe>
