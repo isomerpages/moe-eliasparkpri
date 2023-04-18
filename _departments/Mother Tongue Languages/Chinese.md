@@ -29,7 +29,7 @@ third_nav_title: Mother Tongue Languages
 
 <img src="/images/chi1.png" style="width:60%">
 
-#### Programme Highlights
+##### Programme Highlights
 
 *   Chinese New Year Celebration **（农历新年庆祝会）**  
     Chinese New Year was celebrated on 31st January this year to promote the understanding of Chinese traditions and customs. With a better understanding of this festival, students are more aware of the Chinese culture and the values behind the customs and traditions.
