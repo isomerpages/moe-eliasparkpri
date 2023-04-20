@@ -13,8 +13,23 @@ locations:
     title: General Office
 contacts:
   - content:
-      - phone: +65 6584 4393
-      - email: epps@moe.edu.sg
+      - phone: ""
+      - email: ""
       - other: ""
     title: General Enquiries & Feedback
+  - content:
+      - phone: +65 6584 4393
+      - email: ""
+      - other: ""
+    title: "Tel :"
+  - content:
+      - phone: ""
+      - email: epps@moe.edu.sg
+      - other: ""
+    title: "Email :"
+  - content:
+      - phone: +65 6584 4392
+      - email: ""
+      - other: ""
+    title: "Fax :"
 ---
