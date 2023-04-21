@@ -3,7 +3,7 @@ url: https://eliasparkpri.moe.edu.sg
 favicon: /images/updatedfav.png
 colors:
   primary-color: "#f3d242"
-  secondary-color: "#f40928"
+  secondary-color: "#1b07f9"
   media-colors:
     - title: media-color-one
       color: "#bd10e0"
