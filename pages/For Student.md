@@ -16,7 +16,7 @@ description: ""
 <img src="/images/SLS%20RS%20480_03.png" style="width:30%">
 
 **3. [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)**
-<br> *Additional info : [SLS Onboard Guide for Student](/files/sls%20onboard%20guide.pdf)*
+<br> *Additional info : [SLS Onboard Guide for Student](/files/hbl1.pdf)*
 
 <img src="/images/icon2_305.png" style="width:30%">
 
