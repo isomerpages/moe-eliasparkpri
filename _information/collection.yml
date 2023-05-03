@@ -2,5 +2,6 @@ collections:
   information:
     output: true
     order:
+      - School Bus Service/.keep
       - School Canteen.md
       - School Bus.md
