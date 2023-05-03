@@ -2,6 +2,5 @@ collections:
   information:
     output: true
     order:
-      - Canteen Requirement.md
       - School Canteen.md
       - School Bus.md
