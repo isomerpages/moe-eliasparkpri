@@ -6,7 +6,7 @@ description: ""
 <!--### Announcements-->
 <!--* * *-->
 * * *
-##### Application for School Canteen Stall is available here
+##### Application for School Canteen Stall is available [here](/canteenad/)
 * * *
 **Useful Links for Students**
 
