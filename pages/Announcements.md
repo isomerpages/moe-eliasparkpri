@@ -8,6 +8,8 @@ description: ""
 * * *
 ##### Application for School Canteen Stall is available [here](/canteenad/)
 * * *
+**School Bus Services and Fare :** [Click Here](/information/school-bus-service/sbof/)
+* * *
 **Useful Links for Students**
 
 **[Home-based Learning/ SLS Helpline](https://staging.d3975mj8dcgb9n.amplifyapp.com/for-parents/hbl/)**
