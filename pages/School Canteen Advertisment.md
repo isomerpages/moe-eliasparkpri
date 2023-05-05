@@ -18,7 +18,7 @@ description: ""
 * Address : 11 Pasir Ris Street 52 Singapore 518866
 * Contact No. : 6584 4393
 * Email: epps@moe.edu.sg
-* Contact Person: Mdm
+* Contact Person: Mdm 
 
 #### How to get there?
 * Nearest MRT: Pasir Ris (EW10) - 15 mins walking distance
