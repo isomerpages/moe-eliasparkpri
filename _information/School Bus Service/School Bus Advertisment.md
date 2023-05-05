@@ -17,7 +17,7 @@ Application Procedure
 2.  Submit the completed Call for Proposal - Annex A by closing date, 31 May 2023, via email OR to the School's General Office.
 *  Address: 11 Pasir Ris Street 52 Singapore 518866
 *  Contact No.: 6584 4393
-*  Email: eliasparkpri@moe.edu.sg
+*  Email: epps@moe.edu.sg
 *  Contact Person: Mdm
 
 How to get there?
