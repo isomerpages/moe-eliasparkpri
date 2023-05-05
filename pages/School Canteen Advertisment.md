@@ -5,8 +5,8 @@ description: ""
 ---
 | **Type of Stall** | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Western Food Stall | 31 May 2023      | NIL     |
-| Mixed Vegetable Rice Stall | 31 May 2023|Mixed rice is acceptable, variety of dishes are encouraged      |
+| Chinese Rice Stall | 11 August 2023 | NIL     |
+| 
 
 #### Application Procedure
 1. Download and complete the application form. [Application Form]()<br>You may also request for a hardcopy from the School's General Office.
@@ -17,7 +17,7 @@ description: ""
 3. Submit the completed application form and documents by closing date via email OR to the Schools's General Office.
 * Address : 11 Pasir Ris Street 52 Singapore 518866
 * Contact No. : 6584 4393
-* Email: eliasparkpri@moe.edu.sg
+* Email: epps@moe.edu.sg
 * Contact Person: Mdm
 
 #### How to get there?
