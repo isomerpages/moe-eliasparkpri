@@ -5,7 +5,7 @@ description: ""
 ---
 | **Type of Stall** | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Rice Stall | 11 August 2023 | NIL     |
+| Chinese Rice Stall | 11 August 2023 | To include chicken rice in the menu     |
 | 
 
 #### Application Procedure
@@ -14,11 +14,11 @@ description: ""
 * Photocopy of the NRIC (front and back)
 * List of proposed menu and pricing for all items
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
-3. Submit the completed application form and documents by closing date via email OR to the Schools's General Office.
+3. Submit the completed application form and documents by closing date via email to [epps@moe.edu.sg](epps@moe.edu.sg) OR to the School's General Office by **<u>Friday 11 August 2023 (5pm)</u>**
 * Address : 11 Pasir Ris Street 52 Singapore 518866
 * Contact No. : 6584 4393
 * Email: epps@moe.edu.sg
-* Contact Person: Mdm 
+* Contact Person(s): Mdm Cecilia Saw or Mdm Tan Sze Wei or Mdm Chong Ching Ching
 
 #### How to get there?
 * Nearest MRT: Pasir Ris (EW10) - 15 mins walking distance
