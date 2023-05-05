@@ -9,7 +9,7 @@ description: ""
 | Mixed Vegetable Rice Stall | 31 May 2023|Mixed rice is acceptable, variety of dishes are encouraged      |
 
 #### Application Procedure
-1. Download and complete the application form. You may also request for a hardcopy from the School's General Office.
+1. Download and complete the application form. [Application Form]()<br>You may also request for a hardcopy from the School's General Office.
 2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
 * List of proposed menu and pricing for all items
@@ -38,4 +38,3 @@ description: ""
 * Successful applicant is required to apply fora food stall license from Singapore Food Agency (SFA).
 
 *Shortlised applicants will be notifed for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
-
