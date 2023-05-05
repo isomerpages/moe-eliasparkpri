@@ -5,6 +5,9 @@ description: ""
 ---
 <!--### Announcements-->
 <!--* * *-->
+* * *
+##### Application for School Canteen Stall is available [here](/canteenad/)
+* * *
 **Useful Links for Students**
 
 **[Home-based Learning/ SLS Helpline](https://staging.d3975mj8dcgb9n.amplifyapp.com/for-parents/hbl/)**
