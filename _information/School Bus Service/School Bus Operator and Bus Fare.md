@@ -6,5 +6,4 @@ third_nav_title: School Bus Service
 ---
 #### School Bus Service : Awarded Vendor
 
-**Bus Operator and Fare :**  
-
+**School Bus Operator and NTE Price :** 
