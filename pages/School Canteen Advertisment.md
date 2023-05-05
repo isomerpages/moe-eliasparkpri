@@ -21,8 +21,8 @@ description: ""
 * Contact Person(s): Mdm Cecilia Saw or Mdm Tan Sze Wei or Mdm Chong Ching Ching
 
 #### How to get there?
-* Nearest MRT: Pasir Ris (EW10) - 15 mins walking distance
-* Bus number: 15 - 3 mins walking distance
+* Nearest MRT: Pasir Ris (EW1) - 15 mins walking distance
+* Bus number: No. 15 (alight at bus-stop code 77139) : 3 mins walking distance
 
 #### Interested applicants must meet the following criteria:
 * Singapore Citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
