@@ -56,5 +56,4 @@ Established in 2003, Elias Orchestra has been a very vibrant musical group with 
 | -------- | -------- | -------- |
 * Singapore Youth Festival Arts Presentation 2022  
 
-
 <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS1fHcwUd4i20tH5VtPbkSZsu-clULtXxONKJPXtcnQ_J-TTqwchZi4zZpmbuV0dab1EeOAecu3FDa9/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
