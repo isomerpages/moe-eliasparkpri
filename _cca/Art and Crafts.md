@@ -63,4 +63,4 @@ Art &amp; Crafts Club students develop their creativity, self-expression and und
 
 
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSVpmd1ikoMC3xRsk0tU7dMS0zM8USAwVdnWCISvRejAD1LLL_VX8qbKNB5xw75t7baBrOm15LTGn_z/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+<p align="center"><iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSVpmd1ikoMC3xRsk0tU7dMS0zM8USAwVdnWCISvRejAD1LLL_VX8qbKNB5xw75t7baBrOm15LTGn_z/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe></p>
