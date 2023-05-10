@@ -52,8 +52,8 @@ Established in 2003, Elias Orchestra has been a very vibrant musical group with 
 |---|
 | • Singapore Youth Festival Central Judging for Chinese Orchestra 2018 - Certificate of Distinction<br>• Singapore Youth Festival Central Judging for Chinese Orchestra 2016 - Certificate of Distinction<br>•Singapore Youth Festival Central Judging for Chinese Orchestra 2014 - Certificate of Distinction<br>• Singapore Youth Festival Central Judging for Chinese Orchestra 2012 - Gold<br>• Singapore Youth Festival Central Judging for Chinese Orchestra 2010 - Gold<br>• 21st Century International Chinese Music Festival 2006 held at Qinhuangdao, Adjudication - Gold<br>• Singapore Youth Festival Central Judging for Chinese Orchestra 2006 - Gold<br>• 21st Century International Chinese Music Festival 2005 in Genting Highlands, Malaysia (Primary School Category, Ensemble - Drums) - Silver<br>• East Zone Instrumental Competition 2004 (Ensemble Category - Drums; Individual Category - Gu Zheng) - Silver |
 
-| Participation| 
-| -------- |
+|Participation| 
+|---|
 * Singapore Youth Festival Arts Presentation 2022  <br>
 
 <img src="/images/echo01.jpeg" style="width:60%"><br> 
