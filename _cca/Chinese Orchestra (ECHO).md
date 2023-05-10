@@ -37,7 +37,7 @@ Established in 2003, Elias Orchestra has been a very vibrant musical group with 
 
   
 
-#### Programmes/ Events
+#### Programmes / Events
 
 *   Annual EPPS Chinese New Year Celebrations
 *   Annual EPPS National Day Celebrations
