@@ -34,4 +34,4 @@ Mrs Alsree-Siti Nooraidah
 
 *   Coding Workshop using Scratch, a programming language
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFstVlD4R3AaxumlrnSEgXB4z5Qhp8ZtkF-mhZQNOIBz3ALiNbviGsk84j78RQ1gnJ-aBqFQK3oLl-/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+<p align="center"><iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFstVlD4R3AaxumlrnSEgXB4z5Qhp8ZtkF-mhZQNOIBz3ALiNbviGsk84j78RQ1gnJ-aBqFQK3oLl-/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe></p>
