@@ -33,4 +33,4 @@ Mdm Valerie
 
 *   Sony Creative Science Award
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQaiYiCUSoX6e9kMvJXtawgU2YCik6A7t9rhdtuPQjQ_ZcKwg30iBRevs2rhxaYVtVZbU5nSxZLIwX8/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+<p align="center"><iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQaiYiCUSoX6e9kMvJXtawgU2YCik6A7t9rhdtuPQjQ_ZcKwg30iBRevs2rhxaYVtVZbU5nSxZLIwX8/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe></p>
