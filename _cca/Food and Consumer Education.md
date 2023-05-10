@@ -30,4 +30,4 @@ Ms Siddiqah
 *   Learn how to bake simple cupcakes and snacks using ingredients that can be found easily.
 *   Learn hygiene and why it is important.
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTPveZkpmcXsSDFjUubCxz5h8_DHSgg7DPl3No_uG-_sZjcTfuy94WTS--HYoREAN_ZXVWsf3Cm8CiG/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+<p align="center"><iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTPveZkpmcXsSDFjUubCxz5h8_DHSgg7DPl3No_uG-_sZjcTfuy94WTS--HYoREAN_ZXVWsf3Cm8CiG/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe></p>
