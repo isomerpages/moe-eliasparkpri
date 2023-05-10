@@ -13,4 +13,4 @@ third_nav_title: PAL
 | Objective(s): | • Learn more about invasion games with a variety of equipment.<br>• Create sports games with friends. <br>• Understand and demonstrate the various Olympic values.  |
 |  |  |
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSXJhKOJI3EJbQ6C7qjMmHRr1qEqSq9wTGjI3794IgypKYFZU5se6WmiK1_Z7f_upho4B-wEZQbi3-z/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<p align="center"><iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSXJhKOJI3EJbQ6C7qjMmHRr1qEqSq9wTGjI3794IgypKYFZU5se6WmiK1_Z7f_upho4B-wEZQbi3-z/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></p>
