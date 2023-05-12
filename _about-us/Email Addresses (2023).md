@@ -108,5 +108,5 @@ description: ""
 | **Special Educational Needs (SEN) Officer** | [Mdm Mastura M. Hashim](mailto:mastura_mohd_hashim@moe.edu.sg) |
 |   | [Mdm Vasanthi Rengaraju](mailto:rengaraju_vasanthi@moe.edu.sg) |
 |   | [Mdm Janice Ang](mailto:ang_chia_tee@moe.edu.sg) |
-|   |   |
+|   | [Ms Hanis Azmi](mailto:hanis_azmi@moe.edu.sg) |
 | **School Counsellor** | [Mdm Amanda Lim](mailto:amanda_lim_le_wei@moe.edu.sg) |
