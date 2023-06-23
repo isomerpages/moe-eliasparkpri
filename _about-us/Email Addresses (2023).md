@@ -50,7 +50,7 @@ description: ""
 | 2 Integrity | [Mdm Siti Zubeidah Binte Kadir](mailto:siti_zubeidah_kadir@moe.edu.sg)<br>[Mr Kanan S/O Perumal](mailto:kanan_perumal@moe.edu.sg) |
 | 2 Adaptability | [Mdm Habibah Bte Husein Shah](mailto:habibah_husein_shah@moe.edu.sg)<br> [Mr Dion Lee](mailto:Lee_Jian_Jie_Dion@moe.edu.sg)<br>[Mrs Anne Quah](mailto:toh_anne@moe.edu.sg) |
 | 2 Service | [Ms Gil Tan](mailto:tan_siew_hwa@moe.edu.sg)<br>[Ms Bernice Tan](mailto:tan_li_xian@moe.edu.sg)|
-| 2 Perseverance | [Mdm Aini Bte Hussien](mailto:aini_hussien@moe.edu.sg)<br>[Mr Chen Yixiang](mailto:chen_yixiang@moe.edu.sg)<br>Mr Fathurrahman Bin Abdul Wahed |
+| 2 Perseverance | [Mdm Aini Bte Hussien](mailto:aini_hussien@moe.edu.sg)<br>[Mr Chen Yixiang](mailto:chen_yixiang@moe.edu.sg)<br>[Mr Fathurrahman Bin Abdul Wahed](mailto:fathurrahman_abdul_wahed@moe.edu.sg) |
 | 3 Endeavour  | [Mdm Jameyahti Bte Ab Malek](mailto:jameyahti_ab_malek@moe.edu.sg)<br>[Mdm Esther Kwee](mailto:kwee_wan_juan_esther@moe.edu.sg) |
 | 3 Love | [Mr Jeremy Ker](mailto:ker_ting_wei_Jeremy@moe.edu.sg)<br>[Mdm Marilyn Goh](mailto:marilyn_goh_jing_ling@moe.edu.sg)
 | 3 Integrity | [Ms Pamela Wong](mailto:wong_pei_li_pamela@moe.edu.sg)<br>[Ms Michelle Lim](mailto:michelle_lim_qian_wen@moe.edu.sg)<br>[Mr Lokman Hakim Bin Yunos](mailto:lokman_hakim_b_yunos@moe.edu.sg) |
