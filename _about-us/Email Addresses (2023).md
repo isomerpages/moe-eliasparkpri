@@ -76,11 +76,10 @@ description: ""
 |  |  |
 |---|---|
 | **Subject teachers** | [Ms Noraini Abdullah](mailto:noraini_abdullah_hee@moe.edu.sg) |
-|   | [Mdm Nur Sobah Bte Mahmood Bamadhj](mailto:nur_sobah_mahmood_bamadhaj@moe.edu.sg) |
-|   | [Mdm Sera Wee](mailto:wee_siew_hong@moe.edu.sg) |
-|   | [Mdm Sim Lee Sang](mailto:sim_lee_sang@moe.edu.sg) |
-|   | [Mrs&nbsp;Tjan Hiok Hoon](mailto:tjan_hiok_hoon@moe.edu.sg) |
-|   | [Mrs Victor Sarosi](mailto:victor_sarosi@moe.edu.sg) |
+|   | [Mrs Tjan Hiok Hoon](mailto:tjan_hiok_hoon@moe.edu.sg) |
+| | [Mrs Victor Sarosi](mailto:victor_sarosi@moe.edu.sg) |
+| | Mdm Penelope Lim | 
+|  
 | **Chinese Language teachers** | [Mdm Li Huan](mailto:li_huan@moe.edu.sg)  |
 |   | [Mdm Tan Whai Sze](mailto:tan_whai_sze@moe.edu.sg) |
 |   | [Mdm Chin Poh Lin](mailto:chin_poh_lin@moe.edu.sg) |
