@@ -43,7 +43,7 @@ description: ""
 | 1 Endeavour | [Mdm Eleanor Wong](mailto:wong_yun_ru_eleanor@moe.edu.sg)<br>[Mdm Sofilia Bte Yahya](mailto:sofilia_yahya@moe.edu.sg)  |
 | 1 Love | [Ms Tan Qian Ni](mailto:tan_qian_ni@moe.edu.sg)<br>[Mdm Sarina Salleh](mailto:sarina_salleh@moe.edu.sg)  |
 | 1 Integrity | [Mdm Sri Noriehan](mailto:sri_noriehan_kamis@moe.edu.sg)<br>[Ms Que Yi](mailto:que_yi@moe.edu.sg) |
-| 1 Adaptability | [Mdm Chan Jia En](mailto:chan_jia_en@moe.edu.sg)<br>[Mdm Siti Noorhuda](mailto:siti_noorhuda_mohd_bagusha@moe.edu.sg)<br> |
+| 1 Adaptability | [Mdm Chan Jia En](mailto:chan_jia_en@moe.edu.sg)<br>[Mdm Siti Noorhuda](mailto:siti_noorhuda_mohd_bagusha@moe.edu.sg)<br>[Mdm Sera Wee](mailto:wee_siew_hong@moe.edu.sg) |
 | 1 Service | [Ms Nurul Siddiqah Binte Allawudin](mailto:nurul_siddiqah_allawudin@moe.edu.sg)<br>[Mdm Jessie Wong](mailto:wong_hui_guan@moe.edu.sg) |
 | 1 Perseverance | [Mrs Carlin Tee](mailto:carlin_mulyati@moe.edu.sg)<br>[Mdm Nurni Bte Isnain](mailto:nurni_isnain@moe.edu.sg) |
 | 2 Endeavour | [Mrs Shelly Lee](mailto:quek_hwee_khim_shelly@moe.edu.sg)<br>[Ms Tan Koon Bin](mailto:tan_koon_bin@moe.edu.sg) |
