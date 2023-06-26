@@ -49,7 +49,7 @@ description: ""
 | 2 Endeavour | [Mrs Shelly Lee](mailto:quek_hwee_khim_shelly@moe.edu.sg)<br>[Ms Tan Koon Bin](mailto:tan_koon_bin@moe.edu.sg)<br>[Mr Lokman Hakim Bin Yunos](mailto:lokman_hakim_b_yunos@moe.edu.sg) |
 | 2 Love | [Mr Alif Zulhilmi Bin Zakaria](mailto:alif_zulhilmi_zakaria@moe.edu.sg)<br> [Mdm Iza Mariah Bte Idris](mailto:iza_mariah_idris@moe.edu.sg)<br> |
 | 2 Integrity | [Mdm Siti Zubeidah Binte Kadir](mailto:siti_zubeidah_kadir@moe.edu.sg)<br>[Mr Kanan S/O Perumal](mailto:kanan_perumal@moe.edu.sg) |
-| 2 Adaptability | [Mdm Habibah Bte Husein Shah](mailto:habibah_husein_shah@moe.edu.sg)<br> [Mr Dion Lee](mailto:Lee_Jian_Jie_Dion@moe.edu.sg)<br>[Mdm Sim Lee Sang](mailto:sim_lee_sang@moe.edu.sg) <br>[Mrs Anne Quah](mailto:toh_anne@moe.edu.sg) |
+| 2 Adaptability | [Mdm Habibah Bte Husein Shah](mailto:habibah_husein_shah@moe.edu.sg)<br> [Mr Dion Lee](mailto:Lee_Jian_Jie_Dion@moe.edu.sg)<br>[Mdm Sim Lee Sang](mailto:sim_lee_sang@moe.edu.sg) <br> |
 | 2 Service | [Ms Gil Tan](mailto:tan_siew_hwa@moe.edu.sg)<br>[Ms Bernice Tan](mailto:tan_li_xian@moe.edu.sg)|
 | 2 Perseverance | [Mdm Aini Bte Hussien](mailto:aini_hussien@moe.edu.sg)<br>[Mr Chen Yixiang](mailto:chen_yixiang@moe.edu.sg)<br>[Mr Fathurrahman Bin Abdul Wahed](mailto:fathurrahman_abdul_wahed@moe.edu.sg) |
 | 3 Endeavour  | [Mdm Jameyahti Bte Ab Malek](mailto:jameyahti_ab_malek@moe.edu.sg)<br>[Mdm Esther Kwee](mailto:kwee_wan_juan_esther@moe.edu.sg) |
@@ -63,7 +63,7 @@ description: ""
 | 4 Adaptability | [Ms Lydia Dawn Amla D/O Sasidharen](mailto:Lydia_Dawn_Amla_Sasidharen@moe.edu.sg)<br>[Ms Nurul Hilmah Binte Mohamad Nor](mailto:nurul_hilmah_mohamad_nor@moe.edu.sg)<br>[Mdm Suhaida Bte Saptu](mailto:suhaida_saptu@moe.edu.sg) |
 | 4 Service |[Mrs Natascha Gabrielle Rodrigues](mailto:natascha_gabrielle_nonis@moe.edu.sg)<br> [Mdm Siti Nur Aisyah](mailto:siti_nur_aisyah@moe.edu.sg)<br>[Ms Kavitha d/o Kalimuthu](mailto:Kavitha_Kalimuthu@moe.edu.sg)  |
 | 5 Endeavour | [Mdm Jamila Adal](mailto:jamila_adal@moe.edu.sg)<br>[Ms Joy Ong](mailto:joy_ong_siok_yin@moe.edu.sg) |
-| 5 Love | [Mdm Afiqah Liyana Binte Rahim](mailto:afiqah_liyana_rahim@moe.edu.sg)<br>[Mrs Huan Sook Peng](mailto:woong_sook_peng@moe.edu.sg)  |
+| 5 Love | [Mdm Afiqah Liyana Binte Rahim](mailto:afiqah_liyana_rahim@moe.edu.sg)<br>[Mrs Huan Sook Peng](mailto:woong_sook_peng@moe.edu.sg)<br>[Mrs Anne Quah](mailto:toh_anne@moe.edu.sg)  |
 | 5 Integrity | [Mr Liu Zhiming](mailto:liu_zhiming@moe.edu.sg)<br>[Mdm Poon Yin Ching](mailto:poon_yin_ching@moe.edu.sg) |
 | 5 Adaptability | [Mrs Josie Teo](mailto:hsieh_josie@moe.edu.sg)<br>[Mr Zhou Yuan](mailto:zhou_yuan@moe.edu.sg) |
 | 5 Service | [Mrs Tham-Seah Yi Ern](mailto:seah_yi_ern@moe.edu.sg)<br>[Mr Stan Lee](mailto:lee_mun_hong@moe.edu.sg) |
