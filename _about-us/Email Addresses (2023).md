@@ -11,7 +11,7 @@ description: ""
 | Principal  | [Mdm Chua Pei Pei](mailto:CHUA_Pei_Pei@moe.edu.sg) |
 | Vice Principal (EO) | [Mrs Esther See](mailto:LING_Szengen@moe.edu.sg) |
 | Vice Principal (EO)  | [Mr Mohamad Noor Abdul Manaf](mailto:Mohamad_Noor_ABDUL_MANAF@moe.edu.sg)  |
-| Vice Principal (Admin)  | Mdm Peh Bee Kuan  |
+| Vice Principal (Admin)  | [Mdm Peh Bee Kuan](mailto:Peh_Bee_Kuan@moe.edu.sg)  |
 
 
 | School Management Committee |  |
