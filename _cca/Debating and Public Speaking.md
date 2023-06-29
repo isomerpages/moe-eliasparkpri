@@ -38,4 +38,4 @@ As part of the English Language Department’s objective to develop excellence i
 
 Ultimately, inhibitions are shed, self-doubts disappear and students emerge more confident and eloquent. Yearly platforms such as the Singapore World Water Day@ EPPS skit, Racial Harmony Day Outreach drama or the school’s annual year-end musical enable participants of ‘The Art of Public Speaking’ to further extend the skills learnt.
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTOvs2Kbk65yTx703V3W9gfRiY4mJcZllIuJeszHmJ2l5OtEcb2o1hjn7c0WDvT_8XB9-IMa7wwH1MD/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<p align="center"><iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTOvs2Kbk65yTx703V3W9gfRiY4mJcZllIuJeszHmJ2l5OtEcb2o1hjn7c0WDvT_8XB9-IMa7wwH1MD/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></p>

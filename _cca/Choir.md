@@ -47,4 +47,4 @@ Founded in 2018, Elias Park Primary School Choir aims to promote choral singing 
 
 *   2022 - Singapore Youth Festival Arts Presentation 202
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQHG4yjS-SabDxJSXaVEklkMNrYwMbTqVvyYsY1qv8JuYYMw92FTXtx065IAR8KpFX_v0ghzo0SrG3p/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+<p align="center"><iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQHG4yjS-SabDxJSXaVEklkMNrYwMbTqVvyYsY1qv8JuYYMw92FTXtx065IAR8KpFX_v0ghzo0SrG3p/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe></p>
