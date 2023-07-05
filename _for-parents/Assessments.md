@@ -16,11 +16,7 @@ Please refer to the school planner
 
 
 #### Schedule &amp; Scope of Topics
-
-[Assessment Letter P3 30 March 2023](/files/assessment%20letter%20p3%2030%20march%202023.pdf)
-<br>[Assessment letter P4 30 March 2023](/files/assessment%20letter%20p4%2030%20march%202023.pdf)
-<br>[Assessment letter P5 30 March 2023](/files/assessment%20letter%20p5%2030%20march%202023.pdf)
-<br>[Assessment letter P6 30 March 2023](/files/assessment%20letter%20p6%2030%20march%202023.pdf)
+<br>[2023 Primary 3 Weighted Assessment Term 3](/files/2023%20primary%203%20weighted%20assessment%20term%203.pdf)<br> [2023 Primary 4 Weighted Assessment Term 3](/files/2023%20primary%204%20weighted%20assessment%20term%203.pdf) <br> [2023 Primary 5 Weighted Assessment Term 3](/files/2023%20primary%205%20weighted%20assessment%20term%203.pdf)
 
   
 
