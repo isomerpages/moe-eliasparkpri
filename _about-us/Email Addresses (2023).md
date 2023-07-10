@@ -78,7 +78,7 @@ description: ""
 | **Subject teachers** | [Ms Noraini Abdullah](mailto:noraini_abdullah_hee@moe.edu.sg) |
 |   | [Mrs Tjan Hiok Hoon](mailto:tjan_hiok_hoon@moe.edu.sg) |
 | | [Mrs Victor Sarosi](mailto:victor_sarosi@moe.edu.sg) |
-| | Mdm Penelope Lim | 
+| | [Mdm Penelope Lim](mailto:penelope_lim_siew_young@moe.edu.sg) | 
 |  
 | **Chinese Language teachers** | [Mdm Li Huan](mailto:li_huan@moe.edu.sg)  |
 |   | [Mdm Tan Whai Sze](mailto:tan_whai_sze@moe.edu.sg) |
