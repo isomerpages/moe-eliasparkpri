@@ -16,8 +16,7 @@ Please refer to the school planner
 
 
 #### Schedule &amp; Scope of Topics
-<br>[2023 Primary 3 Weighted Assessment Term 3](/files/2023%20primary%203%20weighted%20assessment%20term%203.pdf)<br> [2023 Primary 4 Weighted Assessment Term 3](/files/2023%20primary%204%20weighted%20assessment%20term%203.pdf) <br> [2023 Primary 5 Weighted Assessment Term 3](/files/2023%20primary%205%20weighted%20assessment%20term%203.pdf)
-
+<br>Updated 16 July 2023<br>[2023 Primary 3 to Primary 5 Weighted Assessment Term 3](/files/2023%20primary%203%20to%20primary%205%20weighted%20assessment%20term%203.pdf)
   
 
 #### Paper Formats
