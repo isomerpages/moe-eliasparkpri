@@ -35,8 +35,8 @@ description: ""
 | Senior Teacher (English Language)  | [Mr Liu Zhiming](mailto:liu_zhiming@moe.edu.sg)  |
 | Administration Manager  | [Mdm Chong Ching Ching](mailto:chong_ching_ching@schools.gov.sg) |
 | Administration Manager | [Mdm Tan Sze Wei](mailto:tan_sze_wei@moe.edu.sg)  |
-| Operations Manager | [Mr Ricky Conceicao](mailto:rudolph_conceicao@moe.edu.sg) |
-
+| Operations Manager 1| [Mr Ricky Conceicao](mailto:rudolph_conceicao@moe.edu.sg) |
+| Operations Manager 2 | [Mr Ramakrishnan Gnanasekaran](mailto:ramakrishnan_gnanasekaran@moe.edu.sg) |
 
 | Form Teachers |  |
 |---|---|
