@@ -18,9 +18,4 @@ sections:
         - title: Info for student...
           description: SLS, Student ICON & etc
           url: /for-student
-  - infobar:
-      subtitle: Latest Announcement
-      description: School Canteen Vacancy & Application
-      button: Find out more .....
-      url: /canteenad/
 ---
