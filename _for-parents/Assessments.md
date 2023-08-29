@@ -16,7 +16,7 @@ Please refer to the school planner
 
 
 #### Schedule &amp; Scope of Topics
-<br>Updated 16 July 2023<br>[2023 Primary 3 to Primary 5 Weighted Assessment Term 3](/files/2023%20primary%203%20to%20primary%205%20weighted%20assessment%20term%203.pdf)
+<br>Updated 29 Aug 2023<br> [2023 End-of-Year Examination- Schedule]()<br>[2023 End-of-Year Examination - Scope]()
   
 
 #### Paper Formats
