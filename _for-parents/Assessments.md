@@ -16,7 +16,7 @@ Please refer to the school planner
 
 
 #### Schedule &amp; Scope of Topics
-<br>Updated 18 Sept 2023<br>[2023 End of Year Exam Schedule - duration only](/files/2023%20end%20of%20year%20exam%20schedule%20-%20duration%20only.pdf)<br>[2023 end-of-year examination - scope](/files/2023%20end-of-year%20examination%20-%20scope.pdf)
+<br>Updated 18 Sept 2023<br>[2023 end-of-year examination - schedule]()<br>[2023 end-of-year examination - scope](/files/2023%20end-of-year%20examination%20-%20scope.pdf)
   
 
 #### Paper Formats
