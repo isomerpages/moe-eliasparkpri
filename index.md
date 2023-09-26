@@ -18,4 +18,10 @@ sections:
         - title: Info for student...
           description: SLS, Student ICON & etc
           url: /for-student
+  - infobar:
+      title: New Annoucement
+      id: infobar
+      description: HBL Timetable for P4 & P5
+      button: Click Here
+      url: /announcements/
 ---
