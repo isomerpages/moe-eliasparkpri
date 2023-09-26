@@ -9,6 +9,7 @@ description: ""
 **HBL Timetable for P4**  [Click here](/files/p4%20hbl%20timetable.pdf)
 
 **HBL Timetable for P5** [Click here](/files/p5%20hbl%20timetable.pdf)
+
 * * *
 **School Bus Services and Fare :** [Click Here](/information/school-bus-service/sbof/)
 * * *
