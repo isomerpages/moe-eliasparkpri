@@ -24,4 +24,10 @@ sections:
       button: Click Here
       url: /announcements/
       subtitle: New Announcement
+  - infobar:
+      title: Reaching Out to All Ex-Eliasian
+      id: infobar
+      description: Celebrating Our 30th Anniversary
+      button: Click Here
+      url: https://forms.gle/BfYdgM9i7RrX7mCk8
 ---
