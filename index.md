@@ -19,6 +19,12 @@ sections:
           description: SLS, Student ICON & etc
           url: /for-student
   - infobar:
+      title: Reaching Out to All Ex-Eliasian
+      id: infobar
+      description: Celebrating Our 30th Anniversary
+      button: Click Here
+      url: https://forms.gle/BfYdgM9i7RrX7mCk8
+  - infobar:
       id: infobar
       description: HBL Timetable for P4 & P5
       button: Click Here
