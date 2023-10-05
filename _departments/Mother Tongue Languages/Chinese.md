@@ -37,7 +37,7 @@ third_nav_title: Mother Tongue Languages
 <img src="/images/chinese1.png" style="width:60%">		
 
 *   Mother Tongue Language (MTL) Fortnight **（母语双周）**  
-    The objective of the MTL fortnight is to nurture the joy of learning by creating a conducive environment and providing platforms for our students to use the language. It will be held on the 1st and 2nd weeks of Term 2. A wide range of activities such as Chinese games booth, cultural lessons related to MTL language and culture will be conducted.
+    The objective of the MTL fortnight is to nurture the joy of learning by creating a conducive environment and providing platforms for our students to use the language. It was held on the 1st and 2nd weeks of Term 2. A wide range of activities such as Chinese games booth, cultural lessons related to MTL language and culture were conducted.
 
 <img src="/images/chi3.png" style="width:60%">		
 
