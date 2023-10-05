@@ -38,8 +38,9 @@ third_nav_title: Mother Tongue Languages
 
 *   Mother Tongue Language (MTL) Fortnight **（母语双周）**  
     The objective of the MTL fortnight is to nurture the joy of learning by creating a conducive environment and providing platforms for our students to use the language. It was held on the 1st and 2nd weeks of Term 2. A wide range of activities such as Chinese games booth, cultural lessons related to MTL language and culture were conducted.
+<img src="/images//mtl%20fortnight%202023.PNG" style="width:90%">
 
-<img src="/images/chi3.png" style="width:60%">		
+
 
 *   Primary 4 and 5 Cultural Performances **(文化随意门)**
   As part of their Chinese cultural learning journey, Primary 4 and 5 students watched a drama performance. The objective of the learning journey is to enhance students’ interest in the Chinese Language and culture.
