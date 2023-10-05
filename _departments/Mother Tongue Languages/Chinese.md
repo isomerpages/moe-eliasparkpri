@@ -42,7 +42,7 @@ third_nav_title: Mother Tongue Languages
 <img src="/images/chi3.png" style="width:60%">		
 
 *   Primary 4 and 5 Cultural Performances **(文化随意门)**
-  As part of their Chinese cultural learning journey, Primary 4 and 5 students will watch a drama performance. The objective of the learning journey is to enhance students’ interest in the Chinese Language and culture.
+  As part of their Chinese cultural learning journey, Primary 4 and 5 students watched a drama performance. The objective of the learning journey is to enhance students’ interest in the Chinese Language and culture.
 
 <img src="/images/chi4.png" style="width:60%">
 
