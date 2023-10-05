@@ -27,7 +27,7 @@ third_nav_title: Mother Tongue Languages
 
 ##### Approach/Framework
 
-<img src="/images/chi1.png" style="width:60%">
+<img src="/images/chi1.png" style="width:90%">
 
 ##### Programme Highlights
 
