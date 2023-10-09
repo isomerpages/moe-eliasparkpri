@@ -40,15 +40,14 @@ Students are grouped into Lower Block (P3 and P4) and Upper Block (P5 and P6). I
 
 
 
-| Column 1 | Lower Block | Upper Block |
+|  | Lower Block | Upper Block |
 | -------- | -------- | -------- |
 |**Science in Daily Life**  <br>*Helps to relate and understand how Science fits into out everyday life* | * Eco-enzyme <br>* Mini Hot Air Balloon<br>* Convection     | * Eco-enzyme <br>* DNA extraction <br> * Slime-making     |
-| **Science in Soicety**<br> *Focusing on social interactions, to understand importance of Science in society* | * Compost Making<br>*Chlorophyll Painting | * Straw Roller Coaster<br>* Toy invention |  
-| **Science &amp; The Envcironment**<br>*Showingcare and concern for the ebvironment, Understanding the works of Science* | * Cooking eggs | * The Sound of Guitar<br>*Tallest Tower |
+| **Science in Soicety**<br> *Focusing on social interactions, to understand importance of Science in society* | * Compost Making<br>* Chlorophyll Painting | * Straw Roller Coaster<br>* Toy invention |  
+| **Science &amp; The Envcironment**<br>*Showing care and concern for the ebvironment, Understanding the works of Science* | * Cooking eggs | * The Sound of Guitar<br>*Tallest Tower |
 
 ##### Programme(s)/ Event(s)
-
 *   Earth Day Recess Carnival
-*   Sony Toy Creative Competition
+*   Sony Toy Creative Competition 
 
-<p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRIcnC82iWbMSY76F7w2wVx-XcZzm_8BHtj-OK2NtiyfAcRSN8woG-gqpLAWGFwyvNFz7ljHL-CwGlJ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>allowfullscreen="true"&gt;</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRIcnC82iWbMSY76F7w2wVx-XcZzm_8BHtj-OK2NtiyfAcRSN8woG-gqpLAWGFwyvNFz7ljHL-CwGlJ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
