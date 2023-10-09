@@ -44,7 +44,7 @@ Students are grouped into Lower Block (P3 and P4) and Upper Block (P5 and P6). I
 | -------- | -------- | -------- |
 |**Science in Daily Life**  <br>*Helps to relate and understand how Science fits into out everyday life* | * Eco-enzyme <br>* Mini Hot Air Balloon<br>* Convection     | * Eco-enzyme <br>* DNA extraction <br> * Slime-making     |
 | **Science in Soicety**<br> *Focusing on social interactions, to understand importance of Science in society* | * Compost Making<br>* Chlorophyll Painting | * Straw Roller Coaster<br>* Toy invention |  
-| **Science &amp; The Envcironment**<br>*Showing care and concern for the ebvironment, Understanding the works of Science* | * Cooking eggs | * The Sound of Guitar<br>*Tallest Tower |
+| **Science &amp; The Envcironment**<br>*Showing care and concern for the environment, Understanding the works of Science* | * Cooking eggs | * The Sound of Guitar<br>*Tallest Tower |
 
 ##### Programme(s)/ Event(s)
 *   Earth Day Recess Carnival
