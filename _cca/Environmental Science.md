@@ -21,7 +21,7 @@ Mdm Valerie
 #### Schedule
 
 * Every Wednesday&nbsp;&nbsp;  
-* Timing: Please refer to the schedule sent by the CCA teachers  
+* Timing:  2 to 4pm 
 
 #### Objectives
 
@@ -50,4 +50,4 @@ Students are grouped into Lower Block (P3 and P4) and Upper Block (P5 and P6). I
 *   Earth Day Recess Carnival
 *   Sony Toy Creative Competition 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRIcnC82iWbMSY76F7w2wVx-XcZzm_8BHtj-OK2NtiyfAcRSN8woG-gqpLAWGFwyvNFz7ljHL-CwGlJ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRIcnC82iWbMSY76F7w2wVx-XcZzm_8BHtj-OK2NtiyfAcRSN8woG-gqpLAWGFwyvNFz7ljHL-CwGlJ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe></p>
