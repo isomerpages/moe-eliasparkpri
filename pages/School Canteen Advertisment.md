@@ -6,7 +6,7 @@ variant: markdown
 ---
 | **Type of Stall** | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Hot Drinks and Snacks Stall | 8 March 2024 | Provide food items from Halal certified supplier.     |
+| Hot Drinks and Snacks Stall | 20 May 2024 | Provide food items from Halal certified supplier.     |
 |  
 
 #### Application Procedure
@@ -15,7 +15,7 @@ variant: markdown
 * Photocopy of the NRIC (front and back)
 * List of proposed menu and pricing for all items
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
-3. Submit the completed application form and documents via email to [epps@moe.edu.sg](epps@moe.edu.sg) OR to the School's General Office by **<u>Friday 8 March 2024 (5pm)</u>**
+3. Submit the completed application form and documents via email to [epps@moe.edu.sg](epps@moe.edu.sg) OR to the School's General Office by **<u>Monday 20 May 2024 (5pm)</u>**
 * Address : 11 Pasir Ris Street 52 Singapore 518866
 * Contact No. : 6584 4393
 * Email: epps@moe.edu.sg
