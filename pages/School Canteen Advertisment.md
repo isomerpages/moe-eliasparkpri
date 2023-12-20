@@ -2,11 +2,12 @@
 title: School Canteen Advertisment
 permalink: /canteenad/
 description: ""
+variant: markdown
 ---
 | **Type of Stall** | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Rice Stall | 11 August 2023 | To include chicken rice in the menu     |
-| 
+| Hot Drinks and Snacks Stall | 8 March 2024 | Provide food items from Halal certified supplier.     |
+|  
 
 #### Application Procedure
 1. Download and complete the application form. <br>[Application Form](/files/canappbf7.pdf)<br>You may also request for a hardcopy from the School's General Office.
@@ -14,7 +15,7 @@ description: ""
 * Photocopy of the NRIC (front and back)
 * List of proposed menu and pricing for all items
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
-3. Submit the completed application form and documents via email to [epps@moe.edu.sg](epps@moe.edu.sg) OR to the School's General Office by **<u>Friday 11 August 2023 (5pm)</u>**
+3. Submit the completed application form and documents via email to [epps@moe.edu.sg](epps@moe.edu.sg) OR to the School's General Office by **<u>Friday 8 March 2024 (5pm)</u>**
 * Address : 11 Pasir Ris Street 52 Singapore 518866
 * Contact No. : 6584 4393
 * Email: epps@moe.edu.sg
@@ -26,7 +27,7 @@ description: ""
 
 #### Interested applicants must meet the following criteria:
 * Singapore Citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
-* Able to provide good service amd quality with prices determined in consultation with the school.
+* Able to provide good service and quality with prices determined in consultation with the school.
 * Able to provide cooked food that meets the health/nutritional standards set by Health Promotion Board (HPB) under the "Healthy Meals in School Programme (HMSP)" guidelines ([see link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme))
 * Able to maintain high standard of food safety and personal hygiene.
 * Healthy and fit to operate the stall.
