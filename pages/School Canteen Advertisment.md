@@ -8,7 +8,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | Hot Drinks and Snacks Stall | 20 May 2024 | Provide food items from Halal certified supplier.     |
 |  Chinese Rice Stall | 20 May 2024 | To include chicken rice in the menu.
-
+|
 #### Application Procedure
 1. Download and complete the application form. <br>[Application Form](/files/canappbf7.pdf)<br>You may also request for a hardcopy from the School's General Office.
 2. Attached the following documents together with the application form:
