@@ -59,7 +59,7 @@ variant: markdown
 | 3 Adaptability |[Ms Lydia Dawn Amla D/O Sasidharen](lydia_dawn_amla_sasidharen@moe.edu.sg)<br>[Mdm Quek Hwee Khim shelly](quek_hwee_khim_shelly@moe.edu.sg)<br>
 | 3 Service | [Mdm Siti Zubeidah Binte Kadir](siti_zubeidah_kadir@moe.edu.sg)<br>[Ms Tan Koon Bin](tan_koon_bin@moe.edu.sg) |
 | 4 Endeavour |[Mdm Jameyahti Bte Ab Malek](jameyahti_ab_malek@moe.edu.sg)<br>[Mdm Kwee Wan Juan Esther](kwee_wan_juan_esther@moe.edu.sg) |
-| 4 Love | [Mrs Angela Lee](mailto:Ang_Bee_Ngoh@moe.edu.sg)<br>[Mdm Xi Donglei](mailto:xi_donglei@moe.edu.sg) |
+| 4 Love | [Mrs Baljeet Singh](mailto:baljeet_kaur_grewal@moe.edu.sg)<br>[Mdm Marilyn Goh Jing Ling](marilyn_goh_jing_ling@moe.edu.sg) |
 | 4 Integrity |[Ms Long Yuan Chin](long_yuan_chin_bernadette@moe.edu.sg)<br>[Mdm Michelle Lim Qian Wen](michelle_lim_qian_wen@moe.edu.sg)<br>[Mdm Sim Lee Sang](sim_lee_sang@moe.edu.sg) |
 | 4 Adaptability |[Ms Ong Hui Hui](ong_hui_hui_a@moe.edu.sg)<br>[Mdm Wu Xun](wu_xun@moe.edu.sg)<br>|
 | 4 Service |[Mrs Natascha Gabrielle Rodrigues](mailto:natascha_gabrielle_nonis@moe.edu.sg)<br> [Mdm Siti Nur Aisyah](mailto:siti_nur_aisyah@moe.edu.sg)<br>[Ms Kavitha d/o Kalimuthu](mailto:Kavitha_Kalimuthu@moe.edu.sg)  |
