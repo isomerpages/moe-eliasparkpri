@@ -57,10 +57,10 @@ variant: markdown
 | 3 Love |[Mr Lokman Hakim Bin Yunos](lokman_hakim_b_yunos@moe.edu.sg)<br>[Mdm Aini Bte Hussien](aini_hussien@moe.edu.sg)
 | 3 Integrity |[Mdm Afiqah Liyana Bte Rahim](afiqah_liyana_rahim@moe.edu.sg)<br>[Mdm Xi Donglei](xi_donglei@moe.edu.sg)<br> |
 | 3 Adaptability |[Ms Lydia Dawn Amla D/O Sasidharen](lydia_dawn_amla_sasidharen@moe.edu.sg)<br>[Mdm Quek Hwee Khim shelly](quek_hwee_khim_shelly@moe.edu.sg)<br>
-| 3 Service | [Mrs Tan Hui Fong](mailto:lam_hui_fong@moe.edu.sg)<br>[Mdm Nurliyana Bte Mahat](mailto:nurliyana_mahat@moe.edu.sg) |
-| 4 Endeavour | [Ms Bernadette Long](mailto:long_yuan_chin_bernadette@moe.edu.sg)<br>[Mdm Valerie Jean De Souza](mailto:de_souza_valerie_jean@moe.edu.sg) |
+| 3 Service | [Mdm Siti Zubeidah Binte Kadir](siti_zubeidah_kadir@moe.edu.sg)<br>[Ms Tan Koon Bin](tan_koon_bin@moe.edu.sg) |
+| 4 Endeavour |[Mdm Jameyahti Bte Ab Malek](jameyahti_ab_malek@moe.edu.sg)<br>[Mdm Kwee Wan Juan Esther](kwee_wan_juan_esther@moe.edu.sg) |
 | 4 Love | [Mrs Angela Lee](mailto:Ang_Bee_Ngoh@moe.edu.sg)<br>[Mdm Xi Donglei](mailto:xi_donglei@moe.edu.sg) |
-| 4 Integrity |[Mdm Sophia Ng](mailto:sophia_ng_gay_koon@moe.edu.sg)<br>[Mrs Alsree-Siti Nooraidah](mailto:alsree@moe.edu.sg) <br>[Mdm Fu Ye](mailto:fu_ye@moe.edu.sg)  |
+| 4 Integrity |[Ms Long Yuan Chin](long_yuan_chin_bernadette@moe.edu.sg)<br>[Mdm Michelle Lim Qian Wen](michelle_lim_qian_wen@moe.edu.sg)<br>[Mdm Sim Lee Sang](sim_lee_sang@moe.edu.sg) |
 | 4 Adaptability | [Ms Lydia Dawn Amla D/O Sasidharen](mailto:Lydia_Dawn_Amla_Sasidharen@moe.edu.sg)<br>[Ms Nurul Hilmah Binte Mohamad Nor](mailto:nurul_hilmah_mohamad_nor@moe.edu.sg)<br>[Mdm Suhaida Bte Saptu](mailto:suhaida_saptu@moe.edu.sg) |
 | 4 Service |[Mrs Natascha Gabrielle Rodrigues](mailto:natascha_gabrielle_nonis@moe.edu.sg)<br> [Mdm Siti Nur Aisyah](mailto:siti_nur_aisyah@moe.edu.sg)<br>[Ms Kavitha d/o Kalimuthu](mailto:Kavitha_Kalimuthu@moe.edu.sg)  |
 | 5 Endeavour | [Mdm Jamila Adal](mailto:jamila_adal@moe.edu.sg)<br>[Ms Joy Ong](mailto:joy_ong_siok_yin@moe.edu.sg) |
