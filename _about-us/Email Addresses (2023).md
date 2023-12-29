@@ -54,9 +54,9 @@ variant: markdown
 | 2 Service | [Ms Nurul Siddiqah Binte Allawudin](nurul_siddiqah_allawudin@moe.edu.sg)<br>[Mdm Wong Hui Guan Jessie](wong_hui_guan@moe.edu.sg)|
 | 2 Perseverance |[Mdm Angela Lee Bee Ngoh](ang_bee_ngoh@moe.edu.sg)<br>[Mdm Li Huan](li_huan@moe.edu.sg)<br>[Mdm Nurni Bte Isnain](nurni_isnain@moe.edu.sg) |
 | 3 Endeavour  | [Mr Ker Ting Wei Jeremy ](ker_ting_wei_jeremy@moe.edu.sg)<br>[Ms Nurul Hilmah Binte Mohd Nor](nurul_hilmah_mohamad_nor@moe.edu.sg)<br>[Mdm Suhaida Bte Saptu](suhaida_saptu@moe.edu.sg) |
-| 3 Love | [Mr Jeremy Ker](mailto:ker_ting_wei_Jeremy@moe.edu.sg)<br>[Mdm Marilyn Goh](mailto:marilyn_goh_jing_ling@moe.edu.sg)
-| 3 Integrity | [Ms Pamela Wong](mailto:wong_pei_li_pamela@moe.edu.sg)<br>[Ms Michelle Lim](mailto:michelle_lim_qian_wen@moe.edu.sg)<br> |
-| 3 Adaptability | [Ms Ong Hui Hui](mailto:ong_hui_hui_a@moe.edu.sg)<br>[Mdm Wu Xun](mailto:wu_xun@moe.edu.sg)<br>
+| 3 Love |[Mr Lokman Hakim Bin Yunos](lokman_hakim_b_yunos@moe.edu.sg)<br>[Mdm Aini Bte Hussien](aini_hussien@moe.edu.sg)
+| 3 Integrity |[Mdm Afiqah Liyana Bte Rahim](afiqah_liyana_rahim@moe.edu.sg)<br>[Mdm Xi Donglei](xi_donglei@moe.edu.sg)<br> |
+| 3 Adaptability |[Ms Lydia Dawn Amla D/O Sasidharen](lydia_dawn_amla_sasidharen@moe.edu.sg)<br>[Mdm Quek Hwee Khim shelly](quek_hwee_khim_shelly@moe.edu.sg)<br>
 | 3 Service | [Mrs Tan Hui Fong](mailto:lam_hui_fong@moe.edu.sg)<br>[Mdm Nurliyana Bte Mahat](mailto:nurliyana_mahat@moe.edu.sg) |
 | 4 Endeavour | [Ms Bernadette Long](mailto:long_yuan_chin_bernadette@moe.edu.sg)<br>[Mdm Valerie Jean De Souza](mailto:de_souza_valerie_jean@moe.edu.sg) |
 | 4 Love | [Mrs Angela Lee](mailto:Ang_Bee_Ngoh@moe.edu.sg)<br>[Mdm Xi Donglei](mailto:xi_donglei@moe.edu.sg) |
