@@ -96,7 +96,6 @@ variant: markdown
 |   | [Ms Siti Aisyah Bte Yacob](mailto:siti_aisyah_yacob@moe.edu.sg) |
 | **Tamil Language teachers** | [Mr Kanan S/O Perumal](mailto:kanan_perumal@moe.edu.sg) |
 |   | [Ms Kavitha d/o Kalimuthu](mailto:Kavitha_Kalimuthu@moe.edu.sg) |
-|   | |
 | **Learning Support (English)** | [Mrs Anne Quah](mailto:toh_anne@moe.edu.sg) |
 | **Learning Support (Mathematics)** | [Mdm Iza Mariah Bte Idris](mailto:iza_mariah_idris@moe.edu.sg) |
 | **Special Educational Needs (SEN) Officer**   | [Mdm Vasanthi Rengaraju](mailto:rengaraju_vasanthi@moe.edu.sg) |
