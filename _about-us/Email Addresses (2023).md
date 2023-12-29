@@ -76,18 +76,11 @@ variant: markdown
 
 |  |  |
 |---|---|
-| **Subject teachers** | [Ms Noraini Abdullah](mailto:noraini_abdullah_hee@moe.edu.sg) |
-|   | [Mrs Tjan Hiok Hoon](mailto:tjan_hiok_hoon@moe.edu.sg) |
-| | [Mrs Victor Sarosi](mailto:victor_sarosi@moe.edu.sg) |
-| | [Mdm Penelope Lim](mailto:penelope_lim_siew_young@moe.edu.sg) | 
-|  
 | **Chinese Language teachers** | [Mdm Li Huan](mailto:li_huan@moe.edu.sg)  |
 |   | [Mdm Tan Whai Sze](mailto:tan_whai_sze@moe.edu.sg) |
 |   | [Mdm Chin Poh Lin](mailto:chin_poh_lin@moe.edu.sg) |
 |   | [Mdm Esther Kwee](mailto:kwee_wan_juan_esther@moe.edu.sg) |
 |   | [Mdm Fu Ye](mailto:fu_ye@moe.edu.sg) |
-|   | [Mr Lim Kian Chye](mailto:lim_kian_chye@moe.edu.sg) |
-|   | [Mdm Mah Huimin](mailto:mah_huimin@moe.edu.sg) |
 |   | [Ms Michelle Lim](mailto:michelle_lim_qian_wen@moe.edu.sg) |
 |   | [Ms Que Yi](mailto:que_yi@moe.edu.sg) |
 |   |[Ms Tan Koon Bin](mailto:tan_koon_bin@moe.edu.sg)  |
@@ -106,8 +99,7 @@ variant: markdown
 |   | |
 | **Learning Support (English)** | [Mrs Anne Quah](mailto:toh_anne@moe.edu.sg) |
 | **Learning Support (Mathematics)** | [Mdm Iza Mariah Bte Idris](mailto:iza_mariah_idris@moe.edu.sg) |
-| **Special Educational Needs (SEN) Officer** | [Mdm Mastura M. Hashim](mailto:mastura_mohd_hashim@moe.edu.sg) |
-|   | [Mdm Vasanthi Rengaraju](mailto:rengaraju_vasanthi@moe.edu.sg) |
+| **Special Educational Needs (SEN) Officer**   | [Mdm Vasanthi Rengaraju](mailto:rengaraju_vasanthi@moe.edu.sg) |
 |   | [Mdm Janice Ang](mailto:ang_chia_tee@moe.edu.sg) |
 |   | [Ms Hanis Azmi](mailto:hanis_azmi@moe.edu.sg) |
-| **School Counsellor** | [Mdm Amanda Lim](mailto:amanda_lim_le_wei@moe.edu.sg) |
+| **School Counsellor** | [Mrs Amanda Lim](mailto:amanda_lim_le_wei@moe.edu.sg) |
