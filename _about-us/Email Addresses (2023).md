@@ -50,7 +50,7 @@ variant: markdown
 | 2 Endeavour | [Mdm Wong Yun Ru ](wong_yun_ru_eleanor@moe.edu.sg)<br>[Mdm Sofillia Bte Yahya](sofilia_yahya@moe.edu.sg)<br> |
 | 2 Love | [Ms Tan Qian Ni](tan_qian_ni@moe.edu.sg)<br>[Mdm Sarina Bte Salleh](sarina_salleh@moe.edu.sg)<br> |
 | 2 Integrity |[Mdm Sri Noriehan Bte Kamis](sri_noriehan_kamis@moe.edu.sg)<br>[Ms Que Yi](que_yi@moe.edu.sg)|
-| 2 Adaptability | [Mdm Habibah Bte Husein Shah](mailto:habibah_husein_shah@moe.edu.sg)<br> [Mr Dion Lee](mailto:Lee_Jian_Jie_Dion@moe.edu.sg)<br>[Mdm Sim Lee Sang](mailto:sim_lee_sang@moe.edu.sg) <br> |
+| 2 Adaptability |[Mdm Wee Siew Hong](wee_siew_hong@moe.edu.sg)<br>[Ms Kavitha d/o Kalimuthu](kavitha_kalimuthu@moe.edu.sg)<br>[Mr Chen Yi Xiang](chen_yixiang@moe.edu.sg)<br> |
 | 2 Service | [Ms Gil Tan](mailto:tan_siew_hwa@moe.edu.sg)<br>[Ms Bernice Tan](mailto:tan_li_xian@moe.edu.sg)|
 | 2 Perseverance | [Mdm Aini Bte Hussien](mailto:aini_hussien@moe.edu.sg)<br>[Mr Chen Yixiang](mailto:chen_yixiang@moe.edu.sg)<br>[Mr Fathurrahman Bin Abdul Wahed](mailto:fathurrahman_abdul_wahed@moe.edu.sg) |
 | 3 Endeavour  | [Mdm Jameyahti Bte Ab Malek](mailto:jameyahti_ab_malek@moe.edu.sg)<br>[Mdm Esther Kwee](mailto:kwee_wan_juan_esther@moe.edu.sg) |
