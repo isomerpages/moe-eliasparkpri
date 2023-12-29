@@ -53,7 +53,7 @@ variant: markdown
 | 2 Adaptability |[Mdm Wee Siew Hong](wee_siew_hong@moe.edu.sg)<br>[Ms Kavitha d/o Kalimuthu](kavitha_kalimuthu@moe.edu.sg)<br>[Mr Chen Yi Xiang](chen_yixiang@moe.edu.sg)<br> |
 | 2 Service | [Ms Nurul Siddiqah Binte Allawudin](nurul_siddiqah_allawudin@moe.edu.sg)<br>[Mdm Wong Hui Guan Jessie](wong_hui_guan@moe.edu.sg)|
 | 2 Perseverance |[Mdm Angela Lee Bee Ngoh](ang_bee_ngoh@moe.edu.sg)<br>[Mdm Li Huan](li_huan@moe.edu.sg)<br>[Mdm Nurni Bte Isnain](nurni_isnain@moe.edu.sg) |
-| 3 Endeavour  | [Mdm Jameyahti Bte Ab Malek](mailto:jameyahti_ab_malek@moe.edu.sg)<br>[Mdm Esther Kwee](mailto:kwee_wan_juan_esther@moe.edu.sg) |
+| 3 Endeavour  | [Mr Ker Ting Wei Jeremy ](ker_ting_wei_jeremy@moe.edu.sg)<br>[Ms Nurul Hilmah Binte Mohd Nor](nurul_hilmah_mohamad_nor@moe.edu.sg)<br>[Mdm Suhaida Bte Saptu](suhaida_saptu@moe.edu.sg) |
 | 3 Love | [Mr Jeremy Ker](mailto:ker_ting_wei_Jeremy@moe.edu.sg)<br>[Mdm Marilyn Goh](mailto:marilyn_goh_jing_ling@moe.edu.sg)
 | 3 Integrity | [Ms Pamela Wong](mailto:wong_pei_li_pamela@moe.edu.sg)<br>[Ms Michelle Lim](mailto:michelle_lim_qian_wen@moe.edu.sg)<br> |
 | 3 Adaptability | [Ms Ong Hui Hui](mailto:ong_hui_hui_a@moe.edu.sg)<br>[Mdm Wu Xun](mailto:wu_xun@moe.edu.sg)<br>
