@@ -43,7 +43,7 @@ variant: markdown
 | Form Teachers |  |
 |---|---|
 | 1 Endeavour | [Mrs Natascha Gabrielle Rodrigues](mailto:natascha_gabrielle_nonis@moe.edu.sg)<br>[Ms Chai Chew Yee](chai_chew_yee@moe.edu.sg)  |
-| 1 Love | [Ms Tan Qian Ni](mailto:tan_qian_ni@moe.edu.sg)<br>[Mdm Sarina Salleh](mailto:sarina_salleh@moe.edu.sg)  |
+| 1 Love | [Ms Tan Siew Hwa](tan_siew_hwa@moe.edu.sg)<br>[Ms Tan Li Xian](tan_li_xian@moe.edu.sg) |
 | 1 Integrity | [Mdm Sri Noriehan](mailto:sri_noriehan_kamis@moe.edu.sg)<br>[Ms Que Yi](mailto:que_yi@moe.edu.sg) |
 | 1 Adaptability | [Mdm Chan Jia En](mailto:chan_jia_en@moe.edu.sg)<br>[Mdm Siti Noorhuda](mailto:siti_noorhuda_mohd_bagusha@moe.edu.sg)<br>[Mdm Sera Wee](mailto:wee_siew_hong@moe.edu.sg) |
 | 1 Service | [Mdm Nurul Siddiqah Binte Allawudin](mailto:nurul_siddiqah_allawudin@moe.edu.sg)<br>[Mdm Jessie Wong](mailto:wong_hui_guan@moe.edu.sg)<br>[Mdm Nur Sobah Bte Mahmood Bamadhj](mailto:nur_sobah_mahmood_bamadhaj@moe.edu.sg) |
