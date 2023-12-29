@@ -69,10 +69,10 @@ variant: markdown
 | 5 Adaptability | [Ms Bhairavi Lachimanan](bhairavi_lachimanan@moe.edu.sg)<br>[Mdm Nurliyana Bte Mahat](nurliyana_mahat@moe.edu.sg)|
 | 5 Service | [Mdm Siti Nur Aisyah](siti_nur_aisyah@moe.edu.sg)<br>[Mr Mohd Yusman Bin Selamat](mohamad_yusman_selamat@moe.edu.sg)<br>[Mdm Yeo Peck Hoon Anastacia ](yeo_peck_hoon_anastacia@moe.edu.sg) |
 | 6 Endeavour |[Mdm Jamila Adal](jamila_adal@moe.edu.sg)<br>[Ms Joy Ong Siok Yin](joy_ong_siok_yin@moe.edu.sg) |
-| 6 Love | [Ms Cheryl Han](mailto:han_yi_ling_cheryl@moe.edu.sg)<br>[Mdm Chin Poh Lin](mailto:chin_poh_lin@moe.edu.sg) |
-| 6 Integrity | [Mdm Wee Pat Ghee](mailto:wee_pat_ghee@moe.edu.sg)<br>[Mr Mohamad Yusman Bin Selamat](mailto:mohamad_yusman_selamat@moe.edu.sg)<br>[Mrs Anastacia&nbsp;Foo](mailto:yeo_peck_hoon_anastacia@moe.edu.sg) |
-| 6 Adaptability | [Mrs Stephanie Ser](mailto:go_pei_ling@moe.edu.sg) <br>[Ms Siti Aisyah Bte Yacob](mailto:siti_aisyah_yacob@moe.edu.sg) |
-| 6 Service | [Mrs Baljeet Singh](mailto:baljeet_kaur_grewal@moe.edu.sg)<br>[Mrs Irene Say](mailto:lee_siew_hui@moe.edu.sg) |
+| 6 Love | [Mrs Ser Pei Ling Stephanie ](go_pei_ling@moe.edu.sg)<br>[Mdm Woong Sook Peng](woong_sook_peng@moe.edu.sg)|
+| 6 Integrity | [Mdm Poon Yin Ching](poon_yin_ching@moe.edu.sg)<br>[Mr Liu Zhiming](liu_zhiming@moe.edu.sg)<br>[Mdm Wee Pat Ghee](wee_pat_ghee@moe.edu.sg) |
+| 6 Adaptability |[Mrs Josie Teo](hsieh_josie@moe.edu.sg) <br>[Mr Zhou Yuan](zhou_yuan@moe.edu.sg)|
+| 6 Service | [Mrs Tham - Seah Yi Ern](seah_yi_ern@moe.edu.sg)<br>[Mr Lee Mun Hong Stan](lee_mun_hong@moe.edu.sg)<br>[Mdm Fu Ye](fu_ye@moe.edu.sg) |
 
 |  |  |
 |---|---|
