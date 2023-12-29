@@ -44,8 +44,8 @@ variant: markdown
 |---|---|
 | 1 Endeavour | [Mrs Natascha Gabrielle Rodrigues](mailto:natascha_gabrielle_nonis@moe.edu.sg)<br>[Ms Chai Chew Yee](chai_chew_yee@moe.edu.sg)  |
 | 1 Love | [Ms Tan Siew Hwa](tan_siew_hwa@moe.edu.sg)<br>[Ms Tan Li Xian](tan_li_xian@moe.edu.sg) |
-| 1 Integrity | [Mdm Sri Noriehan](mailto:sri_noriehan_kamis@moe.edu.sg)<br>[Ms Que Yi](mailto:que_yi@moe.edu.sg) |
-| 1 Adaptability | [Mdm Chan Jia En](mailto:chan_jia_en@moe.edu.sg)<br>[Mdm Siti Noorhuda](mailto:siti_noorhuda_mohd_bagusha@moe.edu.sg)<br>[Mdm Sera Wee](mailto:wee_siew_hong@moe.edu.sg) |
+| 1 Integrity |[Mrs Carlin Tee](mailto:carlin_mulyati@moe.edu.sg)<br>[Mr Kanan S/O Perumal](kanan_perumal@moe.edu.sg) |
+| 1 Adaptability |[Mdm Habibah Bte Husein Shah](habibah_husein_shah@moe.edu.sg)<br>[Mdm Toh Anne](toh_anne@moe.edu.sg)<br>[Mr Lee Jian Jie, Dion](lee_jian_jie_dion@moe.edu.sg)|
 | 1 Service | [Mdm Nurul Siddiqah Binte Allawudin](mailto:nurul_siddiqah_allawudin@moe.edu.sg)<br>[Mdm Jessie Wong](mailto:wong_hui_guan@moe.edu.sg)<br>[Mdm Nur Sobah Bte Mahmood Bamadhj](mailto:nur_sobah_mahmood_bamadhaj@moe.edu.sg) |
 | 1 Perseverance | [Mrs Carlin Tee](mailto:carlin_mulyati@moe.edu.sg)<br>[Mdm Nurni Bte Isnain](mailto:nurni_isnain@moe.edu.sg) |
 | 2 Endeavour | [Mrs Shelly Lee](mailto:quek_hwee_khim_shelly@moe.edu.sg)<br>[Ms Tan Koon Bin](mailto:tan_koon_bin@moe.edu.sg)<br>[Mr Lokman Hakim Bin Yunos](mailto:lokman_hakim_b_yunos@moe.edu.sg) |
