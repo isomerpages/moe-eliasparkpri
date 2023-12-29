@@ -2,6 +2,7 @@
 title: Email Addresses (2023)
 permalink: /about-us/email-addresses/
 description: ""
+variant: markdown
 ---
 <!--### Email Addresses (2023)-->
 
@@ -28,6 +29,7 @@ description: ""
 | Level Head (Science)  | [Mrs Stephanie Ser](mailto:go_pei_ling@moe.edu.sg)  |
 | Subject Head (Malay Language) | [Mdm Suhaida Bte Saptu](mailto:suhaida_saptu@moe.edu.sg) |
 | Subject Head (Discipline &amp; Student Leadership) | [Mdm Iza Mariah Bte Idris](mailto:iza_mariah_idris@moe.edu.sg) |
+| Subject Head (Physical Education) |[Mr Bryan Foo Chun Kiat](mailto:foo_chun_kiat_bryan@moe.edu.sg)  |
 | Year Head (Lower Primary)  | [Mdm Jamila Adal](mailto:jamila_adal@moe.edu.sg) |
 | Year Head (Middle Primary)   | [Mdm Marilyn Goh](mailto:marilyn_goh_jing_ling@moe.edu.sg)  |
 | Year Head (Upper Primary) | [Mrs Irene Say](mailto:lee_siew_hui@moe.edu.sg) |
