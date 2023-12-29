@@ -47,7 +47,7 @@ variant: markdown
 | 1 Integrity |[Mrs Carlin Tee](mailto:carlin_mulyati@moe.edu.sg)<br>[Mr Kanan S/O Perumal](kanan_perumal@moe.edu.sg) |
 | 1 Adaptability |[Mdm Habibah Bte Husein Shah](habibah_husein_shah@moe.edu.sg)<br>[Mdm Toh Anne](toh_anne@moe.edu.sg)<br>[Mr Lee Jian Jie, Dion](lee_jian_jie_dion@moe.edu.sg)|
 | 1 Service |[Mr Alif Zulhilmi Bin Zakaria](alif_zulhilmi_zakaria@moe.edu.sg)<br>[Mdm Iza Mariah Bte Idris](mailto:iza_mariah_idris@moe.edu.sg)<br>[Mr Foo Chun Kiat Bryan](foo_chun_kiat_bryan@moe.edu.sg)
-| 2 Endeavour | [Mrs Shelly Lee](mailto:quek_hwee_khim_shelly@moe.edu.sg)<br>[Ms Tan Koon Bin](mailto:tan_koon_bin@moe.edu.sg)<br>[Mr Lokman Hakim Bin Yunos](mailto:lokman_hakim_b_yunos@moe.edu.sg) |
+| 2 Endeavour | [Mdm Wong Yun Ru ](wong_yun_ru_eleanor@moe.edu.sg)<br>[Mdm Sofillia Bte Yahya](sofilia_yahya@moe.edu.sg)<br> |
 | 2 Love | [Mr Alif Zulhilmi Bin Zakaria](mailto:alif_zulhilmi_zakaria@moe.edu.sg)<br> [Mdm Iza Mariah Bte Idris](mailto:iza_mariah_idris@moe.edu.sg)<br> |
 | 2 Integrity | [Mdm Siti Zubeidah Binte Kadir](mailto:siti_zubeidah_kadir@moe.edu.sg)<br>[Mr Kanan S/O Perumal](mailto:kanan_perumal@moe.edu.sg) |
 | 2 Adaptability | [Mdm Habibah Bte Husein Shah](mailto:habibah_husein_shah@moe.edu.sg)<br> [Mr Dion Lee](mailto:Lee_Jian_Jie_Dion@moe.edu.sg)<br>[Mdm Sim Lee Sang](mailto:sim_lee_sang@moe.edu.sg) <br> |
