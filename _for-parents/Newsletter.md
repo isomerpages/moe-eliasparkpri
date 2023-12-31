@@ -4,7 +4,7 @@ permalink: /for-parents/newsletter/
 description: ""
 variant: markdown
 ---
-### Newsletter
+### Newsletters
 
 
 To be updated
