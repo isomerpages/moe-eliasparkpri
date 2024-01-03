@@ -7,4 +7,4 @@ variant: markdown
 ### Newsletters
 
 
-To be updated
+[Term 1_2024_Newsletter](/files/Term_1_2024_Newsletter.pdf)
