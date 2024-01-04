@@ -2,14 +2,14 @@
 title: Modern Dance
 permalink: /cca/modern-dance/
 description: ""
+variant: markdown
 ---
 ### Modern Dance
 
 #### Teachers-in-charge
 
-[Ms Siti Aisyah Bte Yacob](mailto:siti_aisyah_yacob@moe.edu.sg)  
-Mrs Natascha Rodrigues  
-Mdm Siti Nur Aisyah&nbsp;  
+[Mdm Siti Nur Aisyah](mailto:siti_nur_aisyah@moe.edu.sg)  
+Ms Siti Aisyah Binte Yacob <br>
 Ms Tan Koon Bin  
 Ms Lydia Dawn
   
