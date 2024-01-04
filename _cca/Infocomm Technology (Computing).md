@@ -2,14 +2,14 @@
 title: Infocomm Technology (Computing)
 permalink: /cca/infocomm-technology-computing/
 description: ""
+variant: markdown
 ---
 ### Infocomm Technology (Computing)
 
 #### Teachers-in-charge
 
-[Ms Gil Tan](mailto:tan_siew_hwa@moe.edu.sg)  
+[Ms Cheryl Han](mailto:han_yi_ling_cheryl@moe.edu.sg)  
 Mdm Nurni Bte Isnain<br>
-Ms Cheryl Han  
 Mrs Alsree-Siti Nooraidah
 
 #### Gender
