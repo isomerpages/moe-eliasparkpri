@@ -2,6 +2,7 @@
 title: Volleyball Boys
 permalink: /cca/voleyball-boys/
 description: ""
+variant: markdown
 ---
 ### Volleyball Boys
 
