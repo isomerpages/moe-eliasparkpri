@@ -7,7 +7,7 @@ variant: markdown
 <!--### Announcements-->
 <!--* * *-->
 * * *
-
+**Vacancy of Canteen Stall : [Click Here](/canteenad/)**
 * * *
 **School Bus Services and Fare :** [Click Here](/information/school-bus-service/sbof/)
 * * *
