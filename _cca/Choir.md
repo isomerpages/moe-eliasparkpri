@@ -2,15 +2,16 @@
 title: Choir
 permalink: /cca/choir/
 description: ""
+variant: markdown
 ---
 ### Choir
 
 #### Teacher(s)-in-charge
 
-[Mrs Josie Teo](mailto:hsieh_josie@moe.edu.sg)  
+[Mdm Quek Hwee Khim Shelly](mailto:quek_hwee_khim_shelly@moe.edu.sg)  
 Mdm Wu Xun  
-Ms Woon Qing  
-Mrs Shelly Lee
+ 
+
   
 
 #### Gender
