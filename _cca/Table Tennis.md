@@ -2,16 +2,17 @@
 title: Table Tennis
 permalink: /cca/table-tennis/
 description: ""
+variant: markdown
 ---
 ### Table Tennis
 
 #### Teachers-in-charge
 
 [Mr Zhou Yuan](mailto:zhou_yuan@moe.edu.sg)  
+Ms Tan Li Xian Bernice<br>
 Mdm Fu Ye  
-Mr Jeremy Ker&nbsp;  
-Mr Alif Zulhilmi Bin Zakaria  
-Mdm Chin Poh Lin
+Mr Ker Ting Wei Jeremy&nbsp;  
+
 
 ##### Gender  
 * Boys &amp; Girls  
