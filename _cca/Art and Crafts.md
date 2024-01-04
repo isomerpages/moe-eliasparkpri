@@ -9,7 +9,6 @@ variant: markdown
 #### Teachers-in-charge
 
 [Ms Nurul Hilmah Binte Mohamad Nor ](mailto:nurul_hilmah_mohamad_nor@moe.edu.sg)  
- 
 Mdm Sarina Salleh  
 Mdm Chin Poh Lin
   
