@@ -2,14 +2,15 @@
 title: Debating and Public Speaking
 permalink: /cca/debating-and-public-speaking/
 description: ""
+variant: markdown
 ---
 ### Debating and Public Speaking
 
 #### Teachers-in-charge
 
 [Ms Sri Noriehan](mailto:sri_noriehan_kamis@moe.edu.sg)<br>
-Mdm Sophia Ng  <br>
-Mdm Afiqah Liyana Binte Rahim
+Mdm Afiqah Liyana Binte Rahim  <br>
+Ms Nurul Siddiqah Binte Allawudin
 
   
 
