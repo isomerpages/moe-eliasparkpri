@@ -8,7 +8,7 @@ variant: markdown
 
 #### Teacher(s)-in-charge
 
-[Mdm Quek Hwee Khim Shelly](mailto:quek_hwee_khim_shelly@moe.edu.sg)  
+[Mrs Shelly Lee](mailto:quek_hwee_khim_shelly@moe.edu.sg)  
 Mdm Wu Xun  
  
 
