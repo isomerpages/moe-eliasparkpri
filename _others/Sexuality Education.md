@@ -51,7 +51,7 @@ You may&nbsp;click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;f
 **At Elias Park Primary School, the following Sexuality Education lessons will be taught in&nbsp;2024:**
 
 **Primary 5**
-![Sexuality Education P5 2023](/images/p5%202023_sexuality%20education.PNG)
+![p5_2024_sexuality_education](/images/p5_2024_sexuality_education.PNG)
 
 
 **Primary 6**
