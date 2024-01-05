@@ -9,9 +9,9 @@ variant: markdown
 #### Teachers-in-charge
 
 [Mr Zhou Yuan](mailto:zhou_yuan@moe.edu.sg)  
-Ms Tan Li Xian Bernice<br>
+Ms Bernice Tan<br>
 Mdm Fu Ye  
-Mr Ker Ting Wei Jeremy&nbsp;  
+Mr Jeremy Ker  
 
 
 ##### Gender  
