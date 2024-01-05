@@ -55,17 +55,16 @@ You may&nbsp;click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;f
 
 
 **Primary 6**
-![Sexuality Education P6 2023](/images/p6_2023_sexuality%20education.PNG)
+![p6_2024_sexuality_education](/images/p6_2024_sexuality_education.PNG)
 
-Please Note:
-*For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort. 
+
 
 
 **Information for Parents**
 
-8\.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
+8\.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
 
-9\.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;here:&nbsp; [MOE Sexuality Education OPT Out Form 2023](/files/moe%20sexuality%20education%20in%20schools_opt%20out%20form%202023.pdf)
+9\.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable&nbsp;here:&nbsp; [MOE Sexuality Education OPT Out Form 2023](/files/moe%20sexuality%20education%20in%20schools_opt%20out%20form%202023.pdf)
 
 The completed opt-out form is to be submitted by 3 February 2023..
 
