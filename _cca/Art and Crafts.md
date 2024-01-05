@@ -2,15 +2,15 @@
 title: Art and Crafts
 permalink: /cca/art-and-crafts/
 description: ""
+variant: markdown
 ---
 ### Art and Crafts
 
 #### Teachers-in-charge
 
-[Mdm Siti Noorhuda](mailto:siti_noorhuda_mohd_bagusha@moe.edu.sg)  
-Ms Nurul Hilmah Binte Mohamad Nor  
-Mdm Jameyahti Bte Ab Malek  
-Ms Chloe Teo
+[Ms Nurul Hilmah Binte Mohamad Nor ](mailto:nurul_hilmah_mohamad_nor@moe.edu.sg)  
+Mdm Sarina Salleh  
+Mdm Chin Poh Lin
   
 
 ##### Gender

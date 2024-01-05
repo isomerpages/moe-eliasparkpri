@@ -2,12 +2,14 @@
 title: Volleyball Girls
 permalink: /cca/volleyball-girls/
 description: ""
+variant: markdown
 ---
 ### Volleyball Girls
 
 #### Teachers-in-charge
-[Mr Chen Yixiang](mailto:chen_yixiang@moe.edu.sg)  <br>
-Mrs Tan Hui Fong  
+[Mr Fathurrahman](mailto:cfathurrahman_abdul_wahed@moe.edu.sg)  <br>
+Mr Chen Yixiang<br>
+Ms Gil Tan  
 #### Schedule
 * Please refer to the schedule sent by the CCA teachers&nbsp;  
 

@@ -2,14 +2,15 @@
 title: Food and Consumer Education
 permalink: /cca/food-and-consumer-education/
 description: ""
+variant: markdown
 ---
 ### Food &amp; Consumer Education
 
 #### Teachers-in-charge
 
 [Mrs Baljeet Singh](mailto:baljeet_kaur_grewal@moe.edu.sg)  <br>
-Mdm Sarina Salleh<br>
-Mdm Siddiqah
+Mrs Natascha Gabrielle Rodrigues <br>
+
 
   
 

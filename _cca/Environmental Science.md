@@ -2,15 +2,16 @@
 title: Environmental Science
 permalink: /cca/environmental-science/
 description: ""
+variant: markdown
 ---
 ### Environmental Science
 
 ##### Teachers-in-charge
 
-[Mdm Nurliyana Bte Mahat](mailto:nurliyana_mahat@moe.edu.sg)  <br>
-Ms Bernadette Long  <br>
-Mrs Angela Lee<br>
-Mdm Valerie
+[Ms Bernadette Long](mailto:long_yuan_chin_bernadette@moe.edu.sg)  <br>
+Mdm Nurliyana Bte Mahat<br>
+Mr Alif Zulhilmi Bin Zakaria<br>
+
 
   
 #### Gender  

@@ -2,17 +2,17 @@
 title: Chinese Orchestra (ECHO)
 permalink: /cca/chinese-orchestra-echo/
 description: ""
+variant: markdown
 ---
 ### Chinese Orchestra (ECHO)
 
 #### Teachers-in-charge
 
-[Mdm Xi Donglei](mailto:xi_donglei@moe.edu.sg)  
-Ms Eleanor Wong  
+[Mdm Jessie Wong](mailto:wong_hui_guan@moe.edu.sg)  
+Mdm Eleanor Wong  
 Ms Ong Hui Hui  
 Mr Kanan S/O Perumal  
 Ms Que Yi  
-Mdm Jessie Wong  
 Ms Michelle Lim
   
 
