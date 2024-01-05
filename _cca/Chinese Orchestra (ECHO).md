@@ -9,7 +9,7 @@ variant: markdown
 #### Teachers-in-charge
 
 [Mdm Jessie Wong](mailto:wong_hui_guan@moe.edu.sg)  
-Ms Eleanor Wong  
+Mdm Eleanor Wong  
 Ms Ong Hui Hui  
 Mr Kanan S/O Perumal  
 Ms Que Yi  
