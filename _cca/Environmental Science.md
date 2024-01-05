@@ -9,7 +9,7 @@ variant: markdown
 ##### Teachers-in-charge
 
 [Ms Bernadette Long](mailto:long_yuan_chin_bernadette@moe.edu.sg)  <br>
-Mdm Afiqah Liyana Bte Rahim<br>
+Mdm Nurliyana Bte Mahat<br>
 Mr Alif Zulhilmi Bin Zakaria<br>
 
 
