@@ -9,9 +9,9 @@ variant: markdown
 #### Teachers-in-charge
 
 [Mdm Sofilia Bte Yahya](mailto:sofilia_yahya@moe.edu.sg)  <br>
-Ms Tan Qian Ni  <br>
-Ms Bernice Tan<br>
-Mr Fathurrahman
+Mr Dion Lee <br>
+Mrs Angela Lee<br>
+
 
   
 
