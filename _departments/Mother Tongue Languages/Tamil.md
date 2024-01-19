@@ -3,6 +3,7 @@ title: Tamil
 permalink: /departments/Mother-Tongue-Languages/tamil/
 description: ""
 third_nav_title: Mother Tongue Languages
+variant: markdown
 ---
 <!--### Tamil-->
 
@@ -44,10 +45,6 @@ Tamil Department places great emphasis on reading. As we know, reading plays a v
 *   Read With Your Parent  
 According to MOE curriculum, Tamil students are only introduced to the Tamil alphabets in P1 and P2. &nbsp;In view of this, not all P1 and P2 students are able to read a book on their own. “Read with the Parent programme,” caters to the P1 and P2 students. In this programme, they are encouraged to read with the parents and record in a book. Students who have read the most number of books will be rewarded at the end of the year.&nbsp;
 <img src="/images/tamil_3.jpeg" style="width:30%">
-
-*   10 Minutes of Mother Tongue (10 MM)
-    <br>This programme is for students in Primary 4. Every day, students have to spend at least 10 minutes with their parents on activities that will expose the students to the Tamil Language. A wide range of interesting activities are assigned to students in SLS.
-
 
 *   Mother Tongue Language Fortnight  
 The Tamil Department organises various activities in conjunction with the Mother Tongue Language Fortnight. Singing Competition for P1, Character Portrayal Competition for P2, Story-telling competition for P3, Twisted Tales Competition for P4 and Oratorical Competition&nbsp;for P5 and Advertising Competition for P6 are some of the activities to be conducted during the MTL Fortnight. Students will also play some traditional games such as Parama Patham,&nbsp;Pallankuzhi&nbsp;and Aadu Puli Aattam. They will also play the improvised Taboo game in Tamil.
