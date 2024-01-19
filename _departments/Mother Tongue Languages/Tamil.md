@@ -54,9 +54,6 @@ The Tamil Department organises various activities in conjunction with the Mother
 
 *   Mother Tongue Support Programme  
 This programme is for students in Primary 3 and Primary 4.&nbsp;&nbsp;MTSP caters to students who need additional support in the learning of Mother Tongue. The students are identified by their respective schools based on their performance in basic oracy and reading skills in the Tamil Language at the end of Primary 2 and Primary 3 respectively. The number of students in this programme is small. Lessons are conducted during curriculum time.
-
-<img src="/images/tam4.png" style="width:60%">
-
 		
 *   Cultural Activities  
 The P5 Tamil students had the Villupaatu Workshop, an ancient form of musical story-telling on 31st March and 1st April in conjunction with the Mother-Tongue Language Fortnight. During the workshop, students learnt about the origin of Villupaatu, the occasions this style of storytelling was used, how a villupattu is performed and how it is different from traditional storytelling methods. Thereafter, the students worked in groups to perform a villupaatu to their classmates confidently. This workshop helped the students improve their spoken, listening and reading skills.
