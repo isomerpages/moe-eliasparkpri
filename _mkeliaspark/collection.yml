@@ -1,4 +1,5 @@
 collections:
   mkeliaspark:
     output: true
-    order: []
+    order:
+      - Open House.md
