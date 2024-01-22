@@ -2,4 +2,5 @@ collections:
   mkeliaspark:
     output: true
     order:
+      - Media Release.md
       - Open House.md
