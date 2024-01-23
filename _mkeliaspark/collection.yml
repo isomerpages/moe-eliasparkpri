@@ -2,6 +2,7 @@ collections:
   mkeliaspark:
     output: true
     order:
+      - Announcement.md
       - Contact.md
       - Media Release.md
       - Open House.md
