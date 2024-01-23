@@ -4,4 +4,4 @@ permalink: /mkeliaspark/contact/
 variant: tiptap
 description: ""
 ---
-<h2>Contacts</h2><p>Coming soon.....</p><p></p>
+<h2>Contact</h2><p>Coming soon.....</p><p></p>
