@@ -1,0 +1,6 @@
+collections:
+  signature-programmes:
+    output: true
+    order:
+      - Arts Creatively Expressed (ACE) at Elias.md
+      - nuCLEAR at EPPS.md

@@ -1,0 +1,14 @@
+logo: /images/logoupdated.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Signature Programmes
+    collection: signature-programmes
+  - title: Departments
+    collection: departments
+  - title: Achievements
+    collection: achievements
+  - title: MK@Elias Park
+    collection: mkeliaspark
+  - title: For Parents
+    url: /for-parents

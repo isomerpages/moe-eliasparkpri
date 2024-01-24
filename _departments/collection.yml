@@ -1,0 +1,32 @@
+collections:
+  departments:
+    output: true
+    order:
+      - English.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue Languages/Chinese.md
+      - Mother Tongue Languages/Malay.md
+      - Mother Tongue Languages/Tamil.md
+      - Mother Tongue Languages/.keep
+      - Aesthetics.md
+      - Physical Education.md
+      - CCA/Overview.md
+      - CCA/EPPS CCAs.md
+      - CCA/.keep
+      - PAL/Overview.md
+      - PAL/PAL (P1 and P2).md
+      - PAL/We Are Olympians!.md
+      - PAL/Outdoor Explorer 1.md
+      - PAL/Creative Cultural Dance.md
+      - PAL/Master of the Arts.md
+      - PAL/Let's Find Nemo!.md
+      - PAL/Outdoor Explorer 2.md
+      - PAL/Creative Drama.md
+      - PAL/.keep
+      - CCE/Overview.md
+      - CCE/Character Development.md
+      - CCE/Citizenship Education.md
+      - CCE/Cyber Wellness Programmes.md
+      - CCE/Sh@pe Alive!.md
+      - CCE/.keep
