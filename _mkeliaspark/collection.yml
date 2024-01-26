@@ -1,0 +1,8 @@
+collections:
+  mkeliaspark:
+    output: true
+    order:
+      - Announcement.md
+      - MK Registration.md
+      - Media Release.md
+      - Contact.md
