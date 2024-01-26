@@ -20,5 +20,5 @@ description: ""
     watch the 2024 Open House briefing.</p>
 <p>Unlike MK@Junyuan, MK@Elias Park will provide an additional 30mins of
     MTL programme and there will be no KCare service in the morning.</p>
-<h4>We look forward to seeing at the Open House !</h4>
+<h4>We look forward to seeing you at the Open House !</h4>
 <p></p>
