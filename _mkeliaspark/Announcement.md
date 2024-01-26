@@ -6,8 +6,8 @@ description: ""
 ---
 <h2>Announcement</h2>
 <h4>MK@EliasPark Open House 2024</h4>
-<p><strong>MK@Elias Park</strong> is currently under construction. We welcome
-    parents to join in our Open House at out buddy <strong>MK@Junyuan</strong> 2024.</p>
+<p><strong>MK@Elias Park</strong>  <em>is currently under construction</em>.
+    We welcome parents to join in our Open House at out buddy <strong>MK@Junyuan</strong> 2024.</p>
 <p></p>
 <div class="isomer-image-wrapper">
     <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK_Open_House_2024.jpg">
