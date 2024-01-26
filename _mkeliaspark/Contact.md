@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h2>Contact</h2>
-<p>Elias Park Primary School</p>
+<p><strong>Elias Park Primary School</strong>
+</p>
 <p>email : epps@moe.edu.sg</p>
 <p>Telephone : 65844393</p>
 <p></p>
