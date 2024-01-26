@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h3>MK Registration Exercise for K1 2025</h3>
-<p>Online registration for 2025 K1 admissions for both Open Admissions (OA)
-    and Early Years Centre (EYC) children will</p>
+<p>Online registration for <strong>2025 K1 admissions</strong> for both Open
+    Admissions (OA) and Early Years Centre (EYC) children will</p>
 <ul data-tight="true" class="tight">
     <li>
         <p>Open from <strong>9am on Friday, 16 February 2024</strong> and</p>
