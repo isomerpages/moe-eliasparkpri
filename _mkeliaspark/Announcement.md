@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h2>Announcement</h2>
-<h4>MK@EliasPark Open House 2024</h4>
+<h4>MK@Elias Park Open House 2024</h4>
 <p><strong>MK@Elias Park</strong>  <em>is currently under construction</em>.
     We welcome parents to join in our Open House at our buddy <strong>MK@Junyuan</strong>.</p>
 <p></p>
