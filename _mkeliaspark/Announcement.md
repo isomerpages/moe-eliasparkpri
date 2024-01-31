@@ -15,7 +15,7 @@ House 2024 will be held on <strong>Saturday, 3 February 2024 at 8.30am to 12.30p
 </div>
 <p>Parents can sign up via the <a href="https://go.gov.sg/mkoh2024" rel="noopener noreferrer nofollow" target="_blank"><u>FormSG Link</u></a>
 </p>
-<p>Click <a href="https://docs.google.com/presentation/d/1JmiukaYhvut_wUwj91cm3JjsYceCDoja/edit?usp=sharing&amp;ouid=113370651697218997731&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Click <a href="https://drive.google.com/file/d/1HrSq-_JFCD3LHyTnccjN_OE8ioesYjrq/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 watch the 2024 Open House briefing.</p>
 <p><strong><em>MK@Elias Park operating hours are:</em></strong>
 </p>
