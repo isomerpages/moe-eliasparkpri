@@ -25,4 +25,4 @@ watch the 2024 Open House briefing.</p>
 </p>
 <p><strong><em>In 2025, MK@Elias Park will only admit K1 students.</em></strong>
 </p>
-<p>We look forward to seeing you at the Open House</p>
+<p>We look forward to seeing you at the Open House.</p>
