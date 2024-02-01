@@ -2,13 +2,14 @@
 title: School Advisory Committee
 permalink: /about-us/school-advisory-committee/
 description: ""
+variant: markdown
 ---
 <!--### School Advisory Committee-->
 
 |  |  |
 |---|---|
-| Chairperson | Mr Charles Yeoh |
-| Member | Mr Keith Ou |
-| Member  | Mr Jeffrey Ho |
-| Member | Mr Terrence Tang |
-| Member | Mr Darren Wong |
+| **Chairman** | Mr Yeoh Chong Huat Charles |
+| **Member** | Mr Wong Kook Heng Darren |
+| **Member** | Mr Kerk Wee Chong |
+| **Member**  | Ms Yap Su-E |
+| **Member** | Ms Druga Rajendran |
