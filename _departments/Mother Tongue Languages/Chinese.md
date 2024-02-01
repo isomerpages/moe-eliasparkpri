@@ -52,4 +52,4 @@ variant: markdown
 <img src="/images/conversational%20chinese_malay%20programme%202023.PNG" style="width:90%">
 *   **•	The P3 cultural camp (文化营)**
 <br>The P3 cultural camp will be held in term 1. All Primary 3 students will participate in interesting programmes such as children’s literature appreciation and activities related to Chinese culture. Through a series of activities, the students will experience and learn more about the Chinese traditional culture. 
-<img src="/images/CL%2024%A.JPG" style="width:90%">
+<img src="/images/cl 2024 a.JPG" style="width:90%">
