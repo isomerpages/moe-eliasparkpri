@@ -163,12 +163,13 @@ the LOA fees to the school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Primary 2</u>
-<br>To be updated
-<br><u>Primary 3 &amp; 4</u>
+<p><u>Primary 2</u> 
+<br><a href="https://drive.google.com/file/d/1mWerCC_q2pAfqtJvMY_PynuJBDKdiS8I/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Primary 2_Briefing slides for parents 2024</a>
+<br><u>Primary 3 &amp; 4</u> 
 <br>To be updated
 <br><u>Primary 5 &amp; 6</u> 
-<br>To be updated</p>
+<br><a href="https://drive.google.com/file/d/127gZ9-6jiOio4gvPcusoU4UZlKQOOK6l/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Primary 5 &amp; 6_Briefing slides for parents 2024</a>
+</p>
 </td>
 </tr>
 <tr>
