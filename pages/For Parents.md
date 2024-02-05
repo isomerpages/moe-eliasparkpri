@@ -30,18 +30,21 @@ format of the examination papers, please click <a href="/for-parents/assessments
 <p>Booklists</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/EPPS_Booklist_2024_P1.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2024 P1</a>
-<br><a href="/files/EPPS_Booklist_2024_P2.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2024 P2</a>
-<br><a href="/files/EPPS_Booklist_2024_P3.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2024 P3</a>
-<br><a href="/files/EPPS_Booklist_2024_P3_HigherMT.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2024 P3 Higher MT</a>
-<br><a href="/files/EPPS_Booklist_2024_P4.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2024 P4</a>
-<br><a href="/files/EPPS_Booklist_2024_P4_HigherMT.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2024 P4 Higher MT</a>
-<br><a href="/files/EPPS_Booklist_2024_P5_Foundation.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2024 P5 Foundation</a>
-<br><a href="/files/EPPS_Booklist_2024_P5.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2024 P5</a>
-<br><a href="/files/EPPS_Booklist_2024_P5_HigherMT.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2024 P5 Higher MT</a>
-<br><a href="/files/EPPS_Booklist_2024_P6_Foundation.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2024 P6 Foundation</a>
-<br><a href="/files/EPPS_Booklist_2024_P6.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2024 P6</a>
-<br><a href="/files/EPPS_Booklist_2024_P6_HigherMT.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2024 P6 Higher MT</a>
+<p><a href="/files/EPPS_Booklist_2024_P1.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2024 P1</a> 
+<br><a href="/files/EPPS_Booklist_2024_P2.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2024 P2</a> 
+<br><a href="/files/EPPS_Booklist_2024_P3.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2024 P3</a> 
+<br><a href="/files/EPPS_Booklist_2024_P3_HigherMT.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2024 P3 Higher MT</a> 
+<br><a href="/files/Booklist_2024_EPPS_P4.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P4</a>
+<br><a href="/files/Booklist_2024_EPPS_P4_HMT.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P4 HMT</a>
+</p>
+<p><a href="/files/Booklist_2024_EPPS_P5_FDN.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P5 Foundation</a>
+</p>
+<p><a href="/files/Booklist_2024_EPPS_P5.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P5</a>
+</p>
+<p><a href="/files/Booklist_2024_EPPS_P5_HMT.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P5 HMT</a>
+<br><a href="/files/Booklist_2024_EPPS_P6_FDN.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P6 Foundation</a>
+<br><a href="/files/Booklist_2024_EPPS_P6.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P6</a> 
+<br><a href="/files/Booklist_2024_EPPS_P6_HMT.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P6 HMT</a>
 </p>
 </td>
 </tr>
@@ -70,8 +73,8 @@ more information on Direct School Admission (DSA).</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Selection Criteria
-<br><a href="/files/ea1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary_(English).pdf</a>
-<br><a href="/files/ea2.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary_(Chinese).pdf</a>
+<br><a href="/files/ea1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary_(English).pdf</a> 
+<br><a href="/files/ea2.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary_(Chinese).pdf</a> 
 <br><a href="/files/ea3.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary_(Malay).pdf</a> 
 <br><a href="/files/ea4.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary_(Tamil).pdf</a> &nbsp;&nbsp;
 <br>
@@ -95,16 +98,16 @@ more information on Direct School Admission (DSA).</p>
 <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>
 <br>MOE Financial Assistance Application Form (eFAS) for 2024 <strong>(Require Singpass for login)</strong>:
-<br><a href="https://form.gov.sg/64e2f8f73f582600139f54ac" rel="noopener noreferrer nofollow" target="_blank">MOE Financial Assistance Application Form</a>
+<br><a href="https://form.gov.sg/64e2f8f73f582600139f54ac" rel="noopener noreferrer nofollow" target="_blank">MOE Financial Assistance Application Form</a> 
 <br>
 <br>For the Straits Times School Pocket Money Fund, please approach the General
 Office for information.
 <br>
-<br><strong>DigitalAccess@Home</strong>
+<br><strong>DigitalAccess@Home</strong> 
 <br>
 <br>DigitalAccess@Home provides subsidised broadband and laptops/tablets to
 lower-income households.
-<br>Parents can find out more in details and apply online through <a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at-home" rel="noopener noreferrer nofollow" target="_blank">https://www.imda.gov.sg/how-we-can-help/digital-access-at-home</a>
+<br>Parents can find out more in details and apply online through <a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at-home" rel="noopener noreferrer nofollow" target="_blank">https://www.imda.gov.sg/how-we-can-help/digital-access-at-home</a> 
 <br>
 <br>Parents can find out more by :
 <br>1) Calling IMDA hotline at 6377 3800
@@ -162,15 +165,15 @@ the LOA fees to the school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Primary 2
-<br><a href="/files/p2%20parents%20briefing%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Parents Briefing 2023</a>
-<br><a href="/files/mtps1.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Classroom Slides 2023.pdf</a>
+<br><a href="/files/p2%20parents%20briefing%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Parents Briefing 2023</a> 
+<br><a href="/files/mtps1.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Classroom Slides 2023.pdf</a> 
 <br>Primary 3 &amp; 4
-<br><a href="/files/p3%20and%20p4%20parents%20briefing%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 and P4 Parents Briefing 2023</a>
-<br><a href="/files/mtps2.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Classroom Slides 2023.pdf</a>
-<br><a href="/files/mtps3.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Classroom Slides 2023.pdf</a>
+<br><a href="/files/p3%20and%20p4%20parents%20briefing%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 and P4 Parents Briefing 2023</a> 
+<br><a href="/files/mtps2.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Classroom Slides 2023.pdf</a> 
+<br><a href="/files/mtps3.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Classroom Slides 2023.pdf</a> 
 <br>Primary 5 &amp; 6
-<br><a href="/files/p5%20and%20p6%20parents%20briefing%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 and P6 Parents Briefing 2023</a>
-<br><a href="/files/mtps4.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Classroom Slides 2023.pdf</a>
+<br><a href="/files/p5%20and%20p6%20parents%20briefing%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 and P6 Parents Briefing 2023</a> 
+<br><a href="/files/mtps4.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Classroom Slides 2023.pdf</a> 
 <br><a href="/files/mtps5.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Classroom Slides 2023.pdf</a>
 </p>
 </td>
@@ -256,7 +259,7 @@ download the forms.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For more information regarding Pupil Insurance, please refer to the attachment:
-<br><a href="/files/INSURANCE_CLAIMS.pdf" rel="noopener noreferrer nofollow" target="_blank">Insurance Claim</a>
+<br><a href="/files/INSURANCE_CLAIMS.pdf" rel="noopener noreferrer nofollow" target="_blank">Insurance Claim</a> 
 <br>To make a claim, click <a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
