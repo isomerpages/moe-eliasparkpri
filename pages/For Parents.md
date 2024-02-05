@@ -164,15 +164,14 @@ the LOA fees to the school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Primary 2</u> 
+<p><u>Primary 2</u>
 </p>
 <p>To be updated
-<br><u>Primary 3 &amp; 4</u> 
+<br><u>Primary 3 &amp; 4</u>
 </p>
 <p>To be updated
 <br><u>Primary 5 &amp; 6</u> 
-<br>
-</p>
+<br>To be updated</p>
 </td>
 </tr>
 <tr>
