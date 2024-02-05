@@ -2,7 +2,7 @@
 title: For Parents
 permalink: /for-parents/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <table>
 <tbody>
@@ -35,15 +35,17 @@ format of the examination papers, please click <a href="/for-parents/assessments
 <br><a href="/files/EPPS_Booklist_2024_P3.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2024 P3</a> 
 <br><a href="/files/EPPS_Booklist_2024_P3_HigherMT.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2024 P3 Higher MT</a> 
 <br><a href="/files/Booklist_2024_EPPS_P4.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P4</a> 
-<br><a href="/files/Booklist_2024_EPPS_P4_HMT.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P4 HMT</a>
-<br><a href="/files/Booklist_2024_EPPS_P5_FDN.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P5 Foundation</a>
+<br><a href="/files/Booklist_2024_EPPS_P4_HMT.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P4 HMT</a> 
+<br><a href="/files/Booklist_2024_EPPS_P5_FDN.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P5 Foundation</a> 
 <br><a href="/files/Booklist_2024_EPPS_P5.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P5</a>
-
+</p>
+<p>
 <br><a href="/files/Booklist_2024_EPPS_P5_HMT.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P5 HMT</a> 
 <br><a href="/files/Booklist_2024_EPPS_P6_FDN.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P6 Foundation</a> 
 <br><a href="/files/Booklist_2024_EPPS_P6.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P6</a> 
 <br><a href="/files/Booklist_2024_EPPS_P6_HMT.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P6 HMT</a>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -162,17 +164,14 @@ the LOA fees to the school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary 2
-<br><a href="/files/p2%20parents%20briefing%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Parents Briefing 2023</a> 
-<br><a href="/files/mtps1.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Classroom Slides 2023.pdf</a> 
-<br>Primary 3 &amp; 4
-<br><a href="/files/p3%20and%20p4%20parents%20briefing%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 and P4 Parents Briefing 2023</a> 
-<br><a href="/files/mtps2.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Classroom Slides 2023.pdf</a> 
-<br><a href="/files/mtps3.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Classroom Slides 2023.pdf</a> 
-<br>Primary 5 &amp; 6
-<br><a href="/files/p5%20and%20p6%20parents%20briefing%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 and P6 Parents Briefing 2023</a> 
-<br><a href="/files/mtps4.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Classroom Slides 2023.pdf</a> 
-<br><a href="/files/mtps5.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Classroom Slides 2023.pdf</a>
+<p><u>Primary 2</u> 
+</p>
+<p>To be updated
+<br><u>Primary 3 &amp; 4</u> 
+</p>
+<p>To be updated
+<br><u>Primary 5 &amp; 6</u> 
+<br>
 </p>
 </td>
 </tr>
