@@ -2,7 +2,7 @@
 title: For Parents
 permalink: /for-parents/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <table>
 <tbody>
@@ -34,15 +34,15 @@ format of the examination papers, please click <a href="/for-parents/assessments
 <br><a href="/files/EPPS_Booklist_2024_P2.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2024 P2</a> 
 <br><a href="/files/EPPS_Booklist_2024_P3.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2024 P3</a> 
 <br><a href="/files/EPPS_Booklist_2024_P3_HigherMT.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2024 P3 Higher MT</a> 
-<br><a href="/files/Booklist_2024_EPPS_P4.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P4</a>
+<br><a href="/files/Booklist_2024_EPPS_P4.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P4</a> 
 <br><a href="/files/Booklist_2024_EPPS_P4_HMT.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P4 HMT</a>
 </p>
 <p><a href="/files/Booklist_2024_EPPS_P5_FDN.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P5 Foundation</a>
 </p>
 <p><a href="/files/Booklist_2024_EPPS_P5.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P5</a>
 </p>
-<p><a href="/files/Booklist_2024_EPPS_P5_HMT.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P5 HMT</a>
-<br><a href="/files/Booklist_2024_EPPS_P6_FDN.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P6 Foundation</a>
+<p><a href="/files/Booklist_2024_EPPS_P5_HMT.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P5 HMT</a> 
+<br><a href="/files/Booklist_2024_EPPS_P6_FDN.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P6 Foundation</a> 
 <br><a href="/files/Booklist_2024_EPPS_P6.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P6</a> 
 <br><a href="/files/Booklist_2024_EPPS_P6_HMT.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P6 HMT</a>
 </p>
