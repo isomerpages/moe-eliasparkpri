@@ -2,6 +2,7 @@
 title: School Vendors
 permalink: /for-parents/school-vendors/
 description: ""
+variant: markdown
 ---
 ### School Vendors
 
@@ -12,10 +13,10 @@ description: ""
 | School Bus Service | Vendor | Mr Tony Wong |
 |   | Telephone | 87879555 |
 | School Uniform, PE Attire &amp; Name Tag | Vendor | Yangtze Kiang Tailor |
-|   | Telephone | 6769 1260 / 6769 2053 |
-|   | Address | Blk 26, Teck Whye Lane, #01-180/182, Singapore 680026 |
+|   | Telephone | 6769 1260 / 8697 1660 (SMS &amp; WhatsApp |
+|   | Address | 51 Bukit Batok Crescent #05-14 Unity Centre Singapore 658077 |
 |   | Online Order | [website](https://www.yangtzekiang.com.sg/eshop/)
-|   | Opening Hours | Monday to Friday: 8.30 a.m. - 7.00 p.m. <br>Saturday: 8.30 a.m. - 4.30 p.m.<br>Closed on Sundays &amp; Public Holidays |
+|   | Opening Hours | Monday to Friday: 9.00 a.m. - 5.30 p.m. <br>Saturday: 9.00 a.m. - 3.30 p.m.<br>Closed on Sundays &amp; Public Holidays |
 | School Bookshop | Vendor | BL Marketing Pte Ltd |
 |   | Telephone | 6284 8785 |
 |   | Email <br>Online Order| sales@blmarketing.sg<br>[click here](https://blmarketing.sg)|
