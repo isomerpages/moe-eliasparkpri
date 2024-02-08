@@ -2,6 +2,7 @@
 title: Overview
 permalink: /about-us/overview/
 description: ""
+variant: markdown
 ---
 <!--#### Overview-->
 
@@ -26,12 +27,12 @@ The school though relatively young, has established herself to be one of the goo
 
 #### Our School Mission
 
-Providing a Holistic Education
+**Developing Eliasians into Lifelong Learners, Future-Ready and Concerned Citizens**
 
 
 #### Our School Vision
 
-Where Potential becomes Reality
+**Where Potential becomes Reality**
 
 #### Our Core Values
 
