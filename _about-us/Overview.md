@@ -38,11 +38,11 @@ The school though relatively young, has established herself to be one of the goo
 
 |  |  |
 |---|---|
-| Endeavour  | We aspire to realise our goals, constantly striving for continuous improvement and excellence in all that we do.  |
-| Love | We respect others, live with passion and seek to bring out the best in ourselves and others. |
-| Integrity | We walk the talk and demonstrate moral courage and uprightness in all that we do. |
-| Adaptability | We constantly seek new ideas, adapt to changes and are ready to take on challenges. |
-| Service | We offer our best to enrich the lives of others and our well-being. |
+| **Endeavour**  | We aspire to realise our goals, constantly striving for continuous improvement and excellence in all that we do.  |
+| **Love** | We respect others, live with passion and seek to bring out the best in ourselves and others. |
+| **Integrity** | We walk the talk and demonstrate moral courage and uprightness in all that we do. |
+| **Adaptability** | We constantly seek new ideas, adapt to changes and are ready to take on challenges. |
+| **Service** | We offer our best to enrich the lives of others and our well-being. |
 
 #### Our School Crest
 
