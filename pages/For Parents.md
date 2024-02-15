@@ -76,7 +76,8 @@ more information on Direct School Admission (DSA).</p>
 <br><a href="/files/ea3.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary_(Malay).pdf</a> 
 <br><a href="/files/ea4.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary_(Tamil).pdf</a> &nbsp;&nbsp;
 <br>
-<br>For more information, please visit https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards</p>
+<br>For more information, please visit <a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards" rel="noopener noreferrer nofollow" target="_blank">MOE Edusave Awards &amp; Scholarships</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -84,7 +85,8 @@ more information on Direct School Admission (DSA).</p>
 <p>Edusave Character Award (ECHA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be updated</p>
+<p>For more information, please kindly visit <a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards" rel="noopener noreferrer nofollow" target="_blank">MOE Edusave Awards &amp; Scholarships</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -120,7 +122,7 @@ and public libraries listed on <a href="https://go.gov.sg/sgdcommhub" rel="noope
 <p>Gifted Education Programme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/gep.pdf" rel="noopener noreferrer nofollow" target="_blank">Gifted Education Programme Identification Exercise 2022.pdf</a>
+<p><a href="/files/Gifted_Education_Programme_Identification_Exercise_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Gifted Education Programme Identification Exercise 2024</a>
 </p>
 </td>
 </tr>
@@ -165,7 +167,7 @@ the LOA fees to the school.</p>
 <p><u>Primary 2</u> 
 <br><a href="https://drive.google.com/file/d/1mWerCC_q2pAfqtJvMY_PynuJBDKdiS8I/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Primary 2_Briefing slides for parents 2024</a> 
 <br><u>Primary 3 &amp; 4</u> 
-<br><a href="https://drive.google.com/file/d/171Y9BRU32iK8Glwi9p919wIRbtRblJg3/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">P3 &amp; P4 Briefing slides for parents 2024</a>
+<br><a href="https://drive.google.com/file/d/171Y9BRU32iK8Glwi9p919wIRbtRblJg3/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">P3 &amp; P4 Briefing slides for parents 2024</a> 
 <br><u>Primary 5 &amp; 6</u> 
 <br><a href="https://drive.google.com/file/d/127gZ9-6jiOio4gvPcusoU4UZlKQOOK6l/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Primary 5 &amp; 6_Briefing slides for parents 2024</a>
 </p>
