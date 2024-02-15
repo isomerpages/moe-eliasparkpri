@@ -51,7 +51,7 @@ format of the examination papers, please click <a href="/for-parents/assessments
 <p>Class Timetable</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please <a href="https://staging.d3975mj8dcgb9n.amplifyapp.com/for-parents/class-timetable/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Please click <a href="https://staging.d3975mj8dcgb9n.amplifyapp.com/for-parents/class-timetable/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out what the abbreviations are for the subjects shown in your child's
 time-table.</p>
 </td>
