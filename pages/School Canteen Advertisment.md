@@ -35,7 +35,7 @@ variant: tiptap
 <ol data-tight="true" class="tight">
 <li>
 <p>Download and complete the application form.
-<br><a href="/files/canappbf7.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+<br><a href="/files/canappbf7.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a> 
 <br>You may also request for a hardcopy from the School's General Office.</p>
 </li>
 <li>
