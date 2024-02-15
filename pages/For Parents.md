@@ -85,7 +85,7 @@ more information on Direct School Admission (DSA).</p>
 <p>Edusave Character Award (ECHA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For more information, please kindly visit <a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards" rel="noopener noreferrer nofollow" target="_blank">MOE Edusave Awards &amp; Scholarships</a> 
+<p>For more information, please visit <a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards" rel="noopener noreferrer nofollow" target="_blank">MOE Edusave Awards &amp; Scholarships</a>
 </p>
 </td>
 </tr>
