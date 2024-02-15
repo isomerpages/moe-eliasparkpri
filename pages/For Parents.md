@@ -37,7 +37,7 @@ format of the examination papers, please click <a href="/for-parents/assessments
 <br><a href="/files/Booklist_2024_EPPS_P4.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P4</a> 
 <br><a href="/files/Booklist_2024_EPPS_P4_HMT.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P4 HMT</a> 
 <br><a href="/files/Booklist_2024_EPPS_P5_FDN.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P5 Foundation</a> 
-<br><a href="/files/Booklist_2024_EPPS_P5.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P5</a>
+<br><a href="/files/Booklist_2024_EPPS_P5.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P5</a> 
 <br><a href="/files/Booklist_2024_EPPS_P5_HMT.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P5 HMT</a> 
 <br><a href="/files/Booklist_2024_EPPS_P6_FDN.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P6 Foundation</a> 
 <br><a href="/files/Booklist_2024_EPPS_P6.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P6</a> 
@@ -51,7 +51,7 @@ format of the examination papers, please click <a href="/for-parents/assessments
 <p>Class Timetable</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please <a href="https://staging.d3975mj8dcgb9n.amplifyapp.com/for-parents/class-timetable/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Please click <a href="https://staging.d3975mj8dcgb9n.amplifyapp.com/for-parents/class-timetable/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out what the abbreviations are for the subjects shown in your child's
 time-table.</p>
 </td>
@@ -76,7 +76,8 @@ more information on Direct School Admission (DSA).</p>
 <br><a href="/files/ea3.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary_(Malay).pdf</a> 
 <br><a href="/files/ea4.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary_(Tamil).pdf</a> &nbsp;&nbsp;
 <br>
-<br>For more information, please visit https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards</p>
+<br>For more information, please visit <a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards" rel="noopener noreferrer nofollow" target="_blank">MOE Edusave Awards &amp; Scholarships</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -84,7 +85,8 @@ more information on Direct School Admission (DSA).</p>
 <p>Edusave Character Award (ECHA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be updated</p>
+<p>For more information, please visit <a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards" rel="noopener noreferrer nofollow" target="_blank">MOE Edusave Awards &amp; Scholarships</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -120,7 +122,7 @@ and public libraries listed on <a href="https://go.gov.sg/sgdcommhub" rel="noope
 <p>Gifted Education Programme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/gep.pdf" rel="noopener noreferrer nofollow" target="_blank">Gifted Education Programme Identification Exercise 2022.pdf</a>
+<p><a href="/files/Gifted_Education_Programme_Identification_Exercise_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Gifted Education Programme Identification Exercise 2024</a>
 </p>
 </td>
 </tr>
