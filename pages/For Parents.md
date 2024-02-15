@@ -37,7 +37,7 @@ format of the examination papers, please click <a href="/for-parents/assessments
 <br><a href="/files/Booklist_2024_EPPS_P4.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P4</a> 
 <br><a href="/files/Booklist_2024_EPPS_P4_HMT.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P4 HMT</a> 
 <br><a href="/files/Booklist_2024_EPPS_P5_FDN.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P5 Foundation</a> 
-<br><a href="/files/Booklist_2024_EPPS_P5.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P5</a>
+<br><a href="/files/Booklist_2024_EPPS_P5.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P5</a> 
 <br><a href="/files/Booklist_2024_EPPS_P5_HMT.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P5 HMT</a> 
 <br><a href="/files/Booklist_2024_EPPS_P6_FDN.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P6 Foundation</a> 
 <br><a href="/files/Booklist_2024_EPPS_P6.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P6</a> 
@@ -165,7 +165,7 @@ the LOA fees to the school.</p>
 <p><u>Primary 2</u> 
 <br><a href="https://drive.google.com/file/d/1mWerCC_q2pAfqtJvMY_PynuJBDKdiS8I/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Primary 2_Briefing slides for parents 2024</a> 
 <br><u>Primary 3 &amp; 4</u> 
-<br>To be updated
+<br><a href="https://drive.google.com/file/d/171Y9BRU32iK8Glwi9p919wIRbtRblJg3/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">P3 &amp; P4 Briefing slides for parents 2024</a>
 <br><u>Primary 5 &amp; 6</u> 
 <br><a href="https://drive.google.com/file/d/127gZ9-6jiOio4gvPcusoU4UZlKQOOK6l/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Primary 5 &amp; 6_Briefing slides for parents 2024</a>
 </p>
