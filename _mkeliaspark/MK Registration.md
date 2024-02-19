@@ -46,7 +46,7 @@ Park Waitlist form below:</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Scan QR Code" src="/images/https___go_gov_sg_eliasparkmk_waitlist_QR.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Scan QR Code" src="/images/https___go_gov_sg_eliasparkmk_waitlist_QR.png">
 </div>
 <p>For more information, you can visit MK website (<a href="http://www.moe.gov.sg/mk" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/mk</u></a>) or contact
 the MK (<a href="http://www.moe.gov.sg/schoolfinder-mk" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/schoolfinder-mk</u></a>)
