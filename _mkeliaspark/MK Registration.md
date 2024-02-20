@@ -42,7 +42,7 @@ under the Waitlist as the official registration window for K1 2025 has
 closed.</p>
 <p>You may submit your application via the FormSG Link or QR code for MK@Elias
 Park Waitlist form below:</p>
-<p>MK Elias Park Waitlist Form : <a href="https://go.gov.sg/eliasparkmk-waitlist" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/eliasparkmk-waitlist</a>
+<p>MK@Elias Park Waitlist Form : <a href="https://go.gov.sg/eliasparkmk-waitlist" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/eliasparkmk-waitlist</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
