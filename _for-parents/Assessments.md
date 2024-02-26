@@ -2,63 +2,44 @@
 title: Assessments
 permalink: /for-parents/assessments/
 description: ""
+variant: tiptap
 ---
-### Assessments
-
-##### Information regarding Assessment and Subject-Based Banding:
-
-Please refer to the school planner
-
-##### School Examination Policy
-
-[2023 School Weighted Assessment and Examination Policy](/files/2023%20school%20weighted%20assessment%20and%20examination%20policy.pdf)&nbsp;
-
-
-
-#### Schedule &amp; Scope of Topics
-<br>Updated 18 Sept 2023<br>[2023 end-of-year examination - schedule](/files/2023%20end-of-year%20examination%20-%20schedule.pdf)<br>[2023 end-of-year examination - scope](/files/2023%20end-of-year%20examination%20-%20scope.pdf)
-  
-
-#### Paper Formats
-
-##### English
-
-[P3 - P6 English Language Assessment Format\_MYE EYE.pdf](/files/a4.pdf)   
-  
-  
-
-##### Mathematics
-
-[P3 - P6 Mathematics Assessment Format.pdf](/files/a5.pdf) &nbsp;  
-
-##### Science
-
-[P3 - P6 Science Assessment Format.pdf](/files/a6.pdf)  
-
-  
-
-##### Chinese
-
-[P3 - P6 Chinese Language Assessment Format (EYE).pdf](/files/a7.pdf)   
-
-  
-
-##### Malay
-
-[P3 Malay Language Assessment Format.pdf](/files/a8.pdf)  
-[P4 Malay Language Assessment Format.pdf](/files/a9.pdf)  
-[P5 Malay Language Assessment Format.pdf](/files/a10.pdf)   
-[P6 Malay Language Assessment Format.pdf](/files/a11.pdf) 
-
-  
-
-##### Tamil
-
-[P3 Tamil Language Assessment Format.pdf](/files/a12.pdf) 
-[P4 Tamil Language Assessment Format.pdf](/files/a13.pdf) 
-[P5 Tamil Language Assessment Format (Standard Tamil).pdf](/files/a14.pdf) 
-[P5 Tamil Language Assessment Format (Foundation).pdf](/files/a15.pdf) &nbsp;  
-[P5 Tamil Language Assessment Format (Higher Tamil).pdf](/files/a16.pdf) &nbsp;  
-[P6 Tamil Language Assessment Format (Standard Tamil).pdf](/files/a17.pdf)   
-[P6 Tamil Language Assessment Format (Foundation).pdf](/files/a18.pdf) 
-[P6 Tamil Language Assessment Format (Higher Tamil).pdf](/files/a19.pdf)
+<h3>Assessments</h3>
+<h5>Information regarding Assessment and Subject-Based Banding:</h5>
+<p>Please refer to the school planner</p>
+<h5>School Examination Policy</h5>
+<p><a href="/files/2024_School_Weighted_Assessment_and_Examination_Policy.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 School Weighted Assessment and Examination Policy</a>
+</p>
+<h4>Schedule &amp; Scope of Topics</h4>
+<p>
+<br>Updated 18 Sept 2023
+<br><a href="/files/2023%20end-of-year%20examination%20-%20schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 end-of-year examination - schedule</a>
+<br><a href="/files/2023%20end-of-year%20examination%20-%20scope.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 end-of-year examination - scope</a>
+</p>
+<h4>Paper Formats</h4>
+<h5>English</h5>
+<p><a href="/files/a4.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 - P6 English Language Assessment Format_MYE EYE.pdf</a>
+</p>
+<h5>Mathematics</h5>
+<p><a href="/files/a5.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 - P6 Mathematics Assessment Format.pdf</a> &nbsp;</p>
+<h5>Science</h5>
+<p><a href="/files/a6.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 - P6 Science Assessment Format.pdf</a>
+</p>
+<h5>Chinese</h5>
+<p><a href="/files/a7.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 - P6 Chinese Language Assessment Format (EYE).pdf</a>
+</p>
+<h5>Malay</h5>
+<p><a href="/files/a8.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Malay Language Assessment Format.pdf</a>
+<br><a href="/files/a9.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Malay Language Assessment Format.pdf</a>
+<br><a href="/files/a10.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Malay Language Assessment Format.pdf</a>
+<br><a href="/files/a11.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Malay Language Assessment Format.pdf</a>
+</p>
+<h5>Tamil</h5>
+<p><a href="/files/a12.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Tamil Language Assessment Format.pdf</a> 
+<a href="/files/a13.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Tamil Language Assessment Format.pdf</a> <a href="/files/a14.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Tamil Language Assessment Format (Standard Tamil).pdf</a> 
+<a href="/files/a15.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Tamil Language Assessment Format (Foundation).pdf</a>&nbsp;
+<br><a href="/files/a16.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Tamil Language Assessment Format (Higher Tamil).pdf</a> &nbsp;
+<br><a href="/files/a17.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Tamil Language Assessment Format (Standard Tamil).pdf</a>
+<br><a href="/files/a18.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Tamil Language Assessment Format (Foundation).pdf</a> 
+<a href="/files/a19.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Tamil Language Assessment Format (Higher Tamil).pdf</a>
+</p>
