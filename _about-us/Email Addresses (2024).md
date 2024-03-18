@@ -404,7 +404,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ker_ting_wei_jeremy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jeremy Ker </a>
 <br><a href="mailto:nurul_hilmah_mohamad_nor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nurul Hilmah Binte Mohd Nor</a> 
-<br><a href="mailto:li_huan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Li Huan</a> 
+<br><a href="mailto:li_huan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Li Huan</a>
 </p>
 </td>
 </tr>
