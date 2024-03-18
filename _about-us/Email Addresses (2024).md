@@ -392,8 +392,7 @@ variant: tiptap
 <p>2 Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_bee_ngoh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Angela Lee</a> 
-<br><a href="mailto:li_huan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Li Huan</a> 
+<p><a href="mailto:quek_hwee_khim_shelly@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Shelly Lee</a> 
 <br><a href="mailto:nurni_isnain@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurni Bte Isnain</a>
 </p>
 </td>
@@ -405,7 +404,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ker_ting_wei_jeremy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jeremy Ker </a>
 <br><a href="mailto:nurul_hilmah_mohamad_nor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nurul Hilmah Binte Mohd Nor</a> 
-<br><a href="mailto:suhaida_saptu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Suhaida Bte Saptu</a>
+<br><a href="mailto:li_huan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Li Huan</a> 
 </p>
 </td>
 </tr>
