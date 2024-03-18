@@ -574,7 +574,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:poon_yin_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Poon Yin Ching</a> 
-<br><a href="mailto:liu_zhiming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Liu Zhiming</a> 
+<br><a href="mailto:liu_zhiming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Liu Zhiming</a>
 </p>
 </td>
 </tr>
@@ -593,9 +593,9 @@ variant: tiptap
 <p>6 Service</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:seah_yi_ern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Tham - Seah Yi Ern</a> 
-<br><a href="mailto:lee_mun_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Stan Lee</a> 
-<br><a href="mailto:fu_ye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fu Ye</a>
+<p><a href="mailto:lee_mun_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Stan Lee</a> 
+<br><a href="mailto:yeo_peck_hoon_anastacia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Anastacia Foo</a>
+<br><a href="mailto:wee_pat_ghee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wee Pat Ghee</a>
 </p>
 </td>
 </tr>
