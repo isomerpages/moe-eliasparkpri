@@ -287,7 +287,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:natascha_gabrielle_nonis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Natascha Gabrielle Rodrigues</a> 
-<br><a href="mailto:chai_chew_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chai Chew Yee</a>
+<br><a href="mailto:chai_chew_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chai Chew Yee</a> 
 <br><a href="mailto:nurazillanazli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Azilla Binte Nazli</a>
 </p>
 </td>
