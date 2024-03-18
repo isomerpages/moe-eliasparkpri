@@ -553,7 +553,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jamila_adal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jamila Adal</a> 
-<br><a href="mailto:joy_ong_siok_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Joy Ong</a>
+<br><a href="mailto:joy_ong_siok_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Joy Ong</a> 
 <br><a href="mailto:fu_ye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fu Ye</a>
 </p>
 </td>
@@ -575,7 +575,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:poon_yin_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Poon Yin Ching</a> 
 <br><a href="mailto:liu_zhiming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Liu Zhiming</a> 
-<br><a href="mailto:wee_pat_ghee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wee Pat Ghee</a>
 </p>
 </td>
 </tr>
