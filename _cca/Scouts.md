@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3>Scouts</h3>
 <h4>Teachers-in-charge</h4>
-<p><a href="mailto:carlin_mulyati@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Carlin Tee</a>
+<p><a href="mailto:carlin_mulyati@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Carlin Tee</a> 
 <br>Ms Bhairavi Lachimanan
 <br>Mr Lokman Hakim Bin Yunos
 <br>Ms Kavitha d/o Kalimuthu
@@ -144,7 +144,8 @@ Join the Scouts today!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>• Frank Cooper Sands Award 2019 (Gold)
+<p>• Frank Cooper Sands Award 2023 (Gold with Honours Pennant)
+<br>• Frank Cooper Sands Award 2019 (Gold)
 <br>• Frank Cooper Sands Award 2018 (Gold)
 <br>• Frank Cooper Sands Award 2017 (Gold)
 <br>• Frank Cooper Sands Award 2016 (Gold)
@@ -161,19 +162,40 @@ Join the Scouts today!</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Akela Awardees 2022</p>
+<p>Akela Awardees 2023</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>• Dhia Syarafana Binte Mohamad Taufik (6S)
-<br>• Auni Syaurah Binte Mafrudy (6S)
-<br>• Nur Mishel Eiliyah Binte Mohammad Fadli (6L)
-<br>• Teo Kay Tong (6I)
-<br>• Chew Yan Yin (6I)
-<br>• Koh Jun En, Neilson (6I)
-<br>• Lam Theng Wen, Zackary (6I)
-<br>• Sun Jiahao (6A)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>BEI ZHANGRUI RICCO</p>
+</li>
+<li>
+<p>XING JUNKAI, MAXIMILIAN</p>
+</li>
+<li>
+<p>XIE CHENGJUN</p>
+</li>
+<li>
+<p>JAYVAN LAI SEU ZUN</p>
+</li>
+<li>
+<p>SOO HAO ZHE</p>
+</li>
+<li>
+<p>EMILIE YOONG JING WEN</p>
+</li>
+<li>
+<p>LIN ZHENGYE</p>
+</li>
+<li>
+<p>NIKKI SUDHARTA</p>
+</li>
+<li>
+<p>MUHAMMAD NURZAHRAN BIN NORAZMAN</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
