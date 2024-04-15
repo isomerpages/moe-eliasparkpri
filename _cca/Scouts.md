@@ -205,6 +205,6 @@ Join the Scouts today!</p>
 </div>
 <p>Congratulations to our Akela recipients 2022</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ_wrfYkD_xIrbSNP6nHJfdWTNuE_XJcQTgCSHOkv_DTHidMMfukUaPQRug1ehJUYim5W1AgkFOOJSu/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ_wrfYkD_xIrbSNP6nHJfdWTNuE_XJcQTgCSHOkv_DTHidMMfukUaPQRug1ehJUYim5W1AgkFOOJSu/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
