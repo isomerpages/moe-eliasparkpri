@@ -2,7 +2,7 @@
 title: Scouts
 permalink: /cca/scouts/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h3>Scouts</h3>
 <h4>Teachers-in-charge</h4>
@@ -205,6 +205,6 @@ Join the Scouts today!</p>
 </div>
 <p>Congratulations to our Akela recipients 2022</p>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQLX5shyMzEDiK1fTpQxQqsS1_rnY5Afel_C2g8H_uuTI-CXIgKnAF9cGY7UGb1d1WIK-0zY96qRD6b/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
-</div>
+<p align="center"><iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ_wrfYkD_xIrbSNP6nHJfdWTNuE_XJcQTgCSHOkv_DTHidMMfukUaPQRug1ehJUYim5W1AgkFOOJSu/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</p></div>
 <p></p>

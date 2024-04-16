@@ -10,7 +10,7 @@ variant: tiptap
 <p><a href="/files/2024_HBL_Timetable_24_Apr.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 HBL Timetable 24 April</a>
 </p>
 <h4>Parents' Handbook for SLS</h4>
-<p><a href="/files/hbl1.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Handbook for SLS.pdf</a>
+<p><a href="/files/Parent_s_Handbook_for_SLS.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent's Handbook for SLS</a>
 </p>
 <h4>Student Learning Space (SLS)</h4>
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a>
