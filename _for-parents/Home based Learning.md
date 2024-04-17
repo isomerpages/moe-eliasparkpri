@@ -6,8 +6,7 @@ variant: tiptap
 ---
 <h3>Home-Based Learning (HBL)</h3>
 <p></p>
-<h4>Home-based Learning - 24 April 2024</h4>
-<p><a href="/files/2024_HBL_Timetable_24_Apr.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 HBL Timetable 24 April</a>
+<p><strong>Home-based Learning timetable for 24 April </strong><a href="/files/2024_HBL_Timetable_24_Apr.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a>
 </p>
 <h3>Student Learning Space (SLS)</h3>
 <p><strong>Parent's Handbook for SLS</strong>  <a href="/files/Parent_s_Handbook_for_SLS.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a>
