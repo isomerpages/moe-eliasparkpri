@@ -4,16 +4,12 @@ permalink: /for-parents/hbl/
 description: ""
 variant: tiptap
 ---
-<h3>Home-based Learning (HBL)</h3>
+<h3>Home-Based Learning (HBL)</h3>
 <p></p>
-<h4>Home-based Learning - 24 April 2024</h4>
-<p><a href="/files/2024_HBL_Timetable_24_Apr.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 HBL Timetable 24 April</a>
+<p><strong>Home-based Learning timetable for 24 April </strong><a href="/files/2024_HBL_Timetable_24_Apr.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a>
 </p>
-<h4>Parents' Handbook for SLS</h4>
-<p><a href="/files/Parent_s_Handbook_for_SLS.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent's Handbook for SLS</a>
-</p>
-<h4>Student Learning Space (SLS)</h4>
-<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a>
+<h3>Student Learning Space (SLS)</h3>
+<p><strong>Parent's Handbook for SLS</strong>  <a href="/files/Parent_s_Handbook_for_SLS.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a>
 </p>
 <h5>SLS Support for Home-based Learning</h5>
 <p><strong>School Operating Hours</strong> 
