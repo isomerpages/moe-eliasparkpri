@@ -4,7 +4,7 @@ permalink: /for-parents/hbl/
 description: ""
 variant: tiptap
 ---
-<h3>Home-based Learning (HBL)</h3>
+<h3>Home-Based Learning (HBL)</h3>
 <p></p>
 <h4>Home-based Learning - 24 April 2024</h4>
 <p><a href="/files/2024_HBL_Timetable_24_Apr.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 HBL Timetable 24 April</a>
