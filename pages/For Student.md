@@ -19,7 +19,7 @@ variant: tiptap
 <img style="width:30%" height="auto" width="100%" src="/images/SLS%20RS%20480_03.png">
 </div>
 <p><strong>3. <a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a></strong> 
-<br><em>Additional info : <a href="/files/hbl1.pdf" rel="noopener noreferrer nofollow" target="_blank">SLS Onboard Guide for Student</a></em>
+<br><em>Additional info : </em><a href="/files/Parent_s_Handbook_for_SLS.pdf" rel="noopener noreferrer nofollow" target="_blank">SLS Onboard Guide for Student</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/icon2_305.png">
