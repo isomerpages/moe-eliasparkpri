@@ -229,14 +229,15 @@ approved calculator/dictionary lists, please click <a href="https://www.seab.gov
 <br>For the new PSLE Scoring, please click <a href="https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>
 <br>2024 PSLE Examination Timetable:
-<br>To be updated
+<br><em>To be updated </em>
 <br>2024 Primary 6 Prelim schedule:
-<br>To be updated
+<br><em>To be updated </em>
 <br>2024 Primary 6 Prelim exam scope:
-<br>To be updated
+<br><em>To be updated</em> 
 <br>
 <br>2024 PSLE Results Release:
-<br>To be updated</p>
+<br><em>To be updated</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -286,7 +287,7 @@ watch the video.
 watch the video.
 <br>
 <br>Are Values Taught or Caught?
-<br>Click <a href="https://schoolbag.sg/story/are-values-taught-or-caught#.VN_MzNM_vXQ.mailto" rel="noopener noreferrer nofollow" target="_blank">here</a>to
+<br>Click <a href="https://schoolbag.sg/story/are-values-taught-or-caught#.VN_MzNM_vXQ.mailto" rel="noopener noreferrer nofollow" target="_blank">here </a>to
 watch the video.
 <br>
 <br><strong>Parent Partnership </strong>
@@ -339,7 +340,7 @@ more information.</p>
 <p>Sexuality Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please click &nbsp;<a href="/others/sexuality-education/" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information.</p>
+<p>Please click&nbsp;<a href="/others/sexuality-education/" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information.</p>
 </td>
 </tr>
 <tr>
