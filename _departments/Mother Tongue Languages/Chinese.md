@@ -34,7 +34,7 @@ culture.&nbsp;</p>
 <h5>Programme Highlights</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chinese New Year Celebration <strong>（农历新年庆祝会）</strong>
+<p>Chinese New Year Celebration <strong>（农历新年庆祝会）</strong> 
 <br>Chinese New Year was celebrated on 9th February this year to promote the
 understanding of Chinese traditions and customs. With a better understanding
 of this festival, students are more aware of the Chinese culture and the
@@ -46,7 +46,7 @@ values behind the customs and traditions.</p>
 </div>
 <ul>
 <li>
-<p>Mother Tongue Language (MTL) Fortnight <strong>（母语双周）</strong>
+<p>Mother Tongue Language (MTL) Fortnight <strong>（母语双周）</strong> 
 <br>The objective of MTL fortnight is to nurture the joy of learning by creating
 a conducive environment and to provide platforms for our students to use
 the language. It was held in the 1st and 2nd weeks of term 2. A wide range
