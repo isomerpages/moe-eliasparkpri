@@ -42,7 +42,7 @@ values behind the customs and traditions.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" src="/images/chinese1.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CL1_2024.png">
 </div>
 <ul>
 <li>
@@ -52,10 +52,12 @@ a conducive environment and to provide platforms for our students to use
 the language. It was held in the 1st and 2nd weeks of term 2. A wide range
 of activities such as Chinese games booth, cultural lessons related to
 MTL language and culture were conducted.</p>
-<div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" src="/images/mtl%20fortnight%202023.PNG">
-</div>
 </li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL2_2024.png">
+</div>
+<ul>
 <li>
 <p>Primary 4 and 5 Cultural Performances <strong>(文化随意门)</strong> 
 <br>As part of their Chinese cultural learning journey, Primary 4 and 5 students
@@ -85,13 +87,9 @@ in interesting programmes such as children’s literature appreciation and
 activities related to Chinese culture. Through a series of activities,
 the students experienced and learnt more about the Chinese traditional
 culture.</p>
-<div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" src="/images/cl 2024 a.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" src="/images/cl 2024 b.jpg">
-</div>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL3_2024.png">
+</div>
 <p></p>
