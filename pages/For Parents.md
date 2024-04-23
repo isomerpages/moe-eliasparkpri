@@ -164,11 +164,11 @@ the LOA fees to the school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Primary 2</u> 
+<p><strong>Primary 2 </strong>
 <br><a href="https://drive.google.com/file/d/1mWerCC_q2pAfqtJvMY_PynuJBDKdiS8I/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Primary 2_Briefing slides for parents 2024</a> 
-<br><u>Primary 3 &amp; 4</u> 
+<br><strong>Primary 3 &amp; 4 </strong>
 <br><a href="https://drive.google.com/file/d/1PDGONKRlriIzKPM8PkPkybvzJ6n0HAzK/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 3 &amp; 4 Briefing slides for Parents 2024</a> 
-<br><u>Primary 5 &amp; 6</u> 
+<br><strong>Primary 5 &amp; 6 </strong>
 <br><a href="https://drive.google.com/file/d/127gZ9-6jiOio4gvPcusoU4UZlKQOOK6l/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Primary 5 &amp; 6_Briefing slides for parents 2024</a>
 </p>
 </td>
@@ -229,14 +229,15 @@ approved calculator/dictionary lists, please click <a href="https://www.seab.gov
 <br>For the new PSLE Scoring, please click <a href="https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>
 <br>2024 PSLE Examination Timetable:
-<br>To be updated
+<br><em>To be updated </em>
 <br>2024 Primary 6 Prelim schedule:
-<br>To be updated
+<br><em>To be updated </em>
 <br>2024 Primary 6 Prelim exam scope:
-<br>To be updated
+<br><em>To be updated</em> 
 <br>
 <br>2024 PSLE Results Release:
-<br>To be updated</p>
+<br><em>To be updated</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -276,7 +277,7 @@ access Schoolbag.sg.
 <br>Updates on PSLE Scoring &amp; S1 Posting from 2021
 <br><a href="/files/PSLE%202021%20Briefing%20Slides%20for%20Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">PSLE 2021 Briefing Slides for Parents.pdf</a> 
 <br>
-<br>Primary One-related Resources
+<br><strong>Primary One-related Resources</strong> 
 <br>• Choosing the "right" primary school: Click <a href="https://schoolbag.sg/story/choosing-the-right-primary-school-for-your-child?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=2015#.VZYRMtKqqkr" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>• How should I choose a suitable primary school for my child?: Click
 <a href="https://schoolbag.sg/story/how-should-i-choose-a-suitable-primary-school-for-my-child?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=2015#.VZYRM9Kqqkq" rel="noopener noreferrer nofollow" target="_blank">here</a>.
@@ -286,10 +287,10 @@ watch the video.
 watch the video.
 <br>
 <br>Are Values Taught or Caught?
-<br>Click <a href="https://schoolbag.sg/story/are-values-taught-or-caught#.VN_MzNM_vXQ.mailto" rel="noopener noreferrer nofollow" target="_blank">here</a>to
+<br>Click <a href="https://schoolbag.sg/story/are-values-taught-or-caught#.VN_MzNM_vXQ.mailto" rel="noopener noreferrer nofollow" target="_blank">here </a>to
 watch the video.
 <br>
-<br>Parent Partnership
+<br><strong>Parent Partnership </strong>
 <br>• How Parents Can Support Their Children In The Learning of Malay Language
 in Primary Schools: Click <a href="https://www.schoolbag.sg/story/how-parents-can-support-their-children-in-the-learning-of-malay-language-in-primary-schools?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=2016#.VwR8gyB97IU" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>• How Parents Can Support Their Children In The Learning of Chinese Language
@@ -339,7 +340,7 @@ more information.</p>
 <p>Sexuality Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please click &nbsp;<a href="/others/sexuality-education/" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information.</p>
+<p>Please click&nbsp;<a href="/others/sexuality-education/" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information.</p>
 </td>
 </tr>
 <tr>
