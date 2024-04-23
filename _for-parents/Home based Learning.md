@@ -24,13 +24,13 @@ of accounts, as well as queries about lesson assignments.</p>
 <p>For other matters, please email the SLS Helpdesk at&nbsp;<a href="mailto:helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">helpdesk@sls.ufinity.com</a>.&nbsp;When
 emailing the SLS Helpdesk, please include your full name, name of school
 and form class.</p>
+<h4><strong>SLS Helpdesk:</strong>&nbsp;6702 6513</h4>
 <p><strong>Non-School Operating Hours</strong> 
 <br>Mondays - Fridays: 4.00 p.m. - 9.00 p.m.
 <br>Saturdays: 9.00 a.m. - 9.00 p.m.
 <br>*Closed on Sundays and Public Holidays
 <br>Please&nbsp;contact the SLS Helpdesk&nbsp;outside&nbsp;the school operating
 hours.</p>
-<p><strong>SLS Helpdesk:</strong>&nbsp;6702 6513</p>
 <p>Alternatively, please email the SLS Helpdesk at&nbsp;<a href="mailto:helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">helpdesk@sls.ufinity.com</a>.&nbsp;When
 emailing the SLS Helpdesk, please include your full name, name of school
 and form class.</p>
