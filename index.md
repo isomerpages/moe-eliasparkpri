@@ -29,4 +29,14 @@ sections:
       id: infobar
       button: Click Here
       url: /canteenad/
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: New Announcement
+          date: 09 May 2024
+          announcement: Vacancy of Canteen Stall
+          link_text: Click here
+          link_url: /canteenad/
 ---
