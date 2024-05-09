@@ -24,4 +24,9 @@ sections:
       description: Celebrating Our 30th Anniversary
       button: Click Here
       url: https://forms.gle/BfYdgM9i7RrX7mCk8
+  - infobar:
+      title: Vacancy of Canteen Stall
+      id: infobar
+      button: Click Here
+      url: /canteenad/
 ---
