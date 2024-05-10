@@ -24,4 +24,12 @@ sections:
       description: Celebrating Our 30th Anniversary
       button: Click Here
       url: https://forms.gle/BfYdgM9i7RrX7mCk8
+  - announcements:
+      id: announcements
+      announcement_items:
+        - title: New Announcement
+          date: 09 May 2024
+          announcement: Vacancy of Canteen Stall
+          link_text: Click here
+          link_url: /canteenad/
 ---
