@@ -2,9 +2,9 @@ collections:
   mkeliaspark:
     output: true
     order:
-      - Useful Link.md
       - Announcement.md
       - MK Curriculum.md
       - MK Fee.md
       - Media Release.md
+      - Useful Link.md
       - Contact.md
