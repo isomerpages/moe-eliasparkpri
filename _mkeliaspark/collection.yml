@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Announcement.md
-      - MK Curriculum and Fee.md
+      - MK Curriculum.md
       - Media Release.md
       - Contact.md
