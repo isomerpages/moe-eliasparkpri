@@ -13,13 +13,11 @@ description: ""
 <p>Has activities around four broad themes and relevant topics</p>
 </li>
 </ul>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Uses teaching and learning resources with a distinctive Singapore flavour</p>
 </li>
 </ul>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Includes Weeks of Wonder (WoW) projects to encourage self-motivated learning
