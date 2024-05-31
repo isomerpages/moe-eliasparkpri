@@ -2,6 +2,7 @@ collections:
   mkeliaspark:
     output: true
     order:
+      - Useful Link.md
       - Announcement.md
       - MK Curriculum.md
       - MK Fee.md
