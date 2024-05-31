@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h2>Announcement</h2>
-<h4>MK@Elias Park Open House 2024</h4>
 <p></p>
 <p>MOE@Elias Park located at 11 Pasir Ris Street 52, Singapore 518866 is
 currently under construction. It will start its operation from 2 Jan 2025.</p>
