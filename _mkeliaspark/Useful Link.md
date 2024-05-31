@@ -14,7 +14,7 @@ websites :</p>
 </p>
 </li>
 <li>
-<p>Curriculum page: <a href="https://go.gov.sg/mkpmk" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment</u></a>
+<p>Curriculum page: <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment</a>
 </p>
 </li>
 </ol>
