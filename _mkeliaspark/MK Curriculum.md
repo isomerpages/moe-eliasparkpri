@@ -84,4 +84,6 @@ language learning</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide_6a.png">
 </div>
+<h4>MK Programme - Timetable (AM Session)</h4>
+<p></p>
 <p></p>
