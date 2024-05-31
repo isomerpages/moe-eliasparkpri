@@ -6,24 +6,14 @@ description: ""
 ---
 <h3>MK Curriculum</h3>
 <p>Consists of two flagship programmes:</p>
-<p>•HI-Light Programme and</p>
-<p>•Starlight Literacy (English and Mother Tongue Languages) Programme</p>
-<ul data-tight="true" class="tight">
-<li>
+<p><strong>•   HI-Light Programme and</strong>
+</p>
+<p><strong>•  Starlight Literacy (English and Mother Tongue Languages) Programme</strong>
+</p>
 <p>Has activities around four broad themes and relevant topics</p>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
 <p>Uses teaching and learning resources with a distinctive Singapore flavour</p>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
 <p>Includes Weeks of Wonder (WoW) projects to encourage self-motivated learning
 through exploration and discovery</p>
-</li>
-</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Slide_4_Photo.jpg">
 </div>
