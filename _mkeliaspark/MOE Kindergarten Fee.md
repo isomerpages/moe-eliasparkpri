@@ -20,7 +20,7 @@ holidays.</p>
 <p>There are no additional out-of-pocket costs for complementary programmes
 such as field trips.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide_8_photo.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Slide_8_photo.jpg">
 </div>
 <h4>Kindergarten Fee Assistance Scheme (KiFAS) Subsidy</h4>
 <ul data-tight="true" class="tight">
