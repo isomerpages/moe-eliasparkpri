@@ -2,8 +2,8 @@ collections:
   mkeliaspark:
     output: true
     order:
-      - MKFee.md
       - Announcement.md
       - MK Curriculum.md
+      - MKFee.md
       - Media Release.md
       - Contact.md
