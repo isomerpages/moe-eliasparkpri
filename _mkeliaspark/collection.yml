@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - Announcement.md
-      - MK Registration.md
+      - MK Curriculum.md
+      - MOE Kindergarten Fee.md
       - Media Release.md
+      - Useful Link.md
       - Contact.md
