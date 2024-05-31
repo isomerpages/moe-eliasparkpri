@@ -4,52 +4,82 @@ permalink: /mkeliaspark/permalink/
 variant: tiptap
 description: ""
 ---
-<h3>MK Registration Exercise for K1 2025</h3>
-<p>Online registration for <strong>2025 K1 admissions</strong> will</p>
+<h3>MK Curriculum</h3>
+<p>Consists of two flagship programmes:</p>
+<p>•HI-Light Programme and</p>
+<p>•Starlight Literacy (English and Mother Tongue Languages) Programme</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Open from <strong>9am on Friday, 16 February 2024</strong> and</p>
-</li>
-<li>
-<p>Close at <strong>4pm on Tuesday, 20 February 2024</strong>
-</p>
+<p>Has activities around four broad themes and relevant topics</p>
 </li>
 </ul>
-<p>You can register your child for the 2025 Kindergarten 1 (K1) admission
-to an MOE Kindergarten (MK) if your child is</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>A Singapore Citizen (SC) or Permanent Resident (PR); and</p>
-</li>
-<li>
-<p>Born between 2 January 2020 and 1 January 2021, both dates inclusive.</p>
-</li>
-</ul>
-<h4>Online registration will be via MK Website:</h4>
-<p><strong><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/preschool/moe-kindergarten/register</u></a></strong>
-</p>
-<h3>MK Registration (Waitlist)</h3>
-<p>Waitlist Registration for MK@Elias Park</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>(K1 - 2025 Cohort)</p>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Uses teaching and learning resources with a distinctive Singapore flavour</p>
 </li>
 </ul>
-<p>Dear Parents/ Guardians,</p>
-<p>All incoming applications for Registration for MK@Elias Park will be placed
-under the Waitlist as the official registration window for K1 2025 has
-closed.</p>
-<p>You may submit your application via the FormSG Link or QR code for MK@Elias
-Park Waitlist form below:</p>
-<p>MK@Elias Park Waitlist Form : <a href="https://go.gov.sg/eliasparkmk-waitlist" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/eliasparkmk-waitlist</a>
-</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Includes Weeks of Wonder (WoW) projects to encourage self-motivated learning
+through exploration and discovery</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Slide_4_Photo.jpg">
+</div>
+<h4>HI-Light Programme</h4>
+<p>The HI-Light Programme is designed to&nbsp; support the holistic development
+of children by nurturing in them <strong>values</strong>, <strong>social and emotional skills</strong> and <strong>learning dispositions</strong>,
+as well as <strong>knowledge and skills</strong> across the following <strong>five learning areas </strong>through
+an integrated approach:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Aesthetics and Creative Expression</p>
+</li>
+<li>
+<p>Discovery of the World</p>
+</li>
+<li>
+<p>Health, Safety and Motor Skills Development&nbsp;</p>
+</li>
+<li>
+<p>Language and Literacy</p>
+</li>
+<li>
+<p>Numeracy</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Scan QR Code" src="/images/https___go_gov_sg_eliasparkmk_waitlist_QR.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Slide_5_Photo.jpg">
 </div>
-<p>For more information, you can visit MK website (<a href="http://www.moe.gov.sg/mk" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/mk</u></a>) or contact
-the MK (<a href="http://www.moe.gov.sg/schoolfinder-mk" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/schoolfinder-mk</u></a>)
-directly if you have further queries.</p>
-<p></p>
+</li>
+</ul>
+<h4>Starlight Literacy Programme</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nurtures early childhood bilingualism</p>
+</li>
+<li>
+<p>Offered in English and three Mother Tongue Languages (Chinese, Malay and
+Tamil)</p>
+</li>
+<li>
+<p>Focuses on developing a positive disposition to the languages, listening,
+speaking and early reading and writing skills&nbsp;</p>
+</li>
+<li>
+<p>Uses Big Books, songs and games set in the local context to make learning
+fun and engaging</p>
+</li>
+<li>
+<p>Provides opportunities for children to communicate in English and their
+Mother Tongue Language with confidence and be aware of local traditions
+and customs</p>
+</li>
+<li>
+<p>Encourages families to be involved in activities to enthuse children in
+language learning</p>
+</li>
+</ul>
 <p></p>
