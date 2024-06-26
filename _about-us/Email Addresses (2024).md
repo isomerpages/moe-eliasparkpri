@@ -330,7 +330,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:habibah_husein_shah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Habibah Bte Husein Shah</a> 
-<br><a href="mailto:toh_anne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Anne Quah</a> 
+<br><a href="mailto:toh_anne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Anne Quah</a>
 </p>
 </td>
 </tr>
