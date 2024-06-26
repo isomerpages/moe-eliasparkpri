@@ -454,6 +454,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siti_zubeidah_kadir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Zubeidah Binte Kadir</a> 
 <br><a href="mailto:tan_koon_bin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Koon Bin</a>
+<br><a href="mailto:cfathurrahman_abdul_wahed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Fathurrahman Bin Abdul Wahed</u></a>
 </p>
 </td>
 </tr>
