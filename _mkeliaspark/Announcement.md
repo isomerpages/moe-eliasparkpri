@@ -6,8 +6,8 @@ description: ""
 ---
 <h2>Announcement</h2>
 <p></p>
-<p>MOE@Elias Park located at 11 Pasir Ris Street 52, Singapore 518866 is
-currently under construction. It will start its operation from 2 Jan 2025.</p>
+<p>MK@Elias Park located at 11 Pasir Ris Street 52, Singapore 518866 is currently
+under construction. It will start its operation from 2 Jan 2025.</p>
 <p>In 2025, MK@Elias Park will only admit K1 students and operate morning
 session from 8.00am to 12.30pm.</p>
 <p>You can register your child for 2025 K1 admission to MK@Elias Park if
