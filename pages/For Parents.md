@@ -326,7 +326,8 @@ in Primary Schools: Click <a href="https://www.schoolbag.sg/story/support-the-le
 <p>School Publications</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/The_Eliasian_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">The Eliasian 2024</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -357,4 +358,5 @@ more information.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="/files/The_Eliasian_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">The Eliasian 2024</a>
+</p>
