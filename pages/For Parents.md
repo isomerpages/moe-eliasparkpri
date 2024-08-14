@@ -235,9 +235,9 @@ approved calculator/dictionary lists, please click <a href="https://www.seab.gov
 <br>2024 PSLE Examination Timetable:
 <br><em>To be updated </em>
 <br>2024 Primary 6 Prelim schedule:
-<br><em>To be updated </em>
+<br><a href="/files/2024_P6_Prelim_Schedule_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Primary 6 Prelim Examination_Schedule</a>
 <br>2024 Primary 6 Prelim exam scope:
-<br><em>To be updated</em> 
+<br><a href="/files/2024_P6_Prelim_Exam_Scope_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Primary 6 Prelim Examination_Scope</a>
 <br>
 <br>2024 PSLE Results Release:
 <br><em>To be updated</em>
