@@ -5,8 +5,6 @@ description: ""
 variant: tiptap
 ---
 <hr>
-<p><strong><a href="/canteenad/" rel="noopener noreferrer nofollow" target="_blank">Vacancy of Canteen Stall</a></strong>
-<br>For more information, please click on the link.</p>
 <hr>
 <p><strong>School Bus Services and Fare :</strong>  <a href="/information/school-bus-service/sbof/" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
 </p>
