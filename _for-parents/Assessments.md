@@ -18,7 +18,7 @@ variant: tiptap
 <p><a href="/files/a4.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 - P6 English Language Assessment Format_MYE EYE.pdf</a>
 </p>
 <h5>Mathematics</h5>
-<p><a href="/files/a5.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 - P6 Mathematics Assessment Format.pdf</a> &nbsp;</p>
+<p><a href="/files/P3___P6_Mathematics_Assessment_Format.pdf" rel="noopener nofollow" target="_blank">P3 - P6 Mathematics Assessment Format</a>&nbsp;</p>
 <h5>Science</h5>
 <p><a href="/files/a6.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 - P6 Science Assessment Format.pdf</a>
 </p>
