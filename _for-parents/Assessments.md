@@ -15,7 +15,7 @@ variant: tiptap
 <br>To be updated</p>
 <h4>Paper Formats</h4>
 <h5>English</h5>
-<p><a href="/files/a4.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 - P6 English Language Assessment Format_MYE EYE.pdf</a>
+<p><a href="/files/P3___P6_English_Language_Assessment_Format.pdf" rel="noopener nofollow" target="_blank">P3 - P6 English Language Assessment Format</a>
 </p>
 <h5>Mathematics</h5>
 <p><a href="/files/P3___P6_Mathematics_Assessment_Format.pdf" rel="noopener nofollow" target="_blank">P3 - P6 Mathematics Assessment Format</a>
