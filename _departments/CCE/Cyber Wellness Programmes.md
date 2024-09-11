@@ -3,9 +3,8 @@ title: Cyber Wellness Programmes
 permalink: /departments/CCE/cyber-wellness-programmes/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
-<!--- ### Cyber Wellness Programmes--->
- 
 ##### Cyber Wellness
 
 Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. The focus of CW is about helping students to become responsible digital learners. When navigating cyberspace, students should demonstrate respect for self and others and practise safe and responsible use. Students should also be a positive peer influence by harnessing technology for collaboration, learning and productivity, as well as advocating positive use of technology for the good of the community.  
@@ -38,5 +37,4 @@ The Cyber Wellness Student Ambassador Programme was launched in Nov 2009 to prom
 #### Useful Links
 
 Here are some useful links for parents:  
-[http://www.nlb.gov.sg/sure/](http://www.nlb.gov.sg/sure/)  
-[https://www.betterinternet.sg/](https://www.betterinternet.sg/)
+[http://www.nlb.gov.sg/sure/](http://www.nlb.gov.sg/sure/)
