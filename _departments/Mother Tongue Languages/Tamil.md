@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Mother Tongue Languages
 variant: markdown
 ---
-<!--### Tamil-->
-
 ##### Introduction  
 
 Our programme aims to develop students into proficient language users. In addition to this, our students will gain a better understanding of our rich culture and appreciate it. We warmly invite Eliasians’ family members and the community to continue to support EPPS' Tamil Department to inculcate in our students love for the language
@@ -68,6 +66,3 @@ Deepavali is celebrated each year to promote the understanding of Indian traditi
 
 *   External Competitions  
 Our students will be taking part in various competitions organised by the Telok Blangah CC. Students from P2 will take part in the Reading competition. P3 and P4 students will take part in the story-telling competition and essay-writing competition respectively. Students from P5 and P6 will be taking part in the oratorical competition.
-
-##### Useful Link  
-[http://noolagam.com/](http://noolagam.com/)
