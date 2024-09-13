@@ -37,4 +37,5 @@ The Cyber Wellness Student Ambassador Programme was launched in Nov 2009 to prom
 #### Useful Links
 
 Here are some useful links for parents:  
-[http://www.nlb.gov.sg/sure/](http://www.nlb.gov.sg/sure/)
+[https://www.nlb.gov.sg/main/site/sure-elevated](https://www.nlb.gov.sg/main/site/sure-elevated)
+[https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf](https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf)
