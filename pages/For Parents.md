@@ -233,7 +233,7 @@ approved calculator/dictionary lists, please click <a href="https://www.seab.gov
 <br>For the new PSLE Scoring, please click <a href="https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>
 <br>2024 PSLE Examination Timetable:
-<br><em>To be updated </em>
+<br><a href="/files/2024_PSLE_Written_Exam_Timetable.pdf" rel="noopener nofollow" target="_blank">2024 PSLE Written Exam Timetable</a>
 <br>2024 Primary 6 Prelim schedule:
 <br><a href="/files/2024_P6_Prelim_Schedule_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Primary 6 Prelim Examination_Schedule</a>
 <br>2024 Primary 6 Prelim exam scope:
