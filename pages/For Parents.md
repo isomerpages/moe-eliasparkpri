@@ -101,7 +101,7 @@ more information on Direct School Admission (DSA).</p>
 <p>For more information regarding Financial Assistance Schemes, please click
 <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>
-<br>MOE Financial Assistance Application Form (eFAS) for 2024 <strong>(Require Singpass for login)</strong>:
+<br>MOE Financial Assistance Application Form (eFAS) for 2025 <strong>(Require Singpass for login)</strong>:
 <br><a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener noreferrer nofollow" target="_blank">MOE Financial Assistance Application Form</a> 
 <br>
 <br>For the Straits Times School Pocket Money Fund, please approach the General
