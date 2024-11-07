@@ -34,8 +34,7 @@ format of the examination papers, please click <a href="/for-parents/assessments
 <p>Booklists</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/EPPS_Booklist_2024_P1.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS </a>
-<a href="/files/EPPS__Booklist_2025_P1.pdf" rel="noopener nofollow" target="_blank">Booklist 2025 P1</a>
+<p><a href="/files/EPPS__Booklist_2025_P1.pdf" rel="noopener nofollow" target="_blank">EPPS Booklist 2025 P1</a>
 <br><a href="/files/EPPS_Booklist_2024_P2.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2024 P2</a> 
 <br><a href="/files/EPPS_Booklist_2024_P3.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2024 P3</a> 
 <br><a href="/files/EPPS_Booklist_2024_P3_HigherMT.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2024 P3 Higher MT</a> 
