@@ -41,7 +41,7 @@ format of the examination papers, please click <a href="/for-parents/assessments
 </p>
 <p><a href="/files/EPPS_Booklist_2025_P3_Higher_MT.pdf" rel="noopener nofollow" target="_blank">EPPS Booklist 2025 P3 HMT</a>
 </p>
-<p><a href="/files/EPPS_Booklist_2025_P4.pdf" rel="noopener nofollow" target="_blank">EPPS Booklist 2025 P4 </a>
+<p><a href="/files/EPPS_Booklist_2025_P4.pdf" rel="noopener nofollow" target="_blank">EPPS Booklist 2025 P4</a>
 </p>
 <p><a href="/files/EPPS_Booklist_2025_P4_Higher_MT.pdf" rel="noopener nofollow" target="_blank">EPPS Booklist 2025 P4 HMT</a>
 </p>
