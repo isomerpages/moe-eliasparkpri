@@ -35,11 +35,11 @@ format of the examination papers, please click <a href="/for-parents/assessments
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/EPPS__Booklist_2025_P1.pdf" rel="noopener nofollow" target="_blank">EPPS Booklist 2025 P1</a>
-<br><a href="/files/EPPS_Booklist_2024_P2.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2024 P2</a> 
-<br><a href="/files/EPPS_Booklist_2024_P3.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2024 P3</a> 
-<br><a href="/files/EPPS_Booklist_2024_P3_HigherMT.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2024 P3 Higher MT</a> 
-<br><a href="/files/Booklist_2024_EPPS_P4.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P4</a> 
-<br><a href="/files/Booklist_2024_EPPS_P4_HMT.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P4 HMT</a> 
+<br><a href="/files/EPPS_Booklist_2024_P2.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2025 P2</a> 
+<br><a href="/files/EPPS_Booklist_2024_P3.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2025 P3</a> 
+<br><a href="/files/EPPS_Booklist_2024_P3_HigherMT.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2025 P3 Higher MT</a> 
+<br><a href="/files/Booklist_2024_EPPS_P4.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2025 P4</a> 
+<br><a href="/files/Booklist_2024_EPPS_P4_HMT.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2025 P4 HMT</a> 
 <br><a href="/files/Booklist_2024_EPPS_P5_FDN.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P5 Foundation</a> 
 <br><a href="/files/Booklist_2024_EPPS_P5.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P5</a> 
 <br><a href="/files/Booklist_2024_EPPS_P5_HMT.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P5 HMT</a> 
