@@ -35,19 +35,28 @@ format of the examination papers, please click <a href="/for-parents/assessments
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/EPPS__Booklist_2025_P1.pdf" rel="noopener nofollow" target="_blank">EPPS Booklist 2025 P1</a>
-<br><a href="/files/EPPS_Booklist_2024_P2.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2025 P2</a> 
-<br><a href="/files/EPPS_Booklist_2024_P3.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2025 P3</a> 
-<br><a href="/files/EPPS_Booklist_2024_P3_HigherMT.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2025 P3 Higher MT</a> 
-<br><a href="/files/Booklist_2024_EPPS_P4.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2025 P4</a> 
-<br><a href="/files/Booklist_2024_EPPS_P4_HMT.pdf" rel="noopener noreferrer nofollow" target="_blank">EPPS Booklist 2025 P4 HMT</a> 
-<br><a href="/files/Booklist_2024_EPPS_P5_FDN.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P5 Foundation</a> 
-<br><a href="/files/Booklist_2024_EPPS_P5.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P5</a> 
-<br><a href="/files/Booklist_2024_EPPS_P5_HMT.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P5 HMT</a> 
-<br><a href="/files/Booklist_2024_EPPS_P6_FDN.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P6 Foundation</a> 
-<br><a href="/files/Booklist_2024_EPPS_P6.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P6</a> 
-<br><a href="/files/Booklist_2024_EPPS_P6_HMT.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2024 EPPS P6 HMT</a>
+<br><a href="/files/EPPS_Booklist_2025_P2.pdf" rel="noopener nofollow" target="_blank">EPPS Booklist 2025 P2</a>
 </p>
-<p></p>
+<p><a href="/files/EPPS_Booklist_2025_P3.pdf" rel="noopener nofollow" target="_blank">EPPS Booklist 2025 P3</a>
+</p>
+<p><a href="/files/EPPS_Booklist_2025_P3_Higher_MT.pdf" rel="noopener nofollow" target="_blank">EPPS Booklist 2025 P3 HMT</a>
+</p>
+<p><a href="/files/EPPS_Booklist_2025_P4.pdf" rel="noopener nofollow" target="_blank">EPPS Booklist 2025 P4 </a>
+</p>
+<p><a href="/files/EPPS_Booklist_2025_P4_Higher_MT.pdf" rel="noopener nofollow" target="_blank">EPPS Booklist 2025 P4 HMT</a>
+</p>
+<p><a href="/files/EPPS_Booklist_2025_P5_Foundation.pdf" rel="noopener nofollow" target="_blank">EPPS Booklist 2025 P5 Foundation</a>
+</p>
+<p><a href="/files/EPPS_Booklist_2025_P5.pdf" rel="noopener nofollow" target="_blank">EPPS Booklist 2025 P5</a>
+</p>
+<p><a href="/files/EPPS_Booklist_2025_P5_Higher_MT.pdf" rel="noopener nofollow" target="_blank">EPPS Booklist 2025 P5 HMT</a>
+</p>
+<p><a href="/files/EPPS_Booklist_2025_P6_Foundation.pdf" rel="noopener nofollow" target="_blank">EPPS Booklist 2025 P6 Foundation</a>
+</p>
+<p><a href="/files/EPPS_Booklist_2025_P6.pdf" rel="noopener nofollow" target="_blank">EPPS Booklist 2025 P6</a>
+</p>
+<p><a href="/files/EPPS_Booklist_2025_P6_Higher_MT.pdf" rel="noopener nofollow" target="_blank">EPPS Booklist 2025 P6 HMT</a>
+</p>
 </td>
 </tr>
 <tr>
