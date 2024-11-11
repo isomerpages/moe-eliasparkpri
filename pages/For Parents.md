@@ -35,7 +35,8 @@ format of the examination papers, please click <a href="/for-parents/assessments
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/EPPS__Booklist_2025_P1.pdf" rel="noopener nofollow" target="_blank">EPPS Booklist 2025 P1</a>
-<br><a href="/files/EPPS_Booklist_2025_P2.pdf" rel="noopener nofollow" target="_blank">EPPS Booklist 2025 P2</a>
+</p>
+<p><a href="/files/EPPS_Booklist_2025_P2.pdf" rel="noopener nofollow" target="_blank">EPPS Booklist 2025 P2</a>
 </p>
 <p><a href="/files/EPPS_Booklist_2025_P3.pdf" rel="noopener nofollow" target="_blank">EPPS Booklist 2025 P3</a>
 </p>
