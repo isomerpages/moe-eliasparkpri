@@ -337,7 +337,8 @@ in Primary Schools: Click <a href="https://www.schoolbag.sg/story/support-the-le
 <p>School Publications</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://drive.google.com/file/d/1iMANu41uqe9h6n-S4BStLbrzB_wB9t1A/view?usp=drive_link" rel="noopener nofollow" target="_blank">2024 The Eliasian (November Issue)</a>
+</p>
 </td>
 </tr>
 <tr>
