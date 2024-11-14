@@ -211,7 +211,7 @@ access the catalogue.</p>
 <p>Primary 1 Orientation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/P1_Orientation_2025.pdf" rel="noopener nofollow" target="_blank">Primary 1 Orientation 2025</a>
+<p><a href="/files/P1_Orientation_2025_Web.pdf" rel="noopener nofollow" target="_blank">P1 Orientation File </a>
 </p>
 </td>
 </tr>
