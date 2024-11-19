@@ -3,9 +3,8 @@ title: EPPS CCAs
 permalink: /departments/CCA/epps-ccas/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
-<!--### EPPS CCAs-->
-
 #### Primary 3-6
 
 **Sportsman**
@@ -24,8 +23,7 @@ third_nav_title: CCA
 **Citizen &amp; Leader**
 
 * [Scouts](https://staging.d3975mj8dcgb9n.amplifyapp.com/cca/scouts/)
-* [Debating and Public Speaking](https://staging.d3975mj8dcgb9n.amplifyapp.com/cca/debating-and-public-speaking/)
-* [Food &amp; Consumer Education](https://staging.d3975mj8dcgb9n.amplifyapp.com/cca/food-and-consumer-education/)
+
 
 **Scholar**
 
