@@ -58,14 +58,15 @@ for an active life. It&nbsp;adopts a 3-staged developmental approach:&nbsp;&nbsp
 <br><strong>SwimSafer Programme</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/swimsafer%20programme%202023.PNG">
+<img style="width: 100%;" height="auto" width="100%" alt="2024 SwimSafer" src="/images/2024_SwimSafer.png">
 </div>
-<p>
-<br><strong>Primary 5 Camp</strong>
+<p><strong>Primary 5 Camp</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/p5%20camp%202023.PNG">
+<img style="width: 100%" height="auto" width="100%" alt="2024 P5 Camp" src="/images/2024_P5_Camp.png">
 </div>
+<p></p>
+<p></p>
 <h5>Healthy Plate &amp; Healthy Snacks&nbsp;</h5>
 <p>Eliasians are encouraged to make an effort to live a healthy life through
 daily healthy meals and healthy snacks. Eating a healthy plate and having
