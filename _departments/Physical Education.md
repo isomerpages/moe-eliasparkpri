@@ -54,8 +54,7 @@ for an active life. It&nbsp;adopts a 3-staged developmental approach:&nbsp;&nbsp
 <img style="width:60%" height="auto" width="100%" src="/images/pe1.png">
 </div>
 <h5>Programme Highlights</h5>
-<p>
-<br><strong>SwimSafer Programme</strong>
+<p><strong>SwimSafer Programme</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="2024 SwimSafer" src="/images/2024_SwimSafer.png">
@@ -65,8 +64,16 @@ for an active life. It&nbsp;adopts a 3-staged developmental approach:&nbsp;&nbsp
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2024 P5 Camp" src="/images/2024_P5_Camp.png">
 </div>
-<p></p>
-<p></p>
+<p><strong>Primary 4 Parasport Boccia</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="P4 Parasport Boccia" src="/images/2024_P4_Parasport_Boccia.png">
+</div>
+<p><strong>P1 SEP DanceSport</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="P1 SEP DanceSport" src="/images/2024_P1_SEP_DanceSport.png">
+</div>
 <h5>Healthy Plate &amp; Healthy Snacks&nbsp;</h5>
 <p>Eliasians are encouraged to make an effort to live a healthy life through
 daily healthy meals and healthy snacks. Eating a healthy plate and having
