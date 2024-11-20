@@ -51,7 +51,7 @@ for an active life. It&nbsp;adopts a 3-staged developmental approach:&nbsp;&nbsp
 </div>
 <h5>PE Syllabus</h5>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/pe1.png">
+<img style="width: 100%" height="auto" width="100%" alt="PE Syllabus" src="/images/PE_Syllabus.png">
 </div>
 <h5>Programme Highlights</h5>
 <p><strong>SwimSafer Programme</strong>
