@@ -251,7 +251,7 @@ approved calculator/dictionary lists, please click <a href="https://www.seab.gov
 <br><a href="/files/2024_P6_Prelim_Exam_Scope_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Primary 6 Prelim Examination_Scope</a>
 <br>
 <br>2024 PSLE Results Release:
-<br><em>To be updated</em>
+<br><a href="/files/2024_PSLE_Results_Release.pdf" rel="noopener nofollow" target="_blank">2024 PSLE Results Release</a>
 </p>
 </td>
 </tr>
