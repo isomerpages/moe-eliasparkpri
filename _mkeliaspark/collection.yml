@@ -2,6 +2,7 @@ collections:
   mkeliaspark:
     output: true
     order:
+      - Orientation Day 2024.md
       - Announcement.md
       - MK Curriculum.md
       - MOE Kindergarten Fee.md
