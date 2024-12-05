@@ -22,5 +22,7 @@ that families feel supported as their children embark on this exciting
 milestone.</p>
 <p>&nbsp;We look forward to welcoming our first batch of K1 children on Thursday,
 2<sup>nd</sup> January 2025 and beginning this exciting MK journey together!</p>
+<p><a href="https://youtu.be/Cz55HPjPHYY" rel="noopener nofollow" target="_blank">Click here to view slideshow</a>
+</p>
 <p></p>
 <p></p>
