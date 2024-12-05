@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Announcement.md
-      - Orientation Day 2024.md
       - MK Curriculum.md
       - MOE Kindergarten Fee.md
       - Media Release.md
+      - Orientation Day 2024.md
       - Useful Link.md
       - Contact.md
