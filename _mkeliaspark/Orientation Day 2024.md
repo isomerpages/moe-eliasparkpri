@@ -24,5 +24,9 @@ milestone.</p>
 2<sup>nd</sup> January 2025 and beginning this exciting MK journey together!</p>
 <p><a href="https://youtu.be/Cz55HPjPHYY" rel="noopener nofollow" target="_blank">Click here to view slideshow</a>
 </p>
+<p><a href="/files/mk_k1_orientation_materials.pdf" rel="noopener nofollow" target="_blank">Click here to view MK Orientation Materials</a>
+</p>
+<p><a href="/files/kcare_orientation_materials.pdf" rel="noopener nofollow" target="_blank">Click here to view KCare Orientation Materials</a>
+</p>
 <p></p>
 <p></p>
