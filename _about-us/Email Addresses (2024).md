@@ -32,7 +32,7 @@ variant: tiptap
 <p>Vice Principal (EO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:LING_Szengen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Esther See</a>
+<p><a href="mailto:ho_fu_chew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ho Fu Chew</a>
 </p>
 </td>
 </tr>
@@ -76,15 +76,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wee_pat_ghee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wee Pat Ghee</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Department (English Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wong_pei_li_pamela@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Pamela Wong</a>
 </p>
 </td>
 </tr>
