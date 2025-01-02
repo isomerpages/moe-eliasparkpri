@@ -438,6 +438,9 @@ variant: tiptap
 <p>3 Love</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:michelle_lim_qian_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Michelle Lim</u></a>
+<br>Miss Theresah Teng</p>
+<p></p>
 <p><a href="mailto:lokman_hakim_b_yunos@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lokman Hakim Bin Yunos</a> 
 <br><a href="mailto:aini_hussien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Aini Bte Hussien</a>
 </p>
