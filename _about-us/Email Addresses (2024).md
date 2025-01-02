@@ -370,6 +370,10 @@ variant: tiptap
 <p>2 Love</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:tan_siew_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Gil Tan</u></a>
+<br><a href="mailto:fu_ye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Fu Ye</u></a>
+</p>
+<p></p>
 <p><a href="mailto:tan_qian_ni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Qian Ni</a> 
 <br><a href="mailto:sarina_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sarina Bte Salleh</a>
 </p>
@@ -584,7 +588,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jamila_adal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jamila Adal</a> 
 <br><a href="mailto:joy_ong_siok_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Joy Ong</a> 
-<br><a href="mailto:fu_ye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fu Ye</a>
+<br>
 </p>
 </td>
 </tr>
