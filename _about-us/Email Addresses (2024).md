@@ -591,8 +591,8 @@ variant: tiptap
 <p>6 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br><a href="mailto:woong_sook_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Huan Sook Peng</a>
+<p><a href="mailto:hsieh_josie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Josie Teo</a> 
+<br><a href="mailto:li_huan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Li Huan</a>
 </p>
 </td>
 </tr>
@@ -601,8 +601,8 @@ variant: tiptap
 <p>6 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:poon_yin_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Poon Yin Ching</a> 
-<br><a href="mailto:liu_zhiming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Liu Zhiming</a>
+<p><a href="mailto:liu_zhiming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Liu Zhiming|</a>
+<br><a href="mailto:yeo_peck_hoon_anastacia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Anastacia Foo</u></a>
 </p>
 </td>
 </tr>
@@ -614,10 +614,6 @@ variant: tiptap
 <p><a href="mailto:jamila_adal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Jamila Adal</u></a>
 <br><a href="mailto:poon_yin_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Poon Yin Ching</u></a>
 </p>
-<p></p>
-<p><a href="mailto:hsieh_josie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Josie Teo</a> 
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -625,8 +621,7 @@ variant: tiptap
 <p>6 Service</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_peck_hoon_anastacia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Anastacia Foo</a> 
-<br><a href="mailto:wee_pat_ghee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wee Pat Ghee</a>
+<p><a href="mailto:woong_sook_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Huan Sook Peng</a>
 </p>
 </td>
 </tr>
