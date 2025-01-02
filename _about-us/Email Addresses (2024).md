@@ -585,8 +585,7 @@ variant: tiptap
 <p>6 Endeavour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jamila_adal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jamila Adal</a> 
-<br><a href="mailto:joy_ong_siok_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Joy Ong</a> 
+<p>
 <br>
 </p>
 </td>
@@ -616,6 +615,10 @@ variant: tiptap
 <p>6 Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:jamila_adal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Jamila Adal</u></a>
+<br><a href="mailto:poon_yin_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Poon Yin Ching</u></a>
+</p>
+<p></p>
 <p><a href="mailto:hsieh_josie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Josie Teo</a> 
 <br>
 </p>
