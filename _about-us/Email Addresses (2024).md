@@ -408,7 +408,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:suhaida_saptu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Suhaida Bte Saptu</u></a>
-<br><a rel="noopener nofollow" target="_blank">Mr Muhammad Fahmi Bin Fo'Att</a>
+<br><a href="mailto:muhammad_fahmi_foatt@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Fahmi Bin Fo'Att</a>
 </p>
 </td>
 </tr>
