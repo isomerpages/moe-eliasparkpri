@@ -449,7 +449,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:joy_ong_siok_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Joy Ong</u></a>
-<br>Mdm Sharifah Mariam Bte Syed M S A</p>
+<br><a href="sharifah_mariam_syed_m@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Sharifah Mariam Bte Syed M S A</a>
+</p>
 </td>
 </tr>
 <tr>
