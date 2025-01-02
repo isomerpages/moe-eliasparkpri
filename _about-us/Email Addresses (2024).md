@@ -505,11 +505,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lydia_dawn_amla_sasidharen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Dawn Lim</u></a>
-<br><a href="mailto:khong_xuan_qi_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Joyce Khong</u></a>
-</p>
-<p></p>
-<p><a href="mailto:ong_hui_hui_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ong Hui Hui</a> 
-<br>
+<br><a href="mailto:khong_xuan_qi_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Joyce Khong</u></a> 
 </p>
 </td>
 </tr>
