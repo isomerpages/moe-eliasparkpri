@@ -81,37 +81,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Department (Mathematics)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mohamad_yusman_selamat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohamad Yusman Bin Selamat</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Head of Department (Science)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_mun_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Stan Lee</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Department (MTL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:li_huan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Li Huan</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Department (ICT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:aini_hussien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Aini Hussien</a>
 </p>
 </td>
 </tr>
@@ -135,11 +108,27 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Level Head (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sharifah Mariam Bte Syed M S A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Level Head (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:woong_sook_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Huan Sook Peng</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head (Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Foo Shi Rui</p>
 </td>
 </tr>
 <tr>
