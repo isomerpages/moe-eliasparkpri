@@ -358,7 +358,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_azilla_nazli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nur Azilla Binte Nazli</u></a>
 <br>Miss Ooi Yiwei
-<br>Ms Lai Yoke San</p>
+<br><a href="mailto:lai_yoke_san@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lai Yoke San</a>
+</p>
 </td>
 </tr>
 <tr>
