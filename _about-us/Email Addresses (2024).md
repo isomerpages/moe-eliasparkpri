@@ -786,15 +786,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Kavitha_Kalimuthu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Kavitha d/o Kalimuthu</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Learning Support (English)</strong>
 </p>
 </td>
@@ -821,16 +812,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Primary 2
 <br><a href="mailto:tan_qian_ni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_qian_ni@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 4
-<br><a href="mailto:baljeet_kaur_grewal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">baljeet_kaur_grewal@moe.edu.sg</a>
 </p>
 </td>
 </tr>
