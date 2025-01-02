@@ -521,10 +521,6 @@ variant: tiptap
 <p><a href="mailto:fathurrahman_abdul_wahed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Fathurrahman Bin Abdul Wahed</u></a>
 <br><a href="mailto:go_pei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Stephanie Ser</u></a>
 </p>
-<p></p>
-<p><a href="lam_hui_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Tan Hui Fong</a> 
-<br><a href="siti_aisyah_yacob@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Siti Aisyah Bte Yacob</a>
-</p>
 </td>
 </tr>
 <tr>
