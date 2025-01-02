@@ -387,6 +387,10 @@ variant: tiptap
 <p>2 Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:lee_jian_jie_dion@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Dion Lee</u></a>
+</p>
+<p>Ms Sivakumar Shrinidhi</p>
+<p>Mdm Logeswaran Narmatha</p>
 <p><a href="mailto:wee_siew_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sera Wee</a> 
 <br><a href="mailto:kavitha_kalimuthu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Kavitha d/o Kalimuthu</a> 
 <br><a href="mailto:chen_yixiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chen Yi Xiang</a>
