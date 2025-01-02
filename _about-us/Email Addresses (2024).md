@@ -346,10 +346,7 @@ variant: tiptap
 <p>1 Service</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:alif_zulhilmi_zakaria@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Alif Zulhilmi Bin Zakaria</a> 
-<br><a href="mailto:iza_mariah_idris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Iza Mariah Bte Idris</a> 
-<br><a href="mailto:foo_chun_kiat_bryan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Bryan Foo</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -373,7 +370,7 @@ variant: tiptap
 <p><a href="mailto:tan_siew_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Gil Tan</u></a>
 <br><a href="mailto:fu_ye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Fu Ye</u></a>
 </p>
-<p></p>
+<p>Miss Thang Jing Xuan</p>
 <p><a href="mailto:tan_qian_ni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Qian Ni</a> 
 <br><a href="mailto:sarina_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sarina Bte Salleh</a>
 </p>
@@ -412,6 +409,10 @@ variant: tiptap
 <p>2 Service</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:iza_mariah_idris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Iza Mariah Bte Idris</u></a>
+<br><a href="mailto:foo_chun_kiat_bryan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Bryan Foo</u></a>
+</p>
+<p></p>
 <p><a href="mailto:nurul_siddiqah_allawudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurul Siddiqah Binte Allawudin</a> 
 <br><a href="mailto:wong_hui_guan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jessie Wong</a>
 </p>
