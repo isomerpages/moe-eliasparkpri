@@ -336,9 +336,9 @@ variant: tiptap
 <p>1 Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:habibah_husein_shah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Habibah Bte Husein Shah</a> 
-<br><a href="mailto:toh_anne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Anne Quah</a>
-</p>
+<p><a href="mailto:wong_hui_guan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Jessie Wong</u></a>
+<br>Ms Eka Syafiqah Binte Ahmad Nasir
+<br>Mdm Ratnah Binte Rawi</p>
 </td>
 </tr>
 <tr>
