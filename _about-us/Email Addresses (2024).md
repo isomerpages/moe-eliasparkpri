@@ -358,9 +358,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_azilla_nazli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nur Azilla Binte Nazli</u></a>
-</p>
-<p>Miss Ooi Yiwei</p>
-<p>Ms Lai Yoke San</p>
+<br>Miss Ooi Yiwei
+<br>Ms Lai Yoke San</p>
 <p><a href="mailto:wong_yun_ru_eleanor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Eleanor Wong</a> 
 <br><a href="mailto:sofilia_yahya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sofilia Bte Yahya</a>
 </p>
@@ -381,6 +380,10 @@ variant: tiptap
 <p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:carlin_mulyati@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Carlin Tee</u></a>
+<br><a href="mailto:kanan_perumal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Kanan S/O Perumal</u></a>
+</p>
+<p></p>
 <p><a href="mailto:sri_noriehan_kamis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sri Noriehan Bte Kamis</a> 
 <br><a href="mailto:que_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Que Yi</a>
 </p>
@@ -551,7 +554,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_pei_li_pamela@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Pamela Wong</a> 
 <br><a href="mailto:alsree@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Alsree</a>
-<br><a href="mailto:lee_jian_jie_dion@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Dion Lee</a>
 </p>
 </td>
 </tr>
