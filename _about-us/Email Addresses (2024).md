@@ -535,10 +535,6 @@ variant: tiptap
 <p><a href="mailto:lam_hui_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Tan Hui Fong|</u></a>
 <br><a href="mailto:seah_yi_ern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Tham - Seah Yi Ern</u></a>
 </p>
-<p></p>
-<p><a href="mailto:han_yi_ling_cheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cheryl Han</a> 
-<br><a href="mailto:chin_poh_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chin Poh Lin</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -585,8 +581,8 @@ variant: tiptap
 <p>6 Endeavour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
+<p><a href="mailto:han_yi_ling_cheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Cheryl Han</u></a>
+<br><a href="mailto:chin_poh_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Chin Poh Lin</u></a>
 </p>
 </td>
 </tr>
