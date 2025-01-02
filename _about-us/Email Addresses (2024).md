@@ -578,7 +578,7 @@ variant: tiptap
 <p>6 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liu_zhiming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Liu Zhiming|</a>
+<p><a href="mailto:liu_zhiming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Liu Zhiming</a>
 <br><a href="mailto:yeo_peck_hoon_anastacia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Anastacia Foo</u></a>
 </p>
 </td>
