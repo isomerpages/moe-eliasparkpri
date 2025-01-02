@@ -305,7 +305,10 @@ variant: tiptap
 <p>1 Endeavour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:natascha_gabrielle_nonis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Natascha Gabrielle Rodrigues</a> 
+<p><a href="mailto:chen_yixiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Chen Yi Xiang</u></a>
+<br><a href="mailto:wee_siew_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Sera Wee</u></a>
+</p>
+<p>
 <br><a href="mailto:chai_chew_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chai Chew Yee</a> 
 <br><a href="mailto:nur_azilla_nazli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Azilla Binte Nazli</a>
 </p>
