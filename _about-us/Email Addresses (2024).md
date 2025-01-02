@@ -319,9 +319,7 @@ variant: tiptap
 <p>1 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_siew_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Gil Tan</a> 
-<br><a href="mailto:tan_li_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Bernice Tan</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -329,8 +327,8 @@ variant: tiptap
 <p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:carlin_mulyati@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Carlin Tee</a> 
-<br><a href="mailto:kanan_perumal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kanan S/O Perumal</a>
+<p><a href="mailto:quek_hwee_khim_shelly@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Shelly Lee</u></a>
+<br><a href="mailto:tan_li_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Bernice Tan</u></a>
 </p>
 </td>
 </tr>
