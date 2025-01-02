@@ -455,6 +455,10 @@ variant: tiptap
 <p>3 Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:wu_xun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Wu Xun</u></a>
+<br><a href="mailto:lee_mun_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Stan Lee</u></a>
+</p>
+<p></p>
 <p><a href="mailto:lydia_dawn_amla_sasidharen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Dawn Lim</a> 
 <br><a href="mailto:khong_xuan_qi_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joyce Khong</a>
 </p>
@@ -507,7 +511,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_hui_hui_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ong Hui Hui</a> 
-<br><a href="mailto:wu_xun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wu Xun</a>
+<br>
 </p>
 </td>
 </tr>
