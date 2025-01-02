@@ -111,7 +111,8 @@ variant: tiptap
 <p>Level Head (English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sharifah Mariam Bte Syed M S A</p>
+<p><a href="mailto:sharifah_mariam_syed_m@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Sharifah Mariam Bte Syed M S A</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -128,7 +129,8 @@ variant: tiptap
 <p>Level Head (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Foo Shi Rui</p>
+<p><a href="mailto:foo_shi_rui@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Foo Shi Rui</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -428,10 +430,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jameyahti_ab_malek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Jameyahti Bte Ab Malek</u></a>
 <br><a href="mailto:kwee_wan_juan_esther@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Esther Kwee</u></a>
-</p>
-<p></p>
-<p><a href="mailto:afiqah_liyana_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Afiqah Liyana Bte Rahim</a> 
-<br><a href="mailto:xi_donglei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Xi Donglei</a>
 </p>
 </td>
 </tr>
