@@ -241,6 +241,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Senior Teacher (Chinese Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:xi_donglei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Xi Donglei</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
