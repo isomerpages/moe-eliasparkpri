@@ -349,7 +349,9 @@ variant: tiptap
 <p>1 Service</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:sri_noriehan_kamis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sri Noriehan Bte Kamis</a> 
+<br><a href="mailto:que_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Que Yi</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -381,10 +383,6 @@ variant: tiptap
 <p><a href="mailto:carlin_mulyati@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Carlin Tee</u></a>
 <br><a href="mailto:kanan_perumal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Kanan S/O Perumal</u></a>
 </p>
-<p></p>
-<p><a href="mailto:sri_noriehan_kamis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sri Noriehan Bte Kamis</a> 
-<br><a href="mailto:que_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Que Yi</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -407,7 +405,7 @@ variant: tiptap
 </p>
 <p></p>
 <p><a href="mailto:nurul_siddiqah_allawudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurul Siddiqah Binte Allawudin</a> 
-<br><a href="mailto:wong_hui_guan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jessie Wong</a>
+<br>
 </p>
 </td>
 </tr>
