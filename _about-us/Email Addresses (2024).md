@@ -214,6 +214,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Lead Teacher (Chinese Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:li_huan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Li Huan</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Senior Teacher (English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
