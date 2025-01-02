@@ -23,7 +23,7 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:CHUA_Pei_Pei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Pei Pei</a>
+<p><a href="mailto:epps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Pei Pei</a>
 </p>
 </td>
 </tr>
@@ -32,7 +32,7 @@ variant: tiptap
 <p>Vice Principal (EO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_fu_chew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ho Fu Chew</a>
+<p><a href="mailto:epps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ho Fu Chew</a>
 </p>
 </td>
 </tr>
@@ -41,7 +41,7 @@ variant: tiptap
 <p>Vice Principal (EO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Mohamad_Noor_ABDUL_MANAF@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohamad Noor Abdul Manaf</a>
+<p><a href="mailto:epps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohamad Noor Abdul Manaf</a>
 </p>
 </td>
 </tr>
@@ -50,7 +50,7 @@ variant: tiptap
 <p>Vice Principal (Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Peh_Bee_Kuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Peh Bee Kuan</a>
+<p><a href="mailto:epps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Peh Bee Kuan</a>
 </p>
 </td>
 </tr>
