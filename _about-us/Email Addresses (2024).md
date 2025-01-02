@@ -448,6 +448,10 @@ variant: tiptap
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:jameyahti_ab_malek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Jameyahti Bte Ab Malek</u></a>
+<br><a href="mailto:kwee_wan_juan_esther@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Esther Kwee</u></a>
+</p>
+<p></p>
 <p><a href="mailto:afiqah_liyana_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Afiqah Liyana Bte Rahim</a> 
 <br><a href="mailto:xi_donglei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Xi Donglei</a>
 </p>
@@ -483,9 +487,7 @@ variant: tiptap
 <p>4 Endeavour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jameyahti_ab_malek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jameyahti Bte Ab Malek</a> 
-<br><a href="mailto:kwee_wan_juan_esther@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Esther Kwee</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
