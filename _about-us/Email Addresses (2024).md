@@ -358,9 +358,6 @@ variant: tiptap
 <p><a href="mailto:nur_azilla_nazli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nur Azilla Binte Nazli</u></a>
 <br>Miss Ooi Yiwei
 <br>Ms Lai Yoke San</p>
-<p><a href="mailto:wong_yun_ru_eleanor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Eleanor Wong</a> 
-<br><a href="mailto:sofilia_yahya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sofilia Bte Yahya</a>
-</p>
 </td>
 </tr>
 <tr>
