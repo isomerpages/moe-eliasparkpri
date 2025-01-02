@@ -235,7 +235,7 @@ variant: tiptap
 <p>Senior Teacher (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://cms.isomer.gov.sg/sites/moe-eliasparkpri/folders/about-us/editPage/lam_hui_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Tan Hui Fong</u></a>
+<p><a href="lam_hui_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Tan Hui Fong</u></a>
 </p>
 </td>
 </tr>
