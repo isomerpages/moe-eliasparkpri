@@ -9,8 +9,8 @@ variant: markdown
 
 **Sportsman**
 
-* [Volleyball Girls](https://staging.d3975mj8dcgb9n.amplifyapp.com/cca/volleyball-girls/)
-* [Volleyball Boys](https://staging.d3975mj8dcgb9n.amplifyapp.com/cca/voleyball-boys/)
+* [Volleyball Girls & Boys](https://staging.d3975mj8dcgb9n.amplifyapp.com/cca/volleyball-girls/)
+
 * [Table Tennis](https://staging.d3975mj8dcgb9n.amplifyapp.com/cca/table-tennis/)
 
 **Artist**
