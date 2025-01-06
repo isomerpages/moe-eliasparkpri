@@ -201,7 +201,8 @@ access the catalogue.</p>
 <br>Briefing for Parents (2025)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://drive.google.com/file/d/1mWh_eO5aL7grscCZreiTJnBqgmn6DSyc/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 Primary 1_2 January</a>
+</p>
 </td>
 </tr>
 <tr>
