@@ -198,11 +198,10 @@ access the catalogue.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Primary 1
-<br>Briefing for Parents (2024)</p>
+<br>Briefing for Parents (2025)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024_P1_Briefing_2_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-Primary 1_Briefing_2 Jan.pdf</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
