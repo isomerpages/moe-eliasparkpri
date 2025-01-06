@@ -85,6 +85,7 @@ Junior Girls: East Zone 2nd Runner-up &amp; National Top 6</p>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTLMDZn7582xkesv5PVfzoujgJGnB_u2GHzn4c-f4GCd5PhxiHAAP187mhtrLBRLuWso_2ITjHYBgOn/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -127,5 +128,7 @@ Junior Girls: East Zone 2nd Runner-up &amp; National Top 6</p>
 </tr>
 </tbody>
 </table>
-<p>t</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqcq_g6J5IoD2VMLrDvhGIvCjsuN2H46LcAZ5K5COx6Z1XtyetueGHWJmmrG6woA/embed?start=true&amp;amp;loop=true&amp;amp;delayms=3000"></iframe>
+</div>
 <p></p>
