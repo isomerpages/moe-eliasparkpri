@@ -2,22 +2,16 @@
 title: Scouts
 permalink: /cca/scouts/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3>Scouts</h3>
 <h4>Teachers-in-charge</h4>
 <p><a href="mailto:carlin_mulyati@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Carlin Tee</a> 
-<br>Ms Bhairavi Lachimanan
-<br>Mr Lokman Hakim Bin Yunos
-<br>Ms Kavitha d/o Kalimuthu
+<br>Mdm Michelle Lim
+<br>Mdm Siddiqah
 <br>Mdm Joy Ong
-<br>Mdm Siti Zubeidah Binte Kadir</p>
-<h4>Gender</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Boy &amp; Girls</p>
-</li>
-</ul>
+<br>
+</p>
 <h4>Schedule</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -135,7 +129,10 @@ Join the Scouts today!</p>
 <p>National Events organised by HQ</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -158,7 +155,10 @@ Join the Scouts today!</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -205,6 +205,7 @@ Join the Scouts today!</p>
 </div>
 <p>Congratulations to our Akela recipients 2022</p>
 <div class="iframe-wrapper">
-<p align="center"><iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ_wrfYkD_xIrbSNP6nHJfdWTNuE_XJcQTgCSHOkv_DTHidMMfukUaPQRug1ehJUYim5W1AgkFOOJSu/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</p></div>
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ_wrfYkD_xIrbSNP6nHJfdWTNuE_XJcQTgCSHOkv_DTHidMMfukUaPQRug1ehJUYim5W1AgkFOOJSu/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p></p>
 <p></p>

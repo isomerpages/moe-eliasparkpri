@@ -179,12 +179,11 @@ the LOA fees to the school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Primary 2 </strong>
-<br><a href="https://drive.google.com/file/d/1mWerCC_q2pAfqtJvMY_PynuJBDKdiS8I/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Primary 2_Briefing slides for parents 2024</a> 
+<br>To be updated
 <br><strong>Primary 3 &amp; 4 </strong>
-<br><a href="https://drive.google.com/file/d/1PDGONKRlriIzKPM8PkPkybvzJ6n0HAzK/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 3 &amp; 4 Briefing slides for Parents 2024</a> 
+<br>To be updated
 <br><strong>Primary 5 &amp; 6 </strong>
-<br><a href="https://drive.google.com/file/d/127gZ9-6jiOio4gvPcusoU4UZlKQOOK6l/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Primary 5 &amp; 6_Briefing slides for parents 2024</a>
-</p>
+<br>To be updated</p>
 </td>
 </tr>
 <tr>
@@ -199,10 +198,10 @@ access the catalogue.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Primary 1
-<br>Briefing for Parents (2024)</p>
+<br>Briefing for Parents (2025)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024_P1_Briefing_2_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-Primary 1_Briefing_2 Jan.pdf</a>
+<p><a href="https://drive.google.com/file/d/1mWh_eO5aL7grscCZreiTJnBqgmn6DSyc/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 Primary 1_2 January</a>
 </p>
 </td>
 </tr>
