@@ -41,7 +41,7 @@ attitude in students.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Awards</p>
+<p>Awards (Girls)</p>
 </th>
 </tr>
 <tr>
