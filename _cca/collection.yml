@@ -2,7 +2,7 @@ collections:
   cca:
     output: true
     order:
-      - Volleyball Girls.md
+      - Volleyball Girls & Boys.md
       - Volleyball Boys.md
       - Table Tennis.md
       - Modern Dance.md
