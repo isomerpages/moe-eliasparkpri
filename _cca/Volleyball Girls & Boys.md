@@ -41,6 +41,7 @@ attitude in students.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <p>Awards (Girls)</p>
 </th>
 </tr>
@@ -84,4 +85,47 @@ Junior Girls: East Zone 2nd Runner-up &amp; National Top 6</p>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTLMDZn7582xkesv5PVfzoujgJGnB_u2GHzn4c-f4GCd5PhxiHAAP187mhtrLBRLuWso_2ITjHYBgOn/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Awards (Boys)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>• 2017 - Junior Boys : East Zone 3rd Placing</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2016 - Senior Boys : East Zone 3rd Placing &amp; Junior Boys: East Zone
+2nd Placing</p>
+</li>
+<li>
+<p>2015 - Senior Boys: East Zone 2nd Placing &amp; Junior Boys: East Zone
+3rd Placing</p>
+</li>
+<li>
+<p>2014 - Junior Boys: East Zone 4th Placing</p>
+</li>
+<li>
+<p>2013 - Junior Boys: East Zone 4th Placing</p>
+</li>
+<li>
+<p>2011 - Senior Boys: East Zone 1st Runners Up</p>
+</li>
+<li>
+<p>2009 - Senior Boys: East Zone 4th Placing</p>
+</li>
+<li>
+<p>2008 - Junior Boys: 6th Placing in Soft Volleyball Competition</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>t</p>
 <p></p>
