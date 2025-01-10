@@ -12,6 +12,8 @@ variant: markdown
 * [Volleyball Girls & Boys](https://staging.d3975mj8dcgb9n.amplifyapp.com/cca/volleyball-girls/)
 
 * [Table Tennis](https://staging.d3975mj8dcgb9n.amplifyapp.com/cca/table-tennis/)
+* [Swift Striders]()
+* [Basketball]()
 
 **Artist**
 
