@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Swift Striders.md
       - Volleyball Girls & Boys.md
       - Table Tennis.md
       - Modern Dance.md
