@@ -63,7 +63,7 @@ growing years. They learn to build healthy and rewarding relationships
 with others, including those with members of the opposite sex. Students
 are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
-<p><strong>At Elias Park Primary School, the following Sexuality Education lessons will be taught in&nbsp;2024:</strong>
+<p><strong>At Elias Park Primary School, the following Sexuality Education lessons will be taught in&nbsp;2025:</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/SEd_MOE.png">
