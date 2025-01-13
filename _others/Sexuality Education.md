@@ -69,14 +69,16 @@ themselves safe from sexuality-related risks.</p>
 <img style="width: 100%" height="auto" width="100%" alt="SEd1" src="/images/SEd_1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="p5_2024_sexuality_education" src="/images/p5_2024_sexuality_education.PNG">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/SEd_MOE.png">
+<img style="width: 100%" height="auto" width="100%" alt="SEd P5A" src="/images/SEd_P5_A.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/SEd_P6.png">
+<img style="width: 100%" height="auto" width="100%" alt="SEd P5B" src="/images/SEd_P5_B.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SEd 1" src="/images/SEd_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SEd P6" src="/images/SEd_P6.jpg">
 </div>
 <p><strong>Information for Parents</strong>
 </p>
@@ -86,9 +88,9 @@ programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the Sexuality Education lessons need to complete an opt-out
 form. This form will be communicated to parents at the start of the year
-and is also downloadable&nbsp;here:&nbsp; <a href="/files/2024_Parent_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">2024_Parent_Opt_Out_Form</a>
+and is also downloadable&nbsp;here:&nbsp; <a href="/files/2024_Parent_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">2025_Parent_Opt_Out_Form</a>
 </p>
-<p>The completed opt-out form is to be submitted by 26 January 2024.</p>
+<p>The completed opt-out form is to be submitted by 31/01/2025.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 65844393
 for discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
