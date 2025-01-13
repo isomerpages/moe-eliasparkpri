@@ -66,7 +66,7 @@ themselves safe from sexuality-related risks.</p>
 <p><strong>At Elias Park Primary School, the following Sexuality Education lessons will be taught in&nbsp;2025:</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/SEd_MOE.png">
+<img style="width: 100%" height="auto" width="100%" alt="SEd1" src="/images/SEd_1.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="p5_2024_sexuality_education" src="/images/p5_2024_sexuality_education.PNG">
