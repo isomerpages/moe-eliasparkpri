@@ -32,9 +32,9 @@ and</p>
 <p>(d) Abstinence before marriage is the best protection against STIs/HIV
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
-<p>You may&nbsp;click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
-more information on MOE Sexuality Education.&nbsp;</p>
-<h4>OVERVIEW OF ELIAS PARK PRIMARY &nbsp;SCHOOL’S&nbsp;SEXUALITY EDUCATION PROGRAMME FOR 2024</h4>
+<p>You may&nbsp;click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
+information on MOE Sexuality Education.&nbsp;</p>
+<h4>OVERVIEW OF ELIAS PARK PRIMARY &nbsp;SCHOOL’S&nbsp;SEXUALITY EDUCATION PROGRAMME FOR 2025</h4>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
