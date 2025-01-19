@@ -34,100 +34,13 @@ attitude in students.</p>
 <p>National Soft Volleyball Carnival</p>
 </li>
 </ul>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<p>Awards (Girls)</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>• 2021 - Senior Girls: National School Games Volleyball (3rd Placing)
-<br>• 2019 - Senior Girls: East Zone 2nd Placing, Junior Girls: East Zone
-2nd Placing &amp; National 4th Placing
-<br>• 2018 - Senior Girls: East Zone Champion, Junior Girls: East Zone 2nd
-Placing
-<br>• 2017 - Senior and Junior Girls: East Zone Champion
-<br>• 2016 - Senior Girls: East Zone Champion &amp; National 4th Placing,
-Junior Girls: East Zone Champion
-<br>• 2015 - Senior Girls: East Zone Champion &amp; National Champion, Junior
-Girls: East Zone Champion &amp; National 4th Placing
-<br>• 2014 - Senior Girls: East Zone Champion &amp; National Champion, Junior
-Girls: East Zone Champion &amp; National 3rd Placing
-<br>• 2013 - Senior Girls: East Zone Champion &amp; National Top 6, Junior
-Girls: East Zone Champion &amp; National 3rd Placing
-<br>• 2012 - Senior Girls: East Zone Champion &amp; National Top 6, Junior
-Girls: East Zone 2nd Placing &amp; National 3rd Placing
-<br>• 2011 - Senior Girls: National Champion, Junior Girls: National 4th Placing
-<br>• 2010 - Senior Girls: East Zone 2nd Placing &amp; National 3rd Placing,
-Junior Girls: East Zone Champion &amp; National Champion
-<br>• 2009 - Senior Girls: East Zone Champion &amp; National Top 6, Junior
-Girls: East Zone 2nd Placing &amp; National 2nd Placing
-<br>• 2008 - Senior Girls: East Zone Champion &amp; National 3rd Placing,
-Junior Girls: East Zone Champion &amp; National 3rd Placing
-<br>• 2007 - Senior Girls: East Zone Champion &amp; National Top 8, Junior
-Girls: East Zone Champion &amp; National 2nd Placing
-<br>• 2006 - Senior Girls: East Zone Champion &amp; National Top 6, Junior
-Girls: East Zone Champion &amp; National 4th Placing
-<br>• 2005 - Senior Girls: East Zone Champion &amp; National 4th Placing,
-Junior Girls: East Zone 2nd Runner-up &amp; National Top 8
-<br>• 2004 - Senior Girls: East Zone 2nd Placing &amp; National 3rd Placing,
-Junior Girls: East Zone 2nd Runner-up &amp; National Top 6</p>
-</td>
-</tr>
-</tbody>
-</table>
+<h4>Awards (Girls)</h4>
+<p>Please refer to the Achievements tab on the Home page.</p>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTLMDZn7582xkesv5PVfzoujgJGnB_u2GHzn4c-f4GCd5PhxiHAAP187mhtrLBRLuWso_2ITjHYBgOn/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Awards (Boys)</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>• 2017 - Junior Boys : East Zone 3rd Placing</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>2016 - Senior Boys : East Zone 3rd Placing &amp; Junior Boys: East Zone
-2nd Placing</p>
-</li>
-<li>
-<p>2015 - Senior Boys: East Zone 2nd Placing &amp; Junior Boys: East Zone
-3rd Placing</p>
-</li>
-<li>
-<p>2014 - Junior Boys: East Zone 4th Placing</p>
-</li>
-<li>
-<p>2013 - Junior Boys: East Zone 4th Placing</p>
-</li>
-<li>
-<p>2011 - Senior Boys: East Zone 1st Runners Up</p>
-</li>
-<li>
-<p>2009 - Senior Boys: East Zone 4th Placing</p>
-</li>
-<li>
-<p>2008 - Junior Boys: 6th Placing in Soft Volleyball Competition</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
+<h4>Awards (Boys)</h4>
+<p>Please refer to the Achievements tab on the Home page.</p>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqcq_g6J5IoD2VMLrDvhGIvCjsuN2H46LcAZ5K5COx6Z1XtyetueGHWJmmrG6woA/embed?start=true&amp;amp;loop=true&amp;amp;delayms=3000"></iframe>
 </div>
