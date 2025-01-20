@@ -40,10 +40,9 @@ Tamil Department places great emphasis on reading. As we know, reading plays a v
 
 <img src="/images/tam1.png" style="width:50%">
 
-*   Read With Your Parent  
-According to MOE curriculum, Tamil students are only introduced to the Tamil alphabets in P1 and P2. &nbsp;In view of this, not all P1 and P2 students are able to read a book on their own. “Read with the Parent programme,” caters to the P1 and P2 students. In this programme, they are encouraged to read with the parents and record in a book. Students who have read the most number of books will be rewarded at the end of the year.&nbsp;
-<img src="/images/tamil_3.jpeg" style="width:30%">
-
+*   SOAR Reading Programme (Spark interest, Open-minds, Appreciate cultural roots,Rise as a bilingual leader)
+The MTL SOAR reading  programme hopes to strengthen efforts to instill in students the love for reading in Mother Tongue Languages. P1 and P2  Tamil students will spend 30 minutes of their  Mother Tongue lessons for reading and related activities. It will provide structured support and resources to compliment existing school-wide reading programme. It aims to develop positive set of reading dispositions and habits in children from young. In order to cultivate a genuine love and interest for reading in young children, teachers will make reading time an engaging, dynamic, and enjoyable experience. Teacher-led class activities, story telling &amp; role play will encourage students to read Mother Tongue story books. Reading activities involving parents reading together with their children, as well as families visiting public libraries to read together, fostering a shared love for books and learning. Each student will be given a reading passport to record the books that they have read.&nbsp;
+<img src="/images/TL1_20Jan2025.jpg" style="width:30%">
 *   Mother Tongue Language Fortnight  
 The Tamil Department organises various activities in conjunction with the Mother Tongue Language Fortnight. Singing Competition for P1, Character Portrayal Competition for P2, Story-telling competition for P3, Twisted Tales Competition for P4 and Oratorical Competition&nbsp;for P5 and Advertising Competition for P6 are some of the activities to be conducted during the MTL Fortnight. Students will also play some traditional games such as Parama Patham,&nbsp;Pallankuzhi&nbsp;and Aadu Puli Aattam. They will also play the improvised Taboo game in Tamil.
 
