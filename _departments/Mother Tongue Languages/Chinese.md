@@ -29,14 +29,14 @@ culture.&nbsp;</p>
 </ul>
 <h5>Approach/Framework</h5>
 <div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" src="/images/chi1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL_20Jan2025.png">
 </div>
 <h5>Programme Highlights</h5>
 <ul data-tight="true" class="tight">
 <li>
 <p>Chinese New Year Celebration <strong>（农历新年庆祝会）</strong> 
-<br>Chinese New Year was celebrated on 9th February this year to promote the
-understanding of Chinese traditions and customs. With a better understanding
+<br>Chinese New Year will be celebrated on 28th January this year to promote
+the understanding of Chinese traditions and customs. With a better understanding
 of this festival, students are more aware of the Chinese culture and the
 values behind the customs and traditions.</p>
 </li>
@@ -49,9 +49,9 @@ values behind the customs and traditions.</p>
 <p>Mother Tongue Language (MTL) Fortnight <strong>（母语双周）</strong> 
 <br>The objective of MTL fortnight is to nurture the joy of learning by creating
 a conducive environment and to provide platforms for our students to use
-the language. It was held in the 1st and 2nd weeks of term 2. A wide range
-of activities such as Chinese games booth, cultural lessons related to
-MTL language and culture were conducted.</p>
+the language. It will be held in the 1st and 2nd weeks of term 2. A wide
+range of activities such as Chinese games booth, cultural lessons related
+to MTL language and culture were conducted.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
@@ -63,10 +63,16 @@ MTL language and culture were conducted.</p>
 <br>As part of their Chinese cultural learning journey, Primary 4 and 5 students
 will watch a drama performance. The objective of the learning journey is
 to enhance students’ interest in Chinese Language and culture.</p>
-<div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" src="/images/cultural%20performance%202023.PNG">
-</div>
 </li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CL1_20Jan2025.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CL2_20Jan2025.jpg">
+</div>
+<ul>
 <li>
 <p><strong>Conversational Chinese and Malay Programme</strong> 
 <br>The Conversational Chinese and Malay (CCM) Programme will commence for
@@ -76,15 +82,21 @@ cultures and values. Through the CCM programme, students will acquire basic
 proficiency in either Mandarin or Malay, be exposed to traditional cultures
 and norms of those communities through our fun and engaging cultural activities.
 All P3 and P4 students are encouraged to participate in this programme.</p>
-<div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" src="/images/conversational%20chinese_malay%20programme%202023.PNG">
-</div>
 </li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CL3_20Jan2025.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CL4_20Jan2025.jpg">
+</div>
+<ul>
 <li>
 <p><strong>• The P3 cultural camp (文化营)</strong> 
-<br>The P3 cultural camp was held in term 1. All Primary 3 students participated
-in interesting programmes such as children’s literature appreciation and
-activities related to Chinese culture. Through a series of activities,
+<br>The P3 cultural camp will be held in term 1. All Primary 3 students will
+participate in interesting programmes such as children’s literature appreciation
+and activities related to Chinese culture. Through a series of activities,
 the students experienced and learnt more about the Chinese traditional
 culture.</p>
 </li>
