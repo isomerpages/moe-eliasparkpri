@@ -129,77 +129,8 @@ Join the Scouts today!</p>
 <p>National Events organised by HQ</p>
 </li>
 </ul>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Frank Cooper Sands Awards</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>• Frank Cooper Sands Award 2023 (Gold with Honours Pennant)
-<br>• Frank Cooper Sands Award 2019 (Gold)
-<br>• Frank Cooper Sands Award 2018 (Gold)
-<br>• Frank Cooper Sands Award 2017 (Gold)
-<br>• Frank Cooper Sands Award 2016 (Gold)
-<br>• Frank Cooper Sands Award 2015 (Gold with Pennant)
-<br>• Frank Cooper Sands Award 2014 (Gold)
-<br>• Frank Cooper Sands Award 2013 (Gold)
-<br>• Frank Cooper Sands Award 2012 (Gold)
-<br>• Frank Cooper Sands Award 2011 (Gold)</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Akela Awardees 2023</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>BEI ZHANGRUI RICCO</p>
-</li>
-<li>
-<p>XING JUNKAI, MAXIMILIAN</p>
-</li>
-<li>
-<p>XIE CHENGJUN</p>
-</li>
-<li>
-<p>JAYVAN LAI SEU ZUN</p>
-</li>
-<li>
-<p>SOO HAO ZHE</p>
-</li>
-<li>
-<p>EMILIE YOONG JING WEN</p>
-</li>
-<li>
-<p>LIN ZHENGYE</p>
-</li>
-<li>
-<p>NIKKI SUDHARTA</p>
-</li>
-<li>
-<p>MUHAMMAD NURZAHRAN BIN NORAZMAN</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
+<h4>Awards</h4>
+<p>Please refer to the Achievements tab on the Home page.</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/scouts2.png">
 </div>

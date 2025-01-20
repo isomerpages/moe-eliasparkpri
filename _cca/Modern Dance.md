@@ -36,39 +36,8 @@ variant: tiptap
 <p>Hari Raya School Celebrations (2019)</p>
 </li>
 </ul>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Awards</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>• 2018 - Singapore Youth Festival Arts Presentation 2018 - Certificate
-of Distinction
-<br>• 2016 - Singapore Youth Festival Arts Presentation 2016 - Certificate
-of Accomplishment
-<br>• 2014 - Singapore Youth Festival Arts Presentation 2014 - Certificate
-of Accomplishment
-<br>• 2013 - 3rd International Youth Dance Festival Competition - Gold
-<br>• 2012 - Singapore Youth Festival Arts Presentation 2012 - Silver
-<br>• 2011 - 11th National Chinese Folk Song Singing Competition for Primary
-School - Gold
-<br>• 2010 - Singapore Youth Festival Arts Presentation 2010 - Gold
-<br>• 2010 - 10th National Chinese Folk Song Singing Competition for Primary
-School - Silver
-<br>• 2008 - Singapore Youth Festival Arts Presentation 2008 - Bronze
-<br>• 2006 - Singapore Youth Festival Arts Presentation 2006 - Silver
-<br>• 2003 - Singapore Youth Festival Arts Presentation 2003 - Bronze
-<br>• 2002 - Singapore Youth Festival Arts Presentation 2002 - Silver</p>
-</td>
-</tr>
-</tbody>
-</table>
+<h4>Awards</h4>
+<p>Please refer to the Achievements tab on the Home page.</p>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRN_uQBzs_YtfQbc_kjSzk12m-z2UvHYuUTxQVSrcRej_7pkT0cBqEYdHiEwlnpTMGqN8fV8oJ5N8YJ/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
 </div>
