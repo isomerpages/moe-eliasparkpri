@@ -93,7 +93,7 @@ All P3 and P4 students are encouraged to participate in this programme.</p>
 </div>
 <ul>
 <li>
-<p><strong>• The P3 cultural camp (文化营)</strong> 
+<p><strong>The P3 cultural camp (文化营)</strong> 
 <br>The P3 cultural camp will be held in term 1. All Primary 3 students will
 participate in interesting programmes such as children’s literature appreciation
 and activities related to Chinese culture. Through a series of activities,
