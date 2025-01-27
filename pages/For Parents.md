@@ -183,7 +183,12 @@ the LOA fees to the school.</p>
 <br><strong>Primary 3 &amp; 4 </strong>
 <br>To be updated
 <br><strong>Primary 5 &amp; 6 </strong>
-<br>To be updated</p>
+<br><a href="https://drive.google.com/file/d/1w7cXeZwehUbrFdL026_ZivJFOdVYvzRo/view?usp=drive_link" rel="noopener nofollow" target="_blank">P5 &amp; P6 Briefing slides for Parents 2025</a>
+</p>
+<p><a href="https://drive.google.com/file/d/1fsl9KEVf3133Xl0SEXouZnh11_M_BvG4/view?usp=drive_link" rel="noopener nofollow" target="_blank">P5 Classroom slides 2025</a>
+</p>
+<p><a href="https://drive.google.com/file/d/1f6zOAOaJ7pgKZNbCEsLlNtWeqMVn3rBU/view?usp=drive_link" rel="noopener nofollow" target="_blank">P6 Classroom slides_2025</a>
+</p>
 </td>
 </tr>
 <tr>
