@@ -108,7 +108,8 @@ learnt throughout the lesson. It allows students to take responsible of
 their own learning, thus nurturing them to be self-directed learners.</p>
 <p>In alignment with our department vision and mission, we have put in place
 a variety of programmes to bring this vision and mission to fruition.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Math 2023" src="/images/math_2023.PNG">
+<img style="width: 100%" height="auto" width="100%" alt="Mathematics Programmes" src="/images/Image.jpg">
 </div>
 <p></p>
