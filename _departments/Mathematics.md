@@ -79,19 +79,16 @@ such as a diagram or picture of the problem</p>
 problems by using mathematical notation.&nbsp;</p>
 <h5>Programmes</h5>
 <p>•&nbsp;<strong>&nbsp;Learning Support for Mathematics (LSM) Programme</strong>
-</p>
-<p>LSM programme is conducted by trained teachers that aims to provide support
+<br>LSM programme is conducted by trained teachers that aims to provide support
 for low progress learners, focussing on developing numeracy skills for
 P1 to P4 students.</p>
 <p>•&nbsp;&nbsp;<strong>F.A.S.T Progamme (Primary 1 to 3)</strong>
-</p>
-<p>F.A.S.T (Fluency, Accuracy, Speed in a given Time) is a programme that
+<br>F.A.S.T (Fluency, Accuracy, Speed in a given Time) is a programme that
 aims to improve students’ proficiency in performing calculations involving
 the 4 operations. The mastery in this area would help to reduce their cognitive
 load so as to allow students to focus on problem-solving matters.</p>
 <p>•&nbsp;&nbsp;<strong>Mathematical Olympiad Competitions (Primary 5 and 6)</strong>
-</p>
-<p>Eliasians who possess great aptitude for Mathematics are identified for
+<br>Eliasians who possess great aptitude for Mathematics are identified for
 this programme. Through the training, they will acquire skills and techniques
 required to solve challenging problems and be exposed to the spirit of
 learning through discovery. They will gain a sense of accomplishment through
@@ -99,16 +96,14 @@ participating in Mathematical Olympiad competitions such as the Singapore
 Mathematical Olympiad for Primary Schools (SMOPS) for Primary 6 and National
 Mathematical Olympiad of Singapore (NMOS) for Primary 5.</p>
 <p>•&nbsp;&nbsp;&nbsp;<strong>Fantastic Friday</strong>
-</p>
-<p>Eliasians end the week by recalling the concepts taught in the week. This
+<br>Eliasians end the week by recalling the concepts taught in the week. This
 is done via an online Mathematics learning portal which also acts as an
 additional learning resource for your child. Mathematics teachers will
 dispatch assignments every Friday based on the integrated approach of interleaved
 and blocked practice so as to ensure the students’ proficiency level in
 the concepts do not decay over time.</p>
 <p>•&nbsp;&nbsp;<strong>Mathematics Thinking Log (Primary 1 to 5)</strong>
-</p>
-<p>Thinking log serves as a platform for students to document what they have
+<br>Thinking log serves as a platform for students to document what they have
 learnt throughout the lesson. It allows students to take responsible of
 their own learning, thus nurturing them to be self-directed learners.</p>
 <p></p>
