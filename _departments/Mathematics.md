@@ -49,17 +49,17 @@ MOE’s Mathematics Framework.</p>
 <p>The central focus of MOE’s Mathematics Framework is mathematical problem
 solving. This sets the direction for and provides guidance for the Mathematics
 Department in the teaching and learning, and the assessment of mathematics.</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Goals/Objectives</p>
-<p>• To achieve performance in PSLE by maintaining above National
-<br>Average result and improving the quality and quantity passes.</p>
-<p>• To nurture Eliasians to be creative thinkers, self-directed,
+<p>•&nbsp;&nbsp;Goals/Objectives
+<br>- To achieve performance in PSLE by maintaining above National
+<br>Average result and improving the quality and quantity passes.
+<br>- To nurture Eliasians to be creative thinkers, self-directed,
 <br>independent learners and innovative problem solvers by enriching
 <br>them with Mathematics content and knowledge skills.</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Focus</p>
-<p>• Visible Learning&nbsp;&nbsp;&nbsp;</p>
-<p>• Multi-disciplinary projects for Primary 3 to Primary 6 levels</p>
-<p>• Experiential Learning through activity-based lessons</p>
-<p>• Formative Assessments</p>
+<p>•&nbsp;&nbsp;Focus
+<br>- Visible Learning
+<br>- Multi-disciplinary projects for Primary 3 to Primary 6 levels
+<br>- Experiential Learning through activity-based lessons
+<br>- Formative Assessments</p>
 <p>Every Eliasian should experience these 3 phases of learning:</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/math2.png">
