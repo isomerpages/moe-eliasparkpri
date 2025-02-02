@@ -48,6 +48,10 @@ Lagu Rakyat, Cerita Rakyat, Syair, Sketsa, Rap Bahasa, and Kuiz Bahasa.
 By working together in teams, our students celebrated the joy of learning
 and gained invaluable experiences that enhanced their linguistic and creative
 skills.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sayembara Bahasa 2024" src="/images/Sayembara_Bahasa_2024.png">
+</div>
 </li>
 </ul>
 <ul data-tight="true" class="tight">
