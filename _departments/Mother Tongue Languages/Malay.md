@@ -59,9 +59,6 @@ the mother tongue language. A variety of learning opportunities such as
 cultural lessons related to MTL language and culture will be conducted.</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/mal4.png">
-</div>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>SOAR Programme (P1 and P2)</strong>
@@ -89,6 +86,10 @@ for the Malay Language but also sparked their interest in its cultural
 roots, enriching their overall learning journey.</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="MLLPC" src="/images/MLLPC.png">
+</div>
+<p></p>
 <h4>Useful Links</h4>
 <p><a href="https://www.schoolbag.edu.sg/story/how-parents-can-support-their-children-in-the-learning-of-mother-tongue-languages" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/story/how-parents-can-support-their-children-in-the-learning-of-mother-tongue-languages</a>
 </p>
