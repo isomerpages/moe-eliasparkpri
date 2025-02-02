@@ -3,50 +3,83 @@ title: Malay
 permalink: /departments/Mother-Tongue-Languages/malay/
 description: ""
 third_nav_title: Mother Tongue Languages
+variant: tiptap
 ---
-<!--### Malay-->
-
-##### Vision  
-
-* A generation that appreciates the Malay language and culture.
-
-##### Mission
-
-* To provide platforms for students to get to know and learn about the Malay language and culture.
-
-##### Learning Outcomes
-
-*   To communicate effectively in the Malay Language
-*   To understand and build one’s self-esteem through deep appreciation of the culture, tradition, literature and history
-
-##### Approach/Framework
-
-<img src="/images/mal1.png" style="width:60%">
-
-<img src="/images/mal2.png" style="width:60%">
-
-##### Programme Highlights
-
-*   Hari Raya Celebration&nbsp;Hari Raya Celebration is a joyous occasion celebrated by the whole school to promote understanding and appreciation amongst the students.
-
-<img src="/images/mal3.png" style="width:60%">
-
-
-*   Mother Tongue Language (MTL) Fortnight  
-The intent of the MTL Fortnight is to nurture the joy of learning by creating a conducive environment and providing platforms for our students to use the mother tongue language. A variety of learning opportunities such as cultural lessons related to MTL language and culture will be conducted.
-
-<img src="/images/mal4.png" style="width:60%">
-
-*   Reading Programme  
-The reading programme hopes to inculcate the love of reading for Malay Language books in the different&nbsp;genres. Students are also encouraged to share the books that they have read with their peers through different platforms.
-
-<img src="/images/mal5.png" style="width:60%">
-
-
-#### Useful Links  
-
-[https://www.schoolbag.edu.sg/story/how-parents-can-support-their-children-in-the-learning-of-mother-tongue-languages](https://www.schoolbag.edu.sg/story/how-parents-can-support-their-children-in-the-learning-of-mother-tongue-languages)
-
-  
-
-[https://prpm.dbp.gov.my/](https://prpm.dbp.gov.my/)
+<h5>Vision</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>A generation that appreciates the Malay language and culture.</p>
+</li>
+</ul>
+<h5>Mission</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>To provide platforms for students to get to know and learn about the Malay
+language and culture.</p>
+</li>
+</ul>
+<h5>Learning Outcomes</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>To communicate effectively in the Malay Language</p>
+</li>
+<li>
+<p>To understand and build one’s self-esteem through deep appreciation of
+the culture, tradition, literature and history</p>
+</li>
+</ul>
+<h5>Approach/Framework</h5>
+<div class="isomer-image-wrapper">
+<img style="width:60%" height="auto" width="100%" src="/images/mal1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:60%" height="auto" width="100%" src="/images/mal2.png">
+</div>
+<h5>Programmes</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Sayembara Bahasa 2024</strong>
+<br>Our students participated in a vibrant and enriching competition organised
+collaboratively by Casuarina Primary School, Pasir Ris East MAEC, Pasir
+Ris Central MAEC, and Pasir Ris Elias MAEC. This event provided an excellent
+platform for our students to showcase their talents and deepen their interest
+in the Malay Language through a variety of engaging categories, including
+Lagu Rakyat, Cerita Rakyat, Syair, Sketsa, Rap Bahasa, and Kuiz Bahasa.
+By working together in teams, our students celebrated the joy of learning
+and gained invaluable experiences that enhanced their linguistic and creative
+skills.</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Mother Tongue Language (MTL) Fortnight 2024</strong>
+<br>The intent of the MTL Fortnight is to nurture the joy of learning by creating
+a conducive environment and providing platforms for our students to use
+the mother tongue language. A variety of learning opportunities such as
+cultural lessons related to MTL language and culture will be conducted.</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width:60%" height="auto" width="100%" src="/images/mal4.png">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>SOAR Programme (P1 and P2)</strong>
+<br>At our school, we recognise the immense benefits of reading, including
+fostering stronger intrinsic motivation, enhancing socio-emotional skills,
+and achieving better academic outcomes and global competence. In line with
+the Mother Tongue Language Branch (MTLB)'s vision, we strive to ignite
+our students' passion for reading in their Mother Tongue Languages. Through
+initiatives such as <em>Spark Interest, Open Minds, Appreciate Cultural Roots,</em> and <em>Rise as Bilingual Readers,</em> we
+provide structured support and resources to complement existing school-wide
+reading programmes. By nurturing positive reading habits and dispositions
+from a young age, we aim to inspire our students to embrace the joy of
+reading while appreciating their cultural heritage and developing as confident
+bilingual individuals.</p>
+</li>
+</ul>
+<h4>Useful Links</h4>
+<p><a href="https://www.schoolbag.edu.sg/story/how-parents-can-support-their-children-in-the-learning-of-mother-tongue-languages" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/story/how-parents-can-support-their-children-in-the-learning-of-mother-tongue-languages</a>
+</p>
+<p><a href="https://prpm.dbp.gov.my/" rel="noopener noreferrer nofollow" target="_blank">https://prpm.dbp.gov.my/</a>
+</p>
