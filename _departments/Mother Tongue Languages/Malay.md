@@ -77,6 +77,17 @@ from a young age, we aim to inspire our students to embrace the joy of
 reading while appreciating their cultural heritage and developing as confident
 bilingual individuals.</p>
 </li>
+<li>
+<p><strong>MLLPC Cultural Performance Exposure Fund 2024</strong>
+<br>The Cultural Performance Exposure Fund (CPEF) is a programme by the Malay
+Language Learning and Promotion Committee designed to complement the teaching
+and learning of the Malay Language by providing enriching experiences beyond
+the classroom. Through this initiative, our Primary 4 students had the
+opportunity to enjoy and immerse themselves in a rich and engaging Malay
+cultural performance. This experience not only deepened their appreciation
+for the Malay Language but also sparked their interest in its cultural
+roots, enriching their overall learning journey.</p>
+</li>
 </ul>
 <h4>Useful Links</h4>
 <p><a href="https://www.schoolbag.edu.sg/story/how-parents-can-support-their-children-in-the-learning-of-mother-tongue-languages" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/story/how-parents-can-support-their-children-in-the-learning-of-mother-tongue-languages</a>
