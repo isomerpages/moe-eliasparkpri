@@ -5,6 +5,8 @@ description: ""
 variant: tiptap
 ---
 <hr>
+<p><strong>MK@Elias Park Open  House 2025 : </strong><a href="" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
 <hr>
 <p><strong>School Bus Services and Fare :</strong>  <a href="/information/school-bus-service/sbof/" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
 </p>
