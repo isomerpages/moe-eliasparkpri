@@ -64,6 +64,6 @@ learn the art of teamwork and cooperation.</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQHG4yjS-SabDxJSXaVEklkMNrYwMbTqVvyYsY1qv8JuYYMw92FTXtx065IAR8KpFX_v0ghzo0SrG3p/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe height="299" width="580" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSJZLvRdAi6MQGvZF9iQJrLdbQ1A_8HJ4G-_aVS1Aq9prMvWgKL28vPiYL-FwtyAw/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
