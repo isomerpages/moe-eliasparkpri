@@ -1,16 +1,10 @@
 ---
-title: MK@Elias Park Open House 2025
-permalink: /mk-elias-park-open-house-2025/
+title: 2025 Registration Exercise
+permalink: /2025-registration-exercise/
 variant: tiptap
 description: ""
 ---
-<h4><strong><u>MK@Elias Park Open House 2025</u></strong></h4>
-<p>We welcome parents to join in our Open House at MK@Elias Park to be held
-on Saturday, 15 February 2025, from 8:30am to 12:30pm.</p>
-<p>You may <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/mkopenhouse" rel="noopener nofollow" target="_blank">click here</a> to
-register for the Open House.</p>
-<p><strong><u>MK Registration Exercise (for 2026's Intake)</u></strong>
-</p>
+<h4><strong>2025 Registration Exercise (for 2026's Intake)</strong></h4>
 <p>The MK Registration Period is from&nbsp;<strong>9am on Friday, 7 February 2025</strong>&nbsp;to&nbsp;<strong>4pm on Monday, 17 February 2025</strong>.
 It is opened to&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Citizen (SC) and Permanent
