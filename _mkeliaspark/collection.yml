@@ -2,6 +2,7 @@ collections:
   mkeliaspark:
     output: true
     order:
+      - 2025 Registration Exercise.md
       - Announcement.md
       - MK Curriculum.md
       - MOE Kindergarten Fee.md
