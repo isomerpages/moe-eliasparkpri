@@ -31,11 +31,11 @@ sections:
         - title: Press Release Feb 2025
           date: 10 February 2025
           announcement: The Straits Times Article
-          link_text: ""
-          link_url: ""
+          link_text: find out more...
+          link_url: /mkeliaspark/media-release/
         - title: Vacancy of Stall
           date: 10 February 2025
           announcement: Availability of Food Stall for Application
-          link_text: ""
-          link_url: ""
+          link_text: find out more...
+          link_url: /canteenad/
 ---
