@@ -24,4 +24,18 @@ sections:
       description: Celebrating Our 30th Anniversary
       button: Click Here
       url: https://forms.gle/BfYdgM9i7RrX7mCk8
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Press Release Feb 2025
+          date: 10 February 2025
+          announcement: The Straits Times Article
+          link_text: ""
+          link_url: ""
+        - title: Vacancy of Stall
+          date: 10 February 2025
+          announcement: Availability of Food Stall for Application
+          link_text: ""
+          link_url: ""
 ---
