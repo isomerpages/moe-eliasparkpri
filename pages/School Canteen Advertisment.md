@@ -25,13 +25,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Rice Stall</p>
+<p>Chinese Mixed Rice / Chicken Rice Stall</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>31 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To include chicken rice in the menu.</p>
+<p>To provide mixed rice or chicken rice in the menu.</p>
 </td>
 </tr>
 </tbody>
