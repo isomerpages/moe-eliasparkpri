@@ -5,9 +5,9 @@ description: ""
 variant: tiptap
 ---
 <hr>
-<p><strong>Vacancy of Canteen Stall for Application :</strong>  <a href="/canteenad/" rel="noopener nofollow" target="_blank">Click Here</a>
-</p>
 <p><strong>The Straits Times Article 10 Feb 2025 : </strong><a href="/mkeliaspark/media-release/" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
+<p><strong>Vacancy of Canteen Stall for Application :</strong>  <a href="/canteenad/" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 <p><strong>MK@Elias Park Open House 2025 : </strong><a href="/mk-elias-park-open-house-2025/" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
