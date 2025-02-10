@@ -179,7 +179,7 @@ the LOA fees to the school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Primary 2 </strong>
-<br>To be updated
+<br><a href="https://drive.google.com/file/d/1qeIAAhzbntb5Y21C0O_LMsHYmT3zkWS8/view?usp=drive_link" rel="noopener nofollow" target="_blank">P2 Briefing Slides for Parents</a> 
 <br><strong>Primary 3 &amp; 4 </strong>
 <br>To be updated
 <br><strong>Primary 5 &amp; 6 </strong>
