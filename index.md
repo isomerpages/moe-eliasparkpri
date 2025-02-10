@@ -25,7 +25,6 @@ sections:
       button: Click Here
       url: https://forms.gle/BfYdgM9i7RrX7mCk8
   - announcements:
-      title: Announcements
       id: announcements
       announcement_items:
         - title: Press Release Feb 2025
@@ -38,4 +37,5 @@ sections:
           announcement: Availability of Food Stall for Application
           link_text: find out more...
           link_url: /canteenad/
+      subtitle: Announcements
 ---
