@@ -28,7 +28,7 @@ variant: tiptap
 <p>Chinese Rice Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 Dec 2024</p>
+<p>31 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To include chicken rice in the menu.</p>
@@ -62,7 +62,7 @@ etc</p>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>Submit the completed application form and documents via email to <a href="epps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">epps@moe.edu.sg</a> OR
-to the School's General Office by <strong><u>Friday 27 December 2024 (5pm)</u></strong>
+to the School's General Office by <strong><u>Wednesday 31 December 2025 (5pm)</u></strong>
 </p>
 </li>
 </ol>
