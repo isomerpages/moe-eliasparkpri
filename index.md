@@ -37,5 +37,5 @@ sections:
           announcement: Availability of Food Stall for Application
           link_text: find out more...
           link_url: /canteenad/
-      subtitle: Announcements
+      subtitle: New Announcements
 ---
