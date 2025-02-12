@@ -23,6 +23,6 @@ Side Gate 3.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK_EP_Open_House_Poster.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK_EP_Open_House_Poster_To_Parents.jpg">
 </div>
 <p></p>
