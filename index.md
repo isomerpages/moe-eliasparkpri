@@ -27,6 +27,11 @@ sections:
   - announcements:
       id: announcements
       announcement_items:
+        - title: MK Open House
+          date: 12 February 2025
+          announcement: MK@Elias Park Open House
+          link_text: find out more...
+          link_url: /mk-elias-park-open-house-2025/
         - title: Press Release Feb 2025
           date: 10 February 2025
           announcement: The Straits Times Article
@@ -37,5 +42,5 @@ sections:
           announcement: Availability of Food Stall for Application
           link_text: find out more...
           link_url: /canteenad/
-      subtitle: Announcements
+      subtitle: New Announcements
 ---
