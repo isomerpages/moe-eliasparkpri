@@ -136,7 +136,7 @@ and public libraries listed on <a href="https://go.gov.sg/sgdcommhub" rel="noope
 <p>Gifted Education Programme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Gifted_Education_Programme_Identification_Exercise_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Gifted Education Programme Identification Exercise 2024</a>
+<p><a href="https://drive.google.com/file/d/1biRa75qq0C0El05_J9u5a9V9qw_DzZ8J/view?usp=drive_link" rel="noopener nofollow" target="_blank">Gifted Education Programme Identification Exercise 2025</a>
 </p>
 </td>
 </tr>
