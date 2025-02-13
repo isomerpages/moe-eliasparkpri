@@ -136,7 +136,7 @@ and public libraries listed on <a href="https://go.gov.sg/sgdcommhub" rel="noope
 <p>Gifted Education Programme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Gifted_Education_Programme_Identification_Exercise_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Gifted Education Programme Identification Exercise 2024</a>
+<p><a href="https://drive.google.com/file/d/1biRa75qq0C0El05_J9u5a9V9qw_DzZ8J/view?usp=drive_link" rel="noopener nofollow" target="_blank">Gifted Education Programme Identification Exercise 2025</a>
 </p>
 </td>
 </tr>
@@ -167,7 +167,7 @@ download the newsletters.</p>
 may reserve places for their children in their current school under the
 Leave of Absence (LOA) Scheme. Upon their return to Singapore the children
 can be readmitted directly to their schools.
-<br>Applicants are to submit their application via <a href="https://form.gov.sg/#!/60bd8dad79dded0011f07645" rel="noopener noreferrer nofollow" target="_blank">LOA Formsg link</a> and
+<br>Applicants are to submit their application via <a href="https://form.gov.sg/#!/60bd8dad79dded0011f07645" rel="noopener noreferrer nofollow" target="_blank">this link</a> and
 the LOA fees to the school.</p>
 </td>
 </tr>
@@ -182,7 +182,11 @@ the LOA fees to the school.</p>
 <br><a href="https://drive.google.com/file/d/1qeIAAhzbntb5Y21C0O_LMsHYmT3zkWS8/view?usp=drive_link" rel="noopener nofollow" target="_blank">P2 Briefing slides for Parents 2025</a> 
 <br><a href="https://drive.google.com/file/d/1zBuU-I5W9K8VIKmptUu_WHCbqUOvSqTg/view?usp=drive_link" rel="noopener nofollow" target="_blank">P2 Classroom slides 2025</a>
 <br><strong>Primary 3 &amp; 4 </strong>
-<br>To be updated
+<br><a href="https://drive.google.com/file/d/12Z_ktct-m4ARA0mmgRxeGaZIsSHm4NCq/view?usp=drive_link" rel="noopener nofollow" target="_blank">P3 &amp; P4 Briefing slides for Parents 2025</a>
+</p>
+<p><a href="https://drive.google.com/file/d/1__Vc3Si_4Cin--vbkY0hKxer6Eyhj_X3/view?usp=drive_link" rel="noopener nofollow" target="_blank">P3 Classroom slides 2025</a>
+</p>
+<p><a href="https://drive.google.com/file/d/1QZyGNNnnlzuCZts5s2IjUex0yJywwXCV/view?usp=drive_link" rel="noopener nofollow" target="_blank">P4 Classroom slides 2025</a>
 <br><strong>Primary 5 &amp; 6 </strong>
 <br><a href="https://drive.google.com/file/d/1w7cXeZwehUbrFdL026_ZivJFOdVYvzRo/view?usp=drive_link" rel="noopener nofollow" target="_blank">P5 &amp; P6 Briefing slides for Parents 2025</a>
 <br><a href="https://drive.google.com/file/d/1fsl9KEVf3133Xl0SEXouZnh11_M_BvG4/view?usp=drive_link" rel="noopener nofollow" target="_blank">P5 Classroom slides 2025</a>
