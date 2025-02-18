@@ -17,6 +17,10 @@ vacancies. We will contact you directly, should a vacancy arise for your
 child.</p>
 <p>&nbsp;MK@Elias Park Waitlist Form : <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2026eliaspark-mkwaitlist</a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Waitlist_QR_Feb.png">
+</div>
 <p>Full-day Kindergarten Care (Kcare) services are also provided by MK@Elias
 Park from 7am to 7pm (Mondays to Fridays), including school holidays.</p>
 <p></p>
