@@ -15,7 +15,7 @@ the FormSG or QR code for MK@Elias Park waitlist form below:</p>
 <p>The waitlist will be considered on a case-by-case basis, subject to available
 vacancies. We will contact you directly, should a vacancy arise for your
 child.</p>
-<p>&nbsp;MK@Elias Park Waitlist Form : <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2026eliaspark-mkwaitlist</a>
+<p>&nbsp;MK@Elias Park Waitlist Form : <a href="https://go.gov.sg/2026eliaspark-mkwaitlist" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2026eliaspark-mkwaitlist</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
