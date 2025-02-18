@@ -19,7 +19,7 @@ child.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Waitlist_QR_Feb.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Waitlist_QR_Feb.png">
 </div>
 <p>Full-day Kindergarten Care (Kcare) services are also provided by MK@Elias
 Park from 7am to 7pm (Mondays to Fridays), including school holidays.</p>
