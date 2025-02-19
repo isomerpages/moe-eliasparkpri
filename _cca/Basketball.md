@@ -51,3 +51,7 @@ them grow both as athletes and individuals and at the same time, enhancing
 their basketball abilities and physical fitness. Students will also gain
 a deeper understanding of basketball’s rules, strategies, and game dynamics,
 applying them in practice and play.</p>
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSG9nepQGfesGK7Drze2teLS1GpO7VE86D9aUnAsFgOLXhlMnXZUbG1fIRw_9v7OuU6QptJWz5i351p/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p></p>
