@@ -55,6 +55,25 @@ for their peers.</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/cce12.png">
 </div>
+<h5>Support at Home</h5>
+<p>Parents play a key role in their children’s growth. Students benefit the
+most when the home and school environments are attuned to each other. To
+help your child stay safe and have positive experiences online, you can:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Activate parental controls on your home devices.</p>
+</li>
+<li>
+<p>Model good digital habits for your child.</p>
+</li>
+<li>
+<p>Set ground rules for internet use.</p>
+</li>
+<li>
+<p>Navigate the internet together to understand their usage.</p>
+</li>
+</ul>
+<p></p>
 <h4>Useful Links</h4>
 <p>Here are some useful links for parents:
 <br><a href="https://www.nlb.gov.sg/main/site/sure-elevated" rel="noopener noreferrer nofollow" target="_blank">https://www.nlb.gov.sg/main/site/sure-elevated</a>
