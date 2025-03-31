@@ -359,7 +359,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_azilla_nazli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nur Azilla Binte Nazli</u></a>
-<br>Miss Ooi Yiwei
+<br>Miss Sivakumar Shrinidhi
 <br><a href="mailto:lai_yoke_san@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lai Yoke San</a>
 </p>
 </td>
@@ -390,7 +390,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jian_jie_dion@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Dion Lee</u></a>
-<br>Miss Sivakumar Shrinidhi
+<br>Mdm Soba
 <br>Mdm Logeswaran Narmatha</p>
 </td>
 </tr>
