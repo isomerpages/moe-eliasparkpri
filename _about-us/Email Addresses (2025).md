@@ -420,7 +420,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:michelle_lim_qian_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Michelle Lim</u></a>
-<br>Miss Theresah Teng</p>
+</p>
 </td>
 </tr>
 <tr>
