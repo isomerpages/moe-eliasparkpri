@@ -390,7 +390,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jian_jie_dion@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Dion Lee</u></a>
-<br>Mdm Nur Soba
+<br><a href="mailto:nur_sobah_mahmood_bamadhaj@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nur Sobah</a>
 <br>Mdm Logeswaran Narmatha</p>
 </td>
 </tr>
