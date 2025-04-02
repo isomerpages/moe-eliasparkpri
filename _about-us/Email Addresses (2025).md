@@ -359,7 +359,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_azilla_nazli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nur Azilla Binte Nazli</u></a>
-<br>Miss Ooi Yiwei
+<br>Miss Sivakumar Shrinidhi
 <br><a href="mailto:lai_yoke_san@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lai Yoke San</a>
 </p>
 </td>
@@ -390,8 +390,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jian_jie_dion@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Dion Lee</u></a>
-<br>Miss Sivakumar Shrinidhi
-<br>Mdm Logeswaran Narmatha</p>
+<br><a href="mailto:nur_sobah_mahmood_bamadhaj@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nur Sobah</a>
+<br><a href="mailto:LOGESWARAN_NARMATHA@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Logeswaran Narmatha</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -420,7 +421,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:michelle_lim_qian_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Michelle Lim</u></a>
-<br>Miss Theresah Teng</p>
+<br><a href="mailto:chai_chew_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chai Chew Yee</a>
+</p>
 </td>
 </tr>
 <tr>
