@@ -34,7 +34,7 @@ variant: tiptap
 <br>• <a href="https://staging.d3975mj8dcgb9n.amplifyapp.com/departments/PAL/outdoor-explorer-1/" rel="noopener noreferrer nofollow" target="_blank">Outdoor Explorer 1</a>
 <br>
 <br>Artist
-<br>• <a href="https://staging.d3975mj8dcgb9n.amplifyapp.com/departments/PAL/master-of-the-arts/" rel="noopener noreferrer nofollow" target="_blank">Master of Arts</a>
+<br>• <a href="https://staging.d3975mj8dcgb9n.amplifyapp.com/departments/PAL/master-of-the-arts/" rel="noopener noreferrer nofollow" target="_blank">Master of Arts 1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -46,7 +46,7 @@ variant: tiptap
 <br>
 <br>Artist
 <br>• <a href="https://staging.d3975mj8dcgb9n.amplifyapp.com/departments/PAL/creative-drama/" rel="noopener noreferrer nofollow" target="_blank">Creative Drama</a>
-<br>• Master of Arts
+<br>• Master of Arts 2
 <br>
 <br>
 </p>
