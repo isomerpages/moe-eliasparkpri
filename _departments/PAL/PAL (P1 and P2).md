@@ -28,7 +28,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Sportsman
-<br>• Sports and Games in the ELIAS Way!
+<br>• <a href="https://cms.isomer.gov.sg/sites/moe-eliasparkpri/folders/departments/subfolders/PAL/editPage/Let's%20Find%20Nemo!.md" rel="noopener nofollow" target="_blank">Sports and Games in the ELIAS Way!</a>
 <br>
 <br>Citizen &amp; Leader
 <br>• <a href="https://staging.d3975mj8dcgb9n.amplifyapp.com/departments/PAL/outdoor-explorer-1/" rel="noopener noreferrer nofollow" target="_blank">Outdoor Explorer 1</a>
