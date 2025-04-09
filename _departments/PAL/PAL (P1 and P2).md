@@ -46,6 +46,7 @@ variant: tiptap
 <br>
 <br>Artist
 <br>• <a href="https://staging.d3975mj8dcgb9n.amplifyapp.com/departments/PAL/creative-drama/" rel="noopener noreferrer nofollow" target="_blank">Creative Drama</a>
+<br>• Master of Arts
 <br>
 <br>
 </p>
