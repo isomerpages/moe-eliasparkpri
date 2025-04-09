@@ -24,7 +24,7 @@ variant: tiptap
 <p>Name of PAL :</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Let's Find Nemo!</p>
+<p>Sports and Games in the ELIAS Way!</p>
 </td>
 </tr>
 <tr>
@@ -40,8 +40,7 @@ variant: tiptap
 <p>Objective(s):</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Learn about fundamental movement skills through the characters and scenes
-in the movie ‘Finding Nemo’.
+<p>• Learn about fundamental movement skills.
 <br>• Learn about simple invasion games.
 <br>• Create simple sports games with friends.</p>
 </td>
