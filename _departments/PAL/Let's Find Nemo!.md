@@ -3,14 +3,57 @@ title: Let's Find Nemo!
 permalink: /departments/PAL/lets-find-nemo/
 description: ""
 third_nav_title: PAL
+variant: tiptap
 ---
-<!--### Let's Find Nemo!-->
-
-|  |  |
-|---|---|
-| Name of PAL : | Let's Find Nemo! |
-| Level: | Primary 1 |
-| Objective(s): | • Learn about fundamental movement skills through the characters and scenes in the movie ‘Finding Nemo’.<br>• Learn about simple invasion games.<br>• Create simple sports games with friends.  |
-|  |  |
-
-<p align="center"><iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT8PXlZybGkQIVVPMALO-2e2k4OKA-kCVvUjtMe5mhhLV0YFSvJ7YesKeJJ4QrH9Ouk-rkcI3tOch03/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name of PAL :</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Let's Find Nemo!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Objective(s):</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• Learn about fundamental movement skills through the characters and scenes
+in the movie ‘Finding Nemo’.
+<br>• Learn about simple invasion games.
+<br>• Create simple sports games with friends.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
