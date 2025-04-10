@@ -3,10 +3,63 @@ title: PAL (P1 and P2)
 permalink: /departments/PAL/pal-p1-and-p2/
 description: ""
 third_nav_title: PAL
+variant: tiptap
 ---
-<!--### PAL (P1 &amp; P2)-->
-
-| Primary 1<br><br> | Primary 2<br><br> |
-|---|---|
-| Sportsman<br>• [Let's Find Nemo!](https://staging.d3975mj8dcgb9n.amplifyapp.com/departments/PAL/lets-find-nemo/)<br><br>Citizen &amp; Leader<br>• [Outdoor Explorer 1](https://staging.d3975mj8dcgb9n.amplifyapp.com/departments/PAL/outdoor-explorer-1/)<br><br>Artist<br>• [Creative Cultural Dance](https://staging.d3975mj8dcgb9n.amplifyapp.com/departments/PAL/creative-cultural-dance/)<br>• [Master of the Arts](https://staging.d3975mj8dcgb9n.amplifyapp.com/departments/PAL/master-of-the-arts/) | Sportsman  <br>• [We Are Olympians!](https://staging.d3975mj8dcgb9n.amplifyapp.com/departments/PAL/we-are-olympians/)<br><br>Citizen &amp; Leader  <br>• [Outdoor Explorer 2](https://staging.d3975mj8dcgb9n.amplifyapp.com/departments/PAL/outdoor-explorer-2/) <br><br>Artist  <br>• [Creative Drama](https://staging.d3975mj8dcgb9n.amplifyapp.com/departments/PAL/creative-drama/)<br><br>
-|  |  |
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Primary 1
+<br>
+<br>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Primary 2
+<br>
+<br>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sportsman
+<br>• <a href="https://cms.isomer.gov.sg/sites/moe-eliasparkpri/folders/departments/subfolders/PAL/editPage/Let's%20Find%20Nemo!.md" rel="noopener nofollow" target="_blank">Sports and Games in the ELIAS Way!</a>
+<br>
+<br>Citizen &amp; Leader
+<br>• <a href="https://staging.d3975mj8dcgb9n.amplifyapp.com/departments/PAL/outdoor-explorer-1/" rel="noopener noreferrer nofollow" target="_blank">Outdoor Explorer 1</a>
+<br>
+<br>Artist
+<br>• <a href="https://staging.d3975mj8dcgb9n.amplifyapp.com/departments/PAL/master-of-the-arts/" rel="noopener noreferrer nofollow" target="_blank">Master of Arts 1</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sportsman
+<br>• <a href="https://staging.d3975mj8dcgb9n.amplifyapp.com/departments/PAL/we-are-olympians/" rel="noopener noreferrer nofollow" target="_blank">We Are Olympians!</a>
+<br>
+<br>Citizen &amp; Leader
+<br>• <a href="https://staging.d3975mj8dcgb9n.amplifyapp.com/departments/PAL/outdoor-explorer-2/" rel="noopener noreferrer nofollow" target="_blank">Outdoor Explorer 2</a> 
+<br>
+<br>Artist
+<br>• <a href="https://staging.d3975mj8dcgb9n.amplifyapp.com/departments/PAL/creative-drama/" rel="noopener noreferrer nofollow" target="_blank">Creative Drama</a>
+<br>• Master of Arts 2
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

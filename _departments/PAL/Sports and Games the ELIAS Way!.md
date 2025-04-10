@@ -1,6 +1,6 @@
 ---
-title: Outdoor Explorer 1
-permalink: /departments/PAL/outdoor-explorer-1/
+title: Sports and Games the ELIAS Way!
+permalink: /departments/pal/lets-find-nemo/
 description: ""
 third_nav_title: PAL
 variant: tiptap
@@ -21,10 +21,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Name of PAL:</p>
+<p>Name of PAL :</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outdoor Explorer 1</p>
+<p>Sports and Games in the ELIAS Way!</p>
 </td>
 </tr>
 <tr>
@@ -37,16 +37,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Objective(s):
-<br>
-</p>
+<p>Objective(s):</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Learn to participate actively in group activities.
-<br>• Understand the appropriate behaviours and safety measures to take note
-of in an outdoor environment.
-<br>• Grow and take care of their own plant.
-<br>• Explore and understand the neighbourhood around the school.</p>
+<p>• Learn about fundamental movement skills.
+<br>• Learn about simple invasion games.
+<br>• Create simple sports games with friends.</p>
 </td>
 </tr>
 <tr>
