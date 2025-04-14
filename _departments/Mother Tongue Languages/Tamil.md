@@ -123,15 +123,14 @@ was used, how a villupattu is performed and how it is different from traditional
 storytelling methods. Thereafter, the students worked in groups to perform
 a villupaatu to their classmates confidently. This workshop helped the
 students improve their spoken, listening and reading skills.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TL Cultural Activities_(1)" src="/images/TL_Cultural_Activities__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TL Cultural Activities_(2)" src="/images/TL_Cultural_Activities__2_.jpg">
+</div>
 </li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/tam19jan_3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/tam19jan_4.jpg">
-</div>
-<ul data-tight="true" class="tight">
 <li>
 <p>Deepavali
 <br>Deepavali is celebrated each year to promote the understanding of Indian
