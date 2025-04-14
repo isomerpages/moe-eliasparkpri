@@ -8,7 +8,8 @@ variant: tiptap
 <h5>Information regarding Assessment and Subject-Based Banding:</h5>
 <p>Please refer to the school planner</p>
 <h5>School Examination Policy</h5>
-<p>To be updated</p>
+<p><a href="/files/2025_School_Weighted_Assessment_and_Examination_Policy__10_April_.pdf" rel="noopener nofollow" target="_blank">2025 School Weighted Assessment and Examination Policy (10 April)</a>
+</p>
 <h4>Schedule &amp; Scope of Topics</h4>
 <p><a href="/files/2024_Exam_Schedule.pdf" rel="noopener nofollow" target="_blank">2024 Examination Schedule</a>
 <br><a href="/files/2024_Exam_Scope.pdf" rel="noopener nofollow" target="_blank">2024 Examination Scope</a>
