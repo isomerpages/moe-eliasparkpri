@@ -104,6 +104,14 @@ Tongue. The students are identified by their respective schools based on
 their performance in basic oracy and reading skills in the Tamil Language
 at the end of Primary 2 and Primary 3 respectively. The number of students
 in this programme is small. Lessons are conducted during curriculum time.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TL MTL 2025_(1)" src="/images/TL_MTL_2025__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TL MTL 2025_(2)" src="/images/TL_MTL_2025__2_.jpg">
+</div>
 </li>
 <li>
 <p>Cultural Activities
