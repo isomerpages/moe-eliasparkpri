@@ -7,8 +7,8 @@ variant: tiptap
 <h3>Modern Dance</h3>
 <h4>Teachers-in-charge</h4>
 <p><a href="mailto:siti_nur_aisyah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Nur Aisyah</a>
-<br>Ms Siti Aisyah Binte Yacob
-<br>Mrs Dawn Lim</p>
+<br>Mrs Dawn Lim
+<br>Ms Tan Koon Bin</p>
 <h3>Schedule</h3>
 <ul data-tight="true" class="tight">
 <li>
