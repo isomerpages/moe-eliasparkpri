@@ -245,21 +245,23 @@ find out more about our school's Parents Support Group (PSG).</p>
 <p>Prelims &amp; PSLE Matters</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For PSLE matters such as the 2024 PSLE Examination timetable, paper formats,
-approved calculator/dictionary lists, please click <a href="https://www.seab.gov.sg/home/examinations/psle" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+<p>For PSLE matters such as the 2025 PSLE Examination timetable, paper formats,
+approved calculator/dictionary lists, please click <a href="https://www.seab.gov.sg/psle/" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>
 <br>For the new PSLE Scoring, please click <a href="https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>
-<br>2024 PSLE Examination Timetable:
-<br><a href="/files/2024_PSLE_Written_Exam_Timetable.pdf" rel="noopener nofollow" target="_blank">2024 PSLE Written Exam Timetable</a>
-<br>2024 Primary 6 Prelim schedule:
-<br><a href="/files/2024_P6_Prelim_Schedule_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Primary 6 Prelim Examination_Schedule</a>
-<br>2024 Primary 6 Prelim exam scope:
-<br><a href="/files/2024_P6_Prelim_Exam_Scope_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Primary 6 Prelim Examination_Scope</a>
+<br>2025 PSLE Examination Timetable:
+<br>To be updated
 <br>
-<br>2024 PSLE Results Release:
-<br><a href="/files/2024_PSLE_Results_Release.pdf" rel="noopener nofollow" target="_blank">2024 PSLE Results Release</a>
 </p>
+<p>2025 Primary 6 Prelim schedule:
+<br>To be updated
+<br>
+<br>2025 Primary 6 Prelim exam scope:
+<br>To be updated
+<br>
+<br>2025 PSLE Results Release:
+<br>To be updated</p>
 </td>
 </tr>
 <tr>
