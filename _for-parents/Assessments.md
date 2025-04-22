@@ -11,9 +11,7 @@ variant: tiptap
 <p><a href="/files/2025_School_Weighted_Assessment_and_Examination_Policy__10_April_.pdf" rel="noopener nofollow" target="_blank">2025 School Weighted Assessment and Examination Policy (10 April)</a>
 </p>
 <h4>Schedule &amp; Scope of Topics</h4>
-<p><a href="/files/2024_Exam_Schedule.pdf" rel="noopener nofollow" target="_blank">2024 Examination Schedule</a>
-<br><a href="/files/2024_Exam_Scope.pdf" rel="noopener nofollow" target="_blank">2024 Examination Scope</a>
-</p>
+<p>To be updated</p>
 <h4>Paper Formats</h4>
 <h5>English</h5>
 <p><a href="/files/P3___P6_English_Language_Assessment_Format.pdf" rel="noopener nofollow" target="_blank">P3 - P6 English Language Assessment Format</a>
