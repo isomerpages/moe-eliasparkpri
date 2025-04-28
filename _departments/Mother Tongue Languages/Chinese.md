@@ -110,3 +110,11 @@ culture.</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="P3 Cultural Camp 2025_1" src="/images/P3_Cultural_Camp_2025_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="P3 Cultural Camp 2025_2" src="/images/P3_Cultural_Camp_2025_2.jpg">
+</div>
+<p></p>
+<p></p>
