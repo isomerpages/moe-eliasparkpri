@@ -59,7 +59,11 @@ MTL language and culture were conducted.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL2_2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="MTL2025_1" src="/images/MTL2025_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MTL2025_2" src="/images/MTL2025_2.jpg">
 </div>
 <ul>
 <li>
@@ -105,7 +109,4 @@ the students experienced and learnt more about the Chinese traditional
 culture.</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL3_2024.png">
-</div>
 <p></p>
