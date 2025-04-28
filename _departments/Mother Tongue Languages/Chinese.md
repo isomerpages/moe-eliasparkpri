@@ -42,7 +42,11 @@ values behind the customs and traditions.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CL1_2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="CNY2025_1" src="/images/CNY2025_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CNY2025_2" src="/images/CNY2025_2.jpg">
 </div>
 <ul>
 <li>
