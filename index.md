@@ -37,10 +37,5 @@ sections:
           announcement: The Straits Times Article
           link_text: find out more...
           link_url: /mkeliaspark/media-release/
-        - title: Vacancy of Stall
-          date: 10 February 2025
-          announcement: Availability of Food Stall for Application
-          link_text: find out more...
-          link_url: /canteenad/
       subtitle: New Announcements
 ---
