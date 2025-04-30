@@ -35,27 +35,35 @@ culture.&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Chinese New Year Celebration <strong>（农历新年庆祝会）</strong> 
-<br>Chinese New Year will be celebrated on 28th January this year to promote
-the understanding of Chinese traditions and customs. With a better understanding
+<br>Chinese New Year was celebrated on 28th January this year to promote the
+understanding of Chinese traditions and customs. With a better understanding
 of this festival, students are more aware of the Chinese culture and the
 values behind the customs and traditions.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CL1_2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="CNY2025_1" src="/images/CNY2025_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CNY2025_2" src="/images/CNY2025_2.jpg">
 </div>
 <ul>
 <li>
 <p>Mother Tongue Language (MTL) Fortnight <strong>（母语双周）</strong> 
 <br>The objective of MTL fortnight is to nurture the joy of learning by creating
 a conducive environment and to provide platforms for our students to use
-the language. It will be held in the 1st and 2nd weeks of term 2. A wide
-range of activities such as Chinese games booth, cultural lessons related
-to MTL language and culture were conducted.</p>
+the language. It was held in the 1st and 2nd weeks of term 2. A wide range
+of activities such as Chinese games booth, cultural lessons related to
+MTL language and culture were conducted.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL2_2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="MTL2025_1" src="/images/MTL2025_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MTL2025_2" src="/images/MTL2025_2.jpg">
 </div>
 <ul>
 <li>
@@ -94,14 +102,19 @@ All P3 and P4 students are encouraged to participate in this programme.</p>
 <ul>
 <li>
 <p><strong>The P3 cultural camp (文化营)</strong> 
-<br>The P3 cultural camp will be held in term 1. All Primary 3 students will
-participate in interesting programmes such as children’s literature appreciation
-and activities related to Chinese culture. Through a series of activities,
-the students will experience and learn more about the Chinese traditional
+<br>The P3 cultural camp was held in term 1. All Primary 3 students participated
+in interesting programmes such as children’s literature appreciation and
+activities related to Chinese culture. Through a series of activities,
+the students experienced and learnt more about the Chinese traditional
 culture.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL3_2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="P3 Cultural Camp 2025_1" src="/images/P3_Cultural_Camp_2025_1.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="P3 Cultural Camp 2025_2" src="/images/P3_Cultural_Camp_2025_2.jpg">
+</div>
+<p></p>
 <p></p>
