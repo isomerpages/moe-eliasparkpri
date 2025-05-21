@@ -15,12 +15,13 @@ the FormSG or QR code for MK@Elias Park waitlist form below:</p>
 <p>The waitlist will be considered on a case-by-case basis, subject to available
 vacancies. We will contact you directly, should a vacancy arise for your
 child.</p>
-<p>&nbsp;MK@Elias Park Waitlist Form : <a href="https://go.gov.sg/2026eliaspark-mkwaitlist" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2026eliaspark-mkwaitlist</a>
+<p>&nbsp;MK@Elias Park Waitlist Form : <a href="https://go.gov.sg/eliaspark-mkwaitlist" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/eliaspark-mkwaitlist</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Waitlist_QR_Feb.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_eliaspark_mkwaitlist.png">
 </div>
+<p></p>
 <p>Full-day Kindergarten Care (Kcare) services are also provided by MK@Elias
 Park from 7am to 7pm (Mondays to Fridays), including school holidays.</p>
 <p></p>
