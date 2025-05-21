@@ -19,7 +19,7 @@ child.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_eliaspark_mkwaitlist.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_eliaspark_mkwaitlist.png">
 </div>
 <p></p>
 <p>Full-day Kindergarten Care (Kcare) services are also provided by MK@Elias
