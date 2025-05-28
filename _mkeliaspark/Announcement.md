@@ -11,7 +11,7 @@ started its operation from 2 Jan 2025, with K1 students attending morning
 session from 8.00am to 12.30pm.</p>
 <p>&nbsp;For those who missed out on the online registration exercise and
 wish to register for MK @Elias Park, please submit your application via
-the FormSG or QR code for MK@Elias Park waitlist form below:</p>
+the FormSG or QR code for MK@Elias Park waitlist form shown below:</p>
 <p>The waitlist will be considered on a case-by-case basis, subject to available
 vacancies. We will contact you directly, should a vacancy arise for your
 child.</p>
@@ -22,7 +22,7 @@ child.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_eliaspark_mkwaitlist.png">
 </div>
 <p></p>
-<p>Full-day Kindergarten Care (Kcare) services are also provided by MK@Elias
+<p>Full-day Kindergarten Care (KCare) services are also provided by MK@Elias
 Park from 7am to 7pm (Mondays to Fridays), including school holidays.</p>
 <p></p>
 <div class="isomer-image-wrapper">
