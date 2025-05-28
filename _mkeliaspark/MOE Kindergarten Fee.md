@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4>MOE Kindergarten Fee</h4>
-<p>The monthly fee for MK in 2024 is:</p>
+<p>The monthly fee for MK in 2025 is:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>$160 for Singapore Citizens</p>
