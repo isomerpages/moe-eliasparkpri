@@ -5,29 +5,23 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>2025 Registration Exercise (for 2026's Intake)</strong></h4>
-<p>The MK Registration Period is from&nbsp;<strong>9am on Friday, 7 February 2025</strong>&nbsp;to&nbsp;<strong>4pm on Monday, 17 February 2025</strong>.
-It is opened to&nbsp;</p>
+<p>The MK Registration Period was from&nbsp;<strong>9am on Friday, 7 February 2025</strong>&nbsp;to&nbsp;<strong>4pm on Monday, 17 February 2025</strong>.
+It was opened to&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Citizen (SC) and Permanent
 Resident (PR) children who are born between 2 January 2021 and 1 January
 2022 (both dates inclusive) for K1 enrolment</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Citizen (SC) and Permanent
 Resident (PR) children who are born between 2 January 2020 and 1 January
 2021 (both dates inclusive) for K2 enrolment</p>
-<p>You may visit this&nbsp;<strong><a href="http://www.moe.gov.sg/mk-howtoregister" rel="noopener noreferrer nofollow" target="_blank">link</a></strong>&nbsp;to
-start the registration process. Singpass login is required to access the
-online Open Admissions (OA) application form. Registration button will
-only be activated at 9am on 7 February 2025.</p>
-<p>You will be <strong>notified of the registration outcome by Tuesday, 15 April 2025 via e-mail</strong> if
-you have submitted the OA application form. If you did not receive the
-outcome e-mail in your inbox, please check your spam or junk e-mail folder
-or contact MK@Elias Park directly for assistance.</p>
-<p>If your child has an elder sibling currently studying in K1 in MK@Elias
-Park, or P1 - P6 in Elias Park Primary School, you may register your child
-under the Sibling Priority Admission (Priority Order 2). Please use the
-same link as above for the registration during the registration period.</p>
-<p>Please note that you can only register your child at one MK. Multiple
-applications will not be accepted. If you need to amend your submitted
-details or wish to register your child for a different MK, you can submit
-a new application. If you have submitted multiple applications, we will
-only consider the latest application received within the stipulated MK
-registration period.</p>
+<p>Parents who had submitted their registration would have been <strong>notified of the registration outcome by Tuesday, 15 April 2025 via e-mail</strong>.</p>
+<p>If you had missed out on the online registration exercise in February
+2025 and wish to register your child for out K1 and K2 intake for year
+2026, please submit your application via the FormSG or QR code for MK@Elias
+Park waitlist form shown below</p>
+<p>MK@Elias Park Waitlist Form : <a href="https://go.gov.sg/eliaspark-mkwaitlist" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/eliaspark-mkwaitlist</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_eliaspark_mkwaitlist.png">
+</div>
+<p></p>
