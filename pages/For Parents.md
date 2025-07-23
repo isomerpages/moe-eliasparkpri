@@ -255,10 +255,10 @@ approved calculator/dictionary lists, please click <a href="https://www.seab.gov
 <br>
 </p>
 <p>2025 Primary 6 Prelim schedule:
-<br>To be updated
+<br><a href="/files/2025_P6_Preliminary_Examination_Schedule.pdf" rel="noopener nofollow" target="_blank">2025 P6 Preliminary Examination Schedule</a> 
 <br>
 <br>2025 Primary 6 Prelim exam scope:
-<br>To be updated
+<br><a href="/files/2025_P6_Preliminary_Examination_Scope_.pdf" rel="noopener nofollow" target="_blank">2025 P6 Preliminary Examination Scope </a> 
 <br>
 <br>2025 PSLE Results Release:
 <br>To be updated</p>
