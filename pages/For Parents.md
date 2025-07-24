@@ -251,7 +251,7 @@ approved calculator/dictionary lists, please click <a href="https://www.seab.gov
 <br>For the new PSLE Scoring, please click <a href="https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>
 <br>2025 PSLE Examination Timetable:
-<br>To be updated
+<br><a href="https://www.moe.gov.sg/national-exams-dates" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/national-exams-dates</a>
 <br>
 </p>
 <p>2025 Primary 6 Prelim schedule:
