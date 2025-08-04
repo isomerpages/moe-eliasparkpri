@@ -96,11 +96,11 @@ in this programme.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CL3_20Jan2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="CCM 2025_1" src="/images/CCM_2025_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CL4_20Jan2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="CCM 2025_2" src="/images/CCM_2025_2.jpg">
 </div>
 <ul>
 <li>
