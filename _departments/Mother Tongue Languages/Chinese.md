@@ -89,10 +89,10 @@ in Chinese Language and culture.</p>
 the Primary 3 and 4 students in Term 2. This is a good platform for students
 to strengthen bonds with their friends of different races and to appreciate
 Chinese and Malay cultures and values. Through the CCM programme, students
-acquire basic proficiency in either Mandarin or Malay, be exposed to traditional
-cultures and norms of those communities through our fun and engaging cultural
-activities. All P3 and P4 students are encouraged to participate in this
-programme.</p>
+acquire basic proficiency in either Mandarin or Malay and are exposed to
+traditional cultures and norms of those communities through fun and engaging
+cultural activities. All P3 and P4 students are encouraged to participate
+in this programme.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
