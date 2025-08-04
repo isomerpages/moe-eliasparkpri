@@ -37,5 +37,5 @@ sections:
           announcement: The Straits Times Article
           link_text: find out more...
           link_url: /mkeliaspark/media-release/
-      subtitle: New Announcements
+      subtitle: Recent Announcements
 ---

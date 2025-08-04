@@ -68,36 +68,39 @@ MTL language and culture were conducted.</p>
 <ul>
 <li>
 <p>Primary 4 and 5 Cultural Performances <strong>(文化随意门)</strong> 
-<br>As part of their Chinese cultural learning journey, Primary 4 and 5 students
-will watch a drama performance. The objective of the learning journey is
-to enhance students’ interest in Chinese Language and culture.</p>
+<br>As part of their Chinese cultural learning journey, the Primary 4 students
+watched the performance, <em>Journey to the West – Borrowing the Plantain Fan</em>,
+while the Primary 5 students enjoyed the crosstalk show, <em>Here Comes Crosstalk 2025</em>.
+The objective of the learning journey is to enhance students’ interest
+in Chinese Language and culture.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CL1_20Jan2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="P3&amp;4 Cultural Performance 2025_1" src="/images/P3_4_Cultural_Performance_2025_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CL2_20Jan2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="P3&amp;4 Cultural Performance 2025_2" src="/images/P3_4_Cultural_Performance_2025_2.jpg">
 </div>
 <ul>
 <li>
 <p><strong>Conversational Chinese and Malay Programme</strong> 
-<br>The Conversational Chinese and Malay (CCM) Programme will commence for
-P3 to P4 students. This is a good platform for students to strengthen bonds
-with their friends of different races and to appreciate Chinese and Malay
-cultures and values. Through the CCM programme, students will acquire basic
-proficiency in either Mandarin or Malay, be exposed to traditional cultures
-and norms of those communities through our fun and engaging cultural activities.
-All P3 and P4 students are encouraged to participate in this programme.</p>
+<br>The Conversational Chinese and Malay (CCM) Programme was conducted for
+the Primary 3 and 4 students in Term 2. This is a good platform for students
+to strengthen bonds with their friends of different races and to appreciate
+Chinese and Malay cultures and values. Through the CCM programme, students
+acquire basic proficiency in either Mandarin or Malay and are exposed to
+traditional cultures and norms of those communities through fun and engaging
+cultural activities. All P3 and P4 students are encouraged to participate
+in this programme.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CL3_20Jan2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="CCM 2025_1" src="/images/CCM_2025_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CL4_20Jan2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="CCM 2025_2" src="/images/CCM_2025_2.jpg">
 </div>
 <ul>
 <li>
