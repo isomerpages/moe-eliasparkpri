@@ -76,11 +76,11 @@ in Chinese Language and culture.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CL1_20Jan2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="P3&amp;4 Cultural Performance 2025_1" src="/images/P3_4_Cultural_Performance_2025_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CL2_20Jan2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="P3&amp;4 Cultural Performance 2025_2" src="/images/P3_4_Cultural_Performance_2025_2.jpg">
 </div>
 <ul>
 <li>
