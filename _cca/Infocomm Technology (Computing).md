@@ -27,10 +27,7 @@ variant: tiptap
 thinking through solving real-life problems.</p>
 </li>
 <li>
-<p>Understand the basics of Windows Movie Maker.</p>
-</li>
-<li>
-<p>Capture videos (acted out or impromptu) in relation to the theme/topic.</p>
+<p>Understand the basics of editing videos and images using Canva.</p>
 </li>
 </ul>
 <h4>Programmes/ Events</h4>
