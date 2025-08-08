@@ -49,12 +49,6 @@ to promote safe and responsible use of Information-Communication Technologies
 were sent for the training. These students will help to plan and carry
 out cyber wellness activities besides promoting cyber wellness education
 for their peers.</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/cce11.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/cce12.png">
-</div>
 <h5>Support at Home</h5>
 <p>Parents play a key role in their children’s growth. Students benefit the
 most when the home and school environments are attuned to each other. To

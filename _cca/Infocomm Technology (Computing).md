@@ -27,10 +27,7 @@ variant: tiptap
 thinking through solving real-life problems.</p>
 </li>
 <li>
-<p>Understand the basics of Windows Movie Maker.</p>
-</li>
-<li>
-<p>Capture videos (acted out or impromptu) in relation to the theme/topic.</p>
+<p>Understand the basics of editing videos and images using Canva.</p>
 </li>
 </ul>
 <h4>Programmes/ Events</h4>
@@ -40,6 +37,6 @@ thinking through solving real-life problems.</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQb-v5CjfMeobbEmXk8kvC_CnxP8tyfSI0M7lcGhc2-vfI5JHa4ExLMpdl3RlJQwec9Mf0gKFJYXIwb/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFstVlD4R3AaxumlrnSEgXB4z5Qhp8ZtkF-mhZQNOIBz3ALiNbviGsk84j78RQ1gnJ-aBqFQK3oLl-/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
