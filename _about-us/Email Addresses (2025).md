@@ -440,6 +440,7 @@ variant: tiptap
 <p><a href="mailto:wu_xun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Wu Xun</u></a>
 <br><a href="mailto:lee_mun_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Stan Lee</u></a>
 </p>
+<p>Mdm Eliza Tan</p>
 </td>
 </tr>
 <tr>
@@ -457,8 +458,8 @@ variant: tiptap
 <p>4 Endeavour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ker_ting_wei_jeremy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Jeremy Ker</u></a>
-<br><a href="mailto:lee_siew_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Irene Say</u></a>
+<p><a href="mailto:ratnah_rawi@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Mdm Ratnah Binte Rawi</u></a>
+<br><a href="mailto:bhairavi_lachimanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Bhairavi Lachimanan</a>
 </p>
 </td>
 </tr>
