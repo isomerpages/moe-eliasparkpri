@@ -395,6 +395,8 @@ variant: tiptap
 <p><a href="mailto:iza_mariah_idris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Iza Mariah Bte Idris</u></a>
 <br><a href="mailto:foo_chun_kiat_bryan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Bryan Foo</u></a>
 </p>
+<p><a href="mailto:lee_jie_yin_mitchelle@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Mitchelle Wong-Lee</a>
+</p>
 </td>
 </tr>
 <tr>
