@@ -434,8 +434,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wu_xun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Wu Xun</u></a>
 <br><a href="mailto:lee_mun_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Stan Lee</u></a>
-</p>
-<p>Mdm Eliza Tan</p>
+<br>Mdm Eliza Tan</p>
 </td>
 </tr>
 <tr>
