@@ -428,6 +428,8 @@ variant: tiptap
 <p><a href="mailto:jameyahti_ab_malek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Jameyahti Bte Ab Malek</u></a>
 <br><a href="mailto:kwee_wan_juan_esther@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Esther Kwee</u></a>
 </p>
+<p><a href="mailto:tan_koon_bin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Tan Koon Bin</u></a>
+</p>
 </td>
 </tr>
 <tr>
