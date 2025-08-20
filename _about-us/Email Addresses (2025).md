@@ -189,15 +189,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Upper Primary)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_siew_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Irene Say</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Assistant Year Head (Upper Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -359,7 +350,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_azilla_nazli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nur Azilla Binte Nazli</u></a>
-<br>Miss Sivakumar Shrinidhi
+</p>
+<p><a href="mailto:natascha_gabrielle_nonis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Natascha Rodrigues</a>
 <br><a href="mailto:lai_yoke_san@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lai Yoke San</a>
 </p>
 </td>
