@@ -417,6 +417,7 @@ variant: tiptap
 <p><a href="mailto:michelle_lim_qian_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Michelle Lim</u></a>
 <br><a href="mailto:chai_chew_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chai Chew Yee</a>
 </p>
+<p>Mdm Lynette Clarice Chia</p>
 </td>
 </tr>
 <tr>
