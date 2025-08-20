@@ -413,8 +413,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:michelle_lim_qian_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Michelle Lim</u></a>
 <br><a href="mailto:chai_chew_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chai Chew Yee</a>
-</p>
-<p>Mdm Lynette Clarice Chia</p>
+<br>Mdm Lynette Clarice Chia</p>
 </td>
 </tr>
 <tr>
@@ -424,8 +423,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jameyahti_ab_malek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Jameyahti Bte Ab Malek</u></a>
 <br><a href="mailto:kwee_wan_juan_esther@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Esther Kwee</u></a>
-</p>
-<p><a href="mailto:tan_koon_bin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Tan Koon Bin</u></a>
+<br><a href="mailto:tan_koon_bin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Tan Koon Bin</u></a>
 </p>
 </td>
 </tr>
