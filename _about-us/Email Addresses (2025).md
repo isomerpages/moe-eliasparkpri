@@ -330,7 +330,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_hui_guan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Jessie Wong</u></a>
 <br><a href="mailto:eka_syafiqah_ahmad_nasir@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Eka Syafiqah Binte Ahmad Nasir</a> 
-<br><a href="mailto:ratnah_rawi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ratnah Binte Rawi</a>
 </p>
 </td>
 </tr>
