@@ -10,7 +10,6 @@ variant: tiptap
 <p><a href="mailto:chen_yixiang@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Chen Yi Xiang</a>
 <br>Mr Zhou Yuan
 <br>Mdm Fu Ye
-<br>Mr Jeremy Ker
 <br>Mdm Wu Xun</p>
 <h5>Schedule</h5>
 <ul data-tight="true" class="tight">
