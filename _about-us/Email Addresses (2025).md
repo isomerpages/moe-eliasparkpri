@@ -434,7 +434,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wu_xun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Wu Xun</u></a>
 <br><a href="mailto:lee_mun_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Stan Lee</u></a>
-<br>Mdm Eliza Tan</p>
+<br><a href="mailto:eliza_tan_har_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Eliza Tan</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -495,7 +496,7 @@ variant: tiptap
 <p><a href="mailto:fathurrahman_abdul_wahed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Fathurrahman Bin Abdul Wahed</u></a>
 <br><a href="mailto:wong_yun_ru_eleanor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Eleanor Wong</a>
 <br><a href="mailto:siti_nooraidah_noordin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Alsree</a>
-<br><a href="mailto:nur_sobah_mahmood_bamadhaj_b@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Sobah</a>
+<br><a href="mailto:nur_sobah_mahmood_bamadhaj_b@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nur Sobah</a>
 </p>
 </td>
 </tr>
