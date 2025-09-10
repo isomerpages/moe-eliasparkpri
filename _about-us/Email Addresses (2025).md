@@ -38,15 +38,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice Principal (EO)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:epps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohamad Noor Abdul Manaf</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Vice Principal (Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -413,7 +404,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:michelle_lim_qian_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Michelle Lim</u></a>
 <br><a href="mailto:chai_chew_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chai Chew Yee</a>
-<br>Mdm Lynette Clarice Chia</p>
+<br><a href="mailto: lynette_clarice_chia_b@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lynette Clarice Chia</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -787,7 +779,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:toh_anne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Anne Quah</a>
+<p><a href="mailto:siti_nur_aisyah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Nur Aisyah</a>
 </p>
 </td>
 </tr>
@@ -798,7 +790,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Primary 1 and 3
-<br><a href="mailto:jameyahti_ab_malek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Jameyahti Bte Ab Malek</u></a>
+<br><a href="mailto:iza_mariah_idris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Iza Mariah Bte Idris</u></a>
 </p>
 </td>
 </tr>
@@ -846,7 +838,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:amanda_lim_le_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Amanda Lim</a>
+<p><a href="mailto:farah_izzah_imran_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Farah Izzah Binte Imran</a>
 </p>
 </td>
 </tr>
