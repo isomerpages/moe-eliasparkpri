@@ -167,8 +167,8 @@ download the newsletters.</p>
 may reserve places for their children in their current school under the
 Leave of Absence (LOA) Scheme. Upon their return to Singapore the children
 can be readmitted directly to their schools.
-<br>Applicants are to submit their application via <a href="https://form.gov.sg/#!/60bd8dad79dded0011f07645" rel="noopener noreferrer nofollow" target="_blank">this link</a> and
-the LOA fees to the school.</p>
+<br>Applicants are to submit their application via <a href="https://form.gov.sg/68e4c3f24e938aed620179c9" rel="noopener noreferrer nofollow" target="_blank">this link</a> and the
+LOA fees to the school.</p>
 </td>
 </tr>
 <tr>
