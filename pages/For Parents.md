@@ -112,7 +112,7 @@ more information on Direct School Admission (DSA).</p>
 <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>
 <br>MOE Financial Assistance Application Form (eFAS) for 2025 <strong>(Require Singpass for login)</strong>:
-<br><a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener noreferrer nofollow" target="_blank">MOE Financial Assistance Application Form</a> 
+<br><a href="https://form.gov.sg/68369b40a990b6224d671c5d" rel="noopener noreferrer nofollow" target="_blank">MOE Financial Assistance Application Form</a> 
 <br>
 <br>For the Straits Times School Pocket Money Fund, please approach the General
 Office for information.
@@ -167,8 +167,8 @@ download the newsletters.</p>
 may reserve places for their children in their current school under the
 Leave of Absence (LOA) Scheme. Upon their return to Singapore the children
 can be readmitted directly to their schools.
-<br>Applicants are to submit their application via <a href="https://form.gov.sg/#!/60bd8dad79dded0011f07645" rel="noopener noreferrer nofollow" target="_blank">this link</a> and
-the LOA fees to the school.</p>
+<br>Applicants are to submit their application via <a href="https://form.gov.sg/68e4c3f24e938aed620179c9" rel="noopener noreferrer nofollow" target="_blank">this link</a> and the
+LOA fees to the school.</p>
 </td>
 </tr>
 <tr>
