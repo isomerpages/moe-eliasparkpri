@@ -25,13 +25,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Mixed Rice / Chicken Rice Stall</p>
+<p>Chinese Mixed Rice</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>31 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To provide mixed rice or chicken rice in the menu.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Halal Cuisine (Noodle/Rice)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 Dec 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To provide Malay Muslim rice and noodles</p>
 </td>
 </tr>
 </tbody>
