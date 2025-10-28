@@ -29,7 +29,7 @@ sections:
       announcement_items:
         - title: Canteen Stall Vacancy
           date: 28 October 2025
-          announcement: Stall Available
+          announcement: Stalls Available
           link_text: find out more...
           link_url: /canteenad/
         - title: MK Open House
