@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Assessments.md
-      - Access Arrangement.md
       - Class Timetable.md
       - Home based Learning.md
       - Forms.md
