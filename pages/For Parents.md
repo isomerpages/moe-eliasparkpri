@@ -26,7 +26,7 @@ variant: tiptap
 <p>For School Examination Policy, Exam Schedule, Exam Scope of Topics and
 format of the examination papers, please click <a href="/for-parents/assessments/" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information.
 <br>
-<br>For access arrangement, please click <a href="/for-parents/access-arrangement/" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information.</p>
+</p>
 </td>
 </tr>
 <tr>
