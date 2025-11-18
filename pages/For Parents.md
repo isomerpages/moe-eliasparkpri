@@ -218,7 +218,8 @@ access the catalogue.</p>
 <p>Primary 1 Orientation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://drive.google.com/file/d/17kZPXaaTpiafLlRzjELhMTZbdO9Pm56Z/view?usp=drive_link" rel="noopener nofollow" target="_blank">Primary 1 Orientation  (2026)</a>
+</p>
 </td>
 </tr>
 <tr>
