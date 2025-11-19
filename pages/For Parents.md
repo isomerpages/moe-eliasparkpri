@@ -206,10 +206,10 @@ access the catalogue.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Primary 1
-<br>Briefing for Parents (2025)</p>
+<br>Briefing for Parents</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>To be updated</p>
 </td>
 </tr>
 <tr>
@@ -377,4 +377,4 @@ more information.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>To be</p>
