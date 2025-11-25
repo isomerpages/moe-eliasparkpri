@@ -206,11 +206,10 @@ access the catalogue.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Primary 1
-<br>Briefing for Parents (2025)</p>
+<br>Briefing for Parents</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1mWh_eO5aL7grscCZreiTJnBqgmn6DSyc/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 Primary 1_2 January</a>
-</p>
+<p>To be updated</p>
 </td>
 </tr>
 <tr>
@@ -250,18 +249,19 @@ approved calculator/dictionary lists, please click <a href="https://www.seab.gov
 <br>
 <br>For the new PSLE Scoring, please click <a href="https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>
-<br>2025 PSLE Examination Timetable:
-<br><a href="https://www.moe.gov.sg/national-exams-dates" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/national-exams-dates</a>
+<br>2026 PSLE Examination Timetable:
+<br>To be updated
 <br>
 </p>
-<p>2025 Primary 6 Prelim schedule:
-<br><a href="/files/2025_P6_Preliminary_Examination_Schedule.pdf" rel="noopener nofollow" target="_blank">2025 P6 Preliminary Examination Schedule</a> 
+<p>2026 Primary 6 Prelim schedule:
+<br>To be updated
 <br>
-<br>2025 Primary 6 Prelim exam scope:
-<br><a href="/files/2025_P6_Preliminary_Examination_Scope_.pdf" rel="noopener nofollow" target="_blank">2025 P6 Preliminary Examination Scope </a>
+<br>2026 Primary 6 Prelim exam scope:
+<br>To be updated
 <br>
 <br>2025 PSLE Results Release:
-<br>To be updated</p>
+<br><a href="/files/2025_PSLE_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">2025 PSLE Briefing Slides</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -378,4 +378,4 @@ more information.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>To be</p>
