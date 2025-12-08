@@ -28,7 +28,7 @@ variant: tiptap
 <p>Chinese Mixed Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 Dec 2025</p>
+<p>31 Dec 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To provide mixed rice or chicken rice in the menu.</p>
@@ -39,7 +39,7 @@ variant: tiptap
 <p>Halal Cuisine (Noodle/Rice)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 Dec 2025</p>
+<p>31 Dec 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To provide Malay Muslim rice and noodles</p>
