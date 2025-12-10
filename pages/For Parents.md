@@ -84,21 +84,6 @@ more information on Direct School Admission (DSA).</p>
 <p>Edusave Awards</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Selection Criteria
-<br><a href="/files/ea1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary_(English).pdf</a> 
-<br><a href="/files/ea2.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary_(Chinese).pdf</a> 
-<br><a href="/files/ea3.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary_(Malay).pdf</a> 
-<br><a href="/files/ea4.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary_(Tamil).pdf</a> &nbsp;&nbsp;
-<br>
-<br>For more information, please visit <a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards" rel="noopener noreferrer nofollow" target="_blank">MOE Edusave Awards &amp; Scholarships</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Edusave Character Award (ECHA)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>For more information, please visit <a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards" rel="noopener noreferrer nofollow" target="_blank">MOE Edusave Awards &amp; Scholarships</a>
 </p>
 </td>
@@ -228,15 +213,6 @@ access the catalogue.</p>
 <td rowspan="1" colspan="1">
 <p>Please click <a href="https://sites.google.com/moe.edu.sg/eppspsg?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out more about our school's Parents Support Group (PSG).</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Parent Kit</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Parent%20Kit%20-%20Starting%20School%20Right%20Jan%202020.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Kit - Starting School Right Jan 2020.pdf</a>
-</p>
 </td>
 </tr>
 <tr>
