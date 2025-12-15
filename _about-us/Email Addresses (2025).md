@@ -23,7 +23,7 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:epps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Pei Pei</a>
+<p><a href="mailto:epps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurazian Binte Bajuri</a>
 </p>
 </td>
 </tr>
@@ -72,19 +72,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Department (Science)</p>
+<p>Head of Department (English)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_mun_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Stan Lee</a>
+<p><a href="mailto:li_simin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Li Simin Sharon</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Department (CCE)</p>
+<p>Head of Department (IT &amp; MRL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:poon_yin_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Poon Yin Ching</a>
+<p><a href="mailto:teo_kwee_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Teo Kwee Siang</a>
 </p>
 </td>
 </tr>
@@ -174,6 +174,15 @@ variant: tiptap
 <p>Year Head (Middle Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:loh_ooi_wan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Loh Ooi Wan</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head (Upper Primary)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:marilyn_goh_jing_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Marilyn Goh</a>
 </p>
 </td>
@@ -255,7 +264,7 @@ variant: tiptap
 <p>Operations Manager 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rudolph_conceicao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ricky Conceicao</a>
+<p><a href="mailto:ramakrishnan_gnanasekaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ramakrishnan Gnanasekaran </a>
 </p>
 </td>
 </tr>
@@ -264,7 +273,7 @@ variant: tiptap
 <p>Operations Manager 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ramakrishnan_gnanasekaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ramakrishnan Gnanasekaran</a>
+<p><a href="mailto:rudolph_conceicao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ricky Conceicao</a>
 </p>
 </td>
 </tr>
