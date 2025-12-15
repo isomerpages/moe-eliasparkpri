@@ -4,7 +4,11 @@ permalink: /about-us/school-advisory-committee/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -57,6 +61,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Druga Rajendran</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Member</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Jun Quan</p>
 </td>
 </tr>
 </tbody>
