@@ -2,9 +2,8 @@
 title: FAQs
 permalink: /about-us/faqs/
 description: ""
+variant: markdown
 ---
-<!--### FAQ-->
-
 **Where can I find the contact details of the school vendors (eg. school bus service, school uniform, etc.**  
 You can find the school vendors' contact details&nbsp;[here](https://staging.d3975mj8dcgb9n.amplifyapp.com/for-parents/school-vendors/).  
   
@@ -30,7 +29,7 @@ Students are dismissed at 1.30 p.m. daily.
 Due to the limited number of parking lots, the school is not able&nbsp;to accommodate all visitors with vehicles. Parents attending mass briefings or events could park at one of the two multi-storey&nbsp;carparks at Blocks 500A or 521A just beside the school.&nbsp;
 
 **What are the visiting procedures?**  <br>
-All visitors to the school (including parents and guardians) are to obtain a Visitor Pass at the Security Post. Thereafter, they are to&nbsp;proceed to the General Office where the school staff will assist them. The pass must be prominently worn at all times.  
+All visitors to the school (including parents and guardians) are to obtain a Visitor Pass/Label at the Security Post. Thereafter, they are to&nbsp;proceed to the General Office where the school staff will assist them. The pass/label must be prominently worn at all times.  
 The operating hours of the General Office are from 7.00 a.m. to 5.30 p.m., Mondays to Fridays (during school term) and 7.00 a.m. to 4.30 p.m., Mondays to Fridays (during school holidays).  
 Parents/Guardians are not allowed to walk into the classrooms to look for teachers or their child/ward, unless prior arrangements&nbsp;have been made (eg. during Meet-The-Parents session).&nbsp;
 
