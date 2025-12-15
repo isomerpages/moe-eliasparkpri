@@ -162,6 +162,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Subject Head (Chinese Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:alena_ho_li_na@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ho Li Na</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Year Head (Lower Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -264,7 +273,7 @@ variant: tiptap
 <p>Operations Manager 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ramakrishnan_gnanasekaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ramakrishnan Gnanasekaran </a>
+<p><a href="mailto:ramakrishnan_gnanasekaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ramakrishnan Gnanasekaran</a>
 </p>
 </td>
 </tr>
