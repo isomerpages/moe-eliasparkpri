@@ -2,9 +2,8 @@
 title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
+variant: markdown
 ---
-<!--### Principal's Message-->
-
 #### Welcome to the website of Elias Park Primary School (EPPS)!
  
 
@@ -34,5 +33,5 @@ The task to bridge the gap between the promise of our&nbsp;ideals&nbsp;to help e
 
 I am confident that a generation from now, we will recall fondly that we may be of different creed, race and religion but united in a common purpose through good times and bad times that shaped our children’s future and in nurturing the best sons and daughters for our community and for Singapore.
 
-Mdm Chua Pei Pei  
+
 Principal&nbsp;<br>Elias Park Primary School
