@@ -75,7 +75,7 @@ variant: tiptap
 <p>Head of Department (English)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:li_simin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Li Simin Sharon</a>
+<p><a href="mailto:li_simin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sharon Kph</a>
 </p>
 </td>
 </tr>
@@ -84,7 +84,7 @@ variant: tiptap
 <p>Head of Department (IT &amp; MRL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_kwee_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Teo Kwee Siang</a>
+<p><a href="mailto:teo_kwee_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Junice Tan</a>
 </p>
 </td>
 </tr>
@@ -165,7 +165,7 @@ variant: tiptap
 <p>Subject Head (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:alena_ho_li_na@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ho Li Na</a>
+<p><a href="mailto:alena_ho_li_na@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Alena Ho</a>
 </p>
 </td>
 </tr>
