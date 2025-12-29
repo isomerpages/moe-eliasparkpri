@@ -2,36 +2,73 @@
 title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-#### Welcome to the website of Elias Park Primary School (EPPS)!
- 
-
-Dear Parents / Guardians,
-
-The school has made a remarkable journey under the able leadership of Miss Chiang Wai Leng, Miss Brenda Yeow, Mrs Wong Siew San and Mdm Cassie Fan. &nbsp;It is not the numerous awards and accolades received but the outstanding quality of education, the citizens that our teachers have groomed and the close staff-parent bonding. I would especially like to thank all staff, past and present, for their contributions, dedication and hard work as well as the parents, our community partners and vendors for their trust and support in the school.
-
-Many parents, from near and afar, have chosen to enrol their children at Elias Park Primary School (EPPS) because they believe in the quality of education that the school provides and the timeless universal values that we inculcate in our pupils.
-
-As the pace of technological and social changes in the world accelerates, identifying and preparing our pupils for these exciting future opportunities would have to be a collaborative effort from our teachers, the community partners and the home. &nbsp;Moving forward, Elias Park Primary School (EPPS) would be focusing on creating authentic learning experiences so that our pupils are better prepared to navigate the future world of opportunities, love Singapore and care for their families and our community.&nbsp; Towards this end, we will build on our strengths and continue to immerse our students in a culture that is&nbsp;values driven, nurture their strengths and unleash their lively curiosity to explore, to create and to make lifelong learning their being.
-
-These can be covered in three broad areas:
-
-a)&nbsp;Inculcate values to build strong lives
-
-A good set of values is like a moral compass that will guide our students’ behaviour. As pupils interact with the world, experiment with what they believe in, what works and how to decide right from wrong, they would learn deep lessons about how practice informs theory and how to live strong lives. &nbsp;Teachers will role model learning and innovation, enthusiastic to support our pupils in exploring new ideas and always consider our values in decision making and behaviours.&nbsp; In turn, our pupils will then be able to internalise these values and the roles that these values play to influence their lives.
-
-b)&nbsp;Strengthen our curriculum that will prepare pupils for global connectivity and opportunities of the future
-
-The curriculum and pedagogy of the school will be based on helping pupils explore, navigate and build trusts with people across races, nationalities, ages and social economic backgrounds. The learning process will involve pupils understanding the diverse cultures around us, sense make from the information presented and make good judgement before taking a decision. &nbsp;Our curriculum and pedagogy will inspire pupils to ask questions, not be afraid of trying and making mistakes and persevere.
-
-c)&nbsp;Develop positive personalities
-
-Every pupil discovers who he is and what are his strengths based on his reflections, his learning and interaction with others. &nbsp;EPPS will support all pupils in this journey of self-discovery.&nbsp; Our teachers will help pupils to express themselves with humility and gratitude so that they can develop their personalities and articulate themselves positively, genuinely and confidently in the community.&nbsp;
-
-The task to bridge the gap between the promise of our&nbsp;ideals&nbsp;to help every child grow his/her strengths and the realities of our time is going to be tough, bumpy and the road ahead is a long and winding one. &nbsp;I face this challenge with humility and acknowledge my own limitations. &nbsp;At the same time, we cannot solve the challenges of our time unless we solve them together. &nbsp;I am glad to be facing these challenges with the faith and capacity of my colleagues, the parents and friends and&nbsp;network&nbsp;of EPPS. &nbsp;Together, we will work hard, join our hands, minds and hearts with a deep belief in our children to take this leap together.
-
-I am confident that a generation from now, we will recall fondly that we may be of different creed, race and religion but united in a common purpose through good times and bad times that shaped our children’s future and in nurturing the best sons and daughters for our community and for Singapore.
-
-
-Principal&nbsp;<br>Elias Park Primary School
+<h4>Welcome to the website of Elias Park Primary School (EPPS)!</h4>
+<p><strong>Dear Parents, Guardians and Members of the Elias Park family,</strong>
+</p>
+<p>It is with deep gratitude and a strong sense of purpose that I join <strong>Elias Park Primary School (EPPS)</strong> as
+its new Principal. Becoming part of this vibrant community feels like being
+welcomed into a family that shares common values, mutual respect and a
+deep commitment to nurturing every child.</p>
+<hr>
+<p><strong>Honouring Legacy and People</strong>
+</p>
+<p>As I step into my role, I am mindful of the remarkable legacy built by
+my predecessors — <strong>Miss Chiang Wai Leng, Miss Brenda Yeow, Mrs Wong Siew San, Mdm Cassie Fan and Mdm Chua Pei Pei</strong>.
+Their stewardship has shaped EPPS into a place where pupils learn with
+enthusiasm, grow with confidence and care with compassion.</p>
+<p>The true Eliasian forte lies in our people — our bright, curious pupils,
+our dedicated teachers, our supportive parents, and our community partners.
+Together, they form the roots and branches of a thriving tree, each nourishing
+the strength and vitality of the whole. It is such synergy that defines
+the heart of EPPS.</p>
+<hr>
+<p><strong>Preparing for a Changing World</strong>
+</p>
+<p>As we look to the future, we recognise that our pupils are growing up
+in a world that is changing rapidly. Advances in technology, global connectivity
+and social transformation are reshaping the way we live and learn.</p>
+<p>In this dynamic environment, education must go beyond academics to nurture <strong>values, curiosity, resilience and compassion</strong> —
+qualities that will help our pupils navigate life’s challenges with confidence
+and grace.</p>
+<hr>
+<p><strong>Our Focus Areas</strong>
+</p>
+<p><strong>1. Values as the Compass of Character</strong>
+</p>
+<p><em>Values are the compass that guide our pupils in an ever-changing world.</em>
+<br>Our Eliasian values of Endeavour, Love, Integrity, Adaptability and Service
+remain evergreen and at the heart of our character education. These values
+come alive through everyday experiences — in classrooms, relationships
+and decision-making. Our teachers will continue to model and reinforce
+these values, helping pupils grow into thoughtful and principled individuals.</p>
+<p><strong>2. Learning for Life and the Future</strong>
+</p>
+<p><em>We believe that learning should inspire curiosity and joy.</em>
+<br>Our curriculum continues to provide meaningful opportunities for pupils
+to explore ideas, think critically and collaborate effectively. By integrating
+technology and authentic experiences, we help pupils see connections between
+what they learn and the world around them. In doing so, we nurture lifelong
+learners who embrace challenges with optimism and adaptability.</p>
+<p><strong>3. Growth through Self-Discovery</strong>
+</p>
+<p><em>Every child is unique, with strengths and potential waiting to be uncovered.</em>
+<br>Like gardeners tending to young plants, our teachers guide each pupil’s
+growth through care, encouragement and trust. Through academics, co-curricular
+activities and service, pupils discover their interests and develop confidence,
+humility and gratitude as they learn to contribute meaningfully to our
+community and Singapore.</p>
+<hr>
+<p><strong>Looking Ahead Together</strong>
+</p>
+<p>As I begin this new chapter with the EPPS community, I do so with humility,
+excitement and hope.
+<br>Together — teachers, parents, partners and pupils — we will continue to
+nurture the hearts and minds of every child, keeping our school rooted
+in strong values while reaching confidently toward the future.</p>
+<p>With warm regards,
+<br><strong>Mdm Nurazian Bajuri</strong>
+<br><strong>Principal</strong>
+<br><strong>Elias Park Primary School</strong>
+</p>
