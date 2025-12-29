@@ -355,9 +355,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:foo_shi_rui@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Foo Shi Rui</a>
 </p>
-<p>
-<br>
-</p>
+<p>Ms Tan Ai Na</p>
 </td>
 </tr>
 <tr>
@@ -377,7 +375,7 @@ variant: tiptap
 <p>2 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_qian_ni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Qian Ni</a> 
+<p><a href="mailto:tan_qian_ni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Qian Ni</a>
 </p>
 <p><a href="mailto:sarina_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sarina Bte Salleh</a>
 </p>
@@ -389,8 +387,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_li_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Bernice Tan</u></a>
-<br>
-</p>
+<br>Ms Yeo Shu Yuan</p>
 </td>
 </tr>
 <tr>
@@ -409,7 +406,7 @@ variant: tiptap
 <p>2 Service</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sri_noriehan_kamis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sri Noriehan Bte Kamis</a> 
+<p><a href="mailto:sri_noriehan_kamis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sri Noriehan Bte Kamis</a>
 </p>
 <p><a href="mailto:lee_jian_jie_dion@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Dion Lee</u></a>
 </p>
@@ -445,7 +442,7 @@ variant: tiptap
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p>Ms Rannessa Tan
 <br><a href="mailto:tan_koon_bin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Tan Koon Bin</u></a>
 </p>
 </td>
