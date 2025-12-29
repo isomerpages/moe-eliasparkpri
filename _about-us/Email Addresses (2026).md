@@ -355,7 +355,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:foo_shi_rui@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Foo Shi Rui</a>
 </p>
-<p>Ms Tan Ai Na</p>
+<p><a href="mailto:tee_ai_na_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tee Ai Na</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -364,7 +365,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:habibah_husein_shah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Habibah Bte Husein Shah</a>
-<br><a href="mailto:wee_siew_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Sera Wee</u></a>
+</p>
+<p><a href="mailto:wee_siew_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Sera Wee</u></a>
 </p>
 <p><a href="mailto:ratnah_rawi@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Mdm Ratnah Binte Rawi</u></a>
 </p>
@@ -387,7 +389,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_li_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Bernice Tan</u></a>
-<br>Ms Yeo Shu Yuan</p>
+</p>
+<p>Ms Yeo Shu Yuan</p>
 </td>
 </tr>
 <tr>
@@ -411,7 +414,6 @@ variant: tiptap
 <p><a href="mailto:lee_jian_jie_dion@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Dion Lee</u></a>
 </p>
 <p><a href="mailto:que_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Que Yi</a>
-<br>
 </p>
 </td>
 </tr>
@@ -442,8 +444,8 @@ variant: tiptap
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rannessa Tan
-<br><a href="mailto:tan_koon_bin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Tan Koon Bin</u></a>
+<p>Ms Rannessa Tan</p>
+<p><a href="mailto:tan_koon_bin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Tan Koon Bin</u></a>
 </p>
 </td>
 </tr>
@@ -487,7 +489,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:go_pei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Stephanie Ser</a>
-<br><a href="mailto:teo_kwee_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Junice Tan</a>
+</p>
+<p><a href="mailto:teo_kwee_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Junice Tan</a>
 </p>
 </td>
 </tr>
@@ -510,7 +513,8 @@ variant: tiptap
 <p><a href="mailto:afiqah_liyana_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Afiqah Liyana Bte Rahim</u></a>
 </p>
 <p><a href="mailto:wu_xun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Wu Xun</u></a>
-<br><a href="mailto:kanan_perumal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Kanan S/O Perumal</u></a>
+</p>
+<p><a href="mailto:kanan_perumal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Kanan S/O Perumal</u></a>
 </p>
 </td>
 </tr>
@@ -632,7 +636,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:long_yuan_chin_bernadette@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Bernadette Long</u></a>
-<br><a href="mailto:zhou_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Zhou Yuan</u></a>
+</p>
+<p><a href="mailto:zhou_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Zhou Yuan</u></a>
 </p>
 </td>
 </tr>
