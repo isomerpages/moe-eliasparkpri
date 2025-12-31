@@ -222,8 +222,7 @@ approved calculator/dictionary lists, please click <a href="https://www.seab.gov
 <br>To be updated
 <br>
 <br>2026 PSLE Results Release:
-<br>
-</p>
+<br>To be updated</p>
 </td>
 </tr>
 <tr>
