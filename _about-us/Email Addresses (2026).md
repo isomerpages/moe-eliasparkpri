@@ -825,7 +825,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Primary 1 and 3
-<br><a href="mailto:iza_mariah_idris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Iza Mariah Bte Idris</u></a>
+<br><a href="mailto:jameyahti_ab_malek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Jameyahti Bte Ab Malek</u></a>
 </p>
 </td>
 </tr>
@@ -836,6 +836,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Primary 2
 <br><a href="mailto:tan_qian_ni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Tan Qian Ni</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 4
+<br><a href="mailto:lydia_dawn_amla_sasidharen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Dawn Lim</u></a>
 </p>
 </td>
 </tr>
