@@ -641,7 +641,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:long_yuan_chin_bernadette@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Bernadette Long</u></a>
 </p>
-<p><a href="mailto:zhou_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Zhou Yuan</u></a>
+<p><a href="mailto: zhou_yuan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Zhou Yuan</a>
 </p>
 </td>
 </tr>
