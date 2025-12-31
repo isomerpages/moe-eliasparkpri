@@ -460,7 +460,6 @@ variant: tiptap
 </p>
 <p><a href="mailto:fathurrahman_abdul_wahed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Fathurrahman Bin Abdul Wahed</u></a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
