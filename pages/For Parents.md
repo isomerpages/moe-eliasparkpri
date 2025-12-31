@@ -249,14 +249,7 @@ download the forms.</p>
 <p>Resources for Parents</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Schoolbag.sg
-<br>Please click <a href="https://www.schoolbag.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-access Schoolbag.sg.
-<br>
-<br>Resource Kit - Transitioning Back to School
-<br><a href="/files/pk1.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Kit - Transitioning Back to School.pdf</a> 
-<br>
-<br>Resource Kit - School Holiday Edition
+<p>Resource Kit - School Holiday Edition
 <br><a href="/files/pk2.pdf" rel="noopener noreferrer nofollow" target="_blank">Resource Kit - School Holiday Edition.pdf</a> 
 <br>
 <br>Updates on PSLE Scoring &amp; S1 Posting from 2021
