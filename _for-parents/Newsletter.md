@@ -5,4 +5,4 @@ description: ""
 variant: tiptap
 ---
 <h3>Newsletters</h3>
-<p></p>
+<p>To be updated</p>
