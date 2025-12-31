@@ -121,7 +121,7 @@ and public libraries listed on <a href="https://go.gov.sg/sgdcommhub" rel="noope
 <p>Gifted Education Programme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>To be updated</p>
 </td>
 </tr>
 <tr>
@@ -162,20 +162,7 @@ LOA fees to the school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Primary 2 </strong>
-<br><a href="https://drive.google.com/file/d/1qeIAAhzbntb5Y21C0O_LMsHYmT3zkWS8/view?usp=drive_link" rel="noopener nofollow" target="_blank">P2 Briefing slides for Parents 2025</a> 
-<br><a href="https://drive.google.com/file/d/1zBuU-I5W9K8VIKmptUu_WHCbqUOvSqTg/view?usp=drive_link" rel="noopener nofollow" target="_blank">P2 Classroom slides 2025</a>
-<br><strong>Primary 3 &amp; 4 </strong>
-<br><a href="https://drive.google.com/file/d/12Z_ktct-m4ARA0mmgRxeGaZIsSHm4NCq/view?usp=drive_link" rel="noopener nofollow" target="_blank">P3 &amp; P4 Briefing slides for Parents 2025</a>
-</p>
-<p><a href="https://drive.google.com/file/d/1__Vc3Si_4Cin--vbkY0hKxer6Eyhj_X3/view?usp=drive_link" rel="noopener nofollow" target="_blank">P3 Classroom slides 2025</a>
-</p>
-<p><a href="https://drive.google.com/file/d/1QZyGNNnnlzuCZts5s2IjUex0yJywwXCV/view?usp=drive_link" rel="noopener nofollow" target="_blank">P4 Classroom slides 2025</a>
-<br><strong>Primary 5 &amp; 6 </strong>
-<br><a href="https://drive.google.com/file/d/1w7cXeZwehUbrFdL026_ZivJFOdVYvzRo/view?usp=drive_link" rel="noopener nofollow" target="_blank">P5 &amp; P6 Briefing slides for Parents 2025</a>
-<br><a href="https://drive.google.com/file/d/1fsl9KEVf3133Xl0SEXouZnh11_M_BvG4/view?usp=drive_link" rel="noopener nofollow" target="_blank">P5 Classroom slides 2025</a>
-<br><a href="https://drive.google.com/file/d/1f6zOAOaJ7pgKZNbCEsLlNtWeqMVn3rBU/view?usp=drive_link" rel="noopener nofollow" target="_blank">P6 Classroom slides_2025</a>
-</p>
+<p>To be updated</p>
 </td>
 </tr>
 <tr>
@@ -234,8 +221,8 @@ approved calculator/dictionary lists, please click <a href="https://www.seab.gov
 <br>2026 Primary 6 Prelim exam scope:
 <br>To be updated
 <br>
-<br>2025 PSLE Results Release:
-<br><a href="/files/2025_PSLE_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">2025 PSLE Briefing Slides</a>
+<br>2026 PSLE Results Release:
+<br>
 </p>
 </td>
 </tr>
