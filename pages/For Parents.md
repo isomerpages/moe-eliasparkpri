@@ -121,8 +121,7 @@ and public libraries listed on <a href="https://go.gov.sg/sgdcommhub" rel="noope
 <p>Gifted Education Programme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Gifted_Education_Programme_Identification_Exercise_2025.pdf" rel="noopener nofollow" target="_blank">Gifted Education Programme Identification Exercise 2025</a>
-</p>
+<p>To be updated</p>
 </td>
 </tr>
 <tr>
@@ -163,20 +162,7 @@ LOA fees to the school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Primary 2 </strong>
-<br><a href="https://drive.google.com/file/d/1qeIAAhzbntb5Y21C0O_LMsHYmT3zkWS8/view?usp=drive_link" rel="noopener nofollow" target="_blank">P2 Briefing slides for Parents 2025</a> 
-<br><a href="https://drive.google.com/file/d/1zBuU-I5W9K8VIKmptUu_WHCbqUOvSqTg/view?usp=drive_link" rel="noopener nofollow" target="_blank">P2 Classroom slides 2025</a>
-<br><strong>Primary 3 &amp; 4 </strong>
-<br><a href="https://drive.google.com/file/d/12Z_ktct-m4ARA0mmgRxeGaZIsSHm4NCq/view?usp=drive_link" rel="noopener nofollow" target="_blank">P3 &amp; P4 Briefing slides for Parents 2025</a>
-</p>
-<p><a href="https://drive.google.com/file/d/1__Vc3Si_4Cin--vbkY0hKxer6Eyhj_X3/view?usp=drive_link" rel="noopener nofollow" target="_blank">P3 Classroom slides 2025</a>
-</p>
-<p><a href="https://drive.google.com/file/d/1QZyGNNnnlzuCZts5s2IjUex0yJywwXCV/view?usp=drive_link" rel="noopener nofollow" target="_blank">P4 Classroom slides 2025</a>
-<br><strong>Primary 5 &amp; 6 </strong>
-<br><a href="https://drive.google.com/file/d/1w7cXeZwehUbrFdL026_ZivJFOdVYvzRo/view?usp=drive_link" rel="noopener nofollow" target="_blank">P5 &amp; P6 Briefing slides for Parents 2025</a>
-<br><a href="https://drive.google.com/file/d/1fsl9KEVf3133Xl0SEXouZnh11_M_BvG4/view?usp=drive_link" rel="noopener nofollow" target="_blank">P5 Classroom slides 2025</a>
-<br><a href="https://drive.google.com/file/d/1f6zOAOaJ7pgKZNbCEsLlNtWeqMVn3rBU/view?usp=drive_link" rel="noopener nofollow" target="_blank">P6 Classroom slides_2025</a>
-</p>
+<p>To be updated</p>
 </td>
 </tr>
 <tr>
@@ -235,9 +221,8 @@ approved calculator/dictionary lists, please click <a href="https://www.seab.gov
 <br>2026 Primary 6 Prelim exam scope:
 <br>To be updated
 <br>
-<br>2025 PSLE Results Release:
-<br><a href="/files/2025_PSLE_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">2025 PSLE Briefing Slides</a>
-</p>
+<br>2026 PSLE Results Release:
+<br>To be updated</p>
 </td>
 </tr>
 <tr>
@@ -257,46 +242,6 @@ download the forms.</p>
 <p>For more information regarding Pupil Insurance, please refer to the attachment:
 <br><a href="/files/Claim_procedures.pdf" rel="noopener noreferrer nofollow" target="_blank">Insurance Claim</a>
 <br>To make a claim, click <a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Resources for Parents</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Schoolbag.sg
-<br>Please click <a href="https://www.schoolbag.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-access Schoolbag.sg.
-<br>
-<br>Resource Kit - Transitioning Back to School
-<br><a href="/files/pk1.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Kit - Transitioning Back to School.pdf</a> 
-<br>
-<br>Resource Kit - School Holiday Edition
-<br><a href="/files/pk2.pdf" rel="noopener noreferrer nofollow" target="_blank">Resource Kit - School Holiday Edition.pdf</a> 
-<br>
-<br>Updates on PSLE Scoring &amp; S1 Posting from 2021
-<br><a href="/files/PSLE%202021%20Briefing%20Slides%20for%20Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">PSLE 2021 Briefing Slides for Parents.pdf</a> 
-<br>
-<br><strong>Primary One-related Resources</strong> 
-<br>• Choosing the "right" primary school: Click <a href="https://schoolbag.sg/story/choosing-the-right-primary-school-for-your-child?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=2015#.VZYRMtKqqkr" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-<br>• How should I choose a suitable primary school for my child?: Click
-<a href="https://schoolbag.sg/story/how-should-i-choose-a-suitable-primary-school-for-my-child?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=2015#.VZYRM9Kqqkq" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-<br>• Factors to consider when choosing a primary school: Click <a href="https://www.youtube.com/watch?v=bGS1QGwsaxA&amp;feature=player_embedded" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-watch the video.
-<br>• Preparing your child for Primary One: Click <a href="https://www.youtube.com/watch?feature=player_embedded&amp;v=l0EnKuLTHpQ" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-watch the video.
-<br>
-<br>Are Values Taught or Caught?
-<br>Click <a href="https://schoolbag.sg/story/are-values-taught-or-caught#.VN_MzNM_vXQ.mailto" rel="noopener noreferrer nofollow" target="_blank">here </a>to
-watch the video.
-<br>
-<br><strong>Parent Partnership </strong>
-<br>• How Parents Can Support Their Children In The Learning of Malay Language
-in Primary Schools: Click <a href="https://www.schoolbag.sg/story/how-parents-can-support-their-children-in-the-learning-of-malay-language-in-primary-schools?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=2016#.VwR8gyB97IU" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-<br>• How Parents Can Support Their Children In The Learning of Chinese Language
-in Primary Schools: Click <a href="https://www.schoolbag.sg/story/support-the-learning-of-chinese-language-in-pri-sch?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=2016#.VwR59iB97IU" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-<br>• Guide for Parents on Setting Parental Controls: Click <a href="https://www.schoolbag.sg/story/guide-for-parents-on-setting-parental-controls?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=2016#.VwR6ISB97IU" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-<br>• Supporting Children With Dyslexia: Click <a href="https://www.schoolbag.sg/story/supporting-children-with-dyslexia?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=2016#.VyienXF97IV" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 <tr>
