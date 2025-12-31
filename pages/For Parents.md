@@ -246,39 +246,6 @@ download the forms.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Resources for Parents</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Resource Kit - School Holiday Edition
-<br><a href="/files/pk2.pdf" rel="noopener noreferrer nofollow" target="_blank">Resource Kit - School Holiday Edition.pdf</a> 
-<br>
-<br>Updates on PSLE Scoring &amp; S1 Posting from 2021
-<br><a href="/files/PSLE%202021%20Briefing%20Slides%20for%20Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">PSLE 2021 Briefing Slides for Parents.pdf</a> 
-<br>
-<br><strong>Primary One-related Resources</strong> 
-<br>• Choosing the "right" primary school: Click <a href="https://schoolbag.sg/story/choosing-the-right-primary-school-for-your-child?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=2015#.VZYRMtKqqkr" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-<br>• How should I choose a suitable primary school for my child?: Click
-<a href="https://schoolbag.sg/story/how-should-i-choose-a-suitable-primary-school-for-my-child?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=2015#.VZYRM9Kqqkq" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-<br>• Factors to consider when choosing a primary school: Click <a href="https://www.youtube.com/watch?v=bGS1QGwsaxA&amp;feature=player_embedded" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-watch the video.
-<br>• Preparing your child for Primary One: Click <a href="https://www.youtube.com/watch?feature=player_embedded&amp;v=l0EnKuLTHpQ" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-watch the video.
-<br>
-<br>Are Values Taught or Caught?
-<br>Click <a href="https://schoolbag.sg/story/are-values-taught-or-caught#.VN_MzNM_vXQ.mailto" rel="noopener noreferrer nofollow" target="_blank">here </a>to
-watch the video.
-<br>
-<br><strong>Parent Partnership </strong>
-<br>• How Parents Can Support Their Children In The Learning of Malay Language
-in Primary Schools: Click <a href="https://www.schoolbag.sg/story/how-parents-can-support-their-children-in-the-learning-of-malay-language-in-primary-schools?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=2016#.VwR8gyB97IU" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-<br>• How Parents Can Support Their Children In The Learning of Chinese Language
-in Primary Schools: Click <a href="https://www.schoolbag.sg/story/support-the-learning-of-chinese-language-in-pri-sch?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=2016#.VwR59iB97IU" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-<br>• Guide for Parents on Setting Parental Controls: Click <a href="https://www.schoolbag.sg/story/guide-for-parents-on-setting-parental-controls?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=2016#.VwR6ISB97IU" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-<br>• Supporting Children With Dyslexia: Click <a href="https://www.schoolbag.sg/story/supporting-children-with-dyslexia?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=2016#.VyienXF97IV" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Subject-based Banding</p>
 </td>
 <td rowspan="1" colspan="1">
