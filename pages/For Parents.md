@@ -180,7 +180,8 @@ access the catalogue.</p>
 <br>Briefing for Parents</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be updated</p>
+<p>Please click <a href="https://drive.google.com/file/d/1SPH3wXifyr7BL0lMkFoacBB20hFo1_tt/view?usp=drive_link" rel="noopener nofollow" target="_blank">here</a> to
+view the slides.</p>
 </td>
 </tr>
 <tr>
