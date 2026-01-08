@@ -66,7 +66,7 @@ community and Singapore.</p>
 excitement and hope.
 <br>Together — teachers, parents, partners and pupils — we will continue to
 nurture the hearts and minds of every child, keeping our school rooted
-in strong values while reaching confidently toward the future.</p>
+in strong values while reaching confidently towards the future.</p>
 <p>With warm regards,
 <br><strong>Mdm Nurazian Bajuri</strong>
 <br><strong>Principal</strong>
