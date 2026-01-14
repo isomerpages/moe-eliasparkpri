@@ -427,8 +427,6 @@ variant: tiptap
 </p>
 <p><a href="mailto: lee_jie_yin_mitchelle@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Mitchelle Lee</a>
 </p>
-<p></p>
-<p></p>
 </td>
 </tr>
 <tr>
