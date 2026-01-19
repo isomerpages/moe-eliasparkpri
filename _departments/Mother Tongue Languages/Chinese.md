@@ -46,7 +46,6 @@ Chinese New Year.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CNY2025_1" src="/images/CNY2025_1.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CNY2025_2" src="/images/CNY2025_2.jpg">
 </div>
@@ -65,9 +64,24 @@ engagement.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MTL2025_1" src="/images/MTL2025_1.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MTL2025_2" src="/images/MTL2025_2.jpg">
+</div>
+<ul>
+<li>
+<p>The P3 cultural camp<strong> (文化营)</strong> 
+<br>The Primary 3 Cultural Camp allows students to participate in a variety
+of interesting programmes related to Chinese culture. Activities include
+children’s literature appreciation and other cultural activities. Through
+these programmes, students experience Chinese culture and develop a better
+understanding of traditional Chinese customs and practices.</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_Cultural_Camp_2025_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_Cultural_Camp_2025_2.jpg">
 </div>
 <ul>
 <li>
@@ -102,26 +116,14 @@ in this programme.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CCM 2025_1" src="/images/CCM_2025_1.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CCM 2025_2" src="/images/CCM_2025_2.jpg">
 </div>
 <ul>
 <li>
-<p><strong>The P3 cultural camp (文化营)</strong> 
-<br>The P3 cultural camp was held in term 1. All Primary 3 students participated
-in interesting programmes such as children’s literature appreciation and
-activities related to Chinese culture. Through a series of activities,
-the students experienced and learnt more about the Chinese traditional
-culture.</p>
+<p></p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="P3 Cultural Camp 2025_1" src="/images/P3_Cultural_Camp_2025_1.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="P3 Cultural Camp 2025_2" src="/images/P3_Cultural_Camp_2025_2.jpg">
-</div>
 <p></p>
 <p></p>
