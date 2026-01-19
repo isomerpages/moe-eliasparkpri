@@ -11,7 +11,8 @@ variant: tiptap
 <br>Ms Ong Hui Hui
 <br>Mr Kanan S/O Perumal
 <br>Ms Que Yi
-<br>Ms Joyce Khong</p>
+<br>Ms Joyce Khong
+<br>Mrs Leo</p>
 <h4>Schedule</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -57,12 +58,12 @@ and appreciation in orchestra members</p>
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRtUwmmRSEto_gnDIftO-tFSLJrEy6q_FYPk04uyGSQqGKrv1YEBPmYIKNZcR6u2NIUfHnBetdUAwf-/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRtUwmmRSEto_gnDIftO-tFSLJrEy6q_FYPk04uyGSQqGKrv1YEBPmYIKNZcR6u2NIUfHnBetdUAwf-/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS1fHcwUd4i20tH5VtPbkSZsu-clULtXxONKJPXtcnQ_J-TTqwchZi4zZpmbuV0dab1EeOAecu3FDa9/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS1fHcwUd4i20tH5VtPbkSZsu-clULtXxONKJPXtcnQ_J-TTqwchZi4zZpmbuV0dab1EeOAecu3FDa9/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
 </div>
 <p></p>
