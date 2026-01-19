@@ -4,7 +4,7 @@ permalink: /useful-link/
 variant: tiptap
 description: ""
 ---
-<h4>Useful Link</h4>
+<h4>Useful Links</h4>
 <p>For more information about MOE Kindergarten, you can visit the following
 websites :</p>
 <p></p>
