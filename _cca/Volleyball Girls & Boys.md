@@ -8,6 +8,7 @@ variant: tiptap
 <h4>Teachers-in-charge</h4>
 <p></p>
 <p><a href="mailto:lee_jian_jie_dion@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Dion Lee</u></a>
+<br>Mdm Sri Noriehan
 <br>Ms Gil Tan
 <br>Mdm Sarina Bte Salleh
 <br>Ms Siti Aisyah Binte Yacob
@@ -37,11 +38,11 @@ attitude in students.</p>
 <h4>Awards (Girls)</h4>
 <p>Please refer to the Achievements tab on the Home page.</p>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTLMDZn7582xkesv5PVfzoujgJGnB_u2GHzn4c-f4GCd5PhxiHAAP187mhtrLBRLuWso_2ITjHYBgOn/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTLMDZn7582xkesv5PVfzoujgJGnB_u2GHzn4c-f4GCd5PhxiHAAP187mhtrLBRLuWso_2ITjHYBgOn/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4>Awards (Boys)</h4>
 <p>Please refer to the Achievements tab on the Home page.</p>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqcq_g6J5IoD2VMLrDvhGIvCjsuN2H46LcAZ5K5COx6Z1XtyetueGHWJmmrG6woA/embed?start=true&amp;amp;loop=true&amp;amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqcq_g6J5IoD2VMLrDvhGIvCjsuN2H46LcAZ5K5COx6Z1XtyetueGHWJmmrG6woA/embed?start=true&amp;amp;loop=true&amp;amp;delayms=3000"></iframe>
 </div>
 <p></p>
