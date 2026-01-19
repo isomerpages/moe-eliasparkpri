@@ -35,10 +35,12 @@ culture.&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Chinese New Year Celebration <strong>（农历新年庆祝会）</strong> 
-<br>Chinese New Year was celebrated on 28th January this year to promote the
-understanding of Chinese traditions and customs. With a better understanding
-of this festival, students are more aware of the Chinese culture and the
-values behind the customs and traditions.</p>
+<br>The Chinese New Year Celebration promotes students’ understanding of Chinese
+traditions and customs. Through this celebration, students learn about
+the significance of Chinese New Year and develop greater awareness of Chinese
+culture. With a better understanding of the festival, students are able
+to appreciate the values behind the customs and traditions associated with
+Chinese New Year.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
@@ -51,11 +53,13 @@ values behind the customs and traditions.</p>
 <ul>
 <li>
 <p>Mother Tongue Language (MTL) Fortnight <strong>（母语双周）</strong> 
-<br>The objective of MTL fortnight is to nurture the joy of learning by creating
-a conducive environment and to provide platforms for our students to use
-the language. It was held in the 1st and 2nd weeks of term 2. A wide range
-of activities such as Chinese games booth, cultural lessons related to
-MTL language and culture were conducted.</p>
+<br>The Mother Tongue Language (MTL) Fortnight aims to nurture the joy of
+learning by creating a conducive environment for students to use their
+Mother Tongue Languages. It provides students with platforms to practise
+and apply their language skills in meaningful contexts. A wide range of
+activities, such as Chinese games booths and cultural lessons related to
+MTL language and culture, are conducted to support students’ learning and
+engagement.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
