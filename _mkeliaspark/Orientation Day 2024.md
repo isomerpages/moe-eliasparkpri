@@ -23,11 +23,8 @@ families feel supported as their children embark on this exciting milestone.</p>
 joyful learning experiences, growth, and discoveries. Together, we will
 nurture each child’s curiosity, confidence, and love for learning as they
 begin their MK journey with us at Elias Park.</p>
-<p><a href="https://youtu.be/Cz55HPjPHYY" rel="noopener nofollow" target="_blank">Click here to view slideshow</a>
-</p>
-<p><a href="/files/mk_k1_orientation_materials.pdf" rel="noopener nofollow" target="_blank">Click here to view MK Orientation Materials</a>
-</p>
-<p><a href="/files/kcare_orientation_materials.pdf" rel="noopener nofollow" target="_blank">Click here to view KCare Orientation Materials</a>
+<p><a href="/files/MK_Slides_for_K1_Orientation_2025_final.pdf" rel="noopener nofollow" target="_blank">MK Slides for K1 Orientation 2025</a>
+<br><a href="/files/KCare_Slides_for_K1_Orientation_2025_final.pdf" rel="noopener nofollow" target="_blank">KCare Slides for K1 Orientation 2025</a>
 </p>
 <p></p>
 <p></p>
