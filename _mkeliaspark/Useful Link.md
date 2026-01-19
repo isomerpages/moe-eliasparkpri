@@ -17,5 +17,12 @@ websites :</p>
 <p>Curriculum page: <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment</a>
 </p>
 </li>
+<li>
+<p>MK Uniform Supplier Contact</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MK_Useful Link" src="/images/MK_Useful_Link.png">
+</div>
+</li>
 </ol>
 <p></p>
