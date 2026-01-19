@@ -48,7 +48,7 @@ Holistic Assessment of the students are carried out.&nbsp;</p>
 <h5>Programme Highlights</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Reading Programme
+<p><strong>Reading Programme </strong>
 <br>Tamil Department places great emphasis on reading. As we know, reading
 plays a vital role in language acquisition. In order to promote reading,
 Tamil students are encouraged to read more books and record in the reading
@@ -62,7 +62,7 @@ called “Sutti Mayil” is also subscribed for P4 to P6 students.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>SOAR Reading Programme
+<p><strong>SOAR Reading Programme </strong>
 <br>(Spark interest, Open minds, Appreciate cultural roots, Rise as a bilingual
 leader)
 <br>The MTL SOAR reading programme hopes to strengthen efforts to instill
@@ -84,7 +84,7 @@ to record the books that they have read.&nbsp;</p>
 </div>
 </li>
 <li>
-<p>Mother Tongue Language Fortnight
+<p><strong>Mother Tongue Language Fortnight </strong>
 <br>The Tamil Department organises various activities in conjunction with
 the Mother Tongue Language Fortnight. Singing Competition for P1, Character
 Portrayal Competition for P2, Story-telling competition for P3, Twisted
@@ -97,7 +97,7 @@ the improvised Taboo game in Tamil.</p>
 </ul>
 <ul>
 <li>
-<p>Mother Tongue Support Programme
+<p><strong>Mother Tongue Support Programme </strong>
 <br>This programme is for students in Primary 3 and Primary 4.&nbsp;&nbsp;MTSP
 caters to students who need additional support in the learning of Mother
 Tongue. The students are identified by their respective schools based on
@@ -114,7 +114,7 @@ in this programme is small. Lessons are conducted during curriculum time.</p>
 </div>
 </li>
 <li>
-<p>Cultural Activities
+<p><strong>Cultural Activities </strong>
 <br>The P5 Tamil students had the Villupaatu Workshop, an ancient form of
 musical story-telling on 31st March and 1st April in conjunction with the
 Mother-Tongue Language Fortnight. During the workshop, students learnt
@@ -132,7 +132,7 @@ students improve their spoken, listening and reading skills.</p>
 </div>
 </li>
 <li>
-<p>Deepavali
+<p><strong>Deepavali </strong>
 <br>Deepavali is celebrated each year to promote the understanding of Indian
 traditions and customs. The objective is to have a fun-filled Deepavali
 celebration for the students and to enrich them with traditional culture
@@ -144,7 +144,7 @@ and values.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>External Competitions
+<p><strong>External Competitions </strong>
 <br>Our students will be taking part in various competitions organised by
 the Telok Blangah CC. Students from P2 will take part in the Reading competition.
 P3 and P4 students will take part in the story-telling competition and
