@@ -102,14 +102,13 @@ of Chinese culture.</p>
 <ul>
 <li>
 <p><strong>Conversational Chinese and Malay Programme</strong> 
-<br>The Conversational Chinese and Malay (CCM) Programme was conducted for
-the Primary 3 and 4 students in Term 2. This is a good platform for students
-to strengthen bonds with their friends of different races and to appreciate
-Chinese and Malay cultures and values. Through the CCM programme, students
+<br>The Conversational Chinese and Malay (CCM) Programme provides a platform
+for Primary 3 and 4 students to interact with peers of different races.
+Through the programme, students strengthen bonds with their friends and
+develop an appreciation of Chinese and Malay cultures and values. Students
 acquire basic proficiency in either Mandarin or Malay and are exposed to
-traditional cultures and norms of those communities through fun and engaging
-cultural activities. All P3 and P4 students are encouraged to participate
-in this programme.</p>
+traditional cultures and norms through fun and engaging cultural activities.
+All Primary 3 and 4 students are encouraged to participate in this programme.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
@@ -118,11 +117,4 @@ in this programme.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CCM 2025_2" src="/images/CCM_2025_2.jpg">
 </div>
-<ul>
-<li>
-<p></p>
-</li>
-</ul>
-<p></p>
-<p></p>
 <p></p>
