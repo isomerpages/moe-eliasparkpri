@@ -86,11 +86,11 @@ understanding of traditional Chinese customs and practices.</p>
 <ul>
 <li>
 <p>Primary 4 and 5 Cultural Performances <strong>(文化随意门)</strong> 
-<br>As part of their Chinese cultural learning journey, the Primary 4 students
-watched the performance, <em>Journey to the West – Borrowing the Plantain Fan</em>,
-while the Primary 5 students enjoyed the crosstalk show, <em>Here Comes Crosstalk 2025</em>.
-The objective of the learning journey is to enhance students’ interest
-in Chinese Language and culture.</p>
+<br>As part of their Chinese cultural learning journey, Primary 4 and 5 students
+watch a drama performance. This experience supports students’ learning
+of the Chinese Language and culture. The objective of this learning journey
+is to enhance students’ interest in Chinese Language and deepen their appreciation
+of Chinese culture.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
