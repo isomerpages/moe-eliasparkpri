@@ -6,9 +6,9 @@ description: ""
 ---
 <h3>MK Curriculum</h3>
 <p>Consists of two flagship programmes:</p>
-<p><strong>•   HI-Light Programme and</strong>
+<p><strong>• HI-Light Programme and</strong>
 </p>
-<p><strong>•  Starlight Literacy (English and Mother Tongue Languages) Programme</strong>
+<p><strong>• Starlight Literacy (English and Mother Tongue Languages) Programme</strong>
 </p>
 <p>Has activities around four broad themes and relevant topics</p>
 <p>Uses teaching and learning resources with a distinctive Singapore flavour</p>
@@ -75,8 +75,7 @@ language learning</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide_6a.png">
 </div>
 <h4>MK Programme - Timetable (AM Session)</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ProgTT2.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="MK Timetable AM Session" src="/images/MK_Timetable_AM_Session.png">
 </div>
 <p></p>
