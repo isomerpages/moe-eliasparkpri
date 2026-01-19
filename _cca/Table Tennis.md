@@ -10,7 +10,8 @@ variant: tiptap
 <p><a href="mailto:chen_yixiang@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Chen Yi Xiang</a>
 <br>Mr Zhou Yuan
 <br>Mdm Fu Ye
-<br>Mdm Wu Xun</p>
+<br>Mdm Wu Xun
+<br>Mrs Rajesh</p>
 <h5>Schedule</h5>
 <ul data-tight="true" class="tight">
 <li>
@@ -31,6 +32,6 @@ and team spirit.
 <h4>Awards</h4>
 <p>Please refer to the Achievements tab on the Home page.</p>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTj0HLKSmIi6Pq66o-XE37uooPUkr2pLLBhg8aNPdxr8QR8gznbI-3V4Mje7vrfHI6TvIdqLHroo69w/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTj0HLKSmIi6Pq66o-XE37uooPUkr2pLLBhg8aNPdxr8QR8gznbI-3V4Mje7vrfHI6TvIdqLHroo69w/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
 </div>
 <p></p>
