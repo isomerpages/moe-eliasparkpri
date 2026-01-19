@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Swift Striders</strong></h3>
-<h4>Teacher-in-charge</h4>
+<h4>Teacher(s)-in-charge</h4>
 <p><a href="mailto: fathurrahman_abdul_wahed@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Fathurrahman</a>
 </p>
 <p><strong>Schedule</strong>
