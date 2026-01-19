@@ -34,7 +34,7 @@ culture.&nbsp;</p>
 <h5>Programme Highlights</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chinese New Year Celebration <strong>（农历新年庆祝会）</strong> 
+<p><strong>Chinese New Year Celebration （农历新年庆祝会）</strong> 
 <br>The Chinese New Year Celebration promotes students’ understanding of Chinese
 traditions and customs. Through this celebration, students learn about
 the significance of Chinese New Year and develop greater awareness of Chinese
@@ -51,7 +51,7 @@ Chinese New Year.</p>
 </div>
 <ul>
 <li>
-<p>Mother Tongue Language (MTL) Fortnight <strong>（母语双周）</strong> 
+<p><strong>Mother Tongue Language (MTL) Fortnight （母语双周）</strong> 
 <br>The Mother Tongue Language (MTL) Fortnight aims to nurture the joy of
 learning by creating a conducive environment for students to use their
 Mother Tongue Languages. It provides students with platforms to practise
@@ -69,7 +69,7 @@ engagement.</p>
 </div>
 <ul>
 <li>
-<p>The P3 cultural camp<strong> (文化营)</strong> 
+<p><strong>Primary 3 Cultural Camp (文化营)</strong> 
 <br>The Primary 3 Cultural Camp allows students to participate in a variety
 of interesting programmes related to Chinese culture. Activities include
 children’s literature appreciation and other cultural activities. Through
@@ -85,7 +85,7 @@ understanding of traditional Chinese customs and practices.</p>
 </div>
 <ul>
 <li>
-<p>Primary 4 and 5 Cultural Performances <strong>(文化随意门)</strong> 
+<p><strong>Primary 4 and 5 Cultural Performances</strong>  <strong>(文化随意门)</strong> 
 <br>As part of their Chinese cultural learning journey, Primary 4 and 5 students
 watch a drama performance. This experience supports students’ learning
 of the Chinese Language and culture. The objective of this learning journey
