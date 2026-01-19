@@ -4,15 +4,10 @@ permalink: /mk-elias-park-open-house-2025/
 variant: tiptap
 description: ""
 ---
-<h4></h4>
-<p>The Open House for MK@Elias Park was held on Saturday, 15 February 2025,
-from 8.30am to 12.30pm.</p>
-<p>The programme which included centre tour, family bonding activities, interactive
-story-telling and chat with our MK educators had allowed the parents and
-their children to have an understanding of the learning experience at our
-centre.</p>
-<p>If you had missed the Open House, you may access the briefing slides
-<a href="https://drive.google.com/file/d/18tFm4Dv6Thl8MvrxxtyziERyhCStZNVU/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_new">here</a>.</p>
+<p>The 2026 Open House for MOE Kindergarten @ Elias Park will be held on
+Saturday, 7 March 2026, from 9.00am to 12.00pm.</p>
+<p>The MK Registration Exercise will take place from 23 to 31 March 2026.</p>
+<p>Stay tuned to this page for more updates and information.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
