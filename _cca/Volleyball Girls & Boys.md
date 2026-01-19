@@ -9,10 +9,9 @@ variant: tiptap
 <p></p>
 <p><a href="mailto:lee_jian_jie_dion@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Dion Lee</u></a>
 <br>Mdm Sri Noriehan
-<br>Ms Gil Tan
 <br>Mdm Sarina Bte Salleh
-<br>Ms Siti Aisyah Binte Yacob
-<br>Ms Narmatha</p>
+<br>Ms Gil Tan
+<br>Ms Rannessa</p>
 <h4>Schedule</h4>
 <ul data-tight="true" class="tight">
 <li>
