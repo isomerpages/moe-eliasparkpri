@@ -12,7 +12,7 @@ variant: tiptap
 <br>Mr Kanan S/O Perumal
 <br>Ms Que Yi
 <br>Ms Joyce Khong
-<br>Mrs Leo</p>
+<br>Mrs Leo Teng Hui</p>
 <h4>Schedule</h4>
 <ul data-tight="true" class="tight">
 <li>
