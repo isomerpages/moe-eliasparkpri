@@ -8,7 +8,7 @@ variant: tiptap
 <h4>Teachers-in-charge</h4>
 <p><a href="mailto:nur_azilla_nazli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nur Azilla Binte Nazli</u></a>
 <br>Mdm Ratnah Binte Rawi
-<br>Mdm Joan Soon</p>
+<br>Ms Yeo Shu Yuan</p>
 <h5>Schedule</h5>
 <ul data-tight="true" class="tight">
 <li>
@@ -80,6 +80,6 @@ Virtual Art Exhibition)</p>
 <p><a href="https://www.syf.gov.sg/art-exhibition/the-online-art-gallery-2021" rel="noopener noreferrer nofollow" target="_blank">https://www.syf.gov.sg/art-exhibition/the-online-art-gallery-2021</a>&nbsp;(SYF
 Online Art Gallery)</p>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSVpmd1ikoMC3xRsk0tU7dMS0zM8USAwVdnWCISvRejAD1LLL_VX8qbKNB5xw75t7baBrOm15LTGn_z/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSVpmd1ikoMC3xRsk0tU7dMS0zM8USAwVdnWCISvRejAD1LLL_VX8qbKNB5xw75t7baBrOm15LTGn_z/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
 </div>
 <p></p>

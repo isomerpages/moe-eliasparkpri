@@ -7,9 +7,11 @@ variant: tiptap
 <h3>Scouts</h3>
 <h4>Teachers-in-charge</h4>
 <p><a href="mailto:carlin_mulyati@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Carlin Tee</a> 
-<br>Mdm Michelle Lim
-<br>Mdm Siddiqah
 <br>Mdm Joy Ong
+<br>Mdm Siddiqah
+<br>Mdm Michelle Lim
+<br>
+<br>
 <br>
 </p>
 <h4>Schedule</h4>
@@ -136,7 +138,7 @@ Join the Scouts today!</p>
 </div>
 <p>Congratulations to our Akela recipients 2022</p>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQwPDHkV0e208BYJXBSh5_ChAyxVSI76O0UwSWtgPWiQVcDgXSCf0hcddLL4ELvTaHb9Tdw51Prd3ox/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQwPDHkV0e208BYJXBSh5_ChAyxVSI76O0UwSWtgPWiQVcDgXSCf0hcddLL4ELvTaHb9Tdw51Prd3ox/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <p></p>

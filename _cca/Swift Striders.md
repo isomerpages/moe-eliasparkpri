@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Swift Striders</strong></h3>
-<h4>Teachers-in-charge</h4>
+<h4>Teacher(s)-in-charge</h4>
 <p><a href="mailto: fathurrahman_abdul_wahed@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Fathurrahman</a>
 </p>
 <p><strong>Schedule</strong>
@@ -49,6 +49,6 @@ Swift Striders encourages a healthy, active lifestyle. By promoting discipline,
 teamwork, and fitness, we aim to equip students with the skills and mindset
 needed to excel in both sports and life.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTZ54HX7JFmqO40hVSzQwI4LXXbBTrMzecvDtoXzCHsK13Qeq789kvxbOIl9l_a7PZU27Q_pac5Tpuf/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTZ54HX7JFmqO40hVSzQwI4LXXbBTrMzecvDtoXzCHsK13Qeq789kvxbOIl9l_a7PZU27Q_pac5Tpuf/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>

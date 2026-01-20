@@ -7,8 +7,7 @@ description: ""
 <h3>Basketball</h3>
 <h4>Teachers-in-charge</h4>
 <p><a href="mailto: tan_li_xian@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Bernice Tan</a>
-</p>
-<p>Mdm Afiqah</p>
+<br>Mdm Afiqah</p>
 <p><strong>Schedule</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -52,6 +51,6 @@ their basketball abilities and physical fitness. Students will also gain
 a deeper understanding of basketball’s rules, strategies, and game dynamics,
 applying them in practice and play.</p>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSG9nepQGfesGK7Drze2teLS1GpO7VE86D9aUnAsFgOLXhlMnXZUbG1fIRw_9v7OuU6QptJWz5i351p/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSG9nepQGfesGK7Drze2teLS1GpO7VE86D9aUnAsFgOLXhlMnXZUbG1fIRw_9v7OuU6QptJWz5i351p/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
