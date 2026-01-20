@@ -8,7 +8,7 @@ variant: tiptap
 <h4>Teachers-in-charge</h4>
 <p><a href="mailto:nur_azilla_nazli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nur Azilla Binte Nazli</u></a>
 <br>Mdm Ratnah Binte Rawi
-<br>Ms Yeo Shu Yuan</p>
+<br>Mdm Yeo Shu Yuan</p>
 <h5>Schedule</h5>
 <ul data-tight="true" class="tight">
 <li>
