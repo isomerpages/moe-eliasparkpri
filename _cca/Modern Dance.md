@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3>Modern Dance</h3>
 <h4>Teachers-in-charge</h4>
-<p><a href="mailto:siti_nur_aisyah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Nur Aisyah</a>
+<p><a href="mailto:siti_aisyah_yacob@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Siti Aisyah Bte Yacob</u></a>
 <br>Mrs Dawn Lim
 <br>Ms Tan Koon Bin</p>
 <h3>Schedule</h3>
@@ -39,6 +39,6 @@ variant: tiptap
 <h4>Awards</h4>
 <p>Please refer to the Achievements tab on the Home page.</p>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRN_uQBzs_YtfQbc_kjSzk12m-z2UvHYuUTxQVSrcRej_7pkT0cBqEYdHiEwlnpTMGqN8fV8oJ5N8YJ/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRN_uQBzs_YtfQbc_kjSzk12m-z2UvHYuUTxQVSrcRej_7pkT0cBqEYdHiEwlnpTMGqN8fV8oJ5N8YJ/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
 </div>
 <p></p>
