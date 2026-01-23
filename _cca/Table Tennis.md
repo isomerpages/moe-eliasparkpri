@@ -11,7 +11,7 @@ variant: tiptap
 <br>Mr Zhou Yuan
 <br>Mdm Fu Ye
 <br>Mdm Wu Xun
-<br>Mrs Rajesh</p>
+<br>Mdm Rajesh Raja Shobana</p>
 <h5>Schedule</h5>
 <ul data-tight="true" class="tight">
 <li>
