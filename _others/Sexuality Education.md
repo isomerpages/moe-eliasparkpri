@@ -67,32 +67,19 @@ themselves safe from sexuality-related risks.</p>
 <p><strong>At Elias Park Primary School, the following Sexuality Education lessons will be taught in&nbsp;2026:</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SEd1" src="/images/SEd_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SEd P5A" src="/images/SEd_P5_A.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SEd P5B" src="/images/SEd_P5_B.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SEd 1" src="/images/SEd_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SEd P6" src="/images/SEd_P6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="2026 SEd 1" src="/images/1.png">
 </div>
 <p><strong>Information for Parents</strong>
 </p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
-out of Sexuality Education lessons, and/or supplementary Sexuality Education
-programmes by MOE-approved external providers.</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
-children out of the Sexuality Education lessons need to complete an opt-out
-form. This form will be communicated to parents at the start of the year
-and is also downloadable&nbsp;here:&nbsp;
+<p>8. Parents may opt their children out of Sexuality Education lessons,
+and/or supplementary Sexuality Education programmes by MOE-approved external
+providers.</p>
+<p>9. Parents who wish to opt their children out of the Sexuality Education
+lessons need to complete an opt-out form. This form will be communicated
+to parents at the start of the year and is also available here:&nbsp;
 <br><a href="/files/2025_Parents_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">2025 Parents Opt Out Form</a>
 </p>
-<p>The completed opt-out form is to be submitted by 31/01/2025.</p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 65844393
-for discussion or to seek clarification about the school’s Sexuality Education
-programme.</p>
+<p>The completed opt-out form is to be submitted by 02/02/2026.</p>
+<p>10. Parents can contact the school at 65844393 for discussion or to seek
+clarification about the school’s Sexuality Education programme.</p>
+<p></p>
