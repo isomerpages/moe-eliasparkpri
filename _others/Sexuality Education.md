@@ -24,12 +24,12 @@ sexuality matters.
 others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
 <p>3. The <strong>Key Messages</strong> of Sexuality Education are:</p>
-<p>(a) Love and respect yourself as you love and respect others;</p>
-<p>(b) Build positive relationships based on love and respect (which are
-the foundation for strong families);</p>
-<p>(c) Make responsible decisions for yourself, your family and society;
-and</p>
-<p>(d) Abstinence before marriage is the best protection against STIs/HIV
+<p>(a) Love and respect yourself as you love and respect others;
+<br>(b) Build positive relationships based on love and respect (which are
+the foundation for strong families);
+<br>(c) Make responsible decisions for yourself, your family and society;
+and
+<br>(d) Abstinence before marriage is the best protection against STIs/HIV
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may&nbsp;click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
