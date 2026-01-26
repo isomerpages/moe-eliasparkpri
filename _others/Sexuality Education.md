@@ -55,15 +55,16 @@ cognitive or emotional maturity to modulate their behaviours. Furthermore,
 our young are also exposed to a wide range of influences that could endanger
 health and undermine the integrity of the family. Our students require
 close guidance so that they can respond with discernment to the sexual
-messages in the media and other sources.</p>
-<p>7. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP)
+messages in the media and other sources.
+<br>
+<br>7. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP)
 at Primary 5 and 6. Through these lessons, students will learn healthy
 ways to manage the physiological, social and emotional changes in their
 growing years. They learn to build healthy and rewarding relationships
 with others, including those with members of the opposite sex. Students
 are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
-<p><strong>At Elias Park Primary School, the following Sexuality Education lessons will be taught in&nbsp;2025:</strong>
+<p><strong>At Elias Park Primary School, the following Sexuality Education lessons will be taught in&nbsp;2026:</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SEd1" src="/images/SEd_1.jpg">
