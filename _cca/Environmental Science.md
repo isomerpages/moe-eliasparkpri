@@ -21,21 +21,84 @@ variant: tiptap
 </li>
 </ul>
 <h4>Objectives</h4>
-<ul>
+<p>1. Critical &amp; Inventive Thinking</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>experience hands-on activities</p>
+<p>Apply STEM concepts to <strong>design, build and improve</strong> solutions
+to real-world problems.</p>
 </li>
 <li>
-<p>increase environmental awareness</p>
+<p>Generate <strong>creative ideas</strong> and explore multiple solutions
+through inquiry and experimentation.</p>
 </li>
 <li>
-<p>problem solve through creative ways</p>
+<p>Use <strong>logical reasoning and basic computational thinking</strong> to
+solve challenges.</p>
+</li>
+</ul>
+<p>2. Resilience &amp; Adaptability</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstrate <strong>perseverance</strong> when projects do not work as planned.</p>
 </li>
 <li>
-<p>further develop Science process skills</p>
+<p>Adapt strategies and designs based on testing, feedback and reflection.</p>
 </li>
 <li>
-<p>develope social skills through teamwork</p>
+<p>Develop confidence in <strong>learning from mistakes.</strong>
+</p>
+</li>
+</ul>
+<p>3. Collaboration &amp; Communication</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Work <strong>effectively in teams</strong>, taking on different roles and
+responsibilities.</p>
+</li>
+<li>
+<p>Share ideas clearly through <strong>simple explanations, drawings, models or presentations.</strong>
+</p>
+</li>
+<li>
+<p>Listen respectfully and build on others’ ideas.</p>
+</li>
+</ul>
+<p>4. Digital Literacy &amp; Technology Use</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Use age-appropriate <strong>digital tools, coding platforms and simple technologies</strong> responsibly.</p>
+</li>
+<li>
+<p>Understand how technology can be used to <strong>solve problems and improve lives.</strong>
+</p>
+</li>
+</ul>
+<p>5. Civic Literacy, Global Awareness &amp; Cross-Cultural Skills</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Recognise how STEM solutions can <strong>benefit people and the environment.</strong>
+</p>
+</li>
+<li>
+<p>Develop awareness of <strong>sustainability and environmental care</strong> in
+design choices.</p>
+</li>
+<li>
+<p>Show empathy and responsibility when creating solutions for others.</p>
+</li>
+</ul>
+<p>6. Character &amp; Values Development</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstrate <strong>integrity, responsibility and teamwork</strong> during
+STEM activities.</p>
+</li>
+<li>
+<p>Take ownership of learning and contribute positively to the group.</p>
+</li>
+<li>
+<p>Grow as <strong>Creators, Connectors and Contributors</strong> to the school
+and community.</p>
 </li>
 </ul>
 <h4>Description</h4>
@@ -126,6 +189,6 @@ their CCA sessions.</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRIcnC82iWbMSY76F7w2wVx-XcZzm_8BHtj-OK2NtiyfAcRSN8woG-gqpLAWGFwyvNFz7ljHL-CwGlJ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRIcnC82iWbMSY76F7w2wVx-XcZzm_8BHtj-OK2NtiyfAcRSN8woG-gqpLAWGFwyvNFz7ljHL-CwGlJ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
