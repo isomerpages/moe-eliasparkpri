@@ -4,7 +4,7 @@ permalink: /cca/environmental-science/
 description: ""
 variant: tiptap
 ---
-<h3>Environmental Science</h3>
+<h3>STEM</h3>
 <h5>Teachers-in-charge</h5>
 <p><a href="mailto:long_yuan_chin_bernadette@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Bernadette Long</a>
 <br>Mrs Josie Teo
