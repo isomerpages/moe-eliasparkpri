@@ -29,5 +29,5 @@ variant: markdown
 
 **Scholar**
 
-* [Environmental Science](https://staging.d3975mj8dcgb9n.amplifyapp.com/cca/environmental-science/)
+* [STEM](https://staging.d3975mj8dcgb9n.amplifyapp.com/cca/environmental-science/)
 * [Infocomm Technology (Computing)](https://staging.d3975mj8dcgb9n.amplifyapp.com/cca/infocomm-technology-computing/)
