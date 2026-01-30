@@ -50,7 +50,7 @@ and gained invaluable experiences that enhanced their linguistic and creative
 skills.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sayembara Bahasa 2024" src="/images/Sayembara_Bahasa_2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="Sayembara Bahasa 2025" src="/images/Sayembara_Bahasa_2025.png">
 </div>
 </li>
 </ul>
@@ -61,9 +61,11 @@ skills.</p>
 a conducive environment and providing platforms for our students to use
 the mother tongue language. A variety of learning opportunities such as
 cultural lessons related to MTL language and culture will be conducted.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MTL 2025" src="/images/MTL_Fortnight_2025.png">
+</div>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
 <p><strong>SOAR Programme (P1 to P2)</strong>
 <br>At our school, we recognise the immense benefits of reading, including
