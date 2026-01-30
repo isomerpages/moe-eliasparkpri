@@ -91,10 +91,6 @@ students submit short summaries or reflections on what they enjoy about
 the books. These peer‑generated insights help to influence others, inspiring
 more students to pick up the recommended titles and develop a more varied
 and enriching reading journey.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bookflix" src="/images/Bookflix.jpg">
-</div>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Eco‑Tales Writers’ Circle</strong>
@@ -110,10 +106,6 @@ they may suggest alternative endings through writing or illustration, thereby
 exercising both analytical and imaginative abilities. The activity is closely
 aligned with the school’s commitment to sustainable education, offering
 students the joy of learning in an authentic and meaningful setting.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Eco Tales Writers’ Circle" src="/images/Eco_Tales_Writers__Circle.png">
-</div>
 <p><strong>c)&nbsp;&nbsp;&nbsp; Current Affairs Programme</strong>
 </p>
 <p>The school adopts <em>Little Red Dot</em> as a supplementary reading resource
