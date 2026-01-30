@@ -38,7 +38,7 @@ the culture, tradition, literature and history</p>
 <h5>Programmes</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Sayembara Bahasa 2024</strong>
+<p><strong>Sayembara Bahasa 2025</strong>
 <br>Our students participated in a vibrant and enriching competition organised
 collaboratively by Casuarina Primary School, Pasir Ris East MAEC, Pasir
 Ris Central MAEC, and Pasir Ris Elias MAEC. This event provided an excellent
@@ -50,22 +50,24 @@ and gained invaluable experiences that enhanced their linguistic and creative
 skills.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sayembara Bahasa 2024" src="/images/Sayembara_Bahasa_2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="Sayembara Bahasa 2025" src="/images/Sayembara_Bahasa_2025.png">
 </div>
 </li>
 </ul>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Mother Tongue Language (MTL) Fortnight 2024</strong>
+<p><strong>Mother Tongue Language (MTL) Fortnight 2025</strong>
 <br>The intent of the MTL Fortnight is to nurture the joy of learning by creating
 a conducive environment and providing platforms for our students to use
 the mother tongue language. A variety of learning opportunities such as
 cultural lessons related to MTL language and culture will be conducted.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MTL 2025" src="/images/MTL_Fortnight_2025.png">
+</div>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
-<p><strong>SOAR Programme (P1 and P2)</strong>
+<p><strong>SOAR Programme (P1 to P2)</strong>
 <br>At our school, we recognise the immense benefits of reading, including
 fostering stronger intrinsic motivation, enhancing socio-emotional skills,
 and achieving better academic outcomes and global competence. In line with
@@ -79,7 +81,7 @@ reading while appreciating their cultural heritage and developing as confident
 bilingual individuals.</p>
 </li>
 <li>
-<p><strong>MLLPC Cultural Performance Exposure Fund 2024</strong>
+<p><strong>MLLPC Cultural Performance Exposure Fund 2025</strong>
 <br>The Cultural Performance Exposure Fund (CPEF) is a programme by the Malay
 Language Learning and Promotion Committee designed to complement the teaching
 and learning of the Malay Language by providing enriching experiences beyond
@@ -88,12 +90,13 @@ opportunity to enjoy and immerse themselves in a rich and engaging Malay
 cultural performance. This experience not only deepened their appreciation
 for the Malay Language but also sparked their interest in its cultural
 roots, enriching their overall learning journey.</p>
-</li>
-</ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="MLLPC" src="/images/MLLPC.png">
+<img style="width: 100%" height="auto" width="100%" alt="MLLPC 2025" src="/images/MLLPC_2025.png">
 </div>
 <p></p>
+</li>
+</ul>
 <h4>Useful Links</h4>
 <p><a href="https://www.schoolbag.edu.sg/story/how-parents-can-support-their-children-in-the-learning-of-mother-tongue-languages" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/story/how-parents-can-support-their-children-in-the-learning-of-mother-tongue-languages</a>
 </p>
