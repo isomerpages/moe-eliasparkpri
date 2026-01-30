@@ -165,4 +165,36 @@ with the school community, honing their ability to write for a real-world
 audience.</p>
 </li>
 </ul>
-<p></p>
+<p><strong>g)&nbsp;&nbsp;&nbsp; MOE Support Programmes</strong>
+</p>
+<p>The Learning Support Programme (LSP), School-based Dyslexia Remediation
+(SDR) Programme &amp; Reading Remediation Programme (RRP) to be conducted
+for target group of students to address specific learning needs.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Learning Support Programme (LSP)</strong>
+</p>
+</li>
+</ul>
+<p>The LSP is a specialised early intervention programme that aims to provide
+additional support in language and literacy skills to students in Primary
+1 and 2.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>School-based Dyslexia Remediation (SDR)</strong>
+</p>
+</li>
+</ul>
+<p>The SDR programme is a two-year intervention programme for Primary 3 and
+4 students diagnosed with dyslexia through a systematic screening process
+by MOE's psychologists.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Reading Remediation Programme (RRP)</strong>
+</p>
+</li>
+</ul>
+<p>The RRP 2.0 is a two-year levelling-up programme conducted at Primary
+3 and 4 that aims to raise the reading competency of students who are not
+making sufficient progress in the development of literacy skills at the
+end of Primary 2, 3 and 4.</p>
