@@ -38,7 +38,7 @@ the culture, tradition, literature and history</p>
 <h5>Programmes</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Sayembara Bahasa 2024</strong>
+<p><strong>Sayembara Bahasa 2025</strong>
 <br>Our students participated in a vibrant and enriching competition organised
 collaboratively by Casuarina Primary School, Pasir Ris East MAEC, Pasir
 Ris Central MAEC, and Pasir Ris Elias MAEC. This event provided an excellent
@@ -56,7 +56,7 @@ skills.</p>
 </ul>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Mother Tongue Language (MTL) Fortnight 2024</strong>
+<p><strong>Mother Tongue Language (MTL) Fortnight 2025</strong>
 <br>The intent of the MTL Fortnight is to nurture the joy of learning by creating
 a conducive environment and providing platforms for our students to use
 the mother tongue language. A variety of learning opportunities such as
@@ -65,7 +65,7 @@ cultural lessons related to MTL language and culture will be conducted.</p>
 </ul>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>SOAR Programme (P1 and P2)</strong>
+<p><strong>SOAR Programme (P1 to P2)</strong>
 <br>At our school, we recognise the immense benefits of reading, including
 fostering stronger intrinsic motivation, enhancing socio-emotional skills,
 and achieving better academic outcomes and global competence. In line with
@@ -79,7 +79,7 @@ reading while appreciating their cultural heritage and developing as confident
 bilingual individuals.</p>
 </li>
 <li>
-<p><strong>MLLPC Cultural Performance Exposure Fund 2024</strong>
+<p><strong>MLLPC Cultural Performance Exposure Fund 2025</strong>
 <br>The Cultural Performance Exposure Fund (CPEF) is a programme by the Malay
 Language Learning and Promotion Committee designed to complement the teaching
 and learning of the Malay Language by providing enriching experiences beyond
