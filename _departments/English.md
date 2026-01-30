@@ -127,5 +127,42 @@ students compare character motivations and plot developments. Beyond literacy,
 the programme encourages Eliasians to reflect on the core values and leadership
 attributes portrayed in the story, helping them connect the themes of the
 book to their own personal growth.</p>
-<p></p>
+<p><strong>e)&nbsp;&nbsp;&nbsp; Integrated and Authentic Learning Experiences</strong>
+</p>
+<p>We believe that language learning should extend beyond the classroom through
+integrated and authentic experiences that bring STELLAR texts to life.
+Aligned with the themes of each unit of study, these experiences enable
+students to engage meaningfully with the cultural and real-world contexts
+of the texts. Each activity is purposefully selected to complement classroom
+learning.</p>
+<p><strong>f)&nbsp;&nbsp;&nbsp; English Language Enhanced Appreciation Programme (ELEAP)</strong>
+</p>
+<p>The <strong>ELEAP </strong>is designed to cater to our learners' diverse
+abilities and interests. By providing varied platforms for expression,
+the programme allows students with a strong aptitude for English to deepen
+their communication skills and explore the language through creative and
+authentic applications.</p>
+<p>The programme focuses on honing oral communication and critical thinking
+through three main activities:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Wits and Words:</strong> Students participate in the Inter-school
+Debate Championship that builds the oral competencies of verbally talented
+students.</p>
+</li>
+<li>
+<p><strong>Reading Circles (RC):</strong> RC is offered to students who demonstrate
+a readiness to read more widely and critically. This programme aims to
+extend their understanding of the world through exposure to a diverse range
+of age-appropriate, high-quality fiction and non-fiction texts.</p>
+</li>
+<li>
+<p><strong>Student Journalists:</strong> The <strong>Student Journalists</strong> programme
+offers a platform for students interested in writing and media to practise
+authentic communication. By developing their creative and journalistic
+writing skills, students learn to capture and share meaningful stories
+with the school community, honing their ability to write for a real-world
+audience.</p>
+</li>
+</ul>
 <p></p>
