@@ -71,5 +71,8 @@ help your child stay safe and have positive experiences online, you can:</p>
 <h4>Useful Links</h4>
 <p>Here are some useful links for parents:
 <br><a href="https://www.nlb.gov.sg/main/site/sure-elevated" rel="noopener noreferrer nofollow" target="_blank">https://www.nlb.gov.sg/main/site/sure-elevated</a>
-<a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf</a>
+</p>
+<p><a href="https://www.moe.gov.sg/api/media/77a52ade-7d52-41b2-b373-5b01eb228a8b/Parent-Kit---Raising-A-Digitally-Smart-Child.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/api/media/77a52ade-7d52-41b2-b373-5b01eb228a8b/Parent-Kit---Raising-A-Digitally-Smart-Child.pdf</a>
+</p>
+<p><a href="https://www.csa.gov.sg/our-programmes/cybersecurity-outreach/sg-cyber-safe-students/for-parents/resources/" rel="noopener noreferrer nofollow" target="_blank">https://www.csa.gov.sg/our-programmes/cybersecurity-outreach/sg-cyber-safe-students/for-parents/resources/</a>
 </p>
