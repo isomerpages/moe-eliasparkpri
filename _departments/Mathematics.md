@@ -77,15 +77,14 @@ such as a diagram or picture of the problem.</p>
 <p><em>Abstract representation</em>&nbsp;- a student is now capable of representing
 problems by using mathematical notation.&nbsp;</p>
 <h5>Programmes</h5>
-<p>•&nbsp;<strong>&nbsp;Learning Support for Mathematics (LSM) Programme</strong>
-<br>LSM programme is conducted by trained teachers that aims to provide support
-for low progress learners, focussing on developing numeracy skills for
-P1 to P4 students.</p>
-<p>•&nbsp;&nbsp;<strong>F.A.S.T Progamme (Primary 1 to 3)</strong>
+<p>•&nbsp;<strong>&nbsp;Learning Support for Mathematics (LSM) Programme for Primary 1 to Primary 4</strong>
+<br>LSM programme is conducted by trained teachers which aims to provide additional
+support to students in acquiring basic concepts and skills in mathematics.</p>
+<p>•&nbsp;&nbsp;<strong>F.A.S.T Progamme (Primary 1 to Primary 4)</strong>
 <br>F.A.S.T (Fluency, Accuracy, Speed in a given Time) is a programme that
 aims to improve students’ proficiency in performing calculations involving
-the 4 operations. The mastery in this area would help to reduce their cognitive
-load so as to allow students to focus on problem-solving matters.</p>
+the 4 operations. The mastery in this area will help students to reduce
+their cognitive load to allow them to focus on problem-solving matters.</p>
 <p>•&nbsp;&nbsp;<strong>Mathematical Olympiad Competitions (Primary 5 and 6)</strong>
 <br>Eliasians who possess great aptitude for Mathematics are identified for
 this programme. Through the training, they will acquire skills and techniques
