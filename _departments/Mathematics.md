@@ -15,30 +15,29 @@ in an ever-changing world.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>We seek to prepare our students for life by providing them with the essential
-Mathematical knowledge and developing their thinking skills.</p>
+mathematical knowledge and developing their thinking skills.</p>
 </li>
 </ul>
 <h5>Learning Outcomes</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Students who are able to adapt and apply their problem-solving skills
-in daily life.</p>
+<p>Students who can adapt and apply their problem-solving skills in daily
+life.</p>
 </li>
 <li>
-<p>Students who possess both critical and creative thinking</p>
+<p>SStudents who possess both critical and creative thinking.</p>
 </li>
 </ul>
 <h5>Approach/Framework</h5>
 <ul data-tight="true" class="tight">
 <li>
 <p>Curriculum
-<br>Elias Park Primary School adopts the 2013 Mathematics syllabus (P6) and
-the 2021 Mathematics syllabus (P1-P5) which reflects the recent development
-and trends in mathematics education. We emphasise on conceptual understanding,
-skill proficiencies and mathematical processes, reasoning and communications
-which are integral to the development of mathematical problem-solving ability
-to think logically, abstractly, critically and creatively. Below is the
-MOE’s Mathematics Framework.</p>
+<br>Elias Park Primary School adopts the 2021 Mathematics syllabus (P1-P6)
+which reflects the recent development and trends in mathematics education.
+We emphasize conceptual understanding, skill proficiency and mathematical
+processes, reasoning and communications which are integral to the development
+of mathematical problem-solving ability to think logically, abstractly,
+critically and creatively. Below is the MOE’s Mathematics Framework.</p>
 </li>
 </ul>
 <p></p>
@@ -48,16 +47,16 @@ MOE’s Mathematics Framework.</p>
 <p></p>
 <p>The central focus of MOE’s Mathematics Framework is mathematical problem
 solving. This sets the direction for and provides guidance for the Mathematics
-Department in the teaching and learning, and the assessment of mathematics.</p>
+Department in the teaching and learning and the assessment of mathematics.</p>
 <p>•&nbsp;&nbsp;Goals/Objectives
-<br>- To achieve performance in PSLE by maintaining above National
-<br>Average result and improving the quality and quantity passes.
-<br>- To nurture Eliasians to be creative thinkers, self-directed,
-<br>independent learners and innovative problem solvers by enriching
-<br>them with Mathematics content and knowledge skills.</p>
+<br>&nbsp;&nbsp;&nbsp; - To achieve performance in PSLE by maintaining above
+National
+<br>Average result and improving the quality and quantity passes.</p>
+<p>&nbsp;&nbsp;&nbsp; - To nurture Eliasians to be creative thinkers, self-directed,
+<br>independent learners and innovative problem solvers by
+<br>enriching them with mathematics content, knowledge and skills.</p>
 <p>•&nbsp;&nbsp;Focus
 <br>- Visible Learning
-<br>- Multi-disciplinary projects for Primary 3 to Primary 6 levels
 <br>- Experiential Learning through activity-based lessons
 <br>- Formative Assessments</p>
 <p>Every Eliasian should experience these 3 phases of learning:</p>
