@@ -2,45 +2,61 @@
 title: English
 permalink: /departments/english/
 description: ""
+variant: tiptap
 ---
-<!--### English-->
-
-##### Vision 
-* Confident communicators who love the English language  
-
-##### Mission
-* To provide English Language learning experiences that allow students to communicate confidently and respectfully and grow their love for the language  
-
-##### Learning Outcomes
-
-*   Students who have a strong foundation in the English Language  
-    
-*   Students who can communicate clearly, confidently and graciously  
-    
-
-##### Approach/Framework
-
-* In order for Eliasians to learn and use language appropriately and meaningfully in a variety of contexts, we place great emphasis on the language learning experience.
-
-  
-**S**trategies for&nbsp;**T**eaching&nbsp;**E**nglish&nbsp;**L**anguage&nbsp;**L**earning And&nbsp;**R**eading (STELLAR) is our main approach for the learning of the English Language and we provide the following in the learning experiences we plan and deliver leveraging STELLAR:  
-
-*   a focus on the enjoyment of the language even as students learn the metalanguage and the grammatical items associated with it;  
-    
-*   exposing Eliasians to a wide variety of multimodal texts for reading, listening and viewing;  
-    
-*   development of critical thinking skills that encourage Eliasians to make connections between texts and the prior knowledge/experiences; and  
-    
-*   opportunities for Eliasians to communicate for different purposes to demonstrate their confident and purposeful use of the language.
-
-<figure><img src="/images/eng1.png" style="width:65%"><figcaption> Interviewing our special speakers over Zoom</figcaption></figure>
-
-Leveraging the STELLAR texts, every unit involves the students reading for enjoyment and understanding, sharing their views and ideas in relation to what they have read (speaking), listening to the views shared by others and writing to express their thoughts and creativity. The Reading – Writing&nbsp;Connection is emphasised as Eliasians draw on what they read, both the ideas from stories as well as the language used to communicate those ideas, to produce texts of their own.
-
-<figure><img src="/images/eng2.png" style="width:65%"><figcaption> Learning to write about our experiences in class and outdoors!</figcaption></figure>
-
-In alignment with our department vision and mission, we have put in place a variety of programmes to bring this vision and mission to fruition.
-
-<img src="/images/eng3.png" style="width:60%">
-
-<figure><img src="/images/eng4.png" style="width:65%"><figcaption>Making reading a part of our daily activities</figcaption></figure>
+<h5>Vision</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>Confident communicators who love the English language</p>
+</li>
+</ul>
+<h5>Mission</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>To provide English Language learning experiences that allow students to
+communicate confidently and respectfully and grow their love for the language</p>
+</li>
+</ul>
+<h5>Learning Outcomes</h5>
+<ul>
+<li>
+<p>Students who have a strong foundation in the English Language</p>
+</li>
+<li>
+<p>Students who can communicate clearly, confidently and graciously</p>
+</li>
+</ul>
+<h5>Approach/Framework</h5>
+<p>At the heart of our programme is the Strategies for English Language Learning
+and Reading (STELLAR) approach, which caters to the diverse needs of learners
+by building confidence in oral communication and strengthening literacy
+development. Through purposeful, enjoyable and authentic language learning
+experiences, students are provided with meaningful opportunities to explore
+ideas, think critically and collaborate effectively. They learn to speak
+and write confidently for different purposes, audiences and contexts, while
+making thoughtful connections between classroom texts, their prior knowledge
+and their lived experiences.</p>
+<p>Aligned with the English Language Syllabus 2020, our teaching approach
+emphasises multiliteracies, metacognition and inquiry through dialogue.
+Where appropriate, technology and real-world contexts are integrated to
+enrich learning and help students see the relevance of what they learn
+beyond the classroom.</p>
+<p>Through learning experiences in the English Language classroom, we aim
+to nurture our students to be:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Empathetic Communicators</strong> who possess the values, dispositions
+and skills to listen actively and engage respectfully with diverse perspectives;</p>
+</li>
+<li>
+<p><strong>Discerning Readers</strong> who are informed, reflective and self-directed
+in their use of information; and</p>
+</li>
+<li>
+<p><strong>Creative Inquirers</strong> who question with curiosity, explore
+ideas deeply and evaluate real-world issues from multiple perspectives.</p>
+</li>
+</ul>
+<p></p>
+<p></p>
+<p></p>
