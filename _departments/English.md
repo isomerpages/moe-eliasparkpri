@@ -58,5 +58,74 @@ ideas deeply and evaluate real-world issues from multiple perspectives.</p>
 </li>
 </ul>
 <p></p>
+<h5>Programmes</h5>
+<p>In alignment with our department vision and mission, the school has put
+in place a variety of programmes to bring this vision and mission to fruition:</p>
+<p><strong>a)&nbsp;&nbsp;&nbsp; Oral Communication Programme</strong>
+</p>
+<p>The English Department nurtures confident and competent communicators
+through daily lessons and structured class discussions. Specially designed <em>Talk Cards</em> support
+the Inquiry through Dialogue approach by scaffolding purposeful classroom
+talk – guiding students to ask questions, build on ideas, clarify thinking,
+and express views clearly and respectfully. Through regular use in pair,
+group, and class discussions, students build confidence in oral presentation
+while strengthening their communication and collaboration skills through
+active listening and meaningful interaction.</p>
+<p><strong>b)&nbsp;&nbsp;&nbsp; School Reading Programme</strong>
+</p>
+<p>The school cultivates in students a love for reading by building a pervasive
+reading culture in the school through library activities.</p>
+<p><strong>Bookflix Binge Fest</strong>
+</p>
+<p>Bookflix Binge Fest is a termly activity designed to encourage students
+to broaden their reading diet by exploring titles from targeted genres.
+The initiative introduces them to books they may not usually choose, prompting
+them to give such titles a try and discover new perspectives. A curated
+selection of works is shared with students, accompanied by engaging fun
+facts about the stories or authors to spark curiosity. To deepen the experience,
+students submit short summaries or reflections on what they enjoy about
+the books. These peer‑generated insights help to influence others, inspiring
+more students to pick up the recommended titles and develop a more varied
+and enriching reading journey.</p>
+<p><strong>Eco‑Tales Writers’ Circle</strong>
+</p>
+<p>Eco‑Tales Writers’ Circle encourages students to engage with a wide range
+of texts for enjoyment while developing an understanding of how semiotic
+modes are used in diverse contexts. The initiative provides opportunities
+for students to apply their critical thinking and reasoning skills by stepping
+into the role of author, making creative edits to curated titles. For example,
+they may suggest alternative endings through writing or illustration, thereby
+exercising both analytical and imaginative abilities. The activity is closely
+aligned with the school’s commitment to sustainable education, offering
+students the joy of learning in an authentic and meaningful setting.</p>
+<p><strong>c)&nbsp;&nbsp;&nbsp; Current Affairs Programme</strong>
+</p>
+<p>The school adopts <em>Little Red Dot</em> as a supplementary reading resource
+for all Primary 3 and 4 classes and <em>What’s Up</em> as a supplementary
+reading resource for all Primary 5 and 6 classes. Through the use of these
+resources, the school aims to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>cultivate students’ awareness of local and global issues by enabling them
+to synthesise information, make meaningful connections, and develop well-reasoned
+perspectives; and</p>
+</li>
+<li>
+<p>develop students into concerned and empathetic citizens who listen attentively
+to, and demonstrate respect for, diverse viewpoints on local and global
+issues.</p>
+</li>
+</ul>
+<p><strong>d)&nbsp;&nbsp;&nbsp; Literature Appreciation</strong>
+</p>
+<p>Our Primary 5 Literature Appreciation programme centers on the novel The
+Mudskipper, aiming to foster a genuine love for reading and an appreciation
+for English Literature. Students engage in deep text analysis through character
+studies, perspective-taking exercises, and role-play activities. These
+lessons are designed to sharpen critical reading and thinking skills as
+students compare character motivations and plot developments. Beyond literacy,
+the programme encourages Eliasians to reflect on the core values and leadership
+attributes portrayed in the story, helping them connect the themes of the
+book to their own personal growth.</p>
 <p></p>
 <p></p>
