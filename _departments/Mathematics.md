@@ -64,16 +64,16 @@ National
 <img style="width:60%" height="auto" width="100%" src="/images/math2.png">
 </div>
 <p>Interweaved into the 3 phases of learning is the Concrete-Pictorial-Abstract
-approach, the key pedagogy that teachers are using:&nbsp;The concrete-pictorial-abstract
-approach consists of 3 stages necessary for students to develop understanding&nbsp;of
-a concept. Reinforcement is achieved by going back and forth between these
-representations.</p>
+approach, the key pedagogy that teachers are using.</p>
+<p>The concrete-pictorial-abstract approach consists of 3 stages necessary
+for students to develop understanding&nbsp;of a concept. Reinforcement
+is achieved by going back and forth between these representations.</p>
 <p><em>Concrete representation</em>&nbsp;- a student is first introduced
 to an idea or a skill by acting it out with real objects or manipulatives
 to develop the foundation for conceptual understanding.</p>
 <p><em>Pictorial representation</em>&nbsp;- a student has sufficiently understood
 the hands-on experiences performed and can now relate them to representations,
-such as a diagram or picture of the problem</p>
+such as a diagram or picture of the problem.</p>
 <p><em>Abstract representation</em>&nbsp;- a student is now capable of representing
 problems by using mathematical notation.&nbsp;</p>
 <h5>Programmes</h5>
