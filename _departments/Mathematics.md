@@ -25,7 +25,7 @@ mathematical knowledge and developing their thinking skills.</p>
 life.</p>
 </li>
 <li>
-<p>SStudents who possess both critical and creative thinking.</p>
+<p>Students who possess both critical and creative thinking.</p>
 </li>
 </ul>
 <h5>Approach/Framework</h5>
@@ -90,24 +90,25 @@ their cognitive load to allow them to focus on problem-solving matters.</p>
 this programme. Through the training, they will acquire skills and techniques
 required to solve challenging problems and be exposed to the spirit of
 learning through discovery. They will gain a sense of accomplishment through
-participating in Mathematical Olympiad competitions such as the Singapore
-Mathematical Olympiad for Primary Schools (SMOPS) for Primary 6 and National
+participating in Mathematical Olympiad competitions such as the Asia-Pacific
+Mathematical Olympiad for Primary Schools (APMOPS) for Primary 6 and National
 Mathematical Olympiad of Singapore (NMOS) for Primary 5.</p>
 <p>•&nbsp;&nbsp;&nbsp;<strong>Fantastic Friday</strong>
-<br>Eliasians end the week by recalling the concepts taught in the week. This
-is done via an online Mathematics learning portal which also acts as an
-additional learning resource for your child. Mathematics teachers will
-dispatch assignments every Friday based on the integrated approach of interleaved
-and blocked practice so as to ensure the students’ proficiency level in
-the concepts do not decay over time.</p>
-<p>•&nbsp;&nbsp;<strong>Mathematics Thinking Log (Primary 1 to 5)</strong>
-<br>Thinking log serves as a platform for students to document what they have
-learnt throughout the lesson. It allows students to take responsible of
-their own learning, thus nurturing them to be self-directed learners.</p>
-<p>In alignment with our department vision and mission, we have put in place
-a variety of programmes to bring this vision and mission to fruition.</p>
-<p></p>
+<br>Eliasians will end the week by recalling the concepts taught in the week.
+This is done via an online Mathematics learning portal which also acts
+as an additional learning resource for the students. Mathematics teachers
+will dispatch assignments every Friday based on the integrated approach
+of interleaved and blocked practice to ensure that their students’ proficiency
+level in the concepts does not deteriorate over time.</p>
+<p>•&nbsp;&nbsp;<strong>Mathematics Unit Worksheets (Primary 1 to Primary 6)</strong>
+<br>A platform for students to communicate and reason processes and conceptual
+knowledge in written mathematical language. There are also non-routine
+word problems in the unit worksheets where students work collaboratively
+to co-construct the strategies with their teachers. This helps to promote
+metacognition in our students as they reflect on their strategies.&nbsp;</p>
+<p>In alignment with our department’s vision and mission, we have put in
+place a variety of programmes to bring this vision and mission to fruition.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mathematics Programmes" src="/images/Image.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Math Programmes" src="/images/Math_Dept_2026.png">
 </div>
 <p></p>
