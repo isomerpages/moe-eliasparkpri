@@ -38,8 +38,6 @@ variant: tiptap
 <p>Hari Raya School Celebrations (2019)</p>
 </li>
 </ul>
-<h4>Awards</h4>
-<p>Please refer to the Achievements tab on the Home page.</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRN_uQBzs_YtfQbc_kjSzk12m-z2UvHYuUTxQVSrcRej_7pkT0cBqEYdHiEwlnpTMGqN8fV8oJ5N8YJ/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
 </div>
