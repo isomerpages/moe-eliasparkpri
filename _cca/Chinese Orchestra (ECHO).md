@@ -53,10 +53,7 @@ and appreciation in orchestra members</p>
 <p>Pasir Ris West Lunar New Year Celebrations @ RC Pasir Ris Zone 12</p>
 </li>
 </ul>
-<h4>Awards</h4>
-<p>Please refer to the Achievements tab on the Home page.
-<br>
-</p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRtUwmmRSEto_gnDIftO-tFSLJrEy6q_FYPk04uyGSQqGKrv1YEBPmYIKNZcR6u2NIUfHnBetdUAwf-/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
