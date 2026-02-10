@@ -32,10 +32,7 @@ hours.</p>
 <p>Alternatively, please email the SLS Helpdesk at&nbsp;<a href="mailto:helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">helpdesk@sls.ufinity.com</a>.&nbsp;When
 emailing the SLS Helpdesk, please include your full name, name of school
 and form class.</p>
-<h4>Helpline Information for SLS and iMTL</h4>
+<h4>Helpline Information for SLS</h4>
 <p><strong>SLS</strong> 
 <br>Email address:&nbsp;&nbsp;<a href="mailto:helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">helpdesk@sls.ufinity.com</a> 
 <br>Tel:&nbsp;6702 6513</p>
-<p><strong>iMTL</strong> 
-<br>Email address:&nbsp;<a href="mailto:helpdesk@mail-imtl.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">helpdesk@mail-imtl.moe.edu.sg</a> 
-<br>Tel: 6848 8900 (Mon-Fri: 7 a.m. - 7 p.m., Sat: 7 a.m. - 2 p.m.)</p>

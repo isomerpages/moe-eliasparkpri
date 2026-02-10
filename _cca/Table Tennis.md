@@ -29,8 +29,6 @@ and team spirit.
 <br>&nbsp;</p>
 </li>
 </ul>
-<h4>Awards</h4>
-<p>Please refer to the Achievements tab on the Home page.</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTj0HLKSmIi6Pq66o-XE37uooPUkr2pLLBhg8aNPdxr8QR8gznbI-3V4Mje7vrfHI6TvIdqLHroo69w/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
 </div>
