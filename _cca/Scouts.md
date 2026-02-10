@@ -131,8 +131,7 @@ Join the Scouts today!</p>
 <p>National Events organised by HQ</p>
 </li>
 </ul>
-<h4>Awards</h4>
-<p>Please refer to the Achievements tab on the Home page.</p>
+<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/scouts2.png">
 </div>
