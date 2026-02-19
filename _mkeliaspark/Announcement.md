@@ -35,11 +35,5 @@ scan the QR code below to sign up for our 2026 MK Open House.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Open House QR Code 2026" src="/images/Open_House_QR_code.jpg">
 </div>
-<p>Full-day Kindergarten Care (KCare) services are also provided by MK@Elias
-Park from 7am to 7pm (Mondays to Fridays), including school holidays.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide_3_Photo.png">
-</div>
 <p></p>
 <p></p>

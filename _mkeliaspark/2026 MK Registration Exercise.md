@@ -1,5 +1,5 @@
 ---
-title: 2026 Registration Exercise
+title: 2026 MK Registration Exercise
 permalink: /2025-registration-exercise/
 variant: tiptap
 description: ""
