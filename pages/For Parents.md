@@ -304,7 +304,8 @@ more information.</p>
 <p>Waitlist Application</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please click here for more information.</p>
+<p>Please click <a href="/waitlist-application/" rel="noopener nofollow" target="_blank">here</a> for
+more information.</p>
 </td>
 </tr>
 </tbody>
