@@ -299,6 +299,15 @@ more information.</p>
 more information.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Waitlist Application</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please click <a href="/waitlist-application/" rel="noopener nofollow" target="_blank">here</a> for
+more information.</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

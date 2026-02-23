@@ -2,7 +2,7 @@ collections:
   for-parents:
     output: true
     order:
-      - Waitlist Application (NEW).md
+      - Waitlist Application.md
       - Assessments.md
       - Class Timetable.md
       - Home based Learning.md
