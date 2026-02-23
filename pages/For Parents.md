@@ -299,6 +299,14 @@ more information.</p>
 more information.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Waitlist Application</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please click here for more information.</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
