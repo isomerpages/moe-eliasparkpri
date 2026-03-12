@@ -2,11 +2,11 @@ collections:
   for-parents:
     output: true
     order:
-      - LOA Application.md
-      - Waitlist Application.md
       - Assessments.md
       - Class Timetable.md
       - Home based Learning.md
       - Forms.md
+      - LOA Application.md
       - Newsletter.md
       - School Vendors.md
+      - Waitlist Application.md
