@@ -241,7 +241,7 @@ download the forms.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For more information regarding Pupil Insurance, please refer to the attachment:
-<br><a href="/files/Claim_procedures.pdf" rel="noopener noreferrer nofollow" target="_blank">Insurance Claim</a>
+<br><a href="/files/insurance claim form (2026).pdf" rel="noopener nofollow" target="_blank">Insurance Claim (2026)</a>
 <br>To make a claim, click <a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
