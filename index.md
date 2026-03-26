@@ -36,5 +36,10 @@ sections:
           announcement: The Straits Times Article
           link_text: find out more...
           link_url: /mkeliaspark/media-release/
+        - title: P3 to P6 Mathematics Assessment Format
+          date: 26 March 2026
+          announcement: Parents please refer to the
+          link_text: Link here
+          link_url: https://staging.d3975mj8dcgb9n.amplifyapp.com/for-parents/newsletter/
       subtitle: Recent Announcements
 ---
