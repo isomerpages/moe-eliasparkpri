@@ -40,6 +40,6 @@ sections:
           date: 26 March 2026
           announcement: Parents please refer to the
           link_text: Link here
-          link_url: https://cms.isomer.gov.sg/files/P3_to_P6_Mathematics_Assessment_Format.pdf
+          link_url: https://staging.d3975mj8dcgb9n.amplifyapp.com/for-parents/newsletter/
       subtitle: Recent Announcements
 ---
