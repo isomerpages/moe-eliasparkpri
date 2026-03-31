@@ -204,26 +204,13 @@ find out more about our school's Parents Support Group (PSG).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Prelims &amp; PSLE Matters</p>
+<p>PSLE Matters</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For PSLE matters such as the 2025 PSLE Examination timetable, paper formats,
 approved calculator/dictionary lists, please click <a href="https://www.seab.gov.sg/psle/" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>
-<br>For the new PSLE Scoring, please click <a href="https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-<br>
-<br>2026 PSLE Examination Timetable:
-<br>To be updated
-<br>
-</p>
-<p>2026 Primary 6 Prelim schedule:
-<br>To be updated
-<br>
-<br>2026 Primary 6 Prelim exam scope:
-<br>To be updated
-<br>
-<br>2026 PSLE Results Release:
-<br>To be updated</p>
+<br>For the new PSLE Scoring, please click <a href="https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 <tr>
