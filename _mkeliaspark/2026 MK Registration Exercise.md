@@ -19,6 +19,6 @@ via the FormSG or QR code for MK@EP waitlist form shown below.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MK Wait List QR Code" src="/images/MK_Wait_List_QR_Code.png">
+<img style="width: 50%;" height="auto" width="100%" alt="MK Wait List QR Code" src="/images/MK_Wait_List_QR_Code.png">
 </div>
 <p></p>
