@@ -12,9 +12,9 @@ description: ""
 from <strong>9am on Monday, 23 March 2026</strong> to <strong>4.30pm on Tuesday, 31 March 2026</strong>.</p>
 <p>Parents will be informed of the registration outcome by Monday, 1 June
 2026.</p>
-<p>For 2026 K1 admission and those who missed the 2027 K1 MK registration
-exercise and wish to register for MK@EP, please submit your application
-via the FormSG or QR code for MK@EP waitlist form shown below.</p>
+<p>If you have missed the 2026 K1 MK registration exercise and wish to register
+for MK@EP, please submit your application via the FormSG or QR code for
+MK@EP waitlist form shown below.</p>
 <p>MK@Elias Park Waitlist Form :&nbsp;<a href="https://go.gov.sg/eliaspark-mkwaitlist2026" rel="noopener nofollow" target="_blank">https://go.gov.sg/eliaspark-mkwaitlist2026</a>
 </p>
 <p></p>
