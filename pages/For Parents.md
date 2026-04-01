@@ -210,7 +210,7 @@ find out more about our school's Parents Support Group (PSG).</p>
 <p>For PSLE matters such as the 2025 PSLE Examination timetable, paper formats,
 approved calculator/dictionary lists, please click <a href="https://www.seab.gov.sg/psle/" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>
-<br>For the new PSLE Scoring, please click <a href="https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<br>For the new PSLE Scoring, please click <a href="https://www.moe.gov.sg/psle-fsbb/psle/main" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 <tr>
