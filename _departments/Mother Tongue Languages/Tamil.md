@@ -102,7 +102,12 @@ P3- Storytelling, P4-Twisted Tales Competition, P5<strong>-</strong> Oratorical
 Competition, Kolam Drawing, and AI Workshop, P6<strong>- </strong>Competition.</p>
 <p>The Mother Tongue Language Fortnight aims to make learning Tamil enjoyable
 and meaningful. Through these carefully curated activities, students build
-confidence while using the language.</p>
+confidence while using the language.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="MTL Fortnight 2026" src="/images/MTL_Fortnight_2026.png">
+</div>
 </li>
 </ul>
 <ul>
@@ -162,4 +167,5 @@ essay-writing competition respectively. Students from P5 and P6 will be
 taking part in the oratorical competition.</p>
 </li>
 </ul>
+<p></p>
 <p></p>
