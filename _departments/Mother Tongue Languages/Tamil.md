@@ -99,8 +99,8 @@ cultural practices while learning through play, collaboration, and creativity.
 To cater to different learning levels, a variety of activities are organised
 for each level: P1- Singing Competition P2<strong>-</strong> Character Portrayal,
 P3- Storytelling, P4-Twisted Tales Competition, P5<strong>-</strong> Oratorical
-Competition, Kolam Drawing, and AI Workshop, P6<strong>- </strong>Competition.</p>
-<p>The Mother Tongue Language Fortnight aims to make learning Tamil enjoyable
+Competition, Kolam Drawing, and AI Workshop, P6<strong>- </strong>Competition.
+<br>The Mother Tongue Language Fortnight aims to make learning Tamil enjoyable
 and meaningful. Through these carefully curated activities, students build
 confidence while using the language.
 <br>
