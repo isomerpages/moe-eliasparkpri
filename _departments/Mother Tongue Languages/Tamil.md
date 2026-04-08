@@ -85,14 +85,29 @@ to record the books that they have read.&nbsp;</p>
 </li>
 <li>
 <p><strong>Mother Tongue Language Fortnight </strong>
-<br>The Tamil Department organises various activities in conjunction with
-the Mother Tongue Language Fortnight. Singing Competition for P1, Character
-Portrayal Competition for P2, Story-telling competition for P3, Twisted
-Tales Competition for P4 and Oratorical Competition&nbsp;for P5 and Advertising
-Competition for P6 are some of the activities to be conducted during the
-MTL Fortnight. Students will also play some traditional games such as Parama
-Patham,&nbsp;Pallankuzhi&nbsp;and Aadu Puli Aattam. They will also play
-the improvised Taboo game in Tamil.</p>
+<br>Mother Tongue Language Fortnight for Tamil is an annual highlight in our
+school calendar, typically held over two weeks in early Term 2. This meaningful
+programme is designed to immerse students in the Tamil language and culture
+through engaging, hands-on experiences beyond the classroom. Through a
+wide range of interactive activities, students develop a deeper appreciation
+for the Tamil language while exploring its rich heritage and traditions
+in a fun and meaningful way.
+<br>As part of the Fortnight, students take part in traditional games and
+cultural activities such as <em>Pallanguzhi</em>, <em>Aadupuliyattam</em>, <em>Kollattam</em>,
+and <em>Seven Stones</em>. These experiences allow students to connect with
+cultural practices while learning through play, collaboration, and creativity.
+To cater to different learning levels, a variety of activities are organised
+for each level: P1- Singing Competition P2<strong>-</strong> Character Portrayal,
+P3- Storytelling, P4-Twisted Tales Competition, P5<strong>-</strong> Oratorical
+Competition, Kolam Drawing, and AI Workshop, P6<strong>- </strong>Competition.
+<br>The Mother Tongue Language Fortnight aims to make learning Tamil enjoyable
+and meaningful. Through these carefully curated activities, students build
+confidence while using the language.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="MTL Fortnight 2026" src="/images/MTL_Fortnight_2026.png">
+</div>
 </li>
 </ul>
 <ul>
@@ -152,4 +167,5 @@ essay-writing competition respectively. Students from P5 and P6 will be
 taking part in the oratorical competition.</p>
 </li>
 </ul>
+<p></p>
 <p></p>
