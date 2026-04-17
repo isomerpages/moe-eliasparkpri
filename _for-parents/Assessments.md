@@ -16,26 +16,12 @@ variant: tiptap
 <p><a href="/files/P3_P6_Assessment_Format_for_EL_EYE_and_Prelim.pdf" rel="noopener nofollow" target="_blank">P3 to P6 English Language Assessment Formats</a>
 </p>
 <h5>Mathematics</h5>
-<p><a href="/files/P3___P6_Mathematics_Assessment_Format_Updated.pdf" rel="noopener nofollow" target="_blank">P3 - P6 Mathematics Assessment Format</a>
-</p>
+<p></p>
 <h5>Science</h5>
-<p>To be updated</p>
+<p></p>
 <h5>Chinese</h5>
-<p><a href="/files/a7.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 - P6 Chinese Language Assessment Format (EYE).pdf</a>
-</p>
+<p></p>
 <h5>Malay</h5>
-<p><a href="/files/a8.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Malay Language Assessment Format.pdf</a> 
-<br><a href="/files/a9.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Malay Language Assessment Format.pdf</a> 
-<br><a href="/files/a10.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Malay Language Assessment Format.pdf</a> 
-<br><a href="/files/a11.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Malay Language Assessment Format.pdf</a>
-</p>
+<p></p>
 <h5>Tamil</h5>
-<p><a href="/files/a12.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Tamil Language Assessment Format.pdf</a> 
-<a href="/files/a13.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Tamil Language Assessment Format.pdf</a>
-<br><a href="/files/a14.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Tamil Language Assessment Format (Standard Tamil).pdf</a> 
-<br><a href="/files/a15.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Tamil Language Assessment Format (Foundation).pdf</a>&nbsp;
-<br><a href="/files/a16.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Tamil Language Assessment Format (Higher Tamil).pdf</a> &nbsp;
-<br><a href="/files/a17.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Tamil Language Assessment Format (Standard Tamil).pdf</a> 
-<br><a href="/files/a18.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Tamil Language Assessment Format (Foundation).pdf</a> 
-<a href="/files/a19.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Tamil Language Assessment Format (Higher Tamil).pdf</a>
-</p>
+<p></p>
