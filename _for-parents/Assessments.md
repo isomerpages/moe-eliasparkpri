@@ -13,11 +13,7 @@ variant: tiptap
 <p>To be updated</p>
 <h4>Paper Formats</h4>
 <h5>English</h5>
-<p><a href="/files/2026_P3_English_EOY_Assessment_Format.pdf" rel="noopener nofollow" target="_blank">2026 P3 English EOY Assessment Format</a>
-<br><a href="/files/2026_P4_English_EOY_Assessment_Format.pdf" rel="noopener nofollow" target="_blank">2026 P4 English EOY Assessment Format</a>
-<br><a href="/files/2026_P5_Standard_English_EOY_Assessment_Format.pdf" rel="noopener nofollow" target="_blank">2026 P5 Standard English EOY Assessment Format</a>
-<br><a href="/files/2026_P6_Foundation_English_Prelim_Assessment_Format.pdf" rel="noopener nofollow" target="_blank">2026 P6 Foundation English Prelim Assessment Format</a>
-<br><a href="/files/2026_P6_Standard_English_Prelim_Assessment_Format.pdf" rel="noopener nofollow" target="_blank">2026 P6 Standard English Prelim Assessment Format</a>
+<p><a href="/files/P3_P6_Assessment_Format_for_EL_EYE_and_Prelim.pdf" rel="noopener nofollow" target="_blank">P3 to P6 English Language Assessment Formats</a>
 </p>
 <h5>Mathematics</h5>
 <p><a href="/files/P3___P6_Mathematics_Assessment_Format_Updated.pdf" rel="noopener nofollow" target="_blank">P3 - P6 Mathematics Assessment Format</a>
