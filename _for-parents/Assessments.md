@@ -13,33 +13,20 @@ variant: tiptap
 <p>To be updated</p>
 <h4>Paper Formats</h4>
 <h5>English</h5>
-<p><a href="/files/2026_P3_English_EOY_Assessment_Format.pdf" rel="noopener nofollow" target="_blank">2026 P3 English EOY Assessment Format</a>
-<br><a href="/files/2026_P4_English_EOY_Assessment_Format.pdf" rel="noopener nofollow" target="_blank">2026 P4 English EOY Assessment Format</a>
-<br><a href="/files/2026_P5_Standard_English_EOY_Assessment_Format.pdf" rel="noopener nofollow" target="_blank">2026 P5 Standard English EOY Assessment Format</a>
-<br><a href="/files/2026_P6_Foundation_English_Prelim_Assessment_Format.pdf" rel="noopener nofollow" target="_blank">2026 P6 Foundation English Prelim Assessment Format</a>
-<br><a href="/files/2026_P6_Standard_English_Prelim_Assessment_Format.pdf" rel="noopener nofollow" target="_blank">2026 P6 Standard English Prelim Assessment Format</a>
+<p><a href="/files/P3_P6_Assessment_Format_for_EL_EYE_and_Prelim.pdf" rel="noopener nofollow" target="_blank">P3 to P6 English Language Assessment Formats</a>
 </p>
 <h5>Mathematics</h5>
-<p><a href="/files/P3___P6_Mathematics_Assessment_Format_Updated.pdf" rel="noopener nofollow" target="_blank">P3 - P6 Mathematics Assessment Format</a>
+<p><a href="/files/P3___P6_Assessment_Format_for_MA_EYE_and_Prelim.pdf" rel="noopener nofollow" target="_blank">P3 to P6 Mathematics Assessment Formats</a>
 </p>
 <h5>Science</h5>
-<p>To be updated</p>
+<p><a href="/files/P3_P6_Assessment_Format_for_SC_EYE_and_Prelim.pdf" rel="noopener nofollow" target="_blank">P3 to P6 Science Assessment Formats</a>
+</p>
 <h5>Chinese</h5>
-<p><a href="/files/a7.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 - P6 Chinese Language Assessment Format (EYE).pdf</a>
+<p><a href="/files/P3_P6_Assessment_Format_for_CL_EYE_and_Prelim.pdf" rel="noopener nofollow" target="_blank">P3 to P6 Chinese Language Assessment Formats</a>
 </p>
 <h5>Malay</h5>
-<p><a href="/files/a8.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Malay Language Assessment Format.pdf</a> 
-<br><a href="/files/a9.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Malay Language Assessment Format.pdf</a> 
-<br><a href="/files/a10.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Malay Language Assessment Format.pdf</a> 
-<br><a href="/files/a11.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Malay Language Assessment Format.pdf</a>
+<p><a href="/files/P3_P6_Assessment_Format_for_ML_EYE_and_Prelim.pdf" rel="noopener nofollow" target="_blank">P3 to P6 Malay Language Assessment Formats</a>
 </p>
 <h5>Tamil</h5>
-<p><a href="/files/a12.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Tamil Language Assessment Format.pdf</a> 
-<a href="/files/a13.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Tamil Language Assessment Format.pdf</a>
-<br><a href="/files/a14.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Tamil Language Assessment Format (Standard Tamil).pdf</a> 
-<br><a href="/files/a15.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Tamil Language Assessment Format (Foundation).pdf</a>&nbsp;
-<br><a href="/files/a16.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Tamil Language Assessment Format (Higher Tamil).pdf</a> &nbsp;
-<br><a href="/files/a17.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Tamil Language Assessment Format (Standard Tamil).pdf</a> 
-<br><a href="/files/a18.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Tamil Language Assessment Format (Foundation).pdf</a> 
-<a href="/files/a19.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Tamil Language Assessment Format (Higher Tamil).pdf</a>
+<p><a href="/files/P3_P6_Assessment_Format_for_TL_EYE_and_Prelim.pdf" rel="noopener nofollow" target="_blank">P3 to P6 Tamil Language Assessment Formats</a>
 </p>
