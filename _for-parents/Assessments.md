@@ -16,9 +16,11 @@ variant: tiptap
 <p><a href="/files/P3_P6_Assessment_Format_for_EL_EYE_and_Prelim.pdf" rel="noopener nofollow" target="_blank">P3 to P6 English Language Assessment Formats</a>
 </p>
 <h5>Mathematics</h5>
-<p></p>
+<p><a href="/files/P3___P6_Assessment_Format_for_MA_EYE_and_Prelim.pdf" rel="noopener nofollow" target="_blank">P3 to P6 Mathematics Assessment Formats</a>
+</p>
 <h5>Science</h5>
-<p></p>
+<p><a href="/files/P3_P6_Assessment_Format_for_SC_EYE_and_Prelim.pdf" rel="noopener nofollow" target="_blank">P3 to P6 Science Assessment Formats</a>
+</p>
 <h5>Chinese</h5>
 <p></p>
 <h5>Malay</h5>
