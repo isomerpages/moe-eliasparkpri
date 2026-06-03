@@ -255,7 +255,8 @@ download the forms.</p>
 <p>School Publications</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/The_Eliasian_2026__Student_Edition_Final_.pdf" rel="noopener nofollow" target="_blank">The Eliasian 2026 (Student Edition)</a>
+</p>
 </td>
 </tr>
 <tr>
