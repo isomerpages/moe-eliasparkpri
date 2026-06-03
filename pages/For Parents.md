@@ -255,8 +255,7 @@ download the forms.</p>
 <p>School Publications</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1TjfvAWa6xFTfm8HHCmloM7E8EpKzfMhU/view?usp=drive_link" rel="noopener nofollow" target="_blank">The Eliasian 2025 Student Edition</a>
-<br><a href="https://drive.google.com/file/d/1fqPmxKyMzqewkUwRYiRLB3KUBeOVnNpd/view?usp=drive_link" rel="noopener nofollow" target="_blank">The Eliasian 2025 (Year-end Issue)</a>
+<p><a href="/files/The_Eliasian_2026__Student_Edition_Final_.pdf" rel="noopener nofollow" target="_blank">The Eliasian 2026 (Student Edition)</a>
 </p>
 </td>
 </tr>
