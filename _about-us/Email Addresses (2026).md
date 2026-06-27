@@ -439,9 +439,8 @@ variant: tiptap
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_koon_bin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Tan Koon Bin</u></a>
-</p>
 <p><a href="mailto:tan_chiu_lin_rannessa@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Rannessa Tan</a>
+<br><a href="mailto:tan_koon_bin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Tan Koon Bin</u></a>
 </p>
 </td>
 </tr>
