@@ -603,9 +603,9 @@ variant: tiptap
 <p>6 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fu_ye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Fu Ye</u></a>
-</p>
 <p><a href="mailto:wee_pat_ghee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Wee Pat Ghee</u></a>
+</p>
+<p><a href="mailto:fu_ye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Fu Ye</u></a>
 </p>
 </td>
 </tr>
