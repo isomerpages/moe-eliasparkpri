@@ -419,8 +419,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liu_zhiming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Liu Zhiming</a>
-</p>
-<p><a href="mailto: lee_jie_yin_mitchelle@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Mitchelle Lee</a>
+<br><a href="mailto:joy_ong_siok_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Joy Ong</u></a>
 </p>
 </td>
 </tr>
@@ -521,8 +520,7 @@ variant: tiptap
 <p>4 Service</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:joy_ong_siok_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Joy Ong</u></a>
-</p>
+<p></p>
 <p><a href="mailto:sharifah_mariam_syed_m@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Sharifah Mariam Bte Syed M S A</a>
 </p>
 <p><a href="mailto:alsree@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Alsree</a>
