@@ -543,9 +543,8 @@ variant: tiptap
 <p>5 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_peck_hoon_anastacia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Anastacia Foo</u></a>
-</p>
 <p><a href="mailto:li_simin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sharon Koh</a>
+<br><a href="mailto:yeo_peck_hoon_anastacia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Anastacia Foo</u></a>
 </p>
 </td>
 </tr>
