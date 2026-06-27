@@ -463,7 +463,7 @@ variant: tiptap
 <p><a href="mailto:lokman_hakim_b_yunos@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Lokman Hakim Bin Yunos</u></a>
 </p>
 <p><a href="mailto:foo_chun_kiat_bryan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Bryan Foo</a>
-</p>
+<br>Mdm Irene Sng</p>
 </td>
 </tr>
 <tr>
