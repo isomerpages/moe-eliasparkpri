@@ -383,9 +383,9 @@ variant: tiptap
 <p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_li_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Bernice Tan</u></a>
-</p>
 <p><a href="mailto:yeo_shu_yuan@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Yeo Shu Yuan</a>
+</p>
+<p><a href="mailto:tan_li_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Bernice Tan</u></a>
 </p>
 </td>
 </tr>
