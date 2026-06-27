@@ -311,8 +311,6 @@ variant: tiptap
 </p>
 <p><a href="mailto:khong_xuan_qi_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Joyce Khong</u></a>
 </p>
-<p><a href="mailto:michelle_lim_qian_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Michelle Lim</a>
-</p>
 </td>
 </tr>
 <tr>
