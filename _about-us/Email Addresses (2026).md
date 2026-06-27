@@ -352,9 +352,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:foo_shi_rui@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Foo Shi Rui</a>
-</p>
-<p><a href="mailto:tee_ai_na_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tee Ai Na</a>
-</p>
+<br>Mrs Morgan
+<br>Ms Nadia</p>
 </td>
 </tr>
 <tr>
