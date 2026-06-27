@@ -409,8 +409,6 @@ variant: tiptap
 </p>
 <p><a href="mailto:lee_jian_jie_dion@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Dion Lee</u></a>
 </p>
-<p><a href="mailto:que_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Que Yi</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -524,7 +522,6 @@ variant: tiptap
 </p>
 <p><a href="mailto:sharifah_mariam_syed_m@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Sharifah Mariam Bte Syed M S A</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -565,7 +562,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hsieh_josie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Josie Teo</a>
 </p>
-<p><a href="mailto:loh_ooi_wan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Loh Ooi Wan</a>
+<p><a href="mailto:li_huan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Li Huan</a>
+<br><a href="mailto:que_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Que Yi</a>
 </p>
 </td>
 </tr>
