@@ -331,7 +331,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:natascha_gabrielle_nonis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Natascha Rodrigues</a>
 </p>
-<p><a href="mailto:nur_azilla_nazli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nur Azilla Binte Nazli</u></a>
+<p><a href="mailto:kanan_perumal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Kanan S/O Perumal</u></a>
 </p>
 </td>
 </tr>
@@ -516,8 +516,6 @@ variant: tiptap
 <p><a href="mailto:afiqah_liyana_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Afiqah Liyana Bte Rahim</u></a>
 </p>
 <p><a href="mailto:wu_xun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Wu Xun</u></a>
-</p>
-<p><a href="mailto:kanan_perumal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Kanan S/O Perumal</u></a>
 </p>
 </td>
 </tr>
