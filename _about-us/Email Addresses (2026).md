@@ -361,11 +361,9 @@ variant: tiptap
 <p>2 Endeavour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:habibah_husein_shah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Habibah Bte Husein Shah</a>
+<p><a href="mailto:ratnah_rawi@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Mdm Ratnah Binte Rawi</u></a>
 </p>
 <p><a href="mailto:wee_siew_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Sera Wee</u></a>
-</p>
-<p><a href="mailto:ratnah_rawi@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Mdm Ratnah Binte Rawi</u></a>
 </p>
 </td>
 </tr>
