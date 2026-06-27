@@ -428,8 +428,6 @@ variant: tiptap
 <p>3 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:xi_donglei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Xi Donglei</u></a>
-</p>
 <p><a href="mailto:muhammad_fahmi_foatt@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Fahmi Bin Fo'Att</a>
 </p>
 <p><a href="ong_hui_qi_odelia@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Odelia Ong</a>
