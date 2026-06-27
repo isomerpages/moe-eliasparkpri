@@ -180,15 +180,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Middle Primary)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:loh_ooi_wan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Loh Ooi Wan</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Year Head (Upper Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
