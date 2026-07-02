@@ -497,7 +497,8 @@ variant: tiptap
 </p>
 <p><a href="mailto:kwee_wan_juan_esther@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Esther Kwee</u></a>
 </p>
-<p>Mdm Aisah Osman</p>
+<p><a href="mailto:Aisah_Mohd_Osman_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Aisah</a>
+</p>
 </td>
 </tr>
 <tr>
