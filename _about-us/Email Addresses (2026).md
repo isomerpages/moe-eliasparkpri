@@ -460,7 +460,8 @@ variant: tiptap
 </p>
 <p><a href="mailto:foo_chun_kiat_bryan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Bryan Foo</a>
 </p>
-<p>Mdm Irene Sng</p>
+<p><a href="mailto:Irene_Sng_Wei_Wei_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Irene Sng</a>
+</p>
 </td>
 </tr>
 <tr>
