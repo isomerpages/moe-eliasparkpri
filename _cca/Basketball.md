@@ -7,7 +7,8 @@ description: ""
 <h3>Basketball</h3>
 <h4>Teachers-in-charge</h4>
 <p><a href="mailto: tan_li_xian@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Bernice Tan</a>
-<br>Mdm Afiqah</p>
+<br>Mdm Afiqah
+<br>Ms Falisha</p>
 <p><strong>Schedule</strong>
 </p>
 <ul data-tight="true" class="tight">
