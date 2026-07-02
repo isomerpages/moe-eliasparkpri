@@ -484,7 +484,7 @@ variant: tiptap
 </p>
 <p><a href="mailto:teo_kwee_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Junice Tan</a>
 </p>
-<p><a href="poonguzhali_narayanasamy_b@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Poonguzhali Narayanasamy</a>
+<p><a href="mailto:poonguzhali_narayanasamy_b@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Poonguzhali Narayanasamy</a>
 </p>
 </td>
 </tr>
