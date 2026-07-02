@@ -11,7 +11,8 @@ variant: tiptap
 <br>Mdm Sri Noriehan
 <br>Mdm Sarina Bte Salleh
 <br>Ms Gil Tan
-<br>Ms Rannessa Tan</p>
+<br>Ms Rannessa Tan
+<br>Ms Shobana</p>
 <h4>Schedule</h4>
 <ul data-tight="true" class="tight">
 <li>

@@ -6,9 +6,9 @@ variant: tiptap
 ---
 <h3>Art and Crafts</h3>
 <h4>Teachers-in-charge</h4>
-<p><a href="mailto:nur_azilla_nazli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nur Azilla Binte Nazli</u></a>
-<br>Mdm Ratnah Binte Rawi
-<br>Mdm Yeo Shu Yuan</p>
+<p><a href="mailto:RATNAH_RAWI@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mdm Ratnah Binte Rawi</a>
+<br>Ms Yeo Shu Yuan
+<br>Mr Charles Wong</p>
 <h5>Schedule</h5>
 <ul data-tight="true" class="tight">
 <li>

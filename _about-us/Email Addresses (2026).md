@@ -344,8 +344,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:foo_shi_rui@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Foo Shi Rui</a>
 </p>
-<p>Mrs Morgan</p>
-<p>Ms Nadia</p>
+<p><a href="mailto:Devadas_Thavamani@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Morgan</a>
+</p>
+<p><a href="mailto:NADIA_FALISHA_MAHADI@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Ms Falisha</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -412,7 +414,8 @@ variant: tiptap
 </p>
 <p><a href="mailto:joy_ong_siok_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Joy Ong</u></a>
 </p>
-<p>Mdm Rajesh</p>
+<p><a href="mailto:RAJESH_RAJA_SHOBANA@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Ms Shobana</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -457,7 +460,8 @@ variant: tiptap
 </p>
 <p><a href="mailto:foo_chun_kiat_bryan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Bryan Foo</a>
 </p>
-<p>Mdm Irene Sng</p>
+<p><a href="mailto:Irene_Sng_Wei_Wei_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Irene Sng</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -480,7 +484,7 @@ variant: tiptap
 </p>
 <p><a href="mailto:teo_kwee_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Junice Tan</a>
 </p>
-<p><a href="poonguzhali_narayanasamy_b@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Poonguzhali</a>
+<p><a href="mailto:poonguzhali_narayanasamy_b@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Poonguzhali Narayanasamy</a>
 </p>
 </td>
 </tr>
@@ -493,7 +497,8 @@ variant: tiptap
 </p>
 <p><a href="mailto:kwee_wan_juan_esther@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Esther Kwee</u></a>
 </p>
-<p>Mdm Aisah Osman</p>
+<p><a href="mailto:Aisah_Mohd_Osman_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Aisah</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -505,7 +510,8 @@ variant: tiptap
 </p>
 <p><a href="mailto:wu_xun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Wu Xun</u></a>
 </p>
-<p>Mr Eugene</p>
+<p><a href="mailto:Low_Teow_Hong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Eugene Low</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -572,7 +578,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chin_poh_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Chin Poh Lin</u></a>
 </p>
-<p>Mdm Atiqah</p>
+<p><a href="mailto:atiqah_ahmad@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Atiqah</a>
+</p>
 <p><a href="mailto:nurul_siddiqah_allawudin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nurul Siddiqah</a>
 </p>
 </td>

@@ -7,7 +7,7 @@ description: ""
 <h3><strong>Swift Striders</strong></h3>
 <h4>Teacher(s)-in-charge</h4>
 <p><a href="mailto: fathurrahman_abdul_wahed@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Fathurrahman</a>
-</p>
+<br>Mdm Siti Nur Aisyah</p>
 <p><strong>Schedule</strong>
 </p>
 <p>Please refer to the schedule sent by the CCA teacher</p>
