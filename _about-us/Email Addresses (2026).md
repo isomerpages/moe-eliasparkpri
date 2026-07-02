@@ -510,7 +510,8 @@ variant: tiptap
 </p>
 <p><a href="mailto:wu_xun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Wu Xun</u></a>
 </p>
-<p>Mr Eugene</p>
+<p><a href="mailto:Low_Teow_Hong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Eugene Low</a>
+</p>
 </td>
 </tr>
 <tr>
