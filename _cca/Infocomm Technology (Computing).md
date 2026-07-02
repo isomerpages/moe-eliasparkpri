@@ -7,7 +7,8 @@ variant: tiptap
 <h3>Infocomm Technology (Computing)</h3>
 <h4>Teachers-in-charge</h4>
 <p><a href="mailto:han_yi_ling_cheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cheryl Han</a>
-<br>Mdm Nurni Bte Isnain</p>
+<br>Mdm Nurni Bte Isnain
+<br>Mdm Siddiqah</p>
 <h4>Schedule</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -37,6 +38,6 @@ thinking through solving real-life problems.</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFstVlD4R3AaxumlrnSEgXB4z5Qhp8ZtkF-mhZQNOIBz3ALiNbviGsk84j78RQ1gnJ-aBqFQK3oLl-/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFstVlD4R3AaxumlrnSEgXB4z5Qhp8ZtkF-mhZQNOIBz3ALiNbviGsk84j78RQ1gnJ-aBqFQK3oLl-/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
