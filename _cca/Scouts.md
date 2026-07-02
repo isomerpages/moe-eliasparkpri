@@ -8,9 +8,8 @@ variant: tiptap
 <h4>Teachers-in-charge</h4>
 <p><a href="mailto:carlin_mulyati@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Carlin Tee</a> 
 <br>Mdm Joy Ong
-<br>Mdm Siddiqah
-<br>Mdm Michelle Lim
-<br>
+<br>Ms Odelia Ong
+<br>Ms Poonguzhali Narayanasamy
 <br>
 <br>
 </p>
