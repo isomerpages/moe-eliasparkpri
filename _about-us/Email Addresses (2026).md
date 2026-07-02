@@ -578,7 +578,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chin_poh_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Chin Poh Lin</u></a>
 </p>
-<p>Mdm Atiqah</p>
+<p><a href="mailto:atiqah_ahmad@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Atiqah</a>
+</p>
 <p><a href="mailto:nurul_siddiqah_allawudin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nurul Siddiqah</a>
 </p>
 </td>
