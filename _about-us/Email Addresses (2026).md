@@ -344,7 +344,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:foo_shi_rui@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Foo Shi Rui</a>
 </p>
-<p>Mrs Morgan</p>
+<p><a href="mailto:Devadas_Thavamani@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Morgan</a>
+</p>
 <p>Ms Nadia</p>
 </td>
 </tr>
