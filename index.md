@@ -21,6 +21,16 @@ sections:
   - announcements:
       id: announcements
       announcement_items:
+        - title: Staff Admin Portal
+          date: 15 July 2026
+          announcement: For Staff of EPPS access only
+          link_text: Staff Access Only .....
+          link_url: https://sites.google.com/moe.edu.sg/epps-staffportal/home
+        - title: P3 to P6 Mathematics Assessment Format
+          date: 26 March 2026
+          announcement: Parents please refer to the
+          link_text: Link here
+          link_url: /for-parents/assessments/
         - title: Canteen Stall Vacancy
           date: 28 October 2025
           announcement: Stalls Available
@@ -36,10 +46,5 @@ sections:
           announcement: The Straits Times Article
           link_text: find out more...
           link_url: /mkeliaspark/media-release/
-        - title: P3 to P6 Mathematics Assessment Format
-          date: 26 March 2026
-          announcement: Parents please refer to the
-          link_text: Link here
-          link_url: /for-parents/assessments/
       subtitle: Recent Announcements
 ---
