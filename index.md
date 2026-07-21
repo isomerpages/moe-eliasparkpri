@@ -19,7 +19,7 @@ sections:
           description: SLS, Student ICON & etc
           url: /for-student
         - title: Info for Staff
-          description: Key Highlight description
+          description: Staff Admin Portal
           url: https://sites.google.com/moe.edu.sg/epps-staffportal/home
   - announcements:
       id: announcements
