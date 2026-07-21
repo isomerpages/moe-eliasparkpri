@@ -18,14 +18,12 @@ sections:
         - title: Info for student...
           description: SLS, Student ICON & etc
           url: /for-student
+        - title: Info for Staff...
+          description: Staff Admin Portal
+          url: https://sites.google.com/moe.edu.sg/epps-staffportal/home
   - announcements:
       id: announcements
       announcement_items:
-        - title: Staff Admin Portal
-          date: 15 July 2026
-          announcement: For Staff of EPPS access only
-          link_text: Staff Access Only .....
-          link_url: https://sites.google.com/moe.edu.sg/epps-staffportal/home
         - title: P3 to P6 Mathematics Assessment Format
           date: 26 March 2026
           announcement: Parents please refer to the
