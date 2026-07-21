@@ -18,6 +18,9 @@ sections:
         - title: Info for student...
           description: SLS, Student ICON & etc
           url: /for-student
+        - title: Info for Staff
+          description: Key Highlight description
+          url: https://sites.google.com/moe.edu.sg/epps-staffportal/home
   - announcements:
       id: announcements
       announcement_items:
