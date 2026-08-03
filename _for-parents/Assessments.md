@@ -22,7 +22,7 @@ variant: tiptap
 <p><a href="/files/P3_P6_Assessment_Format_for_SC_EYE_and_Prelim.pdf" rel="noopener nofollow" target="_blank">P3 to P6 Science Assessment Formats</a>
 </p>
 <h5>Chinese</h5>
-<p><a href="/files/P3_P6_Assessment_Format_for_CL_EYE_and_Prelim.pdf" rel="noopener nofollow" target="_blank">P3 to P6 Chinese Language Assessment Formats</a>
+<p><a href="/files/P3_P6_Assessment_Format_for_CL_EYE_and_Prelim_.pdf" rel="noopener nofollow" target="_blank">P3-P6 Assessment Format for CL EYE and Prelim_</a>
 </p>
 <h5>Malay</h5>
 <p><a href="/files/P3_P6_Assessment_Format_for_ML_EYE_and_Prelim_.pdf" rel="noopener nofollow" target="_blank">P3 to P6 Malay Language Assessment Formats_</a>
